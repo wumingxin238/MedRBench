@@ -1,0 +1,126 @@
+{
+    "raw_case": "\nClinical Diagnosis and Treatment of Scurvy in a Young Adult With Poor Dietary Habits: A Case Report and Literature Review\nScurvy, once prevalent among sailors, is now rare due to improved access to fresh fruits and vegetables yet persists in individuals with poor dietary habits. We report a case of a 35-year-old male presenting with month-long, nonpainful, nonitchy lower extremity lesions. A dermatological examination revealed follicular hyperkeratosis, perifollicular bleeding, corkscrew hairs, bleeding gums, and hemorrhagic purpura. Despite unavailable plasma vitamin C testing, scurvy was diagnosed based on clinical features and dietary history. Treatment with vitamin C resulted in significant improvement within 10 days. Inadequate intake of fruits and vegetables causes vitamin C deficiency, impairing collagen synthesis and leading to typical scurvy symptoms. This case underscores the importance of considering scurvy in patients with compatible symptoms, focusing on clinical diagnosis and treatment response when testing is unavailable. Management includes vitamin C supplementation and dietary changes, emphasizing healthcare providers' role in promoting sufficient fruit and vegetable consumptions to prevent nutritional deficiencies.\n\n1. Introduction\n\nScurvy, caused by a deficiency of vitamin C, predominantly arises from inadequate dietary intake of vitamin C-rich foods such as citrus fruits and tomatoes [1]. Although rare in modern-developed societies, it persists in individuals with poor diets, particularly those with restricted access to fresh produce or specific dietary restrictions [2, 3]. It can also be seen in individuals with psychiatric disorders or gastrointestinal conditions that limit nutrient absorption [4, 5]. This case report presents a 35-year-old male with characteristic symptoms of scurvy, highlighting the importance of considering this diagnosis in patients with poor dietary habits, even in the absence of socioeconomic risk factors.\n\n2. Case Presentation\n\nA 35-year-old male patient visited the dermatology clinic with a history of lesions on his lower extremities, first noticed a month before his visit. The lesions were neither painful nor itchy.The patient, a nonsmoker and nonalcoholic, reported no chronic diseases in his medical history. However, he did have a history of esophageal irritation, triggered specifically by certain foods including citrus fruits. Despite these dietary restrictions, a recent gastroenterology evaluation showed no signs of gastrointestinal disease, and no medications were prescribed.Additionally, the patient reported systemic symptoms including headaches and fever. During the clinical examination, dermatological findings included follicular hyperkeratosis, perifollicular bleeding, and corkscrew hairs on the lower extremities (Figure 1). Examination of the oral cavity revealed easily bleeding gums following minor trauma and multiple hematomas, along with hemorrhagic purpura on the palate (Figure 2).Laboratory tests were largely unremarkable with most values within normal limits, except for an elevated erythrocyte sedimentation rate (ESR) of 41 mm/hr. A chest x-ray revealed no abnormalities.Based on the clinical findings, a diagnosis of scurvy was made. Plasma vitamin C concertation was not performed because it was not available in our hospital. Treatment was initiated with vitamin C and administered at a dosage of 500 mg twice daily. Within 10 days, the patient showed remarkable recovery, with significant improvement in both systemic and dermatological symptoms (Figures 3 and 4).\n\n3. Discussion\n\nScurvy, historically linked to vitamin C deprivation, remains a relevant concern for individuals with poor diets, even in developed countries [2, 6]. Our patient presented with classic dermatological and mucocutaneous manifestations such as corkscrew hairs and gum bleeding, hallmark signs of vitamin C deficiency. His avoidance of vitamin C-rich foods due to esophageal irritation led to chronic deficiency. This case demonstrates that scurvy can be clinically diagnosed in the absence of plasma vitamin C testing, with a positive response to supplementation serving as confirmation.Typically, diagnosis of scurvy relies on plasma or serum vitamin C level testing (normal range: 0.4–2 mg/dL). However, when such testing is unavailable, as in our case, a clinical diagnosis based on symptoms and dietary history, along with rapid improvement after vitamin C supplementation, is sufficient.A review of the literature reveals similar patterns among patients diagnosed with scurvy (Table 1), showing that while scurvy is uncommon in developed countries, it can still occur in diverse demographics, particularly those with dietary deficiencies or malabsorption syndromes. In this case, the lack of fresh produce in the patient's diet resulted in impaired collagen synthesis, which led to the characteristic symptoms of scurvy [1, 2, 6, 7]. Inadequate collagen production affects the integrity of connective tissues, leading to mucocutaneous bleeding, joint pain, and impaired wound healing [3].It is important to note that scurvy can also present with neuropsychiatric symptoms, such as depression, cognitive disturbances, and mood changes. Although these were not observed in our patient, they are well-documented in the literature [8].Treatment for scurvy involves replenishing vitamin C levels through oral or intravenous supplementation, combined with dietary modifications to ensure adequate intake of vitamin C-rich foods [1, 4]. In cases of malabsorption, oral supplementation may be ineffective, necessitating intravenous administration [9]. In our patient, high-dose oral vitamin C supplementation led to rapid improvement in symptoms.While scurvy is commonly associated with populations at risk of malnutrition, such as the elderly or those with limited access to fresh foods [3], this case highlights that scurvy can also occur in young, otherwise healthy individuals with poor dietary habits. It underscores the importance for healthcare providers to remain vigilant for scurvy in patients with poor diets, regardless of their age or overall health status. Additionally, this case emphasizes the critical role of patient education in promoting a balanced diet rich in fruits and vegetables to prevent nutritional deficiencies.\n\n4. Conclusion\n\nThis report highlights the importance of considering scurvy in patients with compatible clinical features, even when testing is unavailable. Rapid treatment with vitamin C can lead to significant improvement, emphasizing the crucial role of a balanced diet in preventing deficiencies.",
+    "generate_case": {
+        "case_summary": "- Patient Information: 35-year-old male, nonsmoker, nonalcoholic, no chronic diseases, no medications.\n- Chief Complaint: Month-long presence of nonpainful, nonitchy lesions on the lower extremities.\n- History of Present Illness: Lesions began a month prior to the dermatology visit, accompanied by systemic symptoms such as headaches and fever.\n- Past Medical History: History of esophageal irritation triggered by certain foods, including citrus fruits. Recent gastroenterology evaluation revealed no gastrointestinal disease.\n- Personal History: Avoidance of vitamin C-rich foods due to esophageal irritation. Limited dietary intake of fruits and vegetables.\n- Family History: None noted.\n- Physical Examination: Findings included follicular hyperkeratosis, perifollicular bleeding, corkscrew hairs on lower extremities, bleeding gums, multiple hematomas, and hemorrhagic purpura on the palate.\n- Ancillary Tests: Laboratory results were within normal limits except for an elevated ESR of 41 mm/hr. Chest X-ray showed no abnormalities.",
+        "differential_diagnosis": "- The initial step was to consider conditions causing dermatological and mucocutaneous symptoms, including follicular hyperkeratosis, perifollicular bleeding, corkscrew hairs, and gum bleeding. Differential diagnoses included:\n  1. **Vitamin C deficiency (scurvy)**: Strongly considered due to compatibility of symptoms, dietary history of poor intake, and hallmark findings (e.g., bleeding gums, corkscrew hairs).\n  2. **Coagulopathy or clotting disorders**: Considered due to perifollicular bleeding and mucocutaneous hemorrhages; excluded as lab results showed normal coagulation parameters.\n  3. **Vasculitis or other autoimmune conditions**: Considered due to purpura and elevated ESR; excluded due to lack of systemic findings and normal autoimmune workup.\n  4. **Malabsorption syndromes**: Considered due to potential nutrient deficiencies; excluded as recent gastroenterology evaluation showed no evidence of malabsorption.\n- Although plasma vitamin C testing was unavailable, the clinical diagnosis of scurvy was supported by the characteristic symptoms, poor dietary history, and rapid improvement with vitamin C supplementation.",
+        "final_diagnosis": "Scurvy caused by chronic vitamin C deficiency secondary to poor dietary intake.",
+        "diagnosis_results": "Scurvy (Vitamin C deficiency)"
+    },
+    "body_category": [
+        "Skin, Hair and Nails"
+    ],
+    "disorder_category": [
+        "Metabolic Problems"
+    ],
+    "receive_time": "2024-7-2",
+    "checked_rare_disease": [],
+    "id": "PMC11530288",
+    "results": {
+        "content": "### Resoning:\n<step 1> Analyze the Chief Complaint and History of Present Illness: The patient presents with nonpainful, nonitchy skin lesions on the lower extremities for a month, accompanied by systemic symptoms like headaches and fever. This indicates a subacute process affecting the skin and potentially systemic involvement.\n\n<step 2> Evaluate the Physical Examination Findings: The physical exam reveals crucial dermatological signs: follicular hyperkeratosis, perifollicular bleeding, and corkscrew hairs on the lower extremities. These are highly suggestive of a nutritional deficiency, particularly Vitamin C deficiency (Scurvy).  Additionally, bleeding gums, hematomas, and hemorrhagic purpura on the palate further point towards a bleeding diathesis and compromised blood vessel integrity, again consistent with Scurvy.\n\n<step 3> Consider Past Medical History and Personal History: The patient's history of esophageal irritation from citrus fruits and subsequent avoidance of vitamin C-rich foods, coupled with a limited intake of fruits and vegetables, is a significant risk factor for Vitamin C deficiency. The recent gastroenterology evaluation being negative rules out gastrointestinal malabsorption as a primary cause, making dietary deficiency more probable.\n\n<step 4> Analyze Ancillary Tests: The laboratory results being largely within normal limits, except for an elevated ESR, is informative. Elevated ESR is a non-specific marker of inflammation, which can be seen in scurvy due to the widespread tissue and vascular damage caused by collagen synthesis impairment. The normal chest X-ray excludes major pulmonary pathology.\n\n<step 5> Synthesize all findings and formulate a differential diagnosis:  The combination of follicular hyperkeratosis, perifollicular bleeding, corkscrew hairs, bleeding gums, hematomas, purpura, elevated ESR, and a dietary history suggestive of Vitamin C deficiency strongly converges towards a diagnosis of Scurvy (Vitamin C deficiency). While other conditions might present with some overlapping symptoms, the constellation of these specific findings, especially the dermatological and mucocutaneous signs in the context of dietary history, makes Scurvy the most likely diagnosis.  Other differentials like vasculitis or bleeding disorders are less likely given the specific dermatological findings and dietary context.\n\n<step 6> Final Diagnostic Conclusion: Based on the comprehensive analysis of the patient's presentation, including the characteristic skin lesions, mucocutaneous bleeding, systemic symptoms, elevated ESR, and most importantly, the dietary history of vitamin C avoidance, the most probable diagnosis is Scurvy.\n\n### Answer:\nScurvy (Vitamin C deficiency)"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Analyze the Chief Complaint and History of Present Illness: The patient presents with nonpainful, nonitchy skin lesions on the lower extremities for a month, accompanied by systemic symptoms like headaches and fever. This indicates a subacute process affecting the skin and potentially systemic involvement.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Evaluate the Physical Examination Findings: The physical exam reveals crucial dermatological signs: follicular hyperkeratosis, perifollicular bleeding, and corkscrew hairs on the lower extremities. These are highly suggestive of a nutritional deficiency, particularly Vitamin C deficiency (Scurvy).  Additionally, bleeding gums, hematomas, and hemorrhagic purpura on the palate further point towards a bleeding diathesis and compromised blood vessel integrity, again consistent with Scurvy.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Consider Past Medical History and Personal History: The patient's history of esophageal irritation from citrus fruits and subsequent avoidance of vitamin C-rich foods, coupled with a limited intake of fruits and vegetables, is a significant risk factor for Vitamin C deficiency. The recent gastroenterology evaluation being negative rules out gastrointestinal malabsorption as a primary cause, making dietary deficiency more probable.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Analyze Ancillary Tests: The laboratory results being largely within normal limits, except for an elevated ESR, is informative. Elevated ESR is a non-specific marker of inflammation, which can be seen in scurvy due to the widespread tissue and vascular damage caused by collagen synthesis impairment. The normal chest X-ray excludes major pulmonary pathology.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Synthesize all findings and formulate a differential diagnosis:  The combination of follicular hyperkeratosis, perifollicular bleeding, corkscrew hairs, bleeding gums, hematomas, purpura, elevated ESR, and a dietary history suggestive of Vitamin C deficiency strongly converges towards a diagnosis of Scurvy (Vitamin C deficiency). While other conditions might present with some overlapping symptoms, the constellation of these specific findings, especially the dermatological and mucocutaneous signs in the context of dietary history, makes Scurvy the most likely diagnosis.  Other differentials like vasculitis or bleeding disorders are less likely given the specific dermatological findings and dietary context.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Final Diagnostic Conclusion: Based on the comprehensive analysis of the patient's presentation, including the characteristic skin lesions, mucocutaneous bleeding, systemic symptoms, elevated ESR, and most importantly, the dietary history of vitamin C avoidance, the most probable diagnosis is Scurvy.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "The initial step was to consider conditions causing dermatological and mucocutaneous symptoms, including follicular hyperkeratosis, perifollicular bleeding, corkscrew hairs, and gum bleeding.",
+            "hit": true
+        },
+        {
+            "step": "Differential diagnoses included Vitamin C deficiency (scurvy), coagulopathy or clotting disorders, vasculitis or other autoimmune conditions, and malabsorption syndromes.",
+            "hit": false
+        },
+        {
+            "step": "Vitamin C deficiency (scurvy) was strongly considered due to compatibility of symptoms, dietary history of poor intake, and hallmark findings (e.g., bleeding gums, corkscrew hairs).",
+            "hit": false
+        },
+        {
+            "step": "Coagulopathy or clotting disorders were considered due to perifollicular bleeding and mucocutaneous hemorrhages, but excluded as lab results showed normal coagulation parameters.",
+            "hit": false
+        },
+        {
+            "step": "Vasculitis or other autoimmune conditions were considered due to purpura and elevated ESR, but excluded due to lack of systemic findings and normal autoimmune workup.",
+            "hit": false
+        },
+        {
+            "step": "Malabsorption syndromes were considered due to potential nutrient deficiencies, but excluded as recent gastroenterology evaluation showed no evidence of malabsorption.",
+            "hit": false
+        },
+        {
+            "step": "Although plasma vitamin C testing was unavailable, the clinical diagnosis of scurvy was supported by the characteristic symptoms, poor dietary history, and rapid improvement with vitamin C supplementation.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Scurvy caused by chronic vitamin C deficiency secondary to poor dietary intake.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.125
+}

@@ -1,0 +1,118 @@
+{
+    "raw_case": "\nSternal tuberculosis: A rare manifestation of extrapulmonary disease\nSternal tuberculosis is a rare and challenging diagnosis. We present a case of a 63-year-old woman who presented with a progressively enlarging anterior chest wall mass and nonspecific symptoms. Imaging studies revealed a destructive sternal lesion. A biopsy confirmed the tuberculosis diagnosis. The patient responded well to anti-tuberculosis treatment. This case highlights the importance of considering tuberculosis when making a differential diagnosis of sternal masses and emphasizes the need for early diagnosis and treatment.\n\nIntroduction\n\nSternal tuberculosis, a rare and often overlooked form of extrapulmonary tuberculosis, involves the sternum, the flat bone at the front of the chest. Despite its proximity to the lungs, the precise mechanisms underlying its development remain elusive. While uncommon, sternal tuberculosis can significantly impact patients' quality of life due to pain, deformity, and potential complications.The insidious nature of the disease often leads to delayed diagnosis, as its symptoms—including chest pain, swelling, and general malaise—mimic those of other, more common conditions. Differentiating sternal tuberculosis from bone tumors, infections, or other inflammatory processes can be challenging, necessitating a high index of suspicion. Imaging studies, particularly computed tomography (CT), are invaluable for assessing bone destruction and associated soft tissue involvement. A definitive diagnosis requires bacteriological or histological confirmation of Mycobacterium tuberculosis within the lesion.Fortunately, anti-tuberculous therapy has proven effective in treating sternal tuberculosis. However, treatment duration and potential complications require careful consideration.\n\nCase presentation\n\nA 63-year-old female patient with a history of cervical trauma treated by osteosynthesis was admitted to the hospital with an anterior thoracic parietal swelling over the sternum, which had been present for 6 months. Physical examination revealed a painful, inflammatory swelling over the middle third of the sternal body. Routine laboratory tests were normal.Thoracic computed tomography (CT) revealed an osteolytic tissue process in the upper half of the sternum, with lysis of the internal and external cortex and a sternal fracture (Fig. 1).There were no associated mediastinal adenopathies. Direct examination and culture were negative for BK (Koc bacillus) in sputum and bronchial fluid. The tuberculin skin test was positive at 22 mm. The patient underwent a surgical biopsy of the mass. A histological examination of the biopsy revealed caseofollicular TB.The patient received a standard 4-drug anti-tuberculosis regimen consisting of isoniazid, rifampicin, pyrazinamide, and ethambutol. This combination therapy is the cornerstone of TB treatment, including extrapulmonary manifestations, due to its broad-spectrum activity against Mycobacterium tuberculosis and its ability to prevent the emergence of drug resistance.The initial phase of treatment lasted for 2 months, during which the patient received all 4 medications. This intensive phase aimed to rapidly reduce the bacterial load and achieve clinical improvement. The subsequent consolidation phase lasted for an additional 4 months and consisted of a 2-drug regimen of isoniazid and rifampicin. This phase is essential for eliminating persistent bacilli and preventing relapse.\n\nDiscussion\n\nSternal tuberculosis is rare. It accounts for around 2%-3% of all cases of osteoarticular TB, with only a few cases reported in the literature.It generally comes from hematogenous dissemination from a primary focus in the lung or lymph nodes. The factors favoring sternal localization remain poorly elucidated; however, bone vascularization may play a role. Preferential involvement of the anterior part of the sternum could be explained by richer vascularization and closer proximity to thoracic organs.Clinical symptoms are frequently persistent and insidious, often consisting of a painful swelling of the anterior chest wall at the sternum. The disease is often discovered late, at the stage of complications such as sternal fracture, as was the case of our patient [1].Data in the literature concerning sternal tuberculosis are limited but converge towards a clinical presentation that is often delayed, with complications such as fistulas, mediastinitis, cold abscesses, or septic shock [1].Chest computed tomography (CT) often reveals a lytic lesion of the sternal body, surrounded by a soft tissue mass that invades the surrounding soft tissues and/or mediastinal structures [2].A biopsy of the mass, either transparietally under CT scan control or surgically, is essential to confirm the diagnosis of tuberculosis by culturing the biopsy fragment in Lowensteïn medium and/or histological study [3].Sternal TB is similar to other tuberculosis bone localizations, most notably spondylodiscitis. It does, however, have specific anatomical features. Complications such as cutaneous fistulas and mediastinitis are more common with sternal involvement.The treatment of sternal tuberculosis does not follow a well-established consensus. Some authors recommend combining surgery with antituberculous drugs, while others propose anti-tuberculosis treatment alone. Prescription of antituberculous drugs is governed by the same rules as for pulmonary tuberculosis, with a longer duration (at least 1 year). Surgery may be discussed, involving resection of the abscess, tissues, and bone infected tissue.Reconstruction using muscle tissue has been reported by some authors to fill the defect after wide debridement, including the sternum [4].\n\nConclusion\n\nSternal tuberculosis (STB), while rare, presents a real challenge due to its insidious presentation, delayed diagnosis, and potential for severe complications. Early recognition and prompt initiation of appropriate antituberculous therapy are paramount for achieving favorable outcomes and preventing devastating consequences.\n\nPatient consent\n\nConsent was obtained from the patient for publication of this case report and accompanying images.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 63-year-old female\n- **Chief Complaint:** Progressive anterior thoracic parietal swelling over the sternum for 6 months.\n- **History of Present Illness:** Persistent painful and inflammatory swelling in the middle third of the sternal body.\n- **Past Medical History:** History of cervical trauma managed with osteosynthesis.\n- **Personal History:** None provided.\n- **Family History:** None provided.\n- **Physical Examination:** Painful, inflammatory swelling located over the middle third of the sternal body.\n- **Ancillary Tests:**\n  - Routine laboratory tests: Normal.\n  - Thoracic CT: Osteolytic lesion in the upper half of the sternum with cortical lysis and sternal fracture.\n  - Sputum and bronchial fluid for BK: Negative.\n  - Tuberculin skin test: Positive (22 mm).\n  - Histological examination from biopsy: Revealed caseofollicular tuberculosis (TB).",
+        "differential_diagnosis": "1. **Initial Considerations:**\n   - The primary differential diagnoses for a sternal mass include malignant bone tumors (e.g., osteosarcoma), benign neoplasms (e.g., osteoid osteoma), infectious processes (e.g., bacterial osteomyelitis, tuberculosis), and inflammatory conditions (e.g., sarcoidosis).\n\n2. **Steps to Exclusion:**\n   - Malignant bone tumors were less likely due to the absence of systemic symptoms (like weight loss or fever) and lack of radiological findings typical of malignancy.\n   - Other infections (e.g., bacterial osteomyelitis) were considered but excluded based on the chronic and indolent course of the disease, absence of systemic infection markers, and negative microbiological cultures of BK in sputum and bronchial fluid.\n   - Inflammatory conditions (e.g., sarcoidosis) were less likely due to the positive tuberculin skin test and histological evidence of tuberculosis.\n\n3. **Confirmatory Evidence:**\n   - The combination of positive tuberculin skin test, osteolytic lesion on CT imaging, and histological confirmation of caseofollicular TB in the biopsy led to the definitive diagnosis of sternal tuberculosis. The lack of mediastinal lymphadenopathy further supported the absence of a primary pulmonary focus.",
+        "final_diagnosis": "Sternal tuberculosis was diagnosed based on the clinical presentation (chronic anterior chest swelling), imaging findings (sternal osteolysis with fracture), and histological confirmation (caseofollicular TB). The diagnosis highlighted the atypical presentation of an extrapulmonary manifestation of TB in the sternum.",
+        "diagnosis_results": "Sternal tuberculosis."
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-7-18",
+    "checked_rare_disease": [
+        "Tuberculosis"
+    ],
+    "id": "PMC11488405",
+    "results": {
+        "thinking_process": "Okay, let's start breaking this down. The patient is a 63-year-old woman with a 6-month history of progressive swelling in the anterior chest area over the sternum, which is painful and inflamed. The key points here are the location (sternum), duration (6 months), and the symptoms (painful swelling). \n\nFirst, considering the history of present illness: a persistent, painful, inflammatory swelling in the middle third of the sternum. That makes me think about possible causes of sternal lesions. The main differentials for sternal masses include infections, malignancies, or maybe inflammatory conditions.\n\nHer past medical history includes cervical trauma managed with osteosynthesis. I wonder if that's relevant here. Maybe not directly, but perhaps there's an immunocompromised state due to past surgeries or treatments, but there's no info on that. The family and personal history aren't provided, so maybe not contributing factors here.\n\nLooking at the physical exam: the swelling is painful and inflammatory. So signs of infection or inflammation. Then the ancillary tests. Routine labs are normal, which might rule out some systemic infections but not all. The thoracic CT shows an osteolytic lesion in the upper half of the sternum with cortical lysis and a fracture. Osteolytic lesions can be due to infections like osteomyelitis, tumors (primary or metastatic), or maybe metabolic bone diseases. But given the context, infection or tumor are more likely.\n\nThe sputum and bronchial fluid for BK (which is testing for tuberculosis) were negative. But the tuberculin skin test is positive at 22 mm, which is a strong positive. The biopsy histology shows caseofollicular tuberculosis. Caseating granulomas are classic for TB. So even though the sputum tests were negative, the biopsy confirms TB involvement in the sternum.\n\nWait, but TB of the bone... that's called skeletal tuberculosis. The sternum is a less common site, but it can happen. Tuberculous osteomyelitis. The positive tuberculin test supports a TB infection. However, the sputum being negative might mean it's not pulmonary TB, but extrapulmonary. So this is likely a case of sternal tuberculosis. \n\nBut other possibilities: Could it be a fungal infection? But the biopsy says TB. Maybe malignancy? The CT shows osteolytic lesion, which can be seen in cancer. But the biopsy result trumps that. The histological exam showing caseofollicular TB (caseating granulomas) confirms the diagnosis of tuberculosis.\n\nSo putting it all together: The patient has a tuberculous infection of the sternum, leading to osteolytic lesions and fracture. Even though pulmonary tests were negative, the biopsy confirms TB. The positive PPD supports this. So the final diagnosis is sternal tuberculosis, or tuberculous osteomyelitis of the sternum.",
+        "content": "```\n### Resoning:\n<step 1> The patient presents with a painful, inflammatory sternal swelling and osteolytic lesion on imaging. Initial differentials include infection (bacterial, fungal, mycobacterial), malignancy, or traumatic/post-surgical complications.  \n<step 2> Normal routine labs reduce suspicion for acute bacterial infection. Negative sputum/bronchial fluid for BK (tuberculosis) suggests extrapulmonary TB rather than active pulmonary involvement.  \n<step 3> A strongly positive tuberculin skin test (22 mm) indicates prior or latent TB exposure, raising suspicion for tuberculous etiology despite negative respiratory samples.  \n<step 4> Histological biopsy confirmation of caseofollicular tuberculosis (caseating granulomas) definitively establishes tuberculous involvement of the sternum, explaining the osteolytic destruction and fracture.  \n<step 5> The absence of other systemic or familial risk factors, combined with biopsy and imaging findings, localizes the diagnosis to skeletal tuberculosis affecting the sternum.  \n\n### Answer:\nSternal tuberculosis (tuberculous osteomyelitis of the sternum)"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient presents with a painful, inflammatory sternal swelling and osteolytic lesion on imaging. Initial differentials include infection (bacterial, fungal, mycobacterial), malignancy, or traumatic/post-surgical complications.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Normal routine labs reduce suspicion for acute bacterial infection. Negative sputum/bronchial fluid for BK (tuberculosis) suggests extrapulmonary TB rather than active pulmonary involvement.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "A strongly positive tuberculin skin test (22 mm) indicates prior or latent TB exposure, raising suspicion for tuberculous etiology despite negative respiratory samples.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Histological biopsy confirmation of caseofollicular tuberculosis (caseating granulomas) definitively establishes tuberculous involvement of the sternum, explaining the osteolytic destruction and fracture.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The absence of other systemic or familial risk factors, combined with biopsy and imaging findings, localizes the diagnosis to skeletal tuberculosis affecting the sternum.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Identify potential differential diagnoses for a sternal mass, including malignant bone tumors, benign neoplasms, infectious processes, and inflammatory conditions.",
+            "hit": true
+        },
+        {
+            "step": "Step 2: Exclude malignant bone tumors due to the absence of systemic symptoms and typical radiological findings.",
+            "hit": false
+        },
+        {
+            "step": "Step 3: Exclude other infections like bacterial osteomyelitis based on the chronic and indolent course, absence of systemic infection markers, and negative microbiological cultures.",
+            "hit": false
+        },
+        {
+            "step": "Step 4: Exclude inflammatory conditions such as sarcoidosis due to the positive tuberculin skin test and histological evidence of tuberculosis.",
+            "hit": true
+        },
+        {
+            "step": "Step 5: Confirm the diagnosis of sternal tuberculosis through the positive tuberculin skin test, osteolytic lesion on CT imaging, and histological confirmation of caseofollicular TB in the biopsy.",
+            "hit": true
+        },
+        {
+            "step": "Step 6: Support the diagnosis of sternal tuberculosis by the absence of mediastinal lymphadenopathy indicating no primary pulmonary focus.",
+            "hit": false
+        },
+        {
+            "step": "Step 7: Diagnose sternal tuberculosis based on the clinical presentation (chronic anterior chest swelling), imaging findings (sternal osteolysis with fracture), and histological confirmation (caseofollicular TB).",
+            "hit": true
+        },
+        {
+            "step": "Step 8: Recognize the atypical presentation of extrapulmonary tuberculosis in the sternum.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.625
+}

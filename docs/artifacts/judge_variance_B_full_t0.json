@@ -1,0 +1,41 @@
+[
+  {
+    "id": "PMC11321471",
+    "model": "gemini2-ft",
+    "saved_recall": 0.0,
+    "mean_recall": 0.42857142857142855,
+    "stdev_recall": 0.0,
+    "min_recall": 0.42857142857142855,
+    "max_recall": 0.42857142857142855,
+    "unique_hit_patterns": 1,
+    "unique_recall_values": 1,
+    "repeats": 10,
+    "elapsed_s": 346.8
+  },
+  {
+    "id": "PMC11625232",
+    "model": "gemini2-ft",
+    "saved_recall": 0.5555555555555556,
+    "mean_recall": 0.75,
+    "stdev_recall": 0.0,
+    "min_recall": 0.75,
+    "max_recall": 0.75,
+    "unique_hit_patterns": 1,
+    "unique_recall_values": 1,
+    "repeats": 10,
+    "elapsed_s": 328.5
+  },
+  {
+    "id": "PMC11375620",
+    "model": "gemini2-ft",
+    "saved_recall": 0.0,
+    "mean_recall": 0.25,
+    "stdev_recall": 0.0,
+    "min_recall": 0.25,
+    "max_recall": 0.25,
+    "unique_hit_patterns": 1,
+    "unique_recall_values": 1,
+    "repeats": 10,
+    "elapsed_s": 408.1
+  }
+]

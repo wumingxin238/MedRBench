@@ -1,0 +1,163 @@
+{
+    "raw_case": "\nEarly neurological deterioration with severe headache as the initial manifestation: A case report\nSevere headache as the initial clinical manifestation of early neurological deterioration (END) is uncommon. The emergence of severe headache should be promptly recognized as a potential indicator of large vessel stenosis. Here, we describe a male patient who initially presented with severe headache accompanied by transient left limb weakness, which subsequently progressed to persistent weakness. Imaging studies revealed severe stenosis at the origin of the right internal carotid artery, along with the presence of asymmetrically prominent cortical veins (APCV). Despite the administration of pregabalin orally and tramadol intramuscularly, his headache persisted. However, significant alleviation of his headache symptoms was observed following the improvement of cerebral perfusion.Re-examination revealed the resolution of cortical vein dilation. This case underscores the importance of recognizing severe headache and APCV as potential indicators of large vessel stenosis and early neurological deterioration (END). Improving cerebral perfusion may serve as an effective means of alleviating headache symptoms in such cases.\n\nIntroduction\n\nIn recent years, stroke has emerged as the second leading cause of mortality worldwide [1]. Among these cases, early neurological deterioration (END) warrants particular attention due to its association with higher rates of disability and mortality. The precise epidemiology, predictive value, and therapeutic strategies for headache as a prodromal symptom of stroke remain incompletely understood. A study on prehospital stroke identification indicated that patients presenting with atypical complaints like dizziness and headache were more likely to be overlooked during consultation [2]. This article presents a case study of END characterized by severe headache as the primary presenting symptom, aiming to enhance early recognition of END and underscore its pivotal role in effective management.\n\nCase report\n\nA 65-year-old man with a history of stroke and diabetes presented with a severe headache for 7 days. He described the pain as swelling on the right side of his head with nausea, no vomiting. Additionally, he experienced transient left limb numbness and weakness for 10 minutes, occurring twice daily. A head computed tomography (CT) scan at the local hospital indicated the presence of minute ischemic lesions, and the patient was given oral aspirin and atorvastatin. However, the headache did not alleviate. On the eighth day, he presented to the emergency with severe headache accompanied by left limb weakness and numbness. CT examination revealed multiple small patchy hypodense areas in the brain (Fig. 1).Upon arrival, his mental status and cognition remained intact. Neurologic exam showed mild left-sided facial and lingual paresis. The other cranial nerves were intact. Motor examination revealed a left limb muscle strength of 4/5. The left Babinski sign was positive, and the neck resistance was negative. Sensory examination revealed diminished sensation to light touch, pinprick, and temperature in his left upper limb. Upon admission, the patient's blood pressure was 122/71 mmHg. An electrocardiogram (ECG) and relevant blood tests conducted showed no significant abnormalities.On hospital day 1, the patient experienced a recurrence of the headache, with a Visual Analog Scale (VAS) score of 9/10. Administration of pregabalin orally and tramadol hydrochloride intramuscularly did not provide relief from the headache. Additionally, the patient's left limb weakness worsened, accompanied by dysarthria and horizontal nystagmus. Muscle strength in both the left upper and lower limbs was assessed as 3/5. However, the etiology of headache remained elusive. On hospital day 2, an emergent cranio-cervical computed tomography angiography (CTA) revealed severe stenosis at the origin of the right internal carotid artery, with a stenosis rate of approximately 95% (Fig. 2). Diffusion-weighted imaging (DWI) demonstrated multiple scattered hyperintensities in the right hemisphere (Fig. 3). No hemorrhagic signal was found on susceptibility weighted imaging (SWI), unexpectedly, we found dilation of the right cortical vein in comparison to the left (Fig. 4A).The patient underwent volume expansion with colloidal fluid to enhance cerebral perfusion, and his headache gradually improved. Extensive laboratory investigations, encompassing complete blood count, electrolyte levels, coagulation studies, as well as assessments of hepatic, renal, and thyroid functions, were all within normal limits. On hospital day 5, he reported no further headache symptoms. The left limb weakness improved, with the left upper limb muscle strength graded as 3/5 and the left lower limb muscle strength at 4/5. One week after treatment, the right cortical vein sign on SWI had disappeared (Fig. 4B). Upon discharge, the patient was asymptomatic for headache, with the left upper limb muscle strength assessed as grade 3/5 and the left lower limb muscle strength evaluated as grade 4/5.He underwent a right carotid endarterectomy at our hospital one month later (Fig. 5). At follow-up 12 months after treatment initiation, he could walk and function independently, but had mild left limb weakness.\n\nDiscussion\n\nEND with severe headache as the initial manifestation is uncommon. The presence of a severe headache should prompt suspicion of the possibility of large artery stenosis. A study examined 160 patients with ischemic stroke revealed that headache was the initial manifestation in 17% of cases, while an incidence of large artery occlusive disease was observed in 26% [3]. The occurrence of severe headache may suggest the presence of cerebral vascular stenosis or occlusion as the sole clinical manifestation. Leira et al. [4] suggest that headaches could be indicative of more pronounced neuroinflammation or END.Most scholars refer to vessels that appear significantly more dilated than the contralateral side along the cortical venous pathway in SWI as the asymmetrically prominent cortical veins (APCV). The degree of SWI vein development is primarily determined by the deoxyhemoglobin content in venous blood. The formation of APCV may be attributed to an increase in venous volume resulting from the relaxation of small vessels caused by ischemia [5]. Another mechanism involves the uncoupling between oxygen supply and demand in hypo-perfused tissues, leading to a relative increase in deoxyhemoglobin and a decrease of oxyhemoglobin in the tissue capillaries and the draining veins [6]. Xia et al. [7] observed a decrease in oxygen saturation at the APCV ranging from 16% to 44% relative to the veins of the contralateral hemisphere, resulting in enhanced venous development on SWI. In a retrospective study, they suggested that APCV could serve as a predictive indicator for stenosis or occlusion of ipsilateral vessels [8]. Verma et al. [9] propose that the presence of APCV is indicative of inadequate collateral circulation. However, in instances where significant intracranial artery stenosis is present yet APCV is absent, this may be attributed to effective compensation by robust collateral circulation.A study has demonstrated that the APCV is a robust neuroimaging marker for END in acute stroke patients with ipsilateral severe intracranial arterial stenosis or occlusion [10]. The presence of APCV in this patient may suggest inadequate collateral circulation. Notably, APCV was significantly improved after the treatment of improving cerebral perfusion.\n\nConclusion\n\nIn conclusion, when patients present with unexplained severe headache or APCV, it is crucial to consider the possibility of large artery stenosis and to remain vigilant for potential cases of END. It is advisable to monitor cerebral function and maintain a stable level of cerebral perfusion as a rational approach to preventing END and alleviating headache symptoms.\n\nAuthor's contribution\n\nMT and YY contributed to data acquisition, writing, and editing. HC contributed to writing and editing. MD edited this paper. All authors provided substantial contributions to the conception of this work, critically revised the work, and gave final approval of the work.\n\nPatient consent\n\nWe sincerely thank the patient for participating in this study. The patient provided consent for the writing and publication of the manuscript.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 65-year-old male\n- **Chief Complaint:** Severe headache for 7 days\n- **History of Present Illness:** Severe headache described as swelling on the right side of the head accompanied by nausea (no vomiting). Transient left limb numbness and weakness lasting 10 minutes and occurring twice daily prior to hospital admission. Symptom progression to persistent left limb weakness with a Visual Analog Scale (VAS) headache score of 9/10.\n- **Past Medical History:** History of stroke and diabetes\n- **Personal History:** Not documented\n- **Family History:** Not documented\n- **Physical Examination:**\n  - Neurologic examination: Mild left-sided facial and lingual paresis, left limb muscle strength 4/5, positive left Babinski sign, diminished sensation to light touch, pinprick, and temperature in the left upper limb.\n  - Mental status and other cranial nerves intact.\n  - On day 1: Worsening left limb weakness (3/5 muscle strength in both upper and lower limbs) with dysarthria and horizontal nystagmus.\n- **Ancillary Tests:**\n  - Initial head CT: Minute ischemic lesions and multiple patchy hypodense areas in the brain.\n  - Cranio-cervical CTA: 95% stenosis at the origin of the right internal carotid artery.\n  - Diffusion-weighted imaging (DWI): Multiple scattered hyperintensities in the right hemisphere.\n  - Susceptibility-weighted imaging (SWI): Asymmetrically prominent cortical veins (APCV) on the right side.\n  - Routine laboratory tests, ECG, and blood pressure (122/71 mmHg): Unremarkable.",
+        "differential_diagnosis": "1. **Initial considerations based on severe headache and transient neurological symptoms:**\n   - **Migraine**: Unlikely as symptoms included focal neurological deficits (e.g., limb weakness) that progressed and did not resolve.\n   - **Tension headache**: Excluded due to the severity (VAS 9/10) and associated neurologic deficits.\n   - **Stroke/TIA**: Highly suspected due to the patient's prior history of stroke, ischemic lesions on imaging, and transient neurological symptoms evolving to persistent deficits.\n   \n2. **Imaging Studies:**\n   - CT and CTA findings: Confirmed the presence of significant large-vessel stenosis (right internal carotid artery, 95% stenosis) and ischemia.\n   - SWI findings (APCV): Indicative of hypoperfusion and inadequate collateral circulation.\n\n3. **Reasons for excluding other potential causes:**\n   - **Intracranial hemorrhage**: No evidence of hemorrhagic signal on imaging.\n   - **Mass lesions or infections**: Absence of intracranial space-occupying lesions, fever, or other systemic signs.\n   - **Post-stroke headache alone**: Evidence of active ischemia and worsening neurologic signs ruled this out as an isolated factor.\n\n4. **Final diagnostic confirmation:** Severe stenosis of the right internal carotid artery leading to symptomatic ischemia and END with manifestations of severe headache, left-sided weakness, and neurologic deficits.",
+        "final_diagnosis": "Early neurological deterioration (END) due to severe stenosis of the right internal carotid artery, identified by imaging studies and contributing to ischemia. The presence of APCV on SWI supported the diagnosis of inadequate collateral circulation and cerebral hypoperfusion.",
+        "diagnosis_results": "Early neurological deterioration (END) secondary to severe stenosis of the right internal carotid artery."
+    },
+    "body_category": [
+        "Brain and Nerves"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-9-4",
+    "checked_rare_disease": [],
+    "id": "PMC11626645",
+    "results": {
+        "content": "### Reasoning:\n\nStep 1: Initial Assessment\nI've been presented with a case of a 65-year-old male with a severe headache lasting for 7 days, accompanied by nausea and transient left limb numbness and weakness. Given his history of stroke and diabetes, I need to consider conditions that could be related to vascular issues in the brain.\n\nStep 2: Headache Characteristics\nThe headache is described as severe, with a VAS score of 9/10, and located on the right side, feeling like swelling. Nausea is present without vomiting. This presentation could suggest a variety of causes, including migraine, increased intracranial pressure, or vascular issues.\n\nStep 3: Neurological Symptoms\nThe patient experiences transient left limb numbness and weakness twice daily before admission, which progressed to persistent left limb weakness. This suggests a worsening neurological deficit, possibly due to a stroke or another process affecting the brain's blood supply.\n\nStep 4: Past Medical History\nThe patient has a history of stroke and diabetes, both of which increase the risk for vascular events, including transient ischemic attacks (TIAs) and strokes.\n\nStep 5: Physical Examination Findings\nOn examination, there is mild left-sided facial and lingual paresis, left limb muscle strength of 4/5, positive left Babinski sign, and diminished sensation to light touch, pinprick, and temperature in the left upper limb. On day 1, there is worsening left limb weakness (3/5 in both upper and lower limbs), dysarthria, and horizontal nystagmus.\n\nStep 6: Interpreting Physical Examination\nThe left-sided facial and lingual paresis, along with left limb weakness and positive Babinski sign, suggest a right hemisphere lesion affecting the motor pathways. The sensory deficits in the left upper limb indicate possible sensory tract involvement. The progression to dysarthria and nystagmus suggests further neurological deterioration.\n\nStep 7: Ancillary Tests\nInitial head CT shows minute ischemic lesions and multiple patchy hypodense areas in the brain. Cranio-cervical CTA reveals 95% stenosis at the origin of the right internal carotid artery. DWI shows multiple scattered hyperintensities in the right hemisphere, and SWI shows asymmetrically prominent cortical veins (APCV) on the right side.\n\nStep 8: Head CT Interpretation\nThe head CT findings of hypodense areas suggest old or acute ischemic lesions. The presence of multiple lesions could indicate a chronic vascular condition or multiple infarcts.\n\nStep 9: CTA Findings\nThe 95% stenosis of the right internal carotid artery is a significant finding, indicating severe narrowing that could lead to reduced blood flow to the right cerebral hemisphere, potentially causing the observed symptoms.\n\nStep 10: DWI and SWI Interpretation\nThe DWI hyperintensities in the right hemisphere suggest areas of acute ischemia or infarction. The APCV on SWI could indicate venous congestion or other vascular abnormalities in the right hemisphere.\n\nStep 11: Differential Diagnosis\nGiven the history, symptoms, and imaging findings, possible diagnoses include:\n- Progressive ischemic stroke due to severe carotid stenosis.\n- Hemodynamic ischemia secondary to severe internal carotid artery stenosis.\n- Cortical venous thrombosis given the APCV on SWI.\n- Migraine with aura, though less likely given the persistent neurological deficits and imaging findings.\n\nStep 12: Considering the Progression of Symptoms\nThe progression from transient symptoms to persistent left limb weakness and new symptoms like dysarthria and nystagmus suggests an evolving neurological process, possibly ongoing ischemia.\n\nStep 13: Role of Diabetes and Previous Stroke\nThe patient's diabetes and previous stroke history increase the risk for atherosclerotic disease and recurrent strokes.\n\nStep 14: Considering Treatment Options\nGiven the severe stenosis of the right internal carotid artery and the neurological symptoms, options may include medical management with antithrombotic therapy, or more invasive interventions like carotid endarterectomy or stenting, depending on the patient's overall condition and the risk-benefit analysis.\n\nStep 15: Final Diagnostic Synthesis\nConsidering the severe internal carotid artery stenosis, the presence of multiple ischemic lesions on imaging, and the clinical presentation with progressive neurological deficits, the most likely diagnosis is Progressive Ischemic Stroke due to Severe Right Internal Carotid Artery Stenosis.\n\n### Answer:\nProgressive Ischemic Stroke due to Severe Right Internal Carotid Artery Stenosis"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Step 1: Initial Assessment\nI've been presented with a case of a 65-year-old male with a severe headache lasting for 7 days, accompanied by nausea and transient left limb numbness and weakness. Given his history of stroke and diabetes, I need to consider conditions that could be related to vascular issues in the brain.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 2: Headache Characteristics\nThe headache is described as severe, with a VAS score of 9/10, and located on the right side, feeling like swelling. Nausea is present without vomiting. This presentation could suggest a variety of causes, including migraine, increased intracranial pressure, or vascular issues.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 3: Neurological Symptoms\nThe patient experiences transient left limb numbness and weakness twice daily before admission, which progressed to persistent left limb weakness. This suggests a worsening neurological deficit, possibly due to a stroke or another process affecting the brain's blood supply.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 4: Past Medical History\nThe patient has a history of stroke and diabetes, both of which increase the risk for vascular events, including transient ischemic attacks (TIAs) and strokes.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Step 5: Physical Examination Findings\nOn examination, there is mild left-sided facial and lingual paresis, left limb muscle strength of 4/5, positive left Babinski sign, and diminished sensation to light touch, pinprick, and temperature in the left upper limb. On day 1, there is worsening left limb weakness (3/5 in both upper and lower limbs), dysarthria, and horizontal nystagmus.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Step 6: Interpreting Physical Examination\nThe left-sided facial and lingual paresis, along with left limb weakness and positive Babinski sign, suggest a right hemisphere lesion affecting the motor pathways. The sensory deficits in the left upper limb indicate possible sensory tract involvement. The progression to dysarthria and nystagmus suggests further neurological deterioration.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 7: Ancillary Tests\nInitial head CT shows minute ischemic lesions and multiple patchy hypodense areas in the brain. Cranio-cervical CTA reveals 95% stenosis at the origin of the right internal carotid artery. DWI shows multiple scattered hyperintensities in the right hemisphere, and SWI shows asymmetrically prominent cortical veins (APCV) on the right side.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Step 8: Head CT Interpretation\nThe head CT findings of hypodense areas suggest old or acute ischemic lesions. The presence of multiple lesions could indicate a chronic vascular condition or multiple infarcts.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 9: CTA Findings\nThe 95% stenosis of the right internal carotid artery is a significant finding, indicating severe narrowing that could lead to reduced blood flow to the right cerebral hemisphere, potentially causing the observed symptoms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 10: DWI and SWI Interpretation\nThe DWI hyperintensities in the right hemisphere suggest areas of acute ischemia or infarction. The APCV on SWI could indicate venous congestion or other vascular abnormalities in the right hemisphere.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Migraine was considered unlikely due to the presence of focal neurological deficits, such as limb weakness, that progressed and did not resolve.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Tension headache was excluded because of the severity of the headache (VAS 9/10) and the associated neurological deficits.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Stroke or TIA was highly suspected due to the patient's prior history of stroke, ischemic lesions observed on imaging, and transient neurological symptoms evolving into persistent deficits.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> CT and CTA imaging confirmed significant large-vessel stenosis in the right internal carotid artery (95% stenosis) and evidence of ischemia.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> SWI imaging findings indicated hypoperfusion and inadequate collateral circulation, further supporting the diagnosis.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> Intracranial hemorrhage was excluded due to the absence of hemorrhagic signals on imaging.",
+            "hit": false
+        },
+        {
+            "step": "<Step 7> Mass lesions or infections were ruled out because there were no intracranial space-occupying lesions, fever, or systemic signs.",
+            "hit": false
+        },
+        {
+            "step": "<Step 8> Post-stroke headache alone was ruled out as an isolated factor due to evidence of active ischemia and worsening neurological signs.",
+            "hit": true
+        },
+        {
+            "step": "<Step 9> The final diagnosis was severe stenosis of the right internal carotid artery leading to symptomatic ischemia and early neurological deterioration (END), as evidenced by imaging studies and clinical manifestations.",
+            "hit": true
+        },
+        {
+            "step": "<Step 10> The presence of APCV on SWI supported the diagnosis of inadequate collateral circulation and cerebral hypoperfusion, confirming the cause of END.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.7,
+    "factulity": 1.0,
+    "recall": 0.8
+}

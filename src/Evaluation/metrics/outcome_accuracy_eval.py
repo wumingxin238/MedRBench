@@ -1,5 +1,8 @@
-from utils import workflow, load_instruction
-from web_search import BingSearchTool
+import os
+
+from metrics.utils import workflow, load_instruction
+
+_INSTRUCTIONS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'instructions')
 
 def eval_accuracy_with_websearch(pred_outcome_answer, gt_outcome_answer, case_info, evaluation_model = "gpt-4o-2024-11-20"):
     """Evaluate the accuracy of a treatment prediction against ground truth wtih websearch.
@@ -13,8 +16,10 @@ def eval_accuracy_with_websearch(pred_outcome_answer, gt_outcome_answer, case_in
         Tuple containing (keywords, search_results, is_correct_boolean)
     """
 
+    from metrics.web_search import BingSearchTool
+
     # Generate keywords for information retrieval
-    keywords_prompt_template = load_instruction('./instruction/treatment_plan_extract_keywords.txt')
+    keywords_prompt_template = load_instruction(os.path.join(_INSTRUCTIONS_DIR, 'treatment_plan_extract_keywords.txt'))
     keywords_prompt = keywords_prompt_template.format(info=case_info)
     system_prompt = 'You are a professional evaluator of medical knowledge.'
     keywords = workflow(model_name=evaluation_model, instruction=system_prompt, input_text=keywords_prompt)
@@ -23,7 +28,7 @@ def eval_accuracy_with_websearch(pred_outcome_answer, gt_outcome_answer, case_in
     search_results = BingSearchTool(keywords, return_num=3)
    
     # Evaluate accuracy with retrieved information
-    evaluation_template = load_instruction('./instruction/acc_treatment_plan.txt')
+    evaluation_template = load_instruction(os.path.join(_INSTRUCTIONS_DIR, 'acc_treatment_plan.txt'))
     evaluation_prompt = evaluation_template.format(
         pred_treatment=pred_outcome_answer, 
         gt_treatment=gt_outcome_answer, 
@@ -46,7 +51,7 @@ def eval_accuracy(pred_outcome_answer, gt_outcome_answer, evaluation_model = "gp
     Returns:
         is_correct_boolean
     """
-    evaluation_template = load_instruction('./instructions/acc_diagnose.txt')
+    evaluation_template = load_instruction(os.path.join(_INSTRUCTIONS_DIR, 'acc_diagnose.txt'))
     evaluation_prompt = evaluation_template.format(
         pred_diagnose=pred_outcome_answer, 
         gt_diagnose=gt_outcome_answer, 

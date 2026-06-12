@@ -1,0 +1,115 @@
+{
+    "raw_case": "\nPresentation of Sex Chromosomal Disorders of Sex Development With Genital Ambiguity: A Case Report on a Rare Medical Condition\nKlinefelter syndrome (KS; XXY syndrome) is a common chromosomal abnormality associated with various physical and developmental characteristics. It rarely presents with ambiguous genitalia, a feature more typical of disorders of sex development (DSDs). Here, we describe a case of a five-month-old male infant with 47,XXY karyotype who presented with ambiguous genitalia which include bifid scrotum, small phallus, and penoscrotal hypospadias. Initial anthropometry and ultrasound evaluations were followed by hormonal and genetic analyses. Elevated follicle-stimulating hormone and low testosterone levels led to further testing, including a human chorionic gonadotropin stimulation test and karyotyping, which confirmed 47,XXY KS. This case underscores the need for thorough genetic evaluation in infants presenting with ambiguous genitalia, highlighting that KS can present with features overlapping DSDs. Comprehensive diagnostic approaches combining genetic, endocrinological, and clinical assessments are crucial for accurate diagnosis and management. This case aims to raise awareness among paediatricians about the potential for atypical genital presentations in KS and the importance of karyotype analysis in such scenarios.\n\nIntroduction\n\nKlinefelter syndrome (KS; XXY syndrome) is a relatively common chromosomal abnormality, affecting approximately one in 500 to 1,000 live births. It is characterized by tall stature, learning difficulties, gynecomastia, and an altered ratio between the upper and lower body segments. Affected individuals often have hypotonia, clinodactyly, and hypertelorism. Testicular abnormalities include small testes with low-normal androgen production, leading to defective spermatogenesis and Sertoli cell function, resulting in infertility. Other genital abnormalities include a small phallus and a higher incidence of hypospadias and cryptorchidism. KS is relatively common, occurring in approximately one in 600 males with the 47,XXY karyotype. Despite being prevalent, KS is frequently misdiagnosed, leaving many people without a diagnosis until later in life [1]. Disorders of sex development (DSDs) involve atypical development of chromosomal, gonadal, or anatomical sex. External genitalia alone are rarely conclusive for a specific diagnosis, and about 50% of 46,XY DSD cases lack a definitive diagnosis. KS can rarely present with clinical manifestations similar to DSDs.\n\nCase presentation\n\nA five-month-old male child born into a nonconsanguineous marriage was referred to our outpatient department with the concern of abnormal genitalia. He was the fourth child in the family and has no significant family, perinatal, or developmental history. Anthropometry revealed a height of 65 cm (between the 10th and 25th centiles), a weight of 6.2 kg (between the 3rd and 10th centiles), and a head circumference of 43 cm (at the 25th centile). Physical examination of external genitalia revealed the bifid scrotum, small phallus (Figure 1) with a stretched penile length of 2.5 cm, and penoscrotal hypospadias. Ultrasound pelvis did not show any Mullerian structures, and renal ultrasound was normal. Laboratory analyses were conducted upon presentation (Table 1), involving screening for Congenital adrenal hyperplasia through serum cortisol level examinations. Assessment of gonadal response to gonadotropin stimulation was performed to evaluate the presence and functionality of testicular gonadal tissue.The patient was subjected to a human chorionic gonadotropin (hCG) stimulation test, where 1,500 IU of hCG was given subcutaneously [2], and 72 hours later, serum samples for testosterone (T), dihydrotestosterone (DHT), and androstenedione levels were taken and assessed. The T/DHT ratio was 11, following the hCG stimulation test. A T/DHT ratio greater than 17 shows 5-alpha reductase deficiency. Therefore, 5-alpha reductase deficiency was ruled out. Karyotyping done from the source being peripheral (venous) blood showed 47,XXY KS (Figure 2).The ratio of testosterone to androstenedione was 5:1. A ratio of testosterone to androstenedione lower than 0.8 indicates 17β-hydroxysteroid dehydrogenase III deficiency. Therefore, 17β-hydroxysteroid dehydrogenase III deficiency was ruled out.\n\nDiscussion\n\nDSDs represent a range of congenital conditions marked by atypical development of genital structures. These disorders can be associated with gene variations, developmental programming, and hormone levels [3]. The category of 46,XY DSD includes conditions such as abnormal testicular differentiation, defects in testosterone production, and impaired testosterone action. Sex chromosomal DSDs include Turner syndrome, KS, and 45,X/46,XY gonadal dysgenesis. Typically, Turner syndrome and KS do not present with genital ambiguity [3].Sreejith et al. emphasize that genetic defects may not always be apparent through physical examination alone. Thus, genetic analysis is crucial for men with infertility [4]. Guerrero-Gonzalez and Estrada have done a study on 55 patients with DSDs, noting that the neonatal period was when most DSD cases were first identified (69.09%). Among these, 58.18% were male. Common genital anomalies observed included hypospadias (45.45%), cryptorchidism (21.82%), and micropenis (12.73%). Of 28 patients with karyotyping, 12 had sex chromosome DSDs, including two patients with 46,XX DSD and 14 patients with 46,XY DSD [5]. Molecular confirmation of DSDs is often limited by cost and accessibility [6].In our case, clinical suspicion of DSDs was confirmed through karyotyping, leading to a diagnosis of KS. Khanna et al. have highlighted that while clinical history and examination are foundational for diagnosing DSDs, they should be complemented by modern diagnostic tools such as karyotyping, imaging, hormonal assays, and gonadal biopsy or endoscopy/laparoscopy [7].\n\nConclusions\n\nThis case highlights the complexity of diagnosing and managing ambiguous genitalia in infants. A comprehensive approach that integrates genetic, endocrinological, surgical, and psychological perspectives is essential for optimal care and support of the affected individual and their family. This is to increase awareness among pediatricians about the atypical presentation of genitals in the case of KS, and this case report highlights the importance of karyotype assessment in all atypical genitalia. The patient has received medical treatment, undergone genetic counseling, and has been referred to pediatric surgery. He is currently under regular follow-up care.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** Five-month-old male infant\n- **Chief Complaint:** Ambiguous genitalia\n- **History of Present Illness:** None\n- **Past Medical History:** None\n- **Personal History:** Fourth child in the family; parents are not consanguineous.\n- **Family History:** None\n- **Physical Examination:** Bifid scrotum, small phallus (stretched penile length of 2.5 cm), penoscrotal hypospadias; height, weight, and head circumference are within low-normal percentiles for age.\n- **Ancillary Tests:** \n  - No Mullerian structures seen on pelvic ultrasound; renal ultrasound normal.\n  - Hormone testing: Elevated follicle-stimulating hormone, low testosterone.\n  - Human chorionic gonadotropin (hCG) stimulation test performed; testosterone/dihydrotestosterone (T/DHT) ratio of 11 (5-alpha reductase deficiency ruled out); testosterone/androstenedione ratio of 5:1 (17β-hydroxysteroid dehydrogenase III deficiency ruled out).\n  - Karyotyping confirmed 47,XXY Klinefelter syndrome.",
+        "differential_diagnosis": "1. **Initial Hypotheses:** Ambiguous genitalia in a male infant raised suspicion for disorders of sex development (DSDs), including 46,XY DSD conditions like abnormalities in testosterone production, 5-alpha reductase deficiency, or 17β-hydroxysteroid dehydrogenase III deficiency. Sex chromosomal DSDs and genetic abnormalities were also considered.\n   \n2. **Exclusion of 46,XY DSD etiologies:**\n   - 5-alpha reductase deficiency was ruled out because the T/DHT ratio post-hCG stimulation was less than 17.\n   - 17β-hydroxysteroid dehydrogenase III deficiency was ruled out due to a testosterone/androstenedione ratio greater than 0.8.\n\n3. **Confirmation of Sex Chromosomal DSD (Klinefelter Syndrome):**\n   - Karyotyping from peripheral blood revealed a 47,XXY genotype, consistent with Klinefelter syndrome. This explained the ambiguous genitalia, as rare atypical presentations of KS involve genital ambiguity.",
+        "final_diagnosis": "The patient was diagnosed with **47,XXY Klinefelter Syndrome (KS)** presenting atypically with ambiguous genitalia. The diagnosis was based on a combination of physical examination findings, hormonal evaluation, and definitive confirmation through karyotype analysis.",
+        "diagnosis_results": "47,XXY Klinefelter Syndrome"
+    },
+    "body_category": [
+        "Male Reproductive System"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-7-18",
+    "checked_rare_disease": [
+        "Difference of sex development"
+    ],
+    "id": "PMC11416190",
+    "results": {
+        "content": "### Resoning:\n<step 1> **Analyze the Chief Complaint and Physical Exam Findings:** The primary concern is ambiguous genitalia in a five-month-old male infant. Physical examination reveals bifid scrotum, small phallus (2.5 cm), and penoscrotal hypospadias. These findings are consistent with a disorder of sexual development (DSD). The low-normal percentiles for height, weight, and head circumference are less specific but could be related to hormonal imbalances or a broader syndrome.\n\n<step 2> **Evaluate the Ultrasound Results:** The absence of Mullerian structures on pelvic ultrasound is significant. In a genetic male, the Sertoli cells in the testes produce Anti-Mullerian Hormone (AMH), which inhibits the development of Mullerian structures (uterus, fallopian tubes, upper vagina).  This finding is consistent with the patient being a genetic male or having functional testicular tissue producing AMH. Normal renal ultrasound is reassuring in excluding some broader congenital anomalies but is not directly diagnostic for the ambiguous genitalia.\n\n<step 3> **Interpret the Hormone Testing Results:**\n    - **Elevated FSH and Low Testosterone:** This hormonal profile indicates primary hypogonadism. Elevated FSH suggests that the pituitary gland is attempting to stimulate the testes to produce testosterone, but the testes are not responding adequately, resulting in low testosterone levels. This points to a problem at the testicular level.\n    - **hCG Stimulation Test:** This test assesses the Leydig cell function of the testes by stimulating them with hCG (which mimics LH). The subsequent T/DHT and Testosterone/Androstenedione ratios are used to evaluate specific enzymatic steps in testosterone synthesis.\n        - **T/DHT ratio of 11 (5-alpha reductase deficiency ruled out):** A high T/DHT ratio can suggest 5-alpha reductase deficiency, as this enzyme converts testosterone to DHT. However, the case explicitly states \"5-alpha reductase deficiency ruled out.\"  This suggests that despite the ratio, other factors or further investigation has excluded this diagnosis.\n        - **Testosterone/Androstenedione ratio of 5:1 (17β-hydroxysteroid dehydrogenase III deficiency ruled out):** A low testosterone/androstenedione ratio can suggest 17β-hydroxysteroid dehydrogenase III deficiency, as this enzyme is crucial for the final step in testosterone synthesis. However, the case explicitly states \"17β-hydroxysteroid dehydrogenase III deficiency ruled out.\" This suggests that despite the ratio, other factors or further investigation has excluded this diagnosis.\n\n<step 4> **Analyze the Karyotype Result:** The karyotype result of 47,XXY confirms Klinefelter syndrome. This genetic condition is characterized by an extra X chromosome in males. Klinefelter syndrome is a known cause of primary hypogonadism and can present with ambiguous genitalia, particularly in infancy.\n\n<step 5> **Synthesize all Findings to Reach a Diagnosis:**  The combination of ambiguous genitalia, physical examination findings (small phallus, hypospadias), hormonal profile (elevated FSH, low testosterone consistent with primary hypogonadism), and the definitive karyotype of 47,XXY (Klinefelter syndrome) strongly points to Klinefelter syndrome as the underlying diagnosis. While the hormone ratios initially might have been considered for enzymatic deficiencies, the explicit statements \"ruled out\" and the definitive karyotype are the most critical pieces of information. Klinefelter syndrome is known to be associated with disorders of sexual development, including ambiguous genitalia, due to testicular dysgenesis and subsequent hormonal imbalances.\n\n<step 6> **Final Diagnostic Conclusion:** Based on the comprehensive analysis, the final diagnosis is Klinefelter syndrome, which explains the ambiguous genitalia and hormonal abnormalities observed in this infant.\n\n### Answer:\nKlinefelter syndrome"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Analyze the Chief Complaint and Physical Exam Findings:** The primary concern is ambiguous genitalia in a five-month-old male infant. Physical examination reveals bifid scrotum, small phallus (2.5 cm), and penoscrotal hypospadias. These findings are consistent with a disorder of sexual development (DSD). The low-normal percentiles for height, weight, and head circumference are less specific but could be related to hormonal imbalances or a broader syndrome.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Evaluate the Ultrasound Results:** The absence of Mullerian structures on pelvic ultrasound is significant. In a genetic male, the Sertoli cells in the testes produce Anti-Mullerian Hormone (AMH), which inhibits the development of Mullerian structures (uterus, fallopian tubes, upper vagina).  This finding is consistent with the patient being a genetic male or having functional testicular tissue producing AMH. Normal renal ultrasound is reassuring in excluding some broader congenital anomalies but is not directly diagnostic for the ambiguous genitalia.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpret the Hormone Testing Results:**\n    - **Elevated FSH and Low Testosterone:** This hormonal profile indicates primary hypogonadism. Elevated FSH suggests that the pituitary gland is attempting to stimulate the testes to produce testosterone, but the testes are not responding adequately, resulting in low testosterone levels. This points to a problem at the testicular level.\n    - **hCG Stimulation Test:** This test assesses the Leydig cell function of the testes by stimulating them with hCG (which mimics LH). The subsequent T/DHT and Testosterone/Androstenedione ratios are used to evaluate specific enzymatic steps in testosterone synthesis.\n        - **T/DHT ratio of 11 (5-alpha reductase deficiency ruled out):** A high T/DHT ratio can suggest 5-alpha reductase deficiency, as this enzyme converts testosterone to DHT. However, the case explicitly states \"5-alpha reductase deficiency ruled out.\"  This suggests that despite the ratio, other factors or further investigation has excluded this diagnosis.\n        - **Testosterone/Androstenedione ratio of 5:1 (17β-hydroxysteroid dehydrogenase III deficiency ruled out):** A low testosterone/androstenedione ratio can suggest 17β-hydroxysteroid dehydrogenase III deficiency, as this enzyme is crucial for the final step in testosterone synthesis. However, the case explicitly states \"17β-hydroxysteroid dehydrogenase III deficiency ruled out.\" This suggests that despite the ratio, other factors or further investigation has excluded this diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Analyze the Karyotype Result:** The karyotype result of 47,XXY confirms Klinefelter syndrome. This genetic condition is characterized by an extra X chromosome in males. Klinefelter syndrome is a known cause of primary hypogonadism and can present with ambiguous genitalia, particularly in infancy.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Synthesize all Findings to Reach a Diagnosis:**  The combination of ambiguous genitalia, physical examination findings (small phallus, hypospadias), hormonal profile (elevated FSH, low testosterone consistent with primary hypogonadism), and the definitive karyotype of 47,XXY (Klinefelter syndrome) strongly points to Klinefelter syndrome as the underlying diagnosis. While the hormone ratios initially might have been considered for enzymatic deficiencies, the explicit statements \"ruled out\" and the definitive karyotype are the most critical pieces of information. Klinefelter syndrome is known to be associated with disorders of sexual development, including ambiguous genitalia, due to testicular dysgenesis and subsequent hormonal imbalances.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Final Diagnostic Conclusion:** Based on the comprehensive analysis, the final diagnosis is Klinefelter syndrome, which explains the ambiguous genitalia and hormonal abnormalities observed in this infant.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Initial hypotheses included disorders of sex development (DSDs) in a male infant with ambiguous genitalia, specifically 46,XY DSD conditions such as abnormalities in testosterone production, 5-alpha reductase deficiency, or 17β-hydroxysteroid dehydrogenase III deficiency, along with sex chromosomal DSDs and genetic abnormalities.",
+            "hit": false
+        },
+        {
+            "step": "Step 2: 5-alpha reductase deficiency was excluded due to a T/DHT ratio post-hCG stimulation less than 17.",
+            "hit": true
+        },
+        {
+            "step": "Step 3: 17β-hydroxysteroid dehydrogenase III deficiency was ruled out because the testosterone/androstenedione ratio was greater than 0.8.",
+            "hit": true
+        },
+        {
+            "step": "Step 4: Klinefelter syndrome (KS) was confirmed by karyotyping from peripheral blood, revealing a 47,XXY genotype.",
+            "hit": true
+        },
+        {
+            "step": "Step 5: The ambiguous genitalia in the patient were explained by the rare atypical presentation of Klinefelter syndrome.",
+            "hit": true
+        },
+        {
+            "step": "Step 6: The final diagnosis was 47,XXY Klinefelter syndrome (KS) presenting atypically with ambiguous genitalia.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.8333333333333334,
+    "factulity": 1.0,
+    "recall": 0.8333333333333334
+}

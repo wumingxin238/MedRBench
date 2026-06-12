@@ -1,0 +1,157 @@
+{
+    "raw_case": "\nThe conundrum of the giant condyloma: is it carcinoma?\n\n\nAbstract\n\nPerineal verrucous carcinoma is a rare variant of squamous cell carcinoma that is mainly treated with surgical excision. In this case report, we present a 58-year-old man with human immunodeficiency virus who presented with an extraordinarily large perineal mass that was ultimately found to be verrucous carcinoma in association with giant condyloma acuminata. He was treated with a wide local excision followed by staged abdominoperineal resection and fasciocutaneous flap reconstruction. In the post-operative course, the patient developed relatively short interval recurrence which was successfully managed with salvage radiotherapy. He is now post-radiation without evidence of recurrence.\n\nIntroduction\n\nPerineal verrucous carcinoma (VC) is a rare form of squamous cell carcinoma (SCC) that presents with cauliflower-like growth on anogenital regions such as penis, vulva, vagina, or perianal regions [1]. The main distinction from giant condyloma acuminanta (GCA), a similar lesion, is that VC is not associated with human papilloma virus infection (HPV) [2]. We present a rare case of VC arising in association with GCA, multidisciplinary approach to treatment, and long-term outcome.\n\nCase report\n\nA 58-year-old man with history of human immunodeficiency virus (HIV) on Genvoya and type 2 diabetes presented with a 17-month history of progressively enlarging fungating anal mass. He underwent multiple biopsies of the mass which showed only anal intraepithelial neoplasia I (AIN I), consistent with condyloma. However, given the extent of the mass (Fig. 1), incontinence, ongoing bleeding, and sepsis (erythema and purulent drainage), malignancy needed to be ruled out and definitive treatment was necessary.The patient was given blood transfusions, started on broad spectrum antibiotics, and urgently brought to the operating room to undergo exam under anesthesia which showed purulent drainage from the mass, but it was found to be limited to the right side of anal canal without intra-anal condyloma, and circumferentially clear of the dentate line. Biopsies taken at that time again showed AIN I. Staging workup for occult anal cancer by CT showed no evidence of metastatic disease or inguinal adenopathy. Latest CD4 count was 667 cell/mcL. After review at multidisciplinary cancer conference, the recommendation was to perform wide local excision to obtain definitive diagnosis as well as source control for ongoing infection (Fig. 2). Wound was temporized with wound vacuum-assisted closure (VAC) placement.The patient underwent serial debridements and wound VAC changes until final pathology was confirmed as VC arising in association with GCA measuring 28 × 13 × 6 cm (Fig. 3) without any lymphatic or vascular invasion. The tumor had pushing borders without any invasion, which distinguishes it from conventional invasive SCC (Fig. 4).Considerations were given to the patient’s pre-existing fecal incontinence, large wound requiring complex reconstruction, and local lymph node evaluation. Multidisciplinary decision was made to proceed with robotic-assisted abdominoperineal resection (APR) followed by staged reconstruction. To fill the internal pelvic defect, pedicled left inferior gluteal fold fasciocutaneous flap was passed through the levators. For the sizable external defect, pedicled right gluteal thigh fasciocutaneous flap was used to cover the midline with extension to the scrotum (Fig. 5a and b). The patient was discharged 2 weeks after reconstruction.Unfortunately, at 3 months the patient re-presented with concern of recurrence. Restaging CT and PET scan still demonstrated no metastatic disease. CD4 count was now 160 cell/mcL. Patient underwent additional wide local excision, where the recurrence was found to be tracking underneath the flaps (Fig. 6).After multidisciplinary review, the decision was made to pivot away from additional surgery to radiation, and patient underwent a total of 15 fractions of daily radiotherapy to a total dose of 4500 cGy to the perineum and post-surgical field. He completed treatment prior to discharge without complication.When seen in 6-week follow up after his latest admission, there was no evidence of recurrence and patient’s wounds have healed well (Fig. 7a and 7b).\n\nDiscussion\n\nThe differential diagnosis for perineal condyloma includes GCA, VC, or invasive SCC. While GCA is associated with low-risk HPV (types 6 and 11), VC is not [2]. Histologically, VC has deep pushing margins without any invasion [3], though it can be locally aggressive, as seen in this case. Differentiating VC from conventional SCC is crucial for management and prognosis, but distinguishing between them can be subtle and difficult.If the mass had been invasive SCC, treatment would have begun with chemoradiation first, with possible salvage APR for persistence or recurrence [4]. Resistance to chemoradiotherapy is linked to size of tumor and HIV [5, 6]. In contrast, primary treatment for VC is surgical excision [3]. Alternatively, neoadjuvant chemo-radiation therapy has been used to reduce the size of the mass to avoid colostomy and APR [7] but in this case, early excision was performed for diagnosis and sepsis control. APR was performed given that the patient had pre-existing fecal incontinence and to facilitate complex reconstruction in the irregular defect. While an APR would also be an oncologic operation for SCC, performance of a total mesorectal excision would not be expected to improve survival in VC.Following APR, various local flap reconstruction options are available including rectus abdominis flaps, gracilis flaps, and fasciocutaneous flaps from gluteal and thigh regions. In this case, inferior gluteal fold fasciocutaneous flap based on the internal pudendal artery was used to fill the pelvis [8]. These flaps are versatile for vaginal reconstruction, coverage of pressure sores, and interposition for repair of perineal fistulae. They are ideal for perineal procedures that do not require an open abdominal approach because they are elevated using the same exposure from below. Bilateral flaps can be used for more extensive coverage. Here, right inferior gluteal fold flap was not available because the flap blood supply was compromised by the necessary resection. Right-sided gluteal thigh flap based on the descending branch of the inferior gluteal artery for resurfacing of the perineal defect was chosen to allow transfer of a large, thin, pliable fasciocutaneous flap from the posterior thigh to the perineum. The gluteal thigh flap remains sensate through the posterior femoral cutaneous nerve, aiding in protective pressure offloading while sitting.Once the VC recurred and tracked inferior to the flaps, the multidisciplinary team and patient agreed to attempt non-surgical management. Given that salvage radiation has been previously described for rapidly growing recurrent perineal VC [9], the decision was made for the patient to undergo radiation therapy. Hypofractionated course of 4500 cGy radiation therapy in 15 fractions was chosen versus longer traditional fractionation due to patient’s social situation. Although hypofractionation can increase risk of fecal incontinence, this was not a concern for this patient.This report highlights a challenging case given the size of the mass and the subsequent wound, concern for underlying invasive cancer that could not be definitively demonstrated on biopsy, and the multidisciplinary involvement for diagnosis, treatment, complex reconstruction, and salvage.",
+    "generate_case": {
+        "case_summary": "- Patient Information: 58-year-old man with a history of HIV (on Genvoya) and type 2 diabetes.\n- Chief Complaint: Progressively enlarging fungating anal mass over 17 months.\n- History of Present Illness: The patient experienced a growing anal mass associated with incontinence, bleeding, and sepsis (erythema and purulent drainage). Despite multiple biopsies, malignancy was not initially detected, and findings were consistent with anal intraepithelial neoplasia I (AIN I).\n- Past Medical History: HIV, type 2 diabetes.\n- Personal History: Not detailed in the case.\n- Family History: None stated.\n- Physical Examination: Revealed a massive anal lesion limited to the right anal canal, with purulent drainage and no intra-anal involvement or inguinal lymphadenopathy.\n- Ancillary Tests: \n  - Pathology from multiple biopsies showed AIN I.\n  - CT imaging revealed no metastases or inguinal adenopathy.\n  - CD4 count at initial presentation was 667 cell/mcL.\n  - Final pathology confirmed a 28 × 13 × 6 cm tumor identified as verrucous carcinoma (VC) arising with giant condyloma acuminata (GCA), with pushing margins and no lymphovascular invasion.",
+        "differential_diagnosis": "1. **Initial Diagnosis of GCA with AIN I**:\n   - Multiple biopsies confirmed AIN I; malignancy was not initially detected. GCA (commonly linked to HPV types 6 and 11) was considered due to the clinical presentation.\n\n2. **Malignancy Considerations (VC vs. SCC)**:\n   - Ongoing bleeding, sepsis, and the mass's extensive size raised suspicion for malignancy, prompting further workup (imaging and biopsies). Pathological analysis confirmed VC, not SCC, as VC has a distinct histological profile with deep pushing borders and no invasion.\n\n3. **Exclusion of Other Malignancies**:\n   - SCC was excluded due to the lack of invasive features on histology. CT and PET scans demonstrated no metastatic disease or lymph node involvement, ruling out advanced malignancy.\n   \n4. **Recurrent VC Post-Reconstruction**:\n   - At 3 months, recurrence underneath the surgical flaps prompted a shift from surgical to salvage radiotherapy, as VC is locally aggressive but less likely to respond to traditional chemotherapy or radical surgical measures in a recurrence setting.",
+        "final_diagnosis": "The patient was diagnosed with perineal verrucous carcinoma (VC) arising in association with giant condyloma acuminata (GCA). This conclusion was based on pathology findings of pushing tumor borders without invasion, the clinical presentation of a massive anal mass, and the exclusion of invasive squamous cell carcinoma (SCC) or metastatic disease.",
+        "diagnosis_results": "Perineal verrucous carcinoma (VC) associated with giant condyloma acuminata (GCA)."
+    },
+    "body_category": [
+        "Skin, Hair and Nails"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-8-27",
+    "checked_rare_disease": [],
+    "id": "PMC11495325",
+    "results": {
+        "content": "### Reasoning:\n\nThis case presents a complex diagnostic challenge involving a 58-year-old man with a history of HIV and type 2 diabetes, presenting with a progressively enlarging fungating anal mass over 17 months. The mass is associated with symptoms such as incontinence, bleeding, and sepsis, characterized by erythema and purulent drainage. Despite multiple biopsies, malignancy was not initially detected, and the findings were consistent with anal intraepithelial neoplasia I (AIN I). However, the final pathology revealed a large tumor diagnosed as verrucous carcinoma (VC) arising with giant condyloma acuminata (GCA), with pushing margins and no lymphovascular invasion.\n\nFirstly, it's crucial to understand the context provided by the patient's medical history. The patient has HIV managed with Genvoya and type 2 diabetes. HIV infection can compromise immune function, potentially affecting the body's response to neoplastic processes and increasing susceptibility to certain cancers, including those associated with human papillomavirus (HPV), such as anal cancer. Type 2 diabetes may also impact wound healing and immune function, contributing to the severity of the presenting symptoms.\n\nThe chief complaint is a progressively enlarging fungating anal mass, which has been present for 17 months. The mass is associated with significant morbidities, including incontinence, bleeding, and sepsis, indicating that the lesion has caused substantial local tissue damage and inflammation. The term \"fungating\" suggests that the mass is exophytic and可能有溃疡形成，这可能解释了脓性引流和出血的症状。\n\nMultiple biopsies were performed, but malignancy was not initially detected; instead, the findings were consistent with AIN I. Anal intraepithelial neoplasia (AIN) is a precancerous condition associated with HPV infection, particularly HPV 16 and 18. AIN is graded based on the degree of dysplasia: AIN I represents low-grade dysplasia, AIN II moderate dysplasia, and AIN III high-grade dysplasia or carcinoma in situ. Given that initial biopsies showed only AIN I, it was reasonable to consider that the mass might not be malignant. However, the clinical picture suggests otherwise, given the size, progression, and associated symptoms of the mass.\n\nThe physical examination revealed a massive anal lesion limited to the right anal canal, with purulent drainage and no evidence of intra-anal involvement or inguinal lymphadenopathy. This localization is important for staging and treatment planning, although the presence of a large, ulcerated mass suggests advanced local disease.\n\nImaging studies, specifically CT scans, did not reveal any metastases or inguinal adenopathy, which is favorable regarding the extent of disease. The CD4 count at presentation was 667 cells/mcL, indicating a relatively preserved immune function, considering that a CD4 count above 500 cells/mcL is generally associated with a lower risk of opportunistic infections and certain HIV-related malignancies.\n\nThe final pathology, however, confirmed a large tumor (28 x 13 x 6 cm) diagnosed as verrucous carcinoma (VC) arising with giant condyloma acuminata (GCA), with pushing margins and no lymphovascular invasion. Verrucous carcinoma is a variant of squamous cell carcinoma characterized by excessive keratinization and a pushing growth pattern without invasive fronts, which distinguishes it from more aggressive forms of squamous cell carcinoma. Giant condyloma acuminata, also known as Buschke-Löwenstein tumor, is a rare, large, exophytic lesion that originates from the anogenital region and is associated with HPV, particularly HPV 6 and 11, but can also be associated with high-risk HPV types like HPV 16 and 18.\n\nGiven this information, the initial biopsies may have sampled areas of the mass that主要表现出低级别的上皮内瘤变(AIN I),而更高级别的病变可能被忽视或未被采样到。这种情况强调了在面对不寻常或持续存在的病变时，多次活检和广泛采样的重要性，以确保不遗漏恶性病变的诊断。\n\n此外，患者长期存在的症状和病变的逐渐进展提示需要更积极的诊断方法，如更深部的活检、更大范围的组织采样或者甚至切除活检，以获得更准确的病理诊断。\n\n因此，尽管初始活检显示AIN I，但最终的病理诊断为 verrucous carcinoma 起源于 giant condyloma acuminata，这代表了一种更严重的疾病状态，需要相应的治疗和管理策略。\n\n### Answer:\n\nVerrucous carcinoma arising from giant condyloma acuminata."
+    },
+    "reasoning_eval": [
+        {
+            "step": "This case presents a complex diagnostic challenge involving a 58-year-old man with a history of HIV and type 2 diabetes, presenting with a progressively enlarging fungating anal mass over 17 months. The mass is associated with symptoms such as incontinence, bleeding, and sepsis, characterized by erythema and purulent drainage. Despite multiple biopsies, malignancy was not initially detected, and the findings were consistent with anal intraepithelial neoplasia I (AIN I). However, the final pathology revealed a large tumor diagnosed as verrucous carcinoma (VC) arising with giant condyloma acuminata (GCA), with pushing margins and no lymphovascular invasion.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Firstly, it's crucial to understand the context provided by the patient's medical history. The patient has HIV managed with Genvoya and type 2 diabetes. HIV infection can compromise immune function, potentially affecting the body's response to neoplastic processes and increasing susceptibility to certain cancers, including those associated with human papillomavirus (HPV), such as anal cancer. Type 2 diabetes may also impact wound healing and immune function, contributing to the severity of the presenting symptoms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The chief complaint is a progressively enlarging fungating anal mass, which has been present for 17 months. The mass is associated with significant morbidities, including incontinence, bleeding, and sepsis, indicating that the lesion has caused substantial local tissue damage and inflammation. The term \"fungating\" suggests that the mass is exophytic and可能有溃疡形成，这可能解释了脓性引流和出血的症状。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Multiple biopsies were performed, but malignancy was not initially detected; instead, the findings were consistent with AIN I. Anal intraepithelial neoplasia (AIN) is a precancerous condition associated with HPV infection, particularly HPV 16 and 18. AIN is graded based on the degree of dysplasia: AIN I represents low-grade dysplasia, AIN II moderate dysplasia, and AIN III high-grade dysplasia or carcinoma in situ. Given that initial biopsies showed only AIN I, it was reasonable to consider that the mass might not be malignant. However, the clinical picture suggests otherwise, given the size, progression, and associated symptoms of the mass.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The physical examination revealed a massive anal lesion limited to the right anal canal, with purulent drainage and no evidence of intra-anal involvement or inguinal lymphadenopathy. This localization is important for staging and treatment planning, although the presence of a large, ulcerated mass suggests advanced local disease.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Imaging studies, specifically CT scans, did not reveal any metastases or inguinal adenopathy, which is favorable regarding the extent of disease. The CD4 count at presentation was 667 cells/mcL, indicating a relatively preserved immune function, considering that a CD4 count above 500 cells/mcL is generally associated with a lower risk of opportunistic infections and certain HIV-related malignancies.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The final pathology, however, confirmed a large tumor (28 x 13 x 6 cm) diagnosed as verrucous carcinoma (VC) arising with giant condyloma acuminata (GCA), with pushing margins and no lymphovascular invasion. Verrucous carcinoma is a variant of squamous cell carcinoma characterized by excessive keratinization and a pushing growth pattern without invasive fronts, which distinguishes it from more aggressive forms of squamous cell carcinoma. Giant condyloma acuminata, also known as Buschke-Löwenstein tumor, is a rare, large, exophytic lesion that originates from the anogenital region and is associated with HPV, particularly HPV 6 and 11, but can also be associated with high-risk HPV types like HPV 16 and 18.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Given this information, the initial biopsies may have sampled areas of the mass that主要表现出低级别的上皮内瘤变(AIN I),而更高级别的病变可能被忽视或未被采样到。这种情况强调了在面对不寻常或持续存在的病变时，多次活检和广泛采样的重要性，以确保不遗漏恶性病变的诊断。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "此外，患者长期存在的症状和病变的逐渐进展提示需要更积极的诊断方法，如更深部的活检、更大范围的组织采样或者甚至切除活检，以获得更准确的病理诊断。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "因此，尽管初始活检显示AIN I，但最终的病理诊断为 verrucous carcinoma 起源于 giant condyloma acuminata，这代表了一种更严重的疾病状态，需要相应的治疗和管理策略。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Multiple biopsies confirmed AIN I, and malignancy was not initially detected; GCA was considered due to the clinical presentation and its common link to HPV types 6 and 11.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Ongoing bleeding, sepsis, and the extensive size of the mass raised suspicion for malignancy, prompting further workup with imaging and biopsies.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Pathological analysis confirmed verrucous carcinoma (VC) based on its distinct histological profile with deep pushing borders and no invasion, ruling out squamous cell carcinoma (SCC).",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> SCC was excluded due to the lack of invasive features on histology, and CT and PET scans demonstrated no metastatic disease or lymph node involvement, ruling out advanced malignancy.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> At 3 months post-reconstruction, recurrence underneath the surgical flaps prompted a shift from surgical intervention to salvage radiotherapy, as VC is locally aggressive and less responsive to traditional chemotherapy or radical surgery in recurrence settings.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> The patient was diagnosed with perineal verrucous carcinoma (VC) arising in association with giant condyloma acuminata (GCA), based on pathology findings of pushing tumor borders without invasion, the clinical presentation of a massive anal mass, and the exclusion of invasive SCC or metastatic disease.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.9,
+    "factulity": 1.0,
+    "recall": 1.0
+}

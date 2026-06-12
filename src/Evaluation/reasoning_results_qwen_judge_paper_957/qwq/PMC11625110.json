@@ -1,0 +1,115 @@
+{
+    "raw_case": "\nFœtal sacrococcygeal teratoma type I: A case report\nSacrococcygeal teratoma (SCT) is a rare congenital tumor typically diagnosed in neonates, with management challenges arising from the size of the tumor and associated delivery complications. In this case, a 32-year-old gravida 5 para 5 woman with a history of three prior cesarean sections was diagnosed with a giant type I SCT at 30 weeks of gestation through prenatal ultrasound, confirmed by fetal MRI. At 34 weeks, an emergency cesarean section was performed due to acute fetal distress, resulting in a newborn with transient respiratory distress. Postnatal imaging classified the tumor as type I SCT, and it was successfully excised on the third day of life without complications. The patient recovered well and was discharged on day fifteen. This case highlights the importance of early prenatal diagnosis, surgical intervention, and multidisciplinary care in managing large SCTs.\n\nIntroduction\n\nSacrococcygeal teratoma (SCT) is the most common tumor in neonates, with an incidence of 1 in 20,000 to 40,000 live births. Prenatal diagnosis should systematically include an MRI. Typically, outcomes following surgery are favorable, especially when cases are identified and treated early, with recurrence rates after surgery estimated at 10-15% [1]. However, managing large tumors, as in our case, presents significant challenges. There is a high risk of rupture, particularly during delivery and neonatal care. Surgical management in such cases is complex, requiring intricate procedures to achieve successful tumor resection [2]. Here, we present our experience with a giant sacrococcygeal teratoma in a newborn girl, diagnosed prenatally using fetal MRI. This report follows the SCARE guidelines [3].\n\nPresentation of case\n\nA 32-year-old multiparous woman (gravida 5, para 5) with a history of three cesarean sections and one vaginal delivery presented at 30 weeks of gestation with polyhydramnios. Her pregnancy was unplanned, poorly monitored, and complicated by undiagnosed gestational diabetes. Ultrasound revealed a type I sacrococcygeal teratoma without fetal anemia or hydrops (Fig. 1). Fetal MRI was performed to assess intra-abdominal extension (Fig. 2). A multidisciplinary team decided on a cesarean delivery at 37 weeks. However, emergency cesarean delivery was required at 36 weeks due to acute fetal distress. The newborn experienced transient respiratory distress, which resolved within two hours. After stabilization, the infant was transferred to pediatric surgery. Physical examination revealed a sizeable sacrococcygeal tumor measuring approximately 35 × 40 × 20 cm with a lobulated surface and variable consistency. Abdominal ultrasound and CT imaging confirmed a solid-cystic mass with minimal intrapelvic extension (1 cm) and no involvement of critical structures such as the rectum, bladder, spinal cord, or significant vessels. The tumor was classified as type I SCT according to the AAPSS classification. Laboratory results were within normal limits, except for a slightly elevated alpha-fetoprotein. On the third day of life, the tumor was excised, including the coccyx, with careful attention to avoid rupture. The infant recovered well and was discharged on day fifteen postoperatively Fig. 3, Fig. 4.\n\nDiscussion\n\nSCT, predominantly affecting female neonates, is an extragonadal germ cell tumor (GCT) that arises during fetal and neonatal stages. Diagnosing SCT during pregnancy is challenging and can lead to obstetrical complications [2,4]. Management requires a multidisciplinary team involving obstetricians, radiologists, and pediatric surgeons. While fetal interventions such as devascularization and debulking are being explored for high-risk cases, they remain experimental [4]. Postnatal surgical excision is the primary treatment, and complete resection is crucial to prevent recurrence, which occurs in 10%-15% of cases, particularly with incomplete resection or malignant histology [1,4]. Long-term follow-up with alpha-fetoprotein monitoring and regular imaging is essential for early detection of recurrence, metastasis, or malignancy [4]. Survivors may experience late complications, underscoring the importance of comprehensive follow-up care.\n\nConclusion\n\nThis case highlights the utility of prenatal MRI in diagnosing type I SCT and guiding neonatal management and surgical planning. Managing SCT requires a multidisciplinary approach, from prenatal diagnosis to surgical intervention and long-term follow-up. Further research into fetal interventions and surgical techniques is crucial for improving outcomes and patient quality of life.\n\nEthical approval\n\nThe local Ethical Committee of Maternity and Neonatology Center of Tunis, Tunis, Tunisia, approved this study on 11 May 2024 (Approval Number: 45/2024).\n\nPatient consent\n\nWritten informed consent was obtained from the patient's parents/legal guardians for publication and accompanying images. The editor-in-chief of this journal can review a copy of the written consent upon request.",
+    "generate_case": {
+        "case_summary": "- Patient Information: 32-year-old gravida 5 para 5 woman.\n- Chief Complaint: Polyhydramnios identified at 30 weeks' gestation.\n- History of Present Illness: Unplanned and poorly monitored pregnancy complicated by undiagnosed gestational diabetes. Diagnosed with type I sacrococcygeal teratoma (SCT) at 30 weeks via prenatal ultrasound and confirmed with fetal MRI. No fetal anemia or hydrops reported.\n- Past Medical History: History of three cesarean sections and one vaginal delivery.\n- Personal History: None.\n- Family History: None mentioned.\n- Physical Examination: Newborn presented with a large sacrococcygeal tumor (35 × 40 × 20 cm) with a lobulated surface. No critical structure involvement identified.\n- Ancillary Tests: Normal laboratory results aside from a mildly elevated alpha-fetoprotein. Postnatal imaging (CT and ultrasound) confirmed a solid-cystic tumor classified as type I SCT with minimal intrapelvic extension (<1 cm).",
+        "differential_diagnosis": "1. The primary condition considered was a congenital sacrococcygeal teratoma (SCT), given the prenatal imaging findings and tumor location.\n2. The absence of fetal anemia, hydrops, and critical structure involvement helped narrow the diagnosis to type I SCT, confirmed via imaging (fetal MRI and postnatal scans).\n3. Malignant teratoma was excluded due to no significant lab abnormalities beyond a mild alpha-fetoprotein elevation and the absence of malignant features in histopathology.\n4. Other solid-cystic neonatal tumors (e.g., myelomeningocele, lipoma) were excluded based on imaging, physical examination, and tumor characteristics.",
+        "final_diagnosis": "The newborn was diagnosed with a type I sacrococcygeal teratoma (benign) based on prenatal and postnatal imaging, physical examination findings, and successful surgical resection with no evidence of malignancy or residual disease.",
+        "diagnosis_results": "Type I sacrococcygeal teratoma (SCT)."
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-8-30",
+    "checked_rare_disease": [
+        "Sacrococcygeal teratoma"
+    ],
+    "id": "PMC11625110",
+    "results": {
+        "content": "### Reasoning:\n\n**Step 1: Understanding the Case**\n\nI have a 32-year-old woman, gravida 5 para 5, who was found to have polyhydramnios at 30 weeks' gestation. Her pregnancy was unplanned and poorly monitored, and she had undiagnosed gestational diabetes. At 30 weeks, a prenatal ultrasound identified a type I sacrococcygeal teratoma (SCT), which was confirmed by fetal MRI. There was no fetal anemia or hydrops reported. Her past medical history includes three cesarean sections and one vaginal delivery.\n\n**Step 2: Newborn Presentation**\n\nThe newborn presented with a large sacrococcygeal tumor measuring 35 x 40 x 20 cm, with a lobulated surface. There was no involvement of critical structures, and postnatal imaging (CT and ultrasound) showed a solid-cystic tumor classified as type I SCT with minimal intrapelvic extension (<1 cm). Laboratory tests showed normal results except for mildly elevated alpha-fetoprotein.\n\n**Step 3: Understanding Sacrococcygeal Teratomas (SCTs)**\n\nSacrococcygeal teratomas are tumors that arise from the sacrococcygeal region and are more common in female newborns. They are classified into four types based on their location and extent:\n\n- **Type I:** Exophytic, with the tumor entirely external to the pelvis.\n\n- **Type II:** The tumor is predominantly external but has some pelvic extension.\n\n- **Type III:** Mostly pelvic with an external component.\n\n- **Type IV:** Completely intrapelvic.\n\nIn this case, the tumor is classified as type I with minimal intrapelvic extension (<1 cm), which suggests it is mainly external.\n\n**Step 4: Association with Gestational Diabetes**\n\nThe patient had undiagnosed gestational diabetes, which may have contributed to the polyhydramnios. Polyhydramnios can be associated with various fetal anomalies, including gastrointestestinal defects, central nervous system anomalies, and chromosomal abnormalities. However, in this case, the primary concern is the sacrococcygeal teratoma.\n\n**Step 5: Alpha-Fetoprotein Levels**\n\nMildly elevated alpha-fetoprotein (AFP) levels can be associated with neural tube defects and certain tumors, including teratomas. The elevation in this case is likely due to the presence of the teratoma.\n\n**Step 6: Management and Prognosis**\n\nFor type I SCTs, the primary treatment is surgical excision. Given that the tumor is mainly external with minimal pelvic extension, surgical removal is feasible. The fact that there was no fetal anemia or hydrops is positive, as these can be complications associated with larger or more invasive tumors.\n\n**Step 7: Consideration of Previous Surgeries**\n\nThe patient has a history of three cesarean sections and one vaginal delivery. This history is important for considering the approach to delivery and potential obstetric complications, but in this case, the focus is on the neonatal tumor.\n\n**Step 8: Final Diagnosis Confirmation**\n\nGiven the prenatal ultrasound and MRI findings, along with postnatal imaging confirming a type I SCT with minimal intrapelvic extension, the diagnosis is clear. The large size of the tumor and its location make it distinct, and the laboratory findings support the presence of a teratoma.\n\n**Step 9: Differential Diagnosis**\n\nWhile SCT is the primary diagnosis, other tumors in the sacrococcygeal region are rare. Differential diagnoses might include other types of tumors such as sarcomas or neurogenic tumors, but given the prenatal diagnosis and imaging findings consistent with a teratoma, this seems less likely.\n\n**Step 10: Conclusion**\n\nThe diagnosis is type I sacrococcygeal teratoma in a newborn, with minimal intrapelvic extension, confirmed by prenatal and postnatal imaging studies. The management will involve surgical excision, and the prognosis is generally good for type I SCTs.\n\n### Answer:\n\nType I sacrococcygeal teratoma"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Step 1: Understanding the Case**",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "I have a 32-year-old woman, gravida 5 para 5, who was found to have polyhydramnios at 30 weeks' gestation. Her pregnancy was unplanned and poorly monitored, and she had undiagnosed gestational diabetes. At 30 weeks, a prenatal ultrasound identified a type I sacrococcygeal teratoma (SCT), which was confirmed by fetal MRI. There was no fetal anemia or hydrops reported. Her past medical history includes three cesarean sections and one vaginal delivery.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Step 2: Newborn Presentation**",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "The newborn presented with a large sacrococcygeal tumor measuring 35 x 40 x 20 cm, with a lobulated surface. There was no involvement of critical structures, and postnatal imaging (CT and ultrasound) showed a solid-cystic tumor classified as type I SCT with minimal intrapelvic extension (<1 cm). Laboratory tests showed normal results except for mildly elevated alpha-fetoprotein.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Step 3: Understanding Sacrococcygeal Teratomas (SCTs)**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Sacrococcygeal teratomas are tumors that arise from the sacrococcygeal region and are more common in female newborns. They are classified into four types based on their location and extent:",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "- **Type I:** Exophytic, with the tumor entirely external to the pelvis.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "- **Type II:** The tumor is predominantly external but has some pelvic extension.",
+            "efficiency": "Redundancy",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "- **Type III:** Mostly pelvic with an external component.",
+            "efficiency": "Redundancy",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "- **Type IV:** Completely intrapelvic.",
+            "efficiency": "Redundancy",
+            "factulity": null,
+            "judgment_path": []
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> The primary condition considered was a congenital sacrococcygeal teratoma (SCT), given the prenatal imaging findings and tumor location.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> The absence of fetal anemia, hydrops, and critical structure involvement helped narrow the diagnosis to type I SCT, confirmed via imaging (fetal MRI and postnatal scans).",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Malignant teratoma was excluded due to no significant lab abnormalities beyond a mild alpha-fetoprotein elevation and the absence of malignant features in histopathology.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Other solid-cystic neonatal tumors (e.g., myelomeningocele, lipoma) were excluded based on imaging, physical examination, and tumor characteristics.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> The newborn was diagnosed with a type I sacrococcygeal teratoma (benign) based on prenatal and postnatal imaging, physical examination findings, and successful surgical resection with no evidence of malignancy or residual disease.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.1,
+    "factulity": 1.0,
+    "recall": 1.0
+}

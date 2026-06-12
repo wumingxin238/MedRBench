@@ -1,0 +1,121 @@
+{
+    "raw_case": "\nAn uncommon cause of epigastric pain in a child: falciform ligament appendigitis\nFalciform ligament is a double fold of the peritoneum which has fat attached to it. The torsion of this fat leads to appendigitis which is a rare cause of acute severe epigastric pain. A 7-year-old boy presented with severe epigastric pain and vomiting of 3 days duration with associated epigastric tenderness. Ultrasound showed echogenic mass lesion adjacent to falciform ligament without color flow with associated thickening of the ligament which resolved after 01 week on follow up visit. Falciform ligament appendigitis is a rare cause of epigastric pain in the general spopulation and in pediatrics age group which should be considered in appropriate clinical setup. Early suggestion of falciform ligament appendigitis by a radiologist can help to avoid unnecessary surgeries as the clinical picture of this benign process overlaps with other surgical emergencies.\n\nIntroduction\n\nFalciform ligament is a double fold of the peritoneum which anatomically divides the liver into right and left lobes [1]. The falciform ligament contains extraperitoneal fat [2]. Intraperitoneal focal fat infarction is the umbrella term referring to self-limiting group of diseases as a result of primary inflammatory or ischemic change of peritoneal fat. It includes epiploic appendigitis, omental infarction and perigastric appendagitis. Among these perigastric appendigitis is the rarest. Perigastric appendigitis in turn involves the gastrohepatic, gastrosplenic and falciform ligament [[1], [3]]. Patient with falciform ligament appendigitis presents with epigastric pain which is non specific and laboratory tests are usually nonrevealing. So, imaging plays crucial role in suggesting the diagnosis. Falciform ligament appendigitis is uncommon and there is very little documentation on the current literature [2]. Here we present a case of falciform ligament appendigitis in a 7-year-old boy who presented with epigastric pain of 03 days duration.\n\nCase presentation\n\nWe report a case of 7-year-old boy who presented with severe epigastric pain and vomiting of 03 days duration. No history of trauma, no history of change in bowel habit, no history of fever. Physical examination showed epigastric tenderness. The vital signs were in the normal range. The treating physician ordered laboratory tests and abdominal ultrasound. The CBC result revealed all parameters are in the normal range (WBC = 5.6 × 109/L, Hgb = 14 g/dL, Platelet= 240 × 109/L). Liver enzymes (ALT = 32 IU, AST = 33 IU, ALP = 50 IU) and Renal function test (Creatinine = 0.6mg/dL, BUN = 16 mg/dL) are also nonrevealing.Abdominal ultrasound revealed thickened and edematous falciform ligament with associated well defined mass lesion in-continuity with the ligament. The lesion is echogenic with rim of hypoechogenicity. On color doppler interrogation no color flow detected. It measures 2.7 cm x 1.4 cm (Fig. 1). The appendix was visualized at the RLQ and had normal transverse diameter of 4.3 mm with compressible lumen. With these findings the diagnosis of falciform ligament appendigitis was suggested and follow up ultrasound scan after 01 week recommended. Treating physician counseled the parents, prescribed po antipain (Ibuprofen 100 mg/5 mL,7.5 mL, po, PRN) and appointed the patient after 01 week. Up on follow up visit after 01 week the epigastric pain gone and the boy presented to the ultrasound room with cheerful well looking appearance. Follow up ultrasound scan revealed normal appearing nonedematous falciform ligament with the adjacent lesion resolved not visualized on the scan (Fig. 2). This confirmed the diagnosis and the patient was sent home.\n\nDiscussion\n\nIntra-abdominal focal fat infarction usually affects the larger omentum or epiploic appendages. It rarely affects the perigastric ligaments which includes gastrohepatic, gastrosplenic, and falciform ligaments [4]. These ligaments may experience ischemia and inflammation due to torsion of the fat. Patients typically appear with severe abdominal pain. The location of the involved peritoneal fat determines the location of pain. In falciform ligament appendigitis patients usually present with acute epigastric pain and tenderness [5]. Pediatric patients with focal epigastric discomfort are considerably more likely to have inflammatory disorders such acute gastritis, cholecystitis, or pancreatitis as a cause. As the clinical presentation overlaps with more common illnesses, high index of suspicion is required during imaging these patients in order to suggest the diagnosis of falciform ligament appendigitis. This avoids unnecessary surgery as the main stay of treatment is conservative [[1], [5], [6]].CT scan or ultrasound can be used to diagnose toted falciform ligament fatty appendage. Ultrasound has several advantages over CT scan [[5], [7]]. The first and most being because it is radiation free which is a big concern especially in children. The other is its easy accessibility and it its capability of real-time imaging. The ultrasound finding of falciform ligament appendigitis is hyperechoic mass lesion at the falciform ligament region at the location of maximal epigastric tenderness and showing no internal color flow. The lesion usually disappears during follow up as the inflammatory process subside and the nonviable appendage is absorbed [[5], [6]].Conservative management is the preferred treatment option given the benign self-resolving nature of the disease. In that regard, the choice of treatment is using NSAID antipains. Surgical resection of the fatty ligament is preserved for cases with unresolving and persistent abdominal pain [[1], [5]].\n\nConclusion\n\nFalciform ligament appendigitis is an uncommon cause of epigastric pain in children. As its clinical presentation overlaps with more common other causes of acute abdomen imaging plays crucial role in diagnosing the condition. Radiologists should have understanding and high index of suspicion for fat infarctions in order to avoid unnecessary surgeries because conservative management is the first line of treatment.\n\nPatient consent\n\nWritten informed consent was obtained from the parents for anonymized patient information to be published in this article.",
+    "generate_case": {
+        "case_summary": "- Patient Information: 7-year-old boy.\n- Chief Complaint: Severe epigastric pain and vomiting for 3 days.\n- History of Present Illness: Severe epigastric pain for 3 days, accompanied by vomiting; no history of trauma, fever, or changes in bowel habits.\n- Past Medical History: None provided.\n- Personal History: None provided.\n- Family History: None provided.\n- Physical Examination: Epigastric tenderness; vital signs within normal ranges.\n- Ancillary Tests:  \n  - Laboratory tests: Normal CBC (WBC = 5.6 × 10^9/L, Hgb = 14 g/dL, Platelets = 240 × 10^9/L); normal liver enzymes (ALT = 32 IU, AST = 33 IU, ALP = 50 IU); normal renal functions (Creatinine = 0.6 mg/dL, BUN = 16 mg/dL).  \n  - Ultrasound: Thickened, edematous falciform ligament with a well-defined echogenic mass lesion adjacent to the ligament (2.7 × 1.4 cm), without internal color flow; normal appendix in the right lower quadrant. Follow-up ultrasound after 1 week showed resolution of the lesion and normal appearances of the falciform ligament.",
+        "differential_diagnosis": "- **Step 1: Consider common causes of epigastric pain in children.** Differential diagnoses may include acute gastritis, pancreatitis, peptic ulcer disease, or gallbladder pathology. However, laboratory tests and the absence of associated findings such as fever, elevated pancreatic enzymes, or enlarged gallbladder on imaging helped exclude these conditions.\n- **Step 2: Evaluate for intra-abdominal fat infarction.** Given the absence of systemic symptoms and imaging findings of an echogenic mass without internal color flow associated with the falciform ligament, the possibility of falciform ligament appendigitis was considered. The imaging findings were critical for narrowing the diagnosis, as the clinical presentation overlaps with other causes of acute abdomen.\n- **Step 3: Rule out appendicitis.** A normal appendix on ultrasound with a compressible lumen and appropriate diameter excluded appendicitis.\n- **Step 4: Confirm diagnosis through follow-up.** The resolution of the lesion on follow-up ultrasound and the relief of symptoms with NSAIDs confirmed the self-limiting nature and diagnosis of falciform ligament appendigitis, excluding scenarios requiring surgical management.",
+        "final_diagnosis": "Falciform ligament appendigitis.",
+        "diagnosis_results": "Falciform ligament appendigitis."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Injuries and Wounds"
+    ],
+    "receive_time": "2024-8-31",
+    "checked_rare_disease": [],
+    "id": "PMC11460365",
+    "results": {
+        "content": "### Resoning:\n<step 1> Analyze the chief complaint and history: The 7-year-old boy presents with severe epigastric pain and vomiting for 3 days. The acute onset and location of pain are important. The absence of fever reduces the likelihood of a typical infectious process, and no bowel changes make primary bowel obstruction less likely. No trauma history rules out traumatic injury.\n\n<step 2> Review physical examination findings: Epigastric tenderness corroborates the location of the pain. Normal vital signs suggest the condition is not immediately life-threatening.\n\n<step 3> Evaluate laboratory test results: Normal CBC, liver enzymes, and renal function tests largely exclude common causes of abdominal pain associated with systemic inflammation, liver pathology, or kidney issues.  This makes common infections and metabolic disturbances less probable as primary causes.\n\n<step 4> Interpret ultrasound findings: The initial ultrasound reveals a thickened, edematous falciform ligament with a well-defined echogenic mass lesion adjacent to it. The lack of internal color flow suggests it's not a highly vascularized lesion, potentially ruling out certain tumors or vascular malformations. The location adjacent to the falciform ligament is key. The normal appendix rules out appendicitis.\n\n<step 5> Consider the follow-up ultrasound result: The resolution of the lesion and normalization of the falciform ligament after one week is critical. This rapid spontaneous resolution strongly suggests a benign and self-limiting condition.\n\n<step 6> Formulate a differential diagnosis based on the findings: Given the epigastric pain, ultrasound findings of a transient mass associated with the falciform ligament, and spontaneous resolution, the most likely diagnosis is a self-limiting inflammatory process involving the falciform ligament region.  Possible conditions include:\n    - **Falciform ligament epiploic appendagitis or omentitis:** Epiploic appendages are small fat-filled sacs attached to the colon, but similar fatty tissue can be associated with the falciform ligament. Inflammation or torsion of such an appendage or localized omentitis in this region could explain the findings. These are known to be self-limiting and can cause acute abdominal pain.\n    - **Focal fat necrosis around the falciform ligament:** This is another benign, self-resolving condition that could present with pain and a transient mass-like lesion on imaging.\n    - Less likely but consider briefly:  Atypical presentation of other conditions, but the rapid resolution makes most infectious or neoplastic processes less likely. Gallbladder pathology is less likely given the location and normal liver enzymes.\n\n<step 7> Determine the most probable final diagnosis:  Based on the clinical picture of acute epigastric pain, the ultrasound finding of a transient lesion near the falciform ligament, and its spontaneous resolution, the most fitting diagnosis is **Falciform ligament epiploic appendagitis or omentitis**.  The rapid resolution observed in the follow-up ultrasound strongly supports this diagnosis as these conditions are known to be self-limiting.  Given the location specified as *adjacent to the ligament*, \"Falciform ligament epiploic appendagitis\" is a precise and accurate diagnosis.\n\n\n### Answer:\nFalciform ligament epiploic appendagitis"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Analyze the chief complaint and history: The 7-year-old boy presents with severe epigastric pain and vomiting for 3 days. The acute onset and location of pain are important. The absence of fever reduces the likelihood of a typical infectious process, and no bowel changes make primary bowel obstruction less likely. No trauma history rules out traumatic injury.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Review physical examination findings: Epigastric tenderness corroborates the location of the pain. Normal vital signs suggest the condition is not immediately life-threatening.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Evaluate laboratory test results: Normal CBC, liver enzymes, and renal function tests largely exclude common causes of abdominal pain associated with systemic inflammation, liver pathology, or kidney issues.  This makes common infections and metabolic disturbances less probable as primary causes.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Interpret ultrasound findings: The initial ultrasound reveals a thickened, edematous falciform ligament with a well-defined echogenic mass lesion adjacent to it. The lack of internal color flow suggests it's not a highly vascularized lesion, potentially ruling out certain tumors or vascular malformations. The location adjacent to the falciform ligament is key. The normal appendix rules out appendicitis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Consider the follow-up ultrasound result: The resolution of the lesion and normalization of the falciform ligament after one week is critical. This rapid spontaneous resolution strongly suggests a benign and self-limiting condition.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Formulate a differential diagnosis based on the findings: Given the epigastric pain, ultrasound findings of a transient mass associated with the falciform ligament, and spontaneous resolution, the most likely diagnosis is a self-limiting inflammatory process involving the falciform ligament region.  Possible conditions include:\n    - **Falciform ligament epiploic appendagitis or omentitis:** Epiploic appendages are small fat-filled sacs attached to the colon, but similar fatty tissue can be associated with the falciform ligament. Inflammation or torsion of such an appendage or localized omentitis in this region could explain the findings. These are known to be self-limiting and can cause acute abdominal pain.\n    - **Focal fat necrosis around the falciform ligament:** This is another benign, self-resolving condition that could present with pain and a transient mass-like lesion on imaging.\n    - Less likely but consider briefly:  Atypical presentation of other conditions, but the rapid resolution makes most infectious or neoplastic processes less likely. Gallbladder pathology is less likely given the location and normal liver enzymes.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Determine the most probable final diagnosis:  Based on the clinical picture of acute epigastric pain, the ultrasound finding of a transient lesion near the falciform ligament, and its spontaneous resolution, the most fitting diagnosis is **Falciform ligament epiploic appendagitis or omentitis**.  The rapid resolution observed in the follow-up ultrasound strongly supports this diagnosis as these conditions are known to be self-limiting.  Given the location specified as *adjacent to the ligament*, \"Falciform ligament epiploic appendagitis\" is a precise and accurate diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Consider common causes of epigastric pain in children, including acute gastritis, pancreatitis, peptic ulcer disease, or gallbladder pathology. Laboratory tests and imaging ruled out these conditions due to the absence of associated findings such as fever, elevated pancreatic enzymes, or an enlarged gallbladder.",
+            "hit": false
+        },
+        {
+            "step": "Step 2: Evaluate for intra-abdominal fat infarction given the absence of systemic symptoms and imaging findings of an echogenic mass without internal color flow associated with the falciform ligament, suggesting falciform ligament appendicitis.",
+            "hit": false
+        },
+        {
+            "step": "Step 3: Rule out appendicitis by confirming a normal appendix on ultrasound with a compressible lumen and appropriate diameter.",
+            "hit": true
+        },
+        {
+            "step": "Step 4: Confirm the diagnosis of falciform ligament appendicitis through follow-up ultrasound showing resolution of the lesion and relief of symptoms with NSAIDs, indicating a self-limiting condition.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.5
+}

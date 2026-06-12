@@ -2,11 +2,15 @@ import re
 from typing import List, Optional
 
 def get_reasoning_content(content: str) -> str:
+    if not content:
+        return ""
     content = content.replace('```', '').strip()
     if '### Reasoning:' in content:
         content = content.split('### Reasoning:')[1].strip()
-    elif '**Reasoning:**' in reasoning_text:
-        reasoning_text = reasoning_text.split('**Reasoning:**')[1].strip()
+    elif '### Resoning:' in content:
+        content = content.split('### Resoning:')[1].strip()
+    elif '**Reasoning:**' in content:
+        content = content.split('**Reasoning:**')[1].strip()
     elif '### Chain of Thought:' in content:
         content = content.split('### Chain of Thought:')[1].strip()
                 
@@ -17,6 +21,8 @@ def get_reasoning_content(content: str) -> str:
 
 def split_reasoning(content: str, max_steps=10) -> List[str]:
     try:
+        if not content:
+            return []
         reasoning = get_reasoning_content(content)
         
         # Extract steps using regex pattern <step 1> <step 2>

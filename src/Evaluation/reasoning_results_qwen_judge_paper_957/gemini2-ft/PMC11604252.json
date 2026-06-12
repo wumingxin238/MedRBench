@@ -1,0 +1,147 @@
+{
+    "raw_case": "\nSilent Signals: Unveiling Cochlear Nerve Deficiency in a Child Through Imaging\nCochlear nerve deficiency (CND) is a rare cause of congenital sensorineural hearing loss, often leading to serious communication challenges if not diagnosed and treated early. We present this case of a three-year-old male child with congenital hearing loss and sensory aphasia. Despite normal cochlear anatomy on computed tomography, magnetic resonance imaging (MRI) revealed the absence of the cochlear nerve on the right side. The diagnosis of right-sided CND was confirmed, and the patient was advised to undergo cochlear implantation and speech therapy. This case underscores the importance of timely imaging, particularly using MRI with high-resolution sequences, in diagnosing CND and facilitating early intervention to improve auditory and developmental outcomes.\n\nIntroduction\n\nApproximately 20% of patients with congenital sensorineural hearing loss (SNHL) exhibit radiographic anomalies in the inner ear. A wide range of pathologies can be responsible for these abnormalities [1]. The terms cochlear nerve deficiency (CND) or cochlear nerve (CN) hypoplasia or aplasia refer to a condition where the CN is either underdeveloped or completely absent. Based on radiological findings, these malformations have been estimated to be present in 0.8% to 1.8% of profoundly deaf children.Magnetic resonance imaging (MRI) is required to assess whether the nerve is defective, though it is often difficult to differentiate between hypoplasia and aplasia due to resolution limitations, especially when the internal auditory canal (IAC) is narrow [2]. However, a missing or dysfunctional cochlear branch of the vestibulocochlear nerve (VCN) could be the reason for congenital deafness and can be assessed with sub-millimetric T2-weighted gradient echo imaging. This imaging technique enables clear visualization of various cranial nerves and their branches within the internal auditory canal and cerebellopontine angle. Another effective method for identifying nerves within the IAC is axial three-dimensional Fourier transformation-constructive interference in steady state (3DFT-CISS) sequence, which facilitates identification of the cochlear branch, inferior vestibular branch, and superior vestibular branch of the VCN [1,3].However, even if the MRI reveals CN aplasia, a full battery of audiometric tests needs to be conducted to rule out other etiological factors before arriving at the final diagnosis.Here, we describe the case of one such child, highlighting the role of radiological investigation in cementing the diagnosis.\n\nCase presentation\n\nThis case is of a three-year-old male child who presented to the pediatric outpatient department with congenital hearing loss and sensory aphasia. The mother first noticed the condition when the child was six months old as he did not respond to loud sounds, particularly on the right side. As the child grew older, he failed to respond to his name or follow commands, and his parents observed that he was unable to vocalize words like other children in his age group.The child was his parents' firstborn and was delivered at term via lower segment cesarean section (LSCS) due to being large for gestational age (LGA). He cried immediately after birth, and there was no requirement for a Neonatal Intensive Care Unit (NICU) admission for any perinatal complications. His immunizations were up to date according to the recommended schedule. The mother had not observed any delays in his motor or fine sensory development.Family history revealed that the parents’ marriage was non-consanguineous. The mother also suffers from congenital hearing loss and aphasia but did not undergo any investigations to identify the cause for the same. The father, though unable to speak since childhood, has normal hearing. Although syndromes like Usher, Wolfram, and Pendred syndrome are associated with congenital hearing loss, in this case, the child presented solely with bilateral SNHL with sensory aphasia and no other abnormalities, indicating a likely non-syndromic etiology.For evaluating the child’s hearing loss, a Brainstem Evoked Response Audiometry (BERA) was performed at another hospital and it indicated bilateral hearing loss (profound on the right side, severe on the left side).High-resolution computed tomography (HRCT) of the temporal bone was done in November 2023 using the Philips Ingenuity 128-slice CT scanner (Philips Healthcare, Amsterdam, Netherlands). It revealed a normal cochlea with no structural abnormalities of the inner ear (Figures 1A-1E).Plain MRI of the temporal bone was done in February 2024 using the Siemens 3 Tesla MAGNETOM Vida MRI (Siemens Healthineers, Erlangen, Germany) with thin T1-weighted images and thin T2-weighted images in axial and coronal planes and a Constructive Interference in Steady State (CISS) sequence. On the right side, the cochlear division of the VCN was not seen in the antero-inferior quadrant, suggestive of CND (either marked hypoplasia or agenesis) (Figure 2).However, on the left side, the internal auditory canal showed normal appearance of the cochlear division of VCN in the antero-inferior quadrant (with a calibre larger than the adjacent facial nerve) (Figure 3).Bilateral internal auditory canals were normal (Figure 4).Based on this, a diagnosis of right CND was made. The parents were counselled regarding cochlear implants followed by appropriate speech therapy.\n\nDiscussion\n\nAn MRI of the temporal bone is a crucial diagnostic tool for cases of congenital profound sensorineural deafness, as it is the only test capable of evaluating the structure of the VCN and its branches [4,5].High resolution and excellent soft tissue/fluid contrast are offered by the standard IAC protocol that uses T2-weighted gradient echo or turbo gradient-spin-echo sequences with sub-millimeter inter-slice spacing and slice thickness [6]. In the present case report, CISS imaging was crucial to confirm the absence of the cochlear nerve on the right side. Additionally, imaging can be done in the axial plane, using either direct acquisition or multi-planar reconstruction to obtain bilateral parasagittal images perpendicular to the nerves. While the latter results in longer scan periods, it offers higher resolution [7].In a study done by Clemmens et al. in 2013, 128 children with unilateral SNHL underwent a high-resolution MRI study [8]. The CN's diameter, area, and signal intensity were assessed and compared to the ipsilateral facial nerve. CND was found in 26% of children with unilateral SNHL, with a higher occurrence in those with profound SNHL.In a study conducted by Nakano et al., 170 children with congenital SNHL were evaluated using CT scans [9]. CND was defined as stenosis of the bony cochlear nerve canal (BCNC), IAC, or both. CND was detected in 50% of the cases with unilateral SNHL compared to 5.3% of cases with bilateral SNHL. The majority of the CND cases were associated with syndromes or cochlear malformations. However, the cochlear anatomy was normal in the present case and unilateral CN agenesis was verified on the MRI scan.While we couldn’t delineate any genetic syndrome associated with the unilateral SNHL in this case, the possibility of additional symptoms and signs emerging over time remains. Therefore, regular screening and follow-up are essential. In their review, Peng et al. observed that better auditory outcomes in these patients are associated with both the presence of a cochlear nerve on the MRI study and the absence of concomitant medical syndromes [10].\n\nConclusions\n\nCochlear nerve agenesis or hypoplasia is a rare condition and a known cause of SNHL, more frequently associated with unilateral than bilateral SNHL. Although it has been studied extensively, diagnosing this condition can be challenging due to the difficulties associated with imaging of the narrow IAC, which is often associated with CND. Hence, in addition to audiometric tests and HRCT of the temporal bone, an MRI is also essential to screen patients presenting with congenital SNHL to evaluate the CN for any abnormalities. Furthermore, for patients with a family history of congenital deafness, early screening is important as it can enhance auditory outcomes and mitigate the risk of subsequent developmental anomalies like aphasia.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 3-year-old male, firstborn child.\n- **Chief Complaint:** Congenital hearing loss and sensory aphasia.\n- **History of Present Illness:** Mother observed absence of response to loud sounds starting at six months of age, inability to respond to his name, failure to follow commands, and delayed speech development compared to peers.\n- **Past Medical History:** None reported.\n- **Personal History:** Born via lower segment cesarean section (LSCS) due to being large for gestational age (LGA), cried immediately after birth, no NICU admission, and immunizations up to date.\n- **Family History:** Non-consanguineous marriage. Mother has congenital hearing loss and aphasia (cause undiagnosed). Father has normal hearing but is non-verbal since childhood. No known syndromic associations such as Usher, Wolfram, or Pendred syndromes.\n- **Physical Examination:** None specified.\n- **Ancillary Tests:**\n  - **Audiometry:** Brainstem Evoked Response Audiometry (BERA) revealed bilateral SNHL (profound on the right, severe on the left).\n  - **High-Resolution CT:** Normal cochlear and inner ear anatomy.\n  - **MRI (using CISS sequence):** Absence of cochlear nerve on the right side, confirming right-sided cochlear nerve deficiency (CND). Left side cochlear nerve appeared normal. Internal auditory canals were normal bilaterally.",
+        "differential_diagnosis": "1. **Initial Suspicions Based on Symptomatology:**\n   - Congenital sensorineural hearing loss (SNHL) was suspected due to the child’s hearing and speech deficits starting from infancy.\n   - The family history raised the possibility of an inherited or syndromic form of hearing impairment but no syndromic features or systemic abnormalities were identified.\n\n2. **Rationale for Diagnostic Tests:**\n   - **Audiometric Tests:** Confirmed the degree and laterality of hearing loss (profound on the right and severe on the left).\n   - **High-Resolution CT:** Ruled out structural anomalies in the cochlea or other inner ear structures.\n   - **MRI (CISS sequence):** Specifically visualized the cochlear nerve, revealing unilateral right-sided CND (absence of cochlear nerve). This imaging modality was key in ruling out other causes of SNHL.\n\n3. **Exclusion of Other Differential Diagnoses:**\n   - Syndromic SNHL was excluded due to lack of associated abnormalities.\n   - Cochlear malformations or anatomical defects were excluded by normal HRCT findings.\n   - Functional causes of SNHL unrelated to cochlear nerve pathology were excluded through MRI findings.\n   - Other conditions like auditory neuropathy spectrum disorder were not evident based on presented data.\n\n4. **Final Consolidation:**\n   - Unilateral right-sided cochlear nerve deficiency was identified as the cause of the profound hearing loss on the right side, with coexisting non-syndromic SNHL on the left.",
+        "final_diagnosis": "The patient was diagnosed with **unilateral right-sided cochlear nerve deficiency (CND), contributing to profound sensorineural hearing loss (SNHL) on the right and severe non-syndromic SNHL on the left**. Early cochlear implantation and speech therapy were recommended.",
+        "diagnosis_results": "Cochlear nerve deficiency (CND) on the right side with bilateral sensorineural hearing loss (SNHL)."
+    },
+    "body_category": [
+        "Ear, Nose and Throat"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-9-17",
+    "checked_rare_disease": [
+        "Cochlear nerve deficiency"
+    ],
+    "id": "PMC11604252",
+    "results": {
+        "content": "### Resoning:\n<step 1> **Analyze the Chief Complaint and History of Present Illness:** The patient presents with congenital hearing loss and sensory aphasia, with symptoms observed from 6 months of age. This includes lack of response to sounds, name, commands, and delayed speech. These are strong indicators of hearing impairment affecting language development.\n\n<step 2> **Evaluate Past Medical and Personal History:**  The patient was born LGA via LSCS, but had no NICU admission and cried immediately after birth, suggesting a relatively uncomplicated neonatal period. Immunizations are up to date. This information is largely unremarkable in relation to the hearing loss, but rules out some common neonatal complications that can cause acquired hearing loss.\n\n<step 3> **Assess Family History for Genetic Predisposition:**  This is highly significant. The mother has congenital hearing loss and aphasia of unknown cause, and the father is non-verbal (though hearing is normal). This strong familial component points towards a genetic etiology for the child's condition. The mention of ruling out Usher, Wolfram, and Pendred syndromes suggests initial consideration of common genetic syndromes associated with hearing loss, but the absence of other syndromic features makes a non-syndromic genetic cause more likely, or a less common syndrome not initially considered.\n\n<step 4> **Interpret Ancillary Test Results - Audiometry (BERA):** BERA confirms bilateral sensorineural hearing loss (SNHL), profound on the right and severe on the left. This is objective evidence of hearing impairment and categorizes it as sensorineural, implicating the inner ear or auditory nerve.\n\n<step 5> **Interpret Ancillary Test Results - High-Resolution CT:** Normal cochlear and inner ear anatomy on HRCT rules out gross structural malformations of the inner ear as the primary cause of the SNHL. This directs the diagnostic focus towards neural or functional issues rather than structural ones within the cochlea.\n\n<step 6> **Interpret Ancillary Test Results - MRI (CISS sequence):**  The MRI is crucial.  The absence of the cochlear nerve on the right, confirming right-sided cochlear nerve deficiency (CND), definitively explains the profound SNHL on the right side. The left cochlear nerve being described as normal, despite severe SNHL on that side, suggests either a less severe form of cochlear nerve hypoplasia not detectable by standard MRI, or dysfunction at another level of the auditory pathway, or even subtle cochlear pathology not visible on HRCT contributing to the left-sided hearing loss. However, given the right CND and family history, a genetic etiology affecting cochlear nerve development bilaterally, but more severely on the right, is highly probable.\n\n<step 7> **Synthesize all findings to formulate the most likely diagnosis:**  Combining the clinical presentation (congenital hearing loss, sensory aphasia), family history (affected mother), and critical MRI finding (right CND), the most accurate diagnosis is **Non-syndromic Congenital Bilateral Sensorineural Hearing Loss, likely genetic in origin, with Cochlear Nerve Deficiency on the right.**  The sensory aphasia is considered secondary to the profound hearing loss, representing a language development delay due to lack of auditory input. The left-sided severe SNHL, while the nerve appeared 'normal' on MRI, is still consistent with a spectrum of severity in a genetic condition affecting cochlear nerve development, or potentially other subtle inner ear/neural dysfunction.\n\n### Answer:\nNon-syndromic Congenital Bilateral Sensorineural Hearing Loss with Right-sided Cochlear Nerve Deficiency"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Analyze the Chief Complaint and History of Present Illness:** The patient presents with congenital hearing loss and sensory aphasia, with symptoms observed from 6 months of age. This includes lack of response to sounds, name, commands, and delayed speech. These are strong indicators of hearing impairment affecting language development.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Evaluate Past Medical and Personal History:**  The patient was born LGA via LSCS, but had no NICU admission and cried immediately after birth, suggesting a relatively uncomplicated neonatal period. Immunizations are up to date. This information is largely unremarkable in relation to the hearing loss, but rules out some common neonatal complications that can cause acquired hearing loss.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Assess Family History for Genetic Predisposition:**  This is highly significant. The mother has congenital hearing loss and aphasia of unknown cause, and the father is non-verbal (though hearing is normal). This strong familial component points towards a genetic etiology for the child's condition. The mention of ruling out Usher, Wolfram, and Pendred syndromes suggests initial consideration of common genetic syndromes associated with hearing loss, but the absence of other syndromic features makes a non-syndromic genetic cause more likely, or a less common syndrome not initially considered.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpret Ancillary Test Results - Audiometry (BERA):** BERA confirms bilateral sensorineural hearing loss (SNHL), profound on the right and severe on the left. This is objective evidence of hearing impairment and categorizes it as sensorineural, implicating the inner ear or auditory nerve.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpret Ancillary Test Results - High-Resolution CT:** Normal cochlear and inner ear anatomy on HRCT rules out gross structural malformations of the inner ear as the primary cause of the SNHL. This directs the diagnostic focus towards neural or functional issues rather than structural ones within the cochlea.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpret Ancillary Test Results - MRI (CISS sequence):**  The MRI is crucial.  The absence of the cochlear nerve on the right, confirming right-sided cochlear nerve deficiency (CND), definitively explains the profound SNHL on the right side. The left cochlear nerve being described as normal, despite severe SNHL on that side, suggests either a less severe form of cochlear nerve hypoplasia not detectable by standard MRI, or dysfunction at another level of the auditory pathway, or even subtle cochlear pathology not visible on HRCT contributing to the left-sided hearing loss. However, given the right CND and family history, a genetic etiology affecting cochlear nerve development bilaterally, but more severely on the right, is highly probable.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Synthesize all findings to formulate the most likely diagnosis:**  Combining the clinical presentation (congenital hearing loss, sensory aphasia), family history (affected mother), and critical MRI finding (right CND), the most accurate diagnosis is **Non-syndromic Congenital Bilateral Sensorineural Hearing Loss, likely genetic in origin, with Cochlear Nerve Deficiency on the right.**  The sensory aphasia is considered secondary to the profound hearing loss, representing a language development delay due to lack of auditory input. The left-sided severe SNHL, while the nerve appeared 'normal' on MRI, is still consistent with a spectrum of severity in a genetic condition affecting cochlear nerve development, or potentially other subtle inner ear/neural dysfunction.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Congenital sensorineural hearing loss (SNHL) was suspected due to the child's hearing and speech deficits starting from infancy, and the family history raised the possibility of an inherited or syndromic form of hearing impairment.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Audiometric tests confirmed the degree and laterality of hearing loss (profound on the right and severe on the left).",
+            "hit": false
+        },
+        {
+            "step": "<Step 3> High-resolution CT ruled out structural anomalies in the cochlea or other inner ear structures.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> MRI (CISS sequence) specifically visualized the cochlear nerve, revealing unilateral right-sided CND (absence of cochlear nerve).",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> Syndromic SNHL was excluded due to the lack of associated abnormalities.",
+            "hit": false
+        },
+        {
+            "step": "<Step 6> Cochlear malformations or anatomical defects were excluded by normal HRCT findings.",
+            "hit": true
+        },
+        {
+            "step": "<Step 7> Functional causes of SNHL unrelated to cochlear nerve pathology were excluded through MRI findings.",
+            "hit": false
+        },
+        {
+            "step": "<Step 8> Other conditions like auditory neuropathy spectrum disorder were not evident based on presented data.",
+            "hit": false
+        },
+        {
+            "step": "<Step 9> Unilateral right-sided cochlear nerve deficiency was identified as the cause of the profound hearing loss on the right side, with coexisting non-syndromic SNHL on the left.",
+            "hit": false
+        },
+        {
+            "step": "<Step 10> The patient was diagnosed with unilateral right-sided cochlear nerve deficiency (CND), contributing to profound sensorineural hearing loss (SNHL) on the right and severe non-syndromic SNHL on the left. Early cochlear implantation and speech therapy were recommended.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.3
+}

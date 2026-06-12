@@ -1,0 +1,128 @@
+{
+    "raw_case": "\nYolk sac tumor of the liver in an infant: A case report\nYolk sac tumors can occur in various extragonadal sites, including the hepatobiliary tract, and are often associated with elevated serum alpha-fetoprotein. We report the case of a 14-month-old male infant presenting with abdominal pain and distension. Ultrasound and computed tomography scans of the abdomen revealed contiguous hepatic masses with lobulated contours, containing areas of necrosis. The patient underwent surgical resection, and histological studies confirmed the diagnosis of a yolk sac tumor. The occurrence of a yolk sac tumor in the liver is extremely rare. Ultrasound and cross-sectional imaging can be highly effective in diagnosing these tumors when combined with biopsy procedures to confirm the diagnosis. Although rare, yolk sac tumors of the liver should be considered a differential diagnosis for hepatic masses.\n\nIntroduction\n\nMalignant germ cell tumors account for 3% of neoplasms in children, with yolk sac tumors being the most common histological subtype [1]. Yolk sac tumors of the liver (YSTL) are extremely rare extragonadal germ cell tumors. Fewer than 20 cases of primary yolk sac tumors of the liver have been reported [2]. Although rare, this tumor is often misdiagnosed due to the similarities between YSTL, hepatocellular carcinoma (HCC), and hepatoblastoma (HB) [3]. Yolk sac tumors typically develop in infants, young children, and young women [4]. Ultrasound can be very effective in diagnosing yolk sac tumors or germ cell tumors when used in conjunction with other imaging modalities. Imaging is essential for diagnosis, biopsy guidance, treatment, and follow-up of yolk sac tumors of the liver, contributing to optimal patient management [5].\n\nCase report\n\nThis case involves a 14-month-old male infant with no significant medical history, who presented with right hypochondrium pain for 1 month, accompanied by abdominal distension. Physical examination revealed a deteriorated general condition, a distended abdomen, and hepatomegaly. An abdominal ultrasound was performed, followed by an abdominal CT scan.The abdominal ultrasound (Fig. 1) showed large contiguous masses occupying almost the entire hepatic parenchyma, roughly rounded with lobulated contours, and a heterogeneous echostructure that was predominantly tissue-based, containing some necrotic areas and calcifications generating posterior acoustic shadowing. An abdominal CT scan was then requested for better characterization. The abdominal CT revealed a hepatic mass in the right liver, sparing segment VI. This well-defined, tissue-based mass with poly-lobed contours was isodense and heterogeneous, containing calcifications and necrotic areas, with moderate enhancement after contrast injection (Fig. 2, Fig. 3). The mass was classified as PRETEXT III. Biologically, we found an alpha-fetoprotein (AFP) level >20,000 ng/mL and a BHCG <2.3 mIU/mL. Initially, our case was considered to be hepatoblastoma due to the infant's age, and neoadjuvant chemotherapy was administered with good improvement. Subsequently, the patient underwent a right hepatectomy with histological examination.Microscopic examination of the various samples showed a polymorphic tumor proliferation composed of microcystic reticular structures, trabeculae, cellular clusters, irregular confluent glands, and papillae with a fibrovascular core. Mitoses were observed, along with hyaline globules and Schiller-Duval bodies (Fig. 4). A wide panel of immunostains was performed, revealing that the tumor was positive for cytokeratin AE1/AE3, glypican 3, alpha-fetoprotein (AFP), and SALL4. The hyaline globules were weakly stained for AFP, while the immunostain for hepatocytes was negative (Fig. 5, Fig. 6).Unfortunately, the patient's condition deteriorated, and he passed away a few days after surgery.\n\nDiscussion\n\nYolk sac tumors are rare and often classified among germ cell tumors, a heterogeneous group that includes YST, seminoma, dysgerminoma, embryonal carcinoma, choriocarcinoma, polyembryoma, gonadoblastoma, and teratoma [6]. Although the etiology of YSTs is largely unknown, hypermethylation of the RUNX3 gene promoter and overexpression of GATA-4, a transcription factor regulating yolk sac endoderm differentiation and function, may play a role in their pathogenesis [[7], [8], [9]]. These hypotheses remain to be validated.Primary hepatic yolk sac tumors are rare, and to date, several case reports have been published [10,11]. There are no specific diagnostic and radiological characteristics for yolk sac tumors, and they may mimic other hepatic lesions [12]. Most published cases describe abdominal enlargement due to hepatomegaly as the first finding, and nearly all show elevated serum AFP levels [5,13], as in the reported case. However, some also exhibit elevations in other tumor markers, such as beta-HCG [5,13].Imaging must not only confirm the intrahepatic location of the mass but also assess the tumor's operability and identify possible secondary sites. Ultrasound is the first examination to be performed for any abdominal mass in children. Although conventional ultrasound results may be sufficient to diagnose and monitor certain hepatic lesions, this modality does not allow for tumor staging or assessment of treatment response. Cross-sectional imaging remains the reference method for a complete characterization of focal hepatic lesions, as well as for tumor staging and assessment of tumor extension [14]. The ultrasound and CT characteristics of germ cell tumors vary depending on the location and progression of the disease. When they present in the abdomen, ultrasound reveals homogeneous to heterogeneous abdominal or hepatic masses. Heterogeneous masses may contain cystic areas or hyperechoic calcifications with posterior shadowing, sometimes accompanied by peritoneal effusion. These ultrasound features can be very similar to those of hepatoblastoma [5]. Typical radiological features of yolk sac tumors of the liver are not well defined due to their rarity. On CT, they are generally described as large hepatic masses with heterogeneous enhancement, central necrosis, and in some cases, intratumoral calcifications [15].Macroscopically, yolk sac tumors appear as soft, solid masses, beige to yellow or gray in color, often with cystic changes, necrosis, and hemorrhage [16]. Microscopically, they exhibit numerous histological types, with the microcystic reticular pattern being the most common, resembling a honeycomb [17]. Schiller-Duval bodies, pathognomonic of YST, are present in 2 to 3-quarters of cases and resemble a glomerulus with a fibrovascular core [18].The current treatment for YSTs includes surgery and chemotherapy, often with cisplatin, etoposide, and bleomycin, which shows a good response in most patients [19,20]. Long-term survival rates remain uncertain due to the rarity of the tumor, but in young infants, it is generally chemosensitive with a good prognosis [21].\n\nConclusion\n\nYolk sac tumor is a malignant germ cell tumor that, despite its rarity, should be considered as a differential diagnosis for hepatic masses. Diagnosis can be achieved through imaging and histological studies, along with elevated alpha-fetoprotein levels.\n\nPatient consent\n\nWritten informed consent was obtained from the legal authorized representative (LAR) of the patient for the publication of this case report.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 14-month-old male infant.\n- **Chief Complaint:** Abdominal pain and distension for 1 month.\n- **History of Present Illness:** Presence of right hypochondrium pain and abdominal distension for 1 month.\n- **Past Medical History:** None reported.\n- **Personal History:** None mentioned.\n- **Family History:** None mentioned.\n- **Physical Examination:** General deterioration, distended abdomen, hepatomegaly.\n- **Ancillary Tests:**\n  - Abdominal ultrasound: Revealed large hepatic masses (lobulated, heterogeneous echostructure with necrotic areas and calcifications).\n  - Abdominal CT scan: Well-defined, poly-lobed hepatic mass with isodense, heterogeneous characteristics, necrosis, and calcifications, classified as PRETEXT III.\n  - Biochemistry: Alpha-fetoprotein (AFP) >20,000 ng/mL; beta-HCG <2.3 mIU/mL.\n  - Histology: Polymorphic tumor with microcystic reticular structures, Schiller-Duval bodies, and positive immunostaining for cytokeratin AE1/AE3, glypican 3, AFP, and SALL4. Negative staining for hepatocytes.",
+        "differential_diagnosis": "- The initial approach considered **hepatoblastoma** due to the patient's age, hepatic mass, and markedly elevated AFP levels. However, diagnostic imaging and histology revealed atypical features not entirely consistent with hepatoblastoma.\n- Alternate diagnoses like **hepatocellular carcinoma (HCC)** were considered but excluded based on the lack of typical imaging or histological features (e.g., trabecular or pseudo-glandular architecture specific to HCC).\n- Histological findings, including Schiller-Duval bodies (pathognomonic for yolk sac tumors) and immunohistochemistry positive for AFP and SALL4, confirmed the diagnosis of a **yolk sac tumor (YST)** of the liver. Hepatocyte markers being negative further excluded hepatocellular origin.",
+        "final_diagnosis": "Primary yolk sac tumor (YST) of the liver confirmed by imaging, elevated AFP levels, characteristic histological findings, and immunohistochemistry.",
+        "diagnosis_results": "Primary yolk sac tumor (YST) of the liver."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-8-2",
+    "checked_rare_disease": [
+        "Yolk sac tumor"
+    ],
+    "id": "PMC11419775",
+    "results": {
+        "content": "### Reasoning:\n\n1. **Initial Considerations:**\n   - We have a 14-month-old male infant presenting with abdominal pain and distension for one month.\n   - Physical examination reveals general deterioration, distended abdomen, and hepatomegaly.\n   - Ancillary tests include abdominal ultrasound and CT scan showing large hepatic masses with specific characteristics.\n\n2. **Understanding the Imaging Findings:**\n   - Abdominal ultrasound shows large hepatic masses that are lobulated, have heterogeneous echostructure, necrotic areas, and calcifications.\n   - Abdominal CT scan confirms a well-defined, poly-lobed hepatic mass with isodense, heterogeneous characteristics, necrosis, and calcifications, classified as PRETEXT III.\n   - These findings suggest a malignant hepatic tumor, given the size, heterogeneity, and presence of necrosis and calcifications.\n\n3. **Biochemical Markers:**\n   - Alpha-fetoprotein (AFP) is significantly elevated (>20,000 ng/mL).\n   - Beta-HCG is within normal limits (<2.3 mIU/mL).\n   - Elevated AFP is characteristic of certain hepatoblastomas and hepatocellular carcinomas, but given the age and presentation, hepatoblastoma is more likely.\n\n4. **Histological Examination:**\n   - The histology报告显示多形性肿瘤，具有微囊状网状结构和Schiller-Duval小体。\n   - 免疫组化染色显示 cytokeratin AE1/AE3、glypican 3、AFP 和 SALL4阳性，而肝细胞标志物阴性。\n   - 这些特征与肝母细胞瘤（hepatoblastoma）的典型表现相符。\n\n5. **Differential Diagnoses:**\n   - 主要考虑肝母细胞瘤与肝细胞癌（HCC），但在婴儿中，肝细胞癌较为罕见，而肝母细胞瘤更为常见。\n   - 此外，其他肝脏肿瘤如胚细胞瘤、转移性肿瘤等也需要考虑，但根据年龄和病理特征，肝母细胞瘤是最可能的诊断。\n\n6. **PRETEXT分期系统:**\n   - PRETEXT（Prenlesional liver, Tumor size, Vascular invasion, Satellitosis, Extrahepatic disease）是用于肝母细胞瘤的分期系统。\n   - PRETEXT III表示肿瘤较大，可能涉及部分肝叶，但未累及整个肝叶。\n   - 这有助于制定治疗计划和预测预后。\n\n7. **综合分析:**\n   - 患者为14月龄男婴，有腹痛和腹胀一个月。\n   - 体检发现腹胀和肝大。\n   - 影像学显示肝脏有大型肿块，具有恶性特征。\n   - 生化检查显示AFP极度升高，而HCG正常。\n   - 病理报告显示多形性肿瘤，有Schiller-Duval小体，免疫组化支持肝母细胞瘤。\n   - 结合以上信息，最可能的诊断是肝母细胞瘤，PRETEXT III期。\n\n8. **进一步步骤:**\n   - 需要多学科团队评估，包括儿科肿瘤专家、外科医生、放射科医生等。\n   - 制定综合治疗计划，可能包括手术切除、化疗等。\n   - 监测患儿的全身状况，提供支持性护理。\n\n### Answer:\nHepatoblastoma, PRETEXT III."
+    },
+    "reasoning_eval": [
+        {
+            "step": "1. **Initial Considerations:**\n   - We have a 14-month-old male infant presenting with abdominal pain and distension for one month.\n   - Physical examination reveals general deterioration, distended abdomen, and hepatomegaly.\n   - Ancillary tests include abdominal ultrasound and CT scan showing large hepatic masses with specific characteristics.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "2. **Understanding the Imaging Findings:**\n   - Abdominal ultrasound shows large hepatic masses that are lobulated, have heterogeneous echostructure, necrotic areas, and calcifications.\n   - Abdominal CT scan confirms a well-defined, poly-lobed hepatic mass with isodense, heterogeneous characteristics, necrosis, and calcifications, classified as PRETEXT III.\n   - These findings suggest a malignant hepatic tumor, given the size, heterogeneity, and presence of necrosis and calcifications.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "3. **Biochemical Markers:**\n   - Alpha-fetoprotein (AFP) is significantly elevated (>20,000 ng/mL).\n   - Beta-HCG is within normal limits (<2.3 mIU/mL).\n   - Elevated AFP is characteristic of certain hepatoblastomas and hepatocellular carcinomas, but given the age and presentation, hepatoblastoma is more likely.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "4. **Histological Examination:**\n   - The histology报告显示多形性肿瘤，具有微囊状网状结构和Schiller-Duval小体。\n   - 免疫组化染色显示 cytokeratin AE1/AE3、glypican 3、AFP 和 SALL4阳性，而肝细胞标志物阴性。\n   - 这些特征与肝母细胞瘤（hepatoblastoma）的典型表现相符。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "5. **Differential Diagnoses:**\n   - 主要考虑肝母细胞瘤与肝细胞癌（HCC），但在婴儿中，肝细胞癌较为罕见，而肝母细胞瘤更为常见。\n   - 此外，其他肝脏肿瘤如胚细胞瘤、转移性肿瘤等也需要考虑，但根据年龄和病理特征，肝母细胞瘤是最可能的诊断。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "6. **PRETEXT分期系统:**\n   - PRETEXT（Prenlesional liver, Tumor size, Vascular invasion, Satellitosis, Extrahepatic disease）是用于肝母细胞瘤的分期系统。\n   - PRETEXT III表示肿瘤较大，可能涉及部分肝叶，但未累及整个肝叶。\n   - 这有助于制定治疗计划和预测预后。",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "7. **综合分析:**\n   - 患者为14月龄男婴，有腹痛和腹胀一个月。\n   - 体检发现腹胀和肝大。\n   - 影像学显示肝脏有大型肿块，具有恶性特征。\n   - 生化检查显示AFP极度升高，而HCG正常。\n   - 病理报告显示多形性肿瘤，有Schiller-Duval小体，免疫组化支持肝母细胞瘤。\n   - 结合以上信息，最可能的诊断是肝母细胞瘤，PRETEXT III期。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "8. **进一步步骤:**\n   - 需要多学科团队评估，包括儿科肿瘤专家、外科医生、放射科医生等。\n   - 制定综合治疗计划，可能包括手术切除、化疗等。\n   - 监测患儿的全身状况，提供支持性护理。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> The initial approach considered hepatoblastoma due to the patient's age, hepatic mass, and markedly elevated AFP levels, but diagnostic imaging and histology revealed atypical features not entirely consistent with hepatoblastoma.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Alternate diagnoses like hepatocellular carcinoma (HCC) were considered but excluded based on the lack of typical imaging or histological features, such as trabecular or pseudo-glandular architecture specific to HCC.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Histological findings, including Schiller-Duval bodies, which are pathognomonic for yolk sac tumors, and immunohistochemistry positive for AFP and SALL4, confirmed the diagnosis of a yolk sac tumor (YST) of the liver.",
+            "hit": false
+        },
+        {
+            "step": "<Step 4> Hepatocyte markers being negative further excluded hepatocellular origin.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Final diagnosis: Primary yolk sac tumor (YST) of the liver confirmed by imaging, elevated AFP levels, characteristic histological findings, and immunohistochemistry.",
+            "hit": false
+        }
+    ],
+    "efficiency": 0.75,
+    "factulity": 1.0,
+    "recall": 0.6
+}

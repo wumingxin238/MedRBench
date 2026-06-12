@@ -1,0 +1,161 @@
+{
+    "raw_case": "\nUnusual hand tumor: A case report\nAdipose tumors are dominated by lipomas, but other rarer entities may be encountered such as hibernoma which is a benign tumor that develops from brown fat. The thigh is the preferred location for hibernomas, but the tumor can appear in other areas. The upper limb is a rare localization and there is only 1 case of hibernoma on the hand already reported in the English literature. We report the case of a hibernoma of the palmar aspect of the hand. The tumor had no clinical specificities. MRI showed an uncertain appearance mimicking liposarcoma. The diagnosis was only confirmed by histological study. The treatment consisted of complete excision of the tumor. At a follow-up of 8 months, there was no recurrence.\n\nIntroduction\n\nHibernoma is a rare benign tumor of brown fat. Since the first description by Merkel in 1906, less than 250 cases have been reported in the English literature. The tumor is often described as an asymptomatic mass of soft tissue, located in a proximal position, where the brown fat persists, thus the thigh is the preferential location for hibernomas. The localization in the hand is extremely rare and to our knowledge, just 1 case of a dorsal hibernoma of the thumb has been documented.Clinically, the tumor has no specific symptoms. In the MRI, differential diagnoses include lipoma and liposarcoma. The diagnosis is confirmed by histological study. Complete surgical excision is the mainstay of treatment.We report a case of Hibernoma of the thenar eminence.\n\nCase report\n\nThe patient was a 61-year-old, without medical history, complaining of a subcutaneous tumor filling the palmar aspect of the first webspace of the left hand. The painless lump had appeared 5 years ago and gradually increased in size. The skin above was tight with normal coloration. The tumor was soft and fixed [Fig. 1A].The protrusion of the mass which measured 7 × 4 cm was limiting the opposition of the thumb. There was no neurological complaint [Fig. 1B].The MRI showed a subcutaneous limited fat-containing mass which measured 80 × 35 mm, crossed by vascular structures [Fig. 2, Fig. 3]. The tumor reached the carpal tunnel and surrounded the volar aspect of the median nerve and the flexor tendons of the second, third and fourth finger. The main differential diagnosis was liposarcoma on account of the size and the vascularization.We proceeded by a surgical biopsy. In histological examination, the tumor contained uniform large cells resembling brown fat intermixed with mature adipocytes.Two weeks later, the patient underwent resection of the mass under regional anesthesia. A 7 cm volar incision was required. The tumor was easily dissected and completely excised despite its close relation with the flexor tendon and the median nerve [Fig. 4]. Feeding vessels were ligated. After excision of the excess skin, the incision was closed.In histological examination, the mass was encapsulated and lobulated formed by brown fat and some mature adipocytes separated by fibrous septa, including vessels and inflammatory cells. There is no atypia [Fig. 5].There was no postoperative complication, and the patient retrieved a complete opposition of the thumb in few days. At 8-month-follow-up, there is no recurrence.\n\nDiscussion\n\nHibernomas are benign soft-tissue tumors emerging from vestigial brown fat, which can be located in the subcutaneous tissue, the skeletal muscle, or the intermuscular fascia [1].This tumor is uncommon and accounts for <2% of all adipocytic tumors [2].Brown fat is crucial in nonshivering thermogenesis in hibernating animals and the human fetus [3].The high concentration of mitochondria and hypervascularization leads to the dark color, which differentiates it from white adipose tissue [4].The largest and most valid case series of hibernomas was 170 patients by Furlong MA et al. [1], who proved that the common location is the thigh, followed by upper extremity, trunk, neck, then abdominal cavity or retroperitoneum.These tumors affect mainly adults in the 3rd and 4th decades of life with a slight male predominance [1,2,5].The clinical presentation may vary depending on the location. The tumor is often asymptomatic and present as soft, painless, palpable, and mobile masses. They become symptomatic only when associated with compression of surrounding structures due to their growth [1,6].Superficial hibernomas can be considered as lipomas, which are the same in presentation and much more common [4].The diagnosis of hibernoma is difficult. Radiographs may show a radiolucent mass, typically without calcification or bone erosion [7]. The ultrasound exam shows a consistently hyperechoic mass with hypervascularization and enlarged vessels [8].The MRI is the essential morphologic investigation, allowing a better characterization of the size and location of the tumor, and establishing the differential diagnosis with malignant tumors.Hibernomas are slightly or distinctly hypointense to subcutaneous fat on T1W images and don't fully suppress on STIR or fat-saturated T2W images [8,9].The differential diagnosis of a complex lipomatous tumor on MRI is wide and involves benign conditions, such as lipoma, angiolipoma, hemangioma, and malignant tumors such as liposarcoma.Poorly differentiated (high-grade) liposarcomas are rarely confused with lipomas, or hibernomas, as they include slight or no fatty components. Otherwise, the fatty component of a well-differentiated liposarcoma appears isointense to subcutaneous fat, on T1WSE, distinguishing them from hibernomas [8].The definitive diagnosis of Hibernoma is based on pathology. Grossly, the tumor is well-encapsulated, containing white and brown fat separated by fibrous septa and vessels. Its color may range from yellow to brown. On the microscopic examination, there are 3 principal cell types: cells with granular eosinophilic cytoplasm containing few lipid vacuoles; larger cells with multiples vacuoles; and univacuolated large cells. Generally, there is no mitosis or atypia [4].Histologically, the main differential diagnosis is the atypical lipomatous tumor, which is eliminated by negative MDM2 and CDK4 on immunohistochemistry [5].The surgical treatment consists of a monoblock excision of the tumor which must be ideally done with minimal dissection. The resected hibernoma is usually a smooth, well-encapsulated, and nonadherent mass.This excision is curative and has a low risk for local recurrence. When the diagnosis is uncertain, accurate hemostasis should be achieved and the patient should receive further evaluation and possibly treatment before definitive surgical management such as our case.The diagnosis is confirmed by histopathological examination of the resected tumor.Incomplete excision may occur in continued growth and recurrence, even in tumors that appear to be histologically benign.In all published reports of hibernomas in humans in the English literature, no cases have been reported of malignant transformation or distant metastasis.However, 2 cases of recurrence are reported, because of incomplete excision [10].\n\nPatient consent\n\nThe author confirms that the patient has been fully informed about the nature of the procedure and has provided written consent.",
+    "generate_case": {
+        "case_summary": "- **Patient Information**: 61-year-old, no previous medical history.\n- **Chief Complaint**: Gradually enlarging subcutaneous tumor in the palmar aspect of the left hand, limiting thumb opposition.\n- **History of Present Illness**: Painless lump present for 5 years with progressive size increase.\n- **Past Medical History**: None.\n- **Personal History**: None.\n- **Family History**: None.\n- **Physical Examination**: 7 × 4 cm tumor located in the palmar aspect of the first webspace of the left hand. Soft, fixed, skin above was tight with normal coloration, no neurological deficits.\n- **Ancillary Tests**: \n  - **MRI**: 80 × 35 mm fat-containing mass with vascular structures, extending to the carpal tunnel, surrounding flexor tendons and median nerve. Differential initially included liposarcoma.\n  - **Histology**: Tumor consists of uniform large cells resembling brown fat intermixed with mature adipocytes, encapsulated, no atypia.",
+        "differential_diagnosis": "- **Initial List**: Based on painless soft tissue mass in the hand, differential diagnoses included lipoma, liposarcoma, angiolipoma, hemangioma, and hibernoma.\n- **Step 1**: Rule out liposarcoma given the MRI findings of a vascularized fat-containing tumor without signs of aggressive malignancy (e.g., significant atypia, necrosis, or invasion).\n- **Step 2**: Rule out lipoma due to the vascular features seen on MRI and histological findings of brown fat, which is not typical for lipoma.\n- **Step 3**: Consider and confirm hibernoma based on MRI features (hypointensity relative to fat, partial suppression on fat-saturated images), consistent histological findings (brown fat intermixed with mature adipocytes, encapsulation, absent atypia or mitosis), and absence of markers for malignancy (e.g., negative MDM2 and CDK4, excluding atypical lipomatous tumor).",
+        "final_diagnosis": "Hibernoma of the palmar aspect of the left hand (thenar eminence).",
+        "diagnosis_results": "Hibernoma."
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-10-8",
+    "checked_rare_disease": [],
+    "id": "PMC11625111",
+    "results": {
+        "content": "### Resoning:\n\nLet's dive into this case. We have a 61-year-old patient with no prior medical history who has a gradually enlarging subcutaneous tumor in the palmar aspect of the left hand. It's been there for 5 years, growing progressively larger, but it's painless. The main complaint is that it's limiting thumb opposition, which suggests some functional impairment.\n\nFirst, I need to consider the location and characteristics of the tumor. It's in the first webspace of the left hand, palmar aspect, measuring 7x4 cm. It's described as soft, fixed, with tight skin above but normal coloration, and no neurological deficits. So, it's not causing any sensory changes or nerve-related issues, which is good to note.\n\nGiven that it's been present for 5 years without causing pain, and only now starting to affect function, it probably isn't malignant. But we can't rule that out yet. The MRI shows a fat-containing mass with vascular structures, extending to the carpal tunnel and surrounding flexor tendons and the median nerve. Initially, liposarcoma was considered in the differential, which is a type of soft tissue sarcoma that can occur in adipose tissue.\n\nBut the histology report describes the tumor consisting of uniform large cells resembling brown fat, intermixed with mature adipocytes, and it's encapsulated with no atypia. This is interesting because brown fat is a type of adipose tissue that's more commonly found in newborns and hibernating animals, but it can be present in adults, particularly in certain areas like the upper body.\n\nSo, let's think about the possibilities here. The tumor is composed of cells that resemble brown fat and mature adipocytes, which suggests it's a benign adipose tissue tumor. The fact that it's encapsulated and has no atypia supports the idea that it's benign.\n\nOne condition that comes to mind is a hibernoma, which is a benign tumor derived from brown adipose tissue. Hibernomas are rare, and they can occur in adults, often in the trunk, extremities, or retroperitoneum. They are typically well-encapsulated and composed of cells resembling brown fat.\n\nAnother possibility could be a lipoma, which is a common benign adipose tissue tumor composed of mature adipocytes. However, in this case, the tumor contains both brown fat-like cells and mature adipocytes, which makes it less typical for a conventional lipoma.\n\nGiven the histological features—uniform large cells resembling brown fat, intermixed with mature adipocytes, encapsulated, no atypia—it seems consistent with a hibernoma.\n\nAdditionally, the location in the hand is a bit unusual for a hibernoma, as they more commonly occur in the trunk and extremities, but it's not impossible.\n\nI should also consider other differential diagnoses. For instance, liposarcoma, as initially considered, but the absence of atypia and the encapsulation make that less likely. Also, other soft tissue tumors could be in the differential, but given the histological findings, they seem less probable.\n\nIn summary, based on the clinical presentation, imaging, and histology, the most likely diagnosis is a hibernoma.\n\n### Answer:\n\nHibernoma"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Let's dive into this case. We have a 61-year-old patient with no prior medical history who has a gradually enlarging subcutaneous tumor in the palmar aspect of the left hand. It's been there for 5 years, growing progressively larger, but it's painless. The main complaint is that it's limiting thumb opposition, which suggests some functional impairment.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "First, I need to consider the location and characteristics of the tumor. It's in the first webspace of the left hand, palmar aspect, measuring 7x4 cm. It's described as soft, fixed, with tight skin above but normal coloration, and no neurological deficits. So, it's not causing any sensory changes or nerve-related issues, which is good to note.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Given that it's been present for 5 years without causing pain, and only now starting to affect function, it probably isn't malignant. But we can't rule that out yet. The MRI shows a fat-containing mass with vascular structures, extending to the carpal tunnel and surrounding flexor tendons and the median nerve. Initially, liposarcoma was considered in the differential, which is a type of soft tissue sarcoma that can occur in adipose tissue.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "But the histology report describes the tumor consisting of uniform large cells resembling brown fat, intermixed with mature adipocytes, and it's encapsulated with no atypia. This is interesting because brown fat is a type of adipose tissue that's more commonly found in newborns and hibernating animals, but it can be present in adults, particularly in certain areas like the upper body.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "So, let's think about the possibilities here. The tumor is composed of cells that resemble brown fat and mature adipocytes, which suggests it's a benign adipose tissue tumor. The fact that it's encapsulated and has no atypia supports the idea that it's benign.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "One condition that comes to mind is a hibernoma, which is a benign tumor derived from brown adipose tissue. Hibernomas are rare, and they can occur in adults, often in the trunk, extremities, or retroperitoneum. They are typically well-encapsulated and composed of cells resembling brown fat.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Another possibility could be a lipoma, which is a common benign adipose tissue tumor composed of mature adipocytes. However, in this case, the tumor contains both brown fat-like cells and mature adipocytes, which makes it less typical for a conventional lipoma.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Given the histological features—uniform large cells resembling brown fat, intermixed with mature adipocytes, encapsulated, no atypia—it seems consistent with a hibernoma.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Additionally, the location in the hand is a bit unusual for a hibernoma, as they more commonly occur in the trunk and extremities, but it's not impossible.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "I should also consider other differential diagnoses. For instance, liposarcoma, as initially considered, but the absence of atypia and the encapsulation make that less likely. Also, other soft tissue tumors could be in the differential, but given the histological findings, they seem less probable.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Based on the painless soft tissue mass in the hand, differential diagnoses included lipoma, liposarcoma, angiolipoma, hemangioma, and hibernoma.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Rule out liposarcoma given the MRI findings of a vascularized fat-containing tumor without signs of aggressive malignancy, such as significant atypia, necrosis, or invasion.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Rule out lipoma due to the vascular features seen on MRI and histological findings of brown fat, which is not typical for lipoma.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Consider hibernoma based on MRI features, including hypointensity relative to fat and partial suppression on fat-saturated images.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Confirm hibernoma based on consistent histological findings, including brown fat intermixed with mature adipocytes, encapsulation, and absence of atypia or mitosis.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> Exclude malignancy by the absence of markers such as negative MDM2 and CDK4, ruling out atypical lipomatous tumor.",
+            "hit": true
+        },
+        {
+            "step": "<Step 7> Final diagnosis: Hibernoma of the palmar aspect of the left hand (thenar eminence).",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.9,
+    "factulity": 1.0,
+    "recall": 1.0
+}

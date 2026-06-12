@@ -1,0 +1,126 @@
+{
+    "raw_case": "\nCraniovertebral Junction Deformity Diagnosed by Computed Tomography: A Case Report\nCraniovertebral junction (CVJ) deformities, including basilar invagination and atlanto-occipital assimilation, present significant challenges in diagnosis and management due to their complex nature and impact on neurological function. We report a case of a 28-year-old female who experienced neck pain, weakness, tingling in the upper limbs, restricted neck movements, occipital headaches, and intermittent dizziness. These symptoms progressively worsened over six months, markedly affecting her quality of life. Neurological examination revealed reduced motor power in the upper limbs and a diminished bicipital tendon reflex, while other assessments remained normal. Cervical spine CT imaging was done which revealed basilar invagination and atlanto-occipital assimilation. This case underscores the importance of recognizing and managing CVJ deformities, highlighting the need for a multidisciplinary approach to address anatomical and associated neurological symptoms. Early and accurate diagnosis and a tailored treatment strategy are crucial for improving patient outcomes.\n\nIntroduction\n\nCraniovertebral junction (CVJ) deformities encompass a range of complex anomalies involving the base of the skull and the upper cervical spine [1]. Two notable conditions within this category are basilar invagination and atlanto-occipital assimilation. Understanding these deformities is crucial for effective diagnosis and treatment [2]. Basilar invagination refers to the herniation of the odontoid process of the axis (C2 vertebra) into the foramen magnum. This condition can cause significant neurological deficits due to compression of the brainstem and upper cervical spinal cord. It is often associated with various congenital conditions, including Chiari malformation and rheumatoid arthritis [3,4]. The severity of basilar invagination is typically assessed using radiographic measurements such as the position of the odontoid process relative to the Chamberlain line and the atlanto-dens interval (ADI) [5].Atlanto-occipital assimilation involves the fusion of the atlas (C1 vertebra) with the occipital bone. This congenital anomaly can alter the biomechanics of the CVJ and may lead to clinical symptoms similar to those of basilar invagination, including neck pain and neurological deficits [6,7]. The condition can be associated with other craniovertebral anomalies and often requires careful radiological evaluation to determine the extent of fusion and its impact on the surrounding structures [8]. Together, these deformities can present a complex clinical picture, with symptoms ranging from neck pain and restricted movements to severe neurological impairment. Accurate diagnosis through imaging modalities such as CT and MRI are essential for appropriate management [9]. A multidisciplinary approach involving neurosurgery and orthopedics is often necessary to address anatomical deformities and neurological complications [10].\n\nCase presentation\n\nA 28-year-old female presented to the clinic with a chief complaint of neck pain radiating to both shoulders, accompanied by weakness and tingling sensations in both upper limbs. These symptoms had been progressively worsening over the past six months. Additionally, the patient reported restricted neck movements, occipital headaches, and intermittent dizziness for approximately one year. Her symptoms had begun to interfere with her daily activities and overall quality of life. On neurological examination, the patient exhibited power of 4/5 in both upper limbs, with a noticeable reduction in the bicipital tendon reflex on the right side. Other neurological assessments, including lower limb strength and gait evaluation, were unremarkable despite significant symptoms. The physical findings suggested a possible CVJ anomaly.To further investigate the underlying cause of her symptoms, a cervical spine CT scan was conducted. The imaging revealed several critical findings. There was evident basilar invagination, characterized by herniation of the odontoid process into the foramen magnum. The tip of the odontoid process was found to be 14.3 mm above the Chamberlain line, extending into the foramen magnum, which is significantly beyond the normal range. Additionally, the CT scan demonstrated atlanto-occipital assimilation, with non-visualization of the posterior arch of the atlas (C1 vertebra) and fusion of the posterior tubercle to the occiput. These findings were further corroborated by measuring the ADI, which was 6.1 mm, exceeding the normal range of 3.4 mm (Figure 1).The combination of these imaging findings, along with the clinical presentation, pointed towards a complex CVJ deformity involving both basilar invagination and atlanto-occipital assimilation. The patient’s condition necessitates a comprehensive management plan, likely involving a multidisciplinary team to address both the anatomical deformities and the associated neurological symptoms.\n\nDiscussion\n\nCVJ deformities, such as basilar invagination and atlanto-occipital assimilation, present complex challenges in diagnosis and management. The patient in this case exhibited both conditions, leading to significant neurological and musculoskeletal symptoms [11]. Basilar Invagination occurs when the odontoid process herniates into the foramen magnum, often resulting in compression of the brainstem and upper spinal cord. This condition can manifest with symptoms such as neck pain, headaches, and neurological deficits, which are consistent with our patient’s presentation [12]. The herniation of the odontoid process was 14.3 mm above the Chamberlain line, indicative of severe basilar invagination. This degree of displacement can lead to significant brainstem compression, contributing to the patient’s symptoms [13].Atlanto-occipital assimilation refers to the fusion of the atlas (C1 vertebra) with the occipital bone, which can alter the biomechanics of the CVJ and potentially exacerbate symptoms associated with other CVJ anomalies [14]. In our case, the non-visualization of the posterior arch of the atlas and the fusion to the occiput, coupled with an ADI of 6.1 mm, indicated a substantial alteration in the normal anatomy, which can impact spinal stability and lead to neurological impairment [15]. The combination of these deformities can complicate the clinical picture, leading to a range of symptoms from localized neck pain to more generalized neurological deficits [9]. Early diagnosis through imaging is crucial, as it allows for timely intervention to prevent further deterioration of neurological function [16]. Management of CVJ deformities often requires a multidisciplinary approach involving neurosurgeons, orthopedic surgeons, and radiologists. Surgical intervention may be necessary to decompress the spinal cord and stabilize the CVJ [17]. In this case, the patient's symptoms and imaging findings suggest the need for a detailed surgical plan tailored to address both the anatomical deformities and the associated neurological symptoms [18].\n\nConclusions\n\nIn conclusion, this case underscores the complexity of managing CVJ deformities, particularly when both basilar invagination and atlanto-occipital assimilation are present. The combination of these anomalies presents a challenging clinical picture, as evidenced by the patient's progressive symptoms and significant radiological findings. The significant herniation of the odontoid process and fusion of the atlas to the occiput contribute to substantial neurological impairment and discomfort. Effective management requires a multidisciplinary approach, integrating neurosurgical, orthopedic, and radiological expertise to address anatomical abnormalities and the associated symptoms. Early and accurate diagnosis, followed by a tailored treatment plan, is crucial for optimizing patient outcomes and improving quality of life.",
+    "generate_case": {
+        "case_summary": "- **Patient Information**: 28-year-old female  \n- **Chief Complaint**: Neck pain radiating to both shoulders, accompanied by weakness and tingling in the upper limbs.  \n- **History of Present Illness**: Gradual worsening of neck pain, weakness, and tingling in the upper limbs over six months. Additional symptoms include restricted neck movements, occipital headaches, and intermittent dizziness for one year. Symptoms have significantly affected her daily activities and quality of life.  \n- **Past Medical History**: None reported.  \n- **Personal History**: None reported.  \n- **Family History**: None reported.  \n- **Physical Examination**: Power of 4/5 in both upper limbs, reduced bicipital tendon reflex on the right side. Lower limb strength and gait evaluation were normal.  \n- **Ancillary Tests**:  \n  - Cervical spine CT scan revealed:  \n    - Basilar invagination with the odontoid process 14.3 mm above the Chamberlain line, herniating into the foramen magnum.  \n    - Atlanto-occipital assimilation with non-visualization of the posterior arch of the atlas (C1 vertebra) and fusion of the posterior tubercle to the occiput.  \n    - Abnormal atlanto-dens interval (ADI) of 6.1 mm (normal ≤ 3.4 mm).  \n\n---",
+        "differential_diagnosis": "1. **Initial Consideration**:  \n   The patient presents with a constellation of neurological symptoms (neck pain, upper limb weakness, tingling) and imaging findings. Anomalies involving the craniovertebral junction (CVJ) were suspected based on restricted neck mobility, neurological deficits, and the structural findings on CT.  \n\n2. **Rationale for Considerations/Exclusions**:  \n   - **Cervical Radiculopathy**: Excluded due to imaging findings showing structural deformities of the CVJ, making congenital anomalies a more likely cause.  \n   - **Cervical Myelopathy**: Partially consistent, as symptoms align with spinal cord involvement; however, imaging pointed to CVJ anomalies as the underlying cause.  \n   - **Chiari Malformation**: While associated with basilar invagination, no evidence of cerebellar tonsillar herniation on imaging was reported.  \n   - **Rheumatoid Arthritis**: Often linked with basilar invagination, but no history or systemic symptoms of inflammatory arthritis were noted.  \n\n3. **Final Diagnostic Steps**:  \n   - CT clearly demonstrated basilar invagination and atlanto-occipital assimilation.  \n   - Measurements (e.g., odontoid tip 14.3 mm above the Chamberlain line, ADI of 6.1 mm) confirmed severe structural deformities.  \n   - The clinical presentation, coupled with imaging findings, pointed conclusively to a dual diagnosis of basilar invagination and atlanto-occipital assimilation.  \n\n---",
+        "final_diagnosis": "Basilar invagination and atlanto-occipital assimilation, resulting in neurological symptoms due to compression and biomechanical alterations at the craniovertebral junction. The diagnosis is supported by the patient's symptoms, detailed imaging findings, and characteristic anatomical anomalies.\n\n---",
+        "diagnosis_results": "Basilar invagination and atlanto-occipital assimilation"
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Injuries and Wounds"
+    ],
+    "receive_time": "2024-8-7",
+    "checked_rare_disease": [
+        "Primary basilar invagination"
+    ],
+    "id": "PMC11415024",
+    "results": {
+        "thinking_process": "Okay, let's start by looking at the patient's chief complaint: neck pain radiating to both shoulders, plus weakness and tingling in the upper limbs. These symptoms have been getting worse over six months. She also has restricted neck movement, occipital headaches, and intermittent dizziness for a year. The physical exam shows 4/5 power in the upper limbs, reduced right bicipital reflex, but lower limbs are normal. \n\nFirst, the neck pain and upper limb symptoms point towards possible cervical spine issues. The weakness and tingling suggest nerve root or spinal cord compression. Occipital headaches and dizziness might relate to issues at the craniocervical junction. \n\nLooking at the CT findings: basilar invagination where the odontoid is above the Chamberlain line, which can compress the brainstem or upper spinal cord. Then there's atlanto-occipital assimilation, meaning the C1 is fused to the occiput. The ADI is increased (6.1mm vs normal ≤3.4), indicating atlantoaxial instability.\n\nBasilar invagination can lead to compression of neural structures, explaining the neurological symptoms. The assimilation of C1 to the occiput might contribute to instability. The increased ADI suggests that the atlas (C1) is moving abnormally relative to the axis (C2), which can compress the spinal cord or nerve roots. \n\nPutting it all together: the congenital anomalies (basilar invagination and atlanto-occipital assimilation) combined with atlantoaxial instability are causing compression at the craniocervical junction. This leads to the neurological symptoms like weakness, tingling, and the occipital headaches. The dizziness might be due to vertebral artery compromise from the instability. \n\nThe final diagnosis would likely be a combination of these structural abnormalities leading to symptomatic compression. The most specific term for this condition would be basilar invagination with associated atlantoaxial instability and atlanto-occipital assimilation.",
+        "content": "```\n### Resoning:\n<step 1> The patient's symptoms (neck pain, upper limb weakness/tingling, occipital headaches, dizziness) suggest craniocervical junction pathology. Neurological deficits (4/5 power in upper limbs, reduced reflex) indicate cervical nerve root or spinal cord compression.  \n<step 2> Cervical CT findings confirm structural abnormalities: basilar invagination (odontoid >14mm above Chamberlain line) and atlanto-occipital assimilation. These congenital anomalies compress the cervicomedullary junction.  \n<step 3> The abnormal ADI (6.1mm) confirms atlantoaxial instability, further exacerbating spinal cord/nerve root compression. This explains progressive neurological deficits and mechanical restriction of neck movements.  \n<step 4> Occipital headaches and dizziness are consistent with brainstem compression and possible vertebral artery compromise due to craniocervical instability.  \n<step 5> The absence of lower limb involvement localizes the pathology to the upper cervical spine, aligning with the imaging findings.  \n\n### Answer:\nBasilar invagination with atlanto-occipital assimilation and atlantoaxial instability causing cervicomedullary compression."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient's symptoms (neck pain, upper limb weakness/tingling, occipital headaches, dizziness) suggest craniocervical junction pathology. Neurological deficits (4/5 power in upper limbs, reduced reflex) indicate cervical nerve root or spinal cord compression.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Cervical CT findings confirm structural abnormalities: basilar invagination (odontoid >14mm above Chamberlain line) and atlanto-occipital assimilation. These congenital anomalies compress the cervicomedullary junction.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The abnormal ADI (6.1mm) confirms atlantoaxial instability, further exacerbating spinal cord/nerve root compression. This explains progressive neurological deficits and mechanical restriction of neck movements.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Occipital headaches and dizziness are consistent with brainstem compression and possible vertebral artery compromise due to craniocervical instability.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The absence of lower limb involvement localizes the pathology to the upper cervical spine, aligning with the imaging findings.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: The patient presents with neurological symptoms (neck pain, upper limb weakness, tingling) and imaging findings suggesting anomalies involving the craniovertebral junction (CVJ).",
+            "hit": true
+        },
+        {
+            "step": "Step 2: Imaging shows structural deformities of the CVJ, excluding cervical radiculopathy due to congenital anomalies being a more likely cause.",
+            "hit": true
+        },
+        {
+            "step": "Step 3: Symptoms partially align with cervical myelopathy, but imaging confirms CVJ anomalies as the underlying cause.",
+            "hit": true
+        },
+        {
+            "step": "Step 4: Chiari malformation is ruled out as there is no evidence of cerebellar tonsillar herniation.",
+            "hit": false
+        },
+        {
+            "step": "Step 5: Rheumatoid arthritis is excluded due to the absence of history or systemic symptoms of inflammatory arthritis.",
+            "hit": false
+        },
+        {
+            "step": "Step 6: CT demonstrates basilar invagination and atlanto-occipital assimilation, with measurements confirming severe structural deformities.",
+            "hit": true
+        },
+        {
+            "step": "Step 7: Odontoid tip is 14.3 mm above the Chamberlain line, and ADI is 6.1 mm, supporting the diagnosis.",
+            "hit": true
+        },
+        {
+            "step": "Step 8: The clinical presentation and imaging findings point conclusively to a dual diagnosis of basilar invagination and atlanto-occipital assimilation.",
+            "hit": true
+        },
+        {
+            "step": "Step 9: The final diagnosis is basilar invagination and atlanto-occipital assimilation, causing neurological symptoms due to compression and biomechanical alterations at the craniovertebral junction.",
+            "hit": true
+        },
+        {
+            "step": "Step 10: The diagnosis is supported by the patient's symptoms, detailed imaging findings, and characteristic anatomical anomalies.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.8
+}

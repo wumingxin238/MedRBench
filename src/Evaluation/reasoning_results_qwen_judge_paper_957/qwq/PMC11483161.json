@@ -1,0 +1,159 @@
+{
+    "raw_case": "\nA Rare Case of Dyggve-Melchior-Clausen Syndrome: A Case Report\nDyggve-Melchior-Clausen (DMC) disease, also known as DMC syndrome, is a rare, progressive genetic disorder that is characterized by skeletal and intellectual abnormalities. The case report involves a four-year-old male child presenting with marked short stature, intellectual disability, coarse facies, and microcephaly. Initial investigations, including blood tests and radiological evaluations, prompted further genetic testing via whole-exome sequencing. This identified a homozygous mutation in the Dymeclin (DYM) gene, implicating DMC disease. The condition usually poses diagnostic challenges due to overlapping clinical features with Morquio syndrome. This case highlights the importance of a comprehensive diagnostic approach and genetic testing in elucidating the underlying genetic etiology of complex presentations in pediatric patients.\n\nIntroduction\n\nDyggve-Melchior-Clausen disease (DMC), also known as DMC syndrome, is a rare genetic disorder characterized by progressive spondyloepimetaphyseal dysplasia (SEMD), coarse facies, and intellectual disability [1]. Inherited in an autosomal recessive manner, mutations in the DYM gene impair the activity of the Dymeclin protein [2]. Common manifestations include a barrel-shaped chest, short trunk, partial hip dislocation, genu valgum or varum, and scoliosis [3]. Morquio syndrome (mucopolysaccharidosis IV A and B) closely resembles DMC, and due to overlapping features, a high clinical suspicion is required to differentiate between the two conditions. Accurate diagnosis often necessitates a comprehensive clinical, biochemical, radiological, and genetic evaluation. This report presents a case of a child with genetically confirmed DMC syndrome.\n\nCase presentation\n\nA four-year-old male child, born of a third-degree consanguineous marriage, presented with poor growth and global developmental delay with a birth weight of 2.4 kg and uneventful birth and perinatal histories. Family history was insignificant. Developmental history revealed delayed attainment of all milestones with predominant cognitive delay. On examination, he had coarse facies, microcephaly, café-au-lait macules, and bony deformities with flaring of lower ribs, short hands and feet, widening of wrist and ankle, and prominent thoracic scoliosis (Figure 1). Anthropometric measurements were consistent with findings of severe short stature (with a height of 80 cm, <3 SD), microcephaly (head circumference of 44.5 cm, <3 SD), and underweight for age and sex (a weight of 10.7 kg, <3 SD). No focal neurological deficits were found on neurological examination. The child had no cataract or corneal clouding and no hepatosplenomegaly. Routine blood investigations, including thyroid function tests, yielded normal results (Table 1). Urinary glycosaminoglycan (GAG) analysis was done to screen mucopolysaccharidosis, which yielded negative results. Growth hormone levels were within normal range (28 ng/mL). The karyotyping report was also normal.A radiographic skeletal survey was done. The spine X-ray (Figures 2A, 2B) revealed scoliosis, anterior beaking of multiple vertebral bodies, and a double-humped appearance of the thoracic and lumbar vertebral bodies. Additionally, the lower sacral vertebrae were not visualized. An X-ray of the left hand and wrist (Figure 2C) demonstrated irregular carpals and metacarpals, bullet-shaped phalanges, and dysplastic radial and ulnar epiphyses. The pelvis X-ray (Figure 2D) also showed a widening of the pubic symphysis and abnormal pelvic inlet. Non-visualization of the sacral vertebrae raised suspicion of sacral agenesis. The thinning and lace-like appearance of the iliac crest, a feature typically seen in DMC syndrome, was noted. The presence of a short femoral neck, irregular femoral epiphysis and metaphysis, flat acetabular roof, and lateral displacement of femoral heads were suggestive of epiphyseal or metaphysical dysplasia. An X-ray of the ankle (Figure 2E) showed a congenital vertical talus. MRI of the brain and abdominal ultrasonography revealed no abnormalities. Based on the radiological findings, we considered the diagnosis of SEMD (e.g., DMC syndrome, spondyloepiphyseal dysplasia tarda, and Smith-McCort dysplasia) and Morquio syndrome.The clinical presentation, distinctive skeletal phenotype, absence of corneal clouding, presence of intellectual disability, and lack of urinary glycosaminoglycans (GAGs) pointed towards an alternative diagnosis. Whole-exome sequencing was performed that confirmed DMC syndrome by identifying a pathogenic homozygous mutation in the DYM gene located in exon 12 (Figure 3). The parents were subsequently counseled on Sanger sequencing and prenatal genetic testing for future pregnancies.\n\nDiscussion\n\nDMC syndrome is a rare, autosomal recessive, progressive SEMD with distinctive intellectual disabilities and skeletal deformities that impede normal growth and development. The hallmark structural abnormalities are observed within the spine and pelvis, including abnormalities in the vertebrae and abnormal development of the epiphyses [4]. This can result in spinal curvature abnormalities such as kyphosis and scoliosis, as well as premature degenerative changes within the intervertebral discs [5]. The severity and specific manifestations of SEMD can vary widely among affected individuals, with some experiencing mild skeletal abnormalities and others facing more profound functional limitations [6].Morquio syndrome, or mucopolysaccharidosis IV, primarily manifests with skeletal dysplasia. Affected individuals often exhibit features of short stature, kyphoscoliosis of the spine, flattening of the vertebrae, and irregular bone growth. Joint abnormalities are also common, with manifestations including hyperflexibility, hypermobility, laxity, and instability, which can contribute to impaired mobility and functional limitations [7]. Systemic involvement may also be present. Due to the grossly similar skeletal features observed between the two conditions, DMC is often referred to as pseudo-Morquio syndrome [8].The overlapping clinical features between DMC (pseudo-Morquio syndrome) and Morquio syndrome pose diagnostic challenges, but the presence of progressive intellectual disability and the absence of corneal clouding and urinary GAGs help to rule out Morquio syndrome, which was our first consideration in this case. Additionally, the radiological evidence from X-rays of the wrist, spine, and pelvis, characteristically showing abnormal spine curvature and a lace-like pattern over the iliac crest, suggested a provisional diagnosis of DMC syndrome [8,9].Genetic testing confirmed the diagnosis with a homozygous mutation in the DYM gene, which was pathogenic. This mutation is associated with DMC disease and a variant known as Smith-McCort dysplasia. Smith-McCort dysplasia is not associated with any intellectual impairment [10]. Management of these conditions typically involves a multidisciplinary approach aimed at addressing the specific symptoms and complications associated with skeletal dysplasia, with interventions ranging from supportive therapies to surgical procedures aimed at correcting skeletal deformities and improving overall quality of life [11,12].\n\nConclusions\n\nThis study emphasizes the significance of a precise and definitive diagnosis between two such close possibilities with nearly indistinguishable clinical features. In skeletal dysplasias, a good clinical history and examination, a skeletal survey, and genetic testing are needed. In our case, confirmed genetic testing helped diagnose DMC syndrome. Accurate diagnosis is helpful in prenatal genetic testing.",
+    "generate_case": {
+        "case_summary": "- **Patient Information**: Four-year-old male child, born of a third-degree consanguineous marriage.\n- **Chief Complaint**: Poor growth and global developmental delay.\n- **History of Present Illness**: Delayed attainment of all developmental milestones with predominant cognitive delay.\n- **Past Medical History**: None reported.\n- **Personal History**: Birth weight of 2.4 kg with uneventful birth and perinatal histories.\n- **Family History**: Insignificant family history.\n- **Physical Examination**: \n  - Severe short stature (height 80 cm, <3 SD), underweight (10.7 kg, <3 SD), microcephaly (head circumference 44.5 cm, <3 SD).\n  - Coarse facies, café-au-lait macules, short hands and feet, widened wrist/ankle, flaring ribs, prominent thoracic scoliosis.\n  - No cataract, corneal clouding, hepatosplenomegaly, or focal neurological deficits.\n- **Ancillary Tests**: \n  - Normal blood investigations and thyroid function tests.\n  - Negative urinary glycosaminoglycan (GAG) analysis.\n  - Normal growth hormone levels (28 ng/mL) and normal karyotype.\n  - Radiological findings: Abnormal vertebral beaking, scoliosis, sacral agenesis, lace-like iliac crest pattern, dysplastic femoral and pelvic features, congenital vertical talus.\n  - MRI brain and abdominal ultrasound: No abnormalities.\n  - Whole-exome sequencing: Pathogenic homozygous mutation in the DYM gene confirmed Dyggve-Melchior-Clausen syndrome.",
+        "differential_diagnosis": "- **Step 1**: Initial consideration of **Morquio Syndrome** (mucopolysaccharidosis IV A/B) due to the marked skeletal deformities seen in the patient, such as irregular bone growth and short stature. However, this was ruled out due to the absence of corneal clouding, systemic organ involvement, and urinary GAGs, which are characteristic of Morquio.\n  \n- **Step 2**: Spondyloepimetaphyseal dysplasia (e.g., **Smith-McCort Dysplasia**) was considered given the skeletal abnormalities and radiographic findings. However, it was excluded since it is not associated with intellectual disability, unlike this patient's presentation.\n\n- **Step 3**: **Dyggve-Melchior-Clausen Syndrome** was strongly suspected given:\n  - Intellectual disability.\n  - Skeletal findings, including lace-like iliac crest appearance, sacral agenesis, and prominent scoliosis.\n  - Absence of corneal clouding and GAG elevation, which differentiate it from Morquio Syndrome.\n  - The intellectual component further differentiated it from Smith-McCort dysplasia.\n\n- Genetic testing confirmed the diagnosis, identifying a homozygous pathogenic mutation in the DYM gene, which is definitive for DMC syndrome.",
+        "final_diagnosis": "The final diagnosis is **Dyggve-Melchior-Clausen (DMC) Syndrome**, based on the clinical presentation, radiologic findings, absence of systemic and biochemical features of Morquio Syndrome, and pathogenic mutation in the DYM gene. This aligns with the progressive spondyloepimetaphyseal dysplasia, intellectual disability, and other characteristic skeletal deformities observed.",
+        "diagnosis_results": "Dyggve-Melchior-Clausen Syndrome (DMC Syndrome)"
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-8-6",
+    "checked_rare_disease": [
+        "Dyggve-Melchior-Clausen disease"
+    ],
+    "id": "PMC11483161",
+    "results": {
+        "content": "### Resoning:\n\nIn this case, we are presented with a four-year-old male child who has poor growth and global developmental delay. The child was born to parents who are third-degree consanguineous marriage, which increases the risk of inheriting recessive genetic disorders. The chief complaint is poor growth and global developmental delay, with a history of delayed attainment of all developmental milestones, particularly cognitive delay.\n\nStarting with the physical examination, the child has severe short stature, underweight, and microcephaly, all below three standard deviations. This suggests a systemic condition affecting overall growth and development. The presence of coarse facies, café-au-lait macules, short hands and feet, widened wrist and ankle, flaring ribs, and prominent thoracic scoliosis provides a constellation of physical features that could be indicative of a specific genetic syndrome.\n\nGiven the consanguineous marriage, it is important to consider autosomal recessive disorders. The physical examination findings need to be correlated with possible genetic syndromes that present with short stature, developmental delay, and specific physical anomalies.\n\nFirst, let's consider skeletal dysplasias, given the abnormal vertebral beaking, scoliosis, sacral agenesis, and dysplastic femoral and pelvic features. However, the presence of cognitive delay and other features suggests that it may not be solely a skeletal disorder.\n\nNext, considering the café-au-lait macules, Neurofibromatosis type 1 (NF1) comes to mind, but the absence of cataracts, corneal clouding, and the specific skeletal abnormalities make this less likely. Additionally, NF1 is typically sporadic or inherited in an autosomal dominant pattern, not usually associated with consanguinity.\n\nAnother consideration is mucopolysaccharidosis (MPS), given the coarse facies, short stature, and skeletal abnormalities. However, the urinary GAG analysis was negative, which makes MPS less likely.\n\nThyroid function tests were normal, ruling out hypothyroidism as a cause of poor growth and developmental delay.\n\nGrowth hormone levels were normal, suggesting that growth hormone deficiency is unlikely to be the primary cause.\n\nThe MRI brain and abdominal ultrasound were normal, which helps to rule out structural abnormalities in these areas.\n\nGiven the normal karyotype, chromosomal abnormalities are unlikely.\n\nThe radiological findings, including vertebral beaking, scoliosis, sacral agenesis, lace-like iliac crest pattern, dysplastic femoral and pelvic features, and congenital vertical talus, suggest a specific pattern of skeletal dysplasia.\n\nConsidering the combination of skeletal abnormalities, short stature, developmental delay, and the consanguineous marriage, a genetic syndrome should be considered.\n\nGiven the whole-exome sequencing results, which confirmed a pathogenic homozygous mutation in the DYM gene, this points to Dyggve-Melchior-Clausen (DMC) syndrome.\n\nDMC syndrome is a rare autosomal recessive disorder characterized by short stature, dysmorphic features, developmental delay, and specific skeletal abnormalities, which aligns well with the patient's presentation.\n\nTherefore, the clinical presentation, radiological findings, and genetic testing all support the diagnosis of Dyggve-Melchior-Clausen syndrome.\n\n### Answer:\nDyggve-Melchior-Clausen syndrome"
+    },
+    "reasoning_eval": [
+        {
+            "step": "In this case, we are presented with a four-year-old male child who has poor growth and global developmental delay. The child was born to parents who are third-degree consanguineous marriage, which increases the risk of inheriting recessive genetic disorders. The chief complaint is poor growth and global developmental delay, with a history of delayed attainment of all developmental milestones, particularly cognitive delay.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Starting with the physical examination, the child has severe short stature, underweight, and microcephaly, all below three standard deviations. This suggests a systemic condition affecting overall growth and development. The presence of coarse facies, café-au-lait macules, short hands and feet, widened wrist and ankle, flaring ribs, and prominent thoracic scoliosis provides a constellation of physical features that could be indicative of a specific genetic syndrome.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Given the consanguineous marriage, it is important to consider autosomal recessive disorders. The physical examination findings need to be correlated with possible genetic syndromes that present with short stature, developmental delay, and specific physical anomalies.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "First, let's consider skeletal dysplasias, given the abnormal vertebral beaking, scoliosis, sacral agenesis, and dysplastic femoral and pelvic features. However, the presence of cognitive delay and other features suggests that it may not be solely a skeletal disorder.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Next, considering the café-au-lait macules, Neurofibromatosis type 1 (NF1) comes to mind, but the absence of cataracts, corneal clouding, and the specific skeletal abnormalities make this less likely. Additionally, NF1 is typically sporadic or inherited in an autosomal dominant pattern, not usually associated with consanguinity.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Another consideration is mucopolysaccharidosis (MPS), given the coarse facies, short stature, and skeletal abnormalities. However, the urinary GAG analysis was negative, which makes MPS less likely.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Thyroid function tests were normal, ruling out hypothyroidism as a cause of poor growth and developmental delay.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Growth hormone levels were normal, suggesting that growth hormone deficiency is unlikely to be the primary cause.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The MRI brain and abdominal ultrasound were normal, which helps to rule out structural abnormalities in these areas.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Given the normal karyotype, chromosomal abnormalities are unlikely.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Initial consideration of Morquio Syndrome due to marked skeletal deformities, irregular bone growth, and short stature, but ruled out due to absence of corneal clouding, systemic organ involvement, and urinary GAGs.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Spondyloepimetaphyseal dysplasia, such as Smith-McCort Dysplasia, was considered based on skeletal abnormalities and radiographic findings, but excluded due to lack of association with intellectual disability.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Dyggve-Melchior-Clausen Syndrome was strongly suspected due to intellectual disability, skeletal findings like lace-like iliac crest appearance, sacral agenesis, and prominent scoliosis, and absence of corneal clouding and GAG elevation.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Intellectual disability further differentiated Dyggve-Melchior-Clausen Syndrome from Smith-McCort Dysplasia.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Genetic testing confirmed the diagnosis by identifying a homozygous pathogenic mutation in the DYM gene.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> The final diagnosis is Dyggve-Melchior-Clausen Syndrome, based on clinical presentation, radiologic findings, absence of systemic and biochemical features of Morquio Syndrome, and the pathogenic mutation in the DYM gene.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.9,
+    "factulity": 1.0,
+    "recall": 1.0
+}

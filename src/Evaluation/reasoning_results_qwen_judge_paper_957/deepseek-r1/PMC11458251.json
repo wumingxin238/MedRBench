@@ -1,0 +1,102 @@
+{
+    "raw_case": "\nSynovial Hemangioma: An Overlooked Cause of Chronic Knee Pain in Children\n\n\nIntroduction:\n\nSynovial hemangioma of the knee is a benign vascular malformation that is often misdiagnosed due to its non-specific symptoms.\n\nCase Report:\n\nWe present a case involving a 7-year-old male child with chronic knee pain and swelling in the left knee, which remained undiagnosed for over 3 years. Magnetic resonance imaging revealed a synovial vascular malformation. Surgical excision of the lesion and partial synovectomy were performed, and histopathological analysis confirmed the diagnosis of synovial hemangioma. After 18 months of follow-up, there were no signs of recurrence or recurrent joint effusion.\n\nConclusion:\n\nSynovial hemangioma of the knee, although uncommon, should be considered as a differential diagnosis in cases of chronic knee pain and swelling. En-bloc excision is the treatment of choice to prevent recurrence, yielding good clinical outcomes.\n\nLearning Point of the Article:\n\nSynovial hemangioma is an important but often overlooked cause of atraumatic chronic knee pain and recurrent swelling in children. A high index of suspicion, coupled with MRI, is crucial for diagnosis. Open en bloc excision is recommended to prevent recurrence and ensure favorable clinical results.\n\nIntroduction\n\nSynovial hemangioma is a very rare benign vascular malformation of joint cavities [1-4]. It can be multifocal or localized in the same joint cavities. It is a rare cause of knee pain and swelling. It is usually seen in young adults or children [5-8.]. Due to non-specific presentation, it is often misdiagnosed. The radiological, histopathological finding helps diagnosing of the lesion [9]. After obtaining both informed and written consent from the guardian of patient, we report a rare case of synovial hemangioma and its management to create awareness about a rare synovial hemangioma arising from a joint which is although rare should always be considered as a differential diagnosis.\n\nCase Report\n\nA 7-year-old child presented with a history of pain and swelling in the antero-medial aspect of his left knee joint for more than 3 years. He had previously received treatment only in the form of simple analgesics. The patient had a history of atraumatic recurrent effusion in his left knee. Multiple consultations with orthopedic surgeons over this 3-year period yielded no diagnosis. On examination, a soft, non-tender, palpable 2 cm × 2 cm mass was present on the antero-medial aspect of his left knee (Fig. 1). In full flexion, the mass appeared more pronounced. It was compressible and filled back when the pressure was released. The patient had a near normal range of motion and no signs of instability. There was no limb length discrepancy or cutaneous lesions. There was no involvement of any other joints, no constitutional symptoms, and no chronic medical conditions. Immunization and developmental milestones were normal. Laboratory tests, including a complete coagulation profile, were within normal range. His medical, developmental, and family histories were unremarkable. Plain radiographs and contrast magnetic resonance imaging (MRI) scans were obtained (Fig. 2). The plain radiographs showed no abnormalities, but the MRI was suggestive of a vascular synovial tumor. The differentials considered were synovial haemangioma and synovial sarcoma.An open excision of the lesion was performed along with partial synovectomy around the medial patellofemoral compartment (Fig. 3a and b). Some surrounding tissue showing bluish discoloration was cauterized to prevent post-operative hemorrhage. The excised tissue specimen measured 4 × 3 × 0.5 cm and was sent for histopathological examination (Fig. 3c). Histological examination confirmed a synovial hemangioma of the cavernous type (Fig. 3d). The post-operative period was uneventful. Physiotherapy of the left knee joint was started, and at 18 months follow-up, the range of motion of the left knee joint was within normal limits with no history of recurrent effusion in the left knee.\n\nDiscussion\n\nAbout 0.07% of all soft-tissue tumors were synovial hemangioma and of all resected hemangiomas 0.78% were synovial hemangioma [10]. It can occur in an any joint but knee joint is the most common site [11,12]. It occurs most frequently in young adults and children, with male predominance. The patient usually presents with a history of knee joint pain with atraumatic recurrent bloody effusions [13, 14]. There is often a long gap between the onset of symptoms and in diagnosis due to its non-specific symptoms. Literature even reports a delay of up to 20 and 40 years in diagnosis [14-16]. In our case, also there was history of atraumatic recurrent spontaneous effusion of the knee joint for more than 3 years in a 7-year-old male child with normal coagulation parameters and other blood investigations. It gives a clue for the possibility of a synovial hemangioma. Plain X-ray radiograph is often normal and of poor diagnostic value. It may show soft-tissue density, suggesting joint effusion or a mass. It may contain amorphous calcifications or phleboliths and this is pathognomonic. In <5% cases, they show osteoporosis, periosteal reaction, cortical destruction, early maturation of the epiphyses, and a discrepancy in leg length or even arthropathy simulating hemophilia [17]. MRI with contrast become the main diagnostic method for the diagnosis and treatment planning of synovial lesions [18,19]. The differential diagnosis includes mainly pigmented villonodular synovitis, synovial sarcoma and other arthropathies (hemophilic arthropathy, synovial osteochondromatosis rheumatoid arthritis, and juvenile chronic arthritis) are usually differentiated clinically and after MRI interpretation.Treatment options have varied and depend on the size and extent of lesion, its resectability, and the demands of the patients [20, 21]. They range from sclerosing agents, Nd: YAG laser or holmium ablation, embolization, cauterization, freezing, radiotherapy [22-24], and arthroscopic or open synovectomy [25, 26]. Arthroscopic excision is possible for pedunculated or focal lesions of small size. The literature stated that inadequate excision poses a recurrence rate of 20–60% [27-30]. In our case, we performed open synovectomy to prevent recurrence and a better functional outcome. No recurrence was reported in our case in the past 18 months of follow-up.\n\nConclusion\n\nSynovial hemangioma of the knee joint is a rare condition that can cause undiagnosed chronic knee pain and swelling. Maintaining a high index of suspicion is crucial for diagnosing this rare vascular malformation. MRI is the investigation of choice, and early excision should be performed to prevent arthropathy and ensure optimal patient outcomes.\n\nClinical Message\n\nSynovial hemangioma is an uncommon benign vascular malformation of joint cavities, often presenting with knee pain and swelling, particularly in children and young adults. Accurate diagnosis typically involves MRI, and definitive management includes surgical excision. Early recognition and intervention are crucial to prevent long-term joint damage and optimize patient outcomes.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 7-year-old male.\n- **Chief Complaint:** Chronic knee pain and swelling in the left knee.\n- **History of Present Illness:** Ongoing knee pain and swelling for over 3 years; history of atraumatic recurrent effusion in the left knee. Multiple consultations with no definitive diagnosis. Treated previously with analgesics.\n- **Past Medical History:** None.\n- **Personal History:** Normal immunization and developmental milestones.\n- **Family History:** Unremarkable.\n- **Physical Examination:** Left knee examination revealed a soft, non-tender, compressible 2 cm x 2 cm mass on the antero-medial aspect, more pronounced during full flexion. Near normal range of motion, no instability, no limb length discrepancy, and no skin or constitutional symptoms.\n- **Ancillary Tests:** \n  - Laboratory tests, including coagulation profile, were normal.\n  - Plain radiographs were unremarkable.\n  - MRI revealed a vascular synovial tumor consistent with a synovial hemangioma or synovial sarcoma.\n  - Histopathological examination of excised lesion confirmed synovial hemangioma (cavernous type).",
+        "differential_diagnosis": "1. **Initial Considerations:**\n   - Chief complaints of atraumatic chronic knee pain, recurrent swelling, and mass suggest a joint or soft-tissue pathology. Based on presentation and imaging findings, the differentials included:\n     - **Synovial hemangioma**, a benign vascular malformation.\n     - **Synovial sarcoma**, a malignant soft-tissue tumor.\n     - Other possibilities, such as pigmented villonodular synovitis or arthropathies (e.g., rheumatoid arthritis, juvenile chronic arthritis, hemophilic arthropathy, or synovial osteochondromatosis), were considered but less likely based on clinical and imaging features.\n\n2. **Investigation Rationale and Exclusions:**\n   - Plain radiographs were normal, making pathologies with osseous involvement less likely (e.g., synovial erosion in chronic arthropathies or synovial sarcoma with cortical destruction).\n   - MRI provided clear evidence of a vascular synovial lesion, favoring **synovial hemangioma**.\n   - Histopathological analysis was pivotal in ruling out malignancy (e.g., synovial sarcoma) and confirming a diagnosis of **synovial hemangioma**.\n\n3. **Final Exclusion of Differentials:**\n   - **Synovial sarcoma** was excluded by histopathology showing benign vascular malformation with characteristic features of synovial hemangioma.\n   - **Pigmented villonodular synovitis**, arthropathies, and other inflammatory conditions were excluded clinically (no systemic signs, normal labs) and based on MRI findings.",
+        "final_diagnosis": "The final diagnosis is **synovial hemangioma** (cavernous type) of the left knee. This conclusion was supported by the patient's clinical symptoms, imaging findings (MRI evidence of a vascular synovial tumor), and histopathological confirmation following surgical excision.",
+        "diagnosis_results": "Synovial hemangioma (cavernous type) of the left knee."
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-7-20",
+    "checked_rare_disease": [],
+    "id": "PMC11458251",
+    "results": {
+        "thinking_process": "Okay, let's dive into this case. The patient is a 7-year-old boy with chronic left knee pain and swelling for over three years. The key points here are the recurrent effusion without trauma, and the fact that multiple consultations didn't find a definitive diagnosis. He's been on analgesics, which probably helped with pain but didn't resolve the underlying issue.\n\nFirst, considering the age and the chronic nature, I need to think about conditions that cause recurrent knee swelling in children. Common possibilities include juvenile idiopathic arthritis (JIA), which often presents with joint swelling and pain. However, JIA typically has other systemic symptoms or involvement of other joints, which aren't mentioned here. Plus, the lab tests were normal, which might not always rule out JIA but makes it less likely if inflammatory markers aren't elevated.\n\nAnother thought is about traumatic causes, but the history specifies atraumatic, so injuries like meniscal tears or ligament issues are less likely. Plus, the physical exam didn't note instability, which you might expect with some structural injuries. The mass described is soft, non-tender, and compressible. That makes me think of a cystic structure or a vascular lesion. A popliteal cyst (Baker's cyst) comes to mind, but those are usually in the posterior knee, not antero-medial. The location here is important.\n\nLooking at the MRI results, which mention a vascular synovial tumor, the main differentials given are synovial hemangioma versus synovial sarcoma. Synovial sarcoma is a malignant tumor, but in children, synovial hemangiomas, though rare, can occur. The fact that the histopathology after excision confirmed synovial hemangioma (cavernous type) is the clincher here. Histopathology is the gold standard for diagnosis, so even though imaging might suggest possibilities, the biopsy results are definitive.\n\nOther possibilities could include pigmented villonodular synovitis (PVNS), which can cause recurrent effusions and synovial masses, but the MRI description here points more towards a vascular lesion. Also, PVNS typically has characteristic findings on MRI, like low signal on T2 due to hemosiderin deposition. The coagulation profile was normal, which might rule out hemophilic arthropathy, especially since there's no family history of bleeding disorders.\n\nThe absence of constitutional symptoms like fever or weight loss also lowers suspicion for infections or malignancies. The mass being non-tender and compressible fits more with a benign lesion like a hemangioma. Synovial sarcomas are usually more aggressive, might have more significant pain, and possibly other systemic signs, but again, the histopathology has already confirmed it's a hemangioma.\n\nIn summary, putting together the history, imaging findings, and the biopsy results, the final diagnosis aligns with the histopathological confirmation of synovial hemangioma, cavernous type. This explains the chronic swelling, atraumatic nature, and the MRI findings. The prior treatments with analgesics would manage symptoms but not address the underlying vascular tumor, which likely required surgical excision for definitive treatment.",
+        "content": "```\n### Resoning:\n<step 1> The patient is a 7-year-old male with chronic atraumatic left knee pain and swelling for over 3 years. The lack of trauma and recurrent effusion suggests a non-traumatic etiology, such as inflammatory, neoplastic, or congenital causes.  \n<step 2> Physical examination findings of a soft, compressible antero-medial mass during flexion and normal range of motion point toward a benign synovial lesion rather than mechanical instability or infection.  \n<step 3> Normal laboratory tests, including coagulation profile, rule out bleeding disorders (e.g., hemophilia) and systemic inflammatory conditions (e.g., juvenile idiopathic arthritis).  \n<step 4> MRI findings of a vascular synovial tumor narrow the differential to synovial hemangioma (benign) versus synovial sarcoma (malignant). The absence of constitutional symptoms and aggressive imaging features (e.g., necrosis, invasion) favors a benign process.  \n<step 5> Definitive histopathological confirmation of a cavernous-type synovial hemangioma establishes the diagnosis, aligning with the clinical, imaging, and intraoperative findings.  \n\n### Answer:\nSynovial hemangioma (cavernous type)"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient is a 7-year-old male with chronic atraumatic left knee pain and swelling for over 3 years. The lack of trauma and recurrent effusion suggests a non-traumatic etiology, such as inflammatory, neoplastic, or congenital causes.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Physical examination findings of a soft, compressible antero-medial mass during flexion and normal range of motion point toward a benign synovial lesion rather than mechanical instability or infection.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Normal laboratory tests, including coagulation profile, rule out bleeding disorders (e.g., hemophilia) and systemic inflammatory conditions (e.g., juvenile idiopathic arthritis).",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "MRI findings of a vascular synovial tumor narrow the differential to synovial hemangioma (benign) versus synovial sarcoma (malignant). The absence of constitutional symptoms and aggressive imaging features (e.g., necrosis, invasion) favors a benign process.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Definitive histopathological confirmation of a cavernous-type synovial hemangioma establishes the diagnosis, aligning with the clinical, imaging, and intraoperative findings.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Chief complaints of atraumatic chronic knee pain, recurrent swelling, and mass suggest a joint or soft-tissue pathology. Differentials include synovial hemangioma, synovial sarcoma, pigmented villonodular synovitis, rheumatoid arthritis, juvenile chronic arthritis, hemophilic arthropathy, and synovial osteochondromatosis. Synovial sarcoma and other inflammatory conditions are less likely based on clinical and imaging features.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Plain radiographs are normal, excluding pathologies with osseous involvement like synovial erosion in chronic arthropathies or synovial sarcoma with cortical destruction.",
+            "hit": false
+        },
+        {
+            "step": "<Step 3> MRI provides clear evidence of a vascular synovial lesion, favoring synovial hemangioma.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Histopathological analysis confirms a diagnosis of synovial hemangioma, ruling out malignancy like synovial sarcoma.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Synovial sarcoma is excluded by histopathology showing a benign vascular malformation with characteristic features of synovial hemangioma.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> Pigmented villonodular synovitis, arthropathies, and other inflammatory conditions are excluded clinically (no systemic signs, normal labs) and based on MRI findings.",
+            "hit": true
+        },
+        {
+            "step": "<Step 7> Final diagnosis: Synovial hemangioma (cavernous type) of the left knee, supported by clinical symptoms, imaging findings, and histopathological confirmation following surgical excision.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.6,
+    "factulity": 1.0,
+    "recall": 0.8571428571428571
+}

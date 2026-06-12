@@ -1,0 +1,120 @@
+{
+    "raw_case": "\nLaparoscopic treatment of a large simple hepatic cyst misinterpreted as hydatid\n\n\nAbstract\n\nIn addition to becoming the gold standard for surgical treatment of a number of diseases, laparoscopy is sometimes needed as a diagnostic method to differentiate one disease from another. We present a case of a 75-year-old man with an incidentally found liver cyst, which was suspected to be hydatid. We performed a laparoscopic deroofing and a simple cyst was found, which diagnosis was confirmed the final pathological analysis of the cyst wall.\n\nIntroduction\n\nSimple liver cysts are serous fluid-filled cavities that are thin-walled and arise from aberrant bile duct cells. Common cystic lesions that present diagnostic challenges are hydatid cysts, simple cyst/ polycystic liver, and intrahepatic cystadenoma [1]. Correct preoperative diagnosis is essential, as the therapeutic approach is different [1]. The simple liver cyst may be asymptomatic and may found on incidental ultrasound examinations on another occasion. Pain is present in a significant percentage of cases with simple liver cysts depending on location and size [2–6]. We present a clinical case of an asymptomatic liver cyst suspicious for hydatid.\n\nCase report\n\nA 75-year-old man was admitted to a surgery clinic after detected a large cystic formation in the right lobe of the liver with prophylactic ultrasound (US) examination. For two years, the cyst was tracked using computed tomography (CT) (Fig. 1) and gradually increased in size from 10 cm to 13 cm. An ELISA method was performed to differentiate from a hydatid cyst, which was positive. Computed tomography described a large cystic formation in the right lobe of the liver involving segments IV, V, VIII measuring 137.9 mm to 109.8 mm with smooth contours. Laboratory findings were normal. A diagnosis of hydatid cyst was made due to the positive ELISA method and the patient was offered laparoscopic surgery.The patient was in the supine position (American position) and a Veress needle was inserted through a subumbilical skin incision and a pneumoperitoneum was created to 13 mmHg, after which a 10 mm optic trocar was inserted. Under optical control, another 5 mm trocar was inserted subxiphoidally and one 5 mm on the right mid-axillary line subcostally. Intraoperatively, a small whitish ribbon-like area was visualized in the area of the IVB segment with a length of ⁓3 cm/d. Using LigaSure, the Falciform ligament was resected for better visualization. Using a hook, the capsule of the cyst was opened and serous fluid was evacuated, which proved to be a simple cyst (Fig. 2). Cyst walls were excised down to the parenchyma using LigaSure. The cyst was visualized inside to rule out communication with the bile duct (Fig. 3). Due to the depth and intraparenchymal location, a drain was placed inside, which was removed on the 20th postoperative day until the drainage from the drain stopped completely. The total operative time was 40 min and the patient was discharged with a drain on the 2nd postoperative day. Pathomorphological examination of the removed cyst wall proved a simple cyst.\n\nDiscussion\n\nA recent analysis by Kersik et al. [4] found a higher incidence of simple liver cyst in men, with a male: female ratio of 1:3.2. The average age of the patients is 72 years with a higher percentage of localization on the right, compared to the left site [4]. The results are similar in the cases presented by us in Table 1. Karan et al. [1] included in an analysis 65 cases of liver cysts, of which 67.7% (n = 44) had hydatid cysts, 20% (n = 13) simple cyst, and 12.3% (n = 8) with biliary cystadenoma. Accurate dedifferentiation is necessary for proper planning for a precise therapeutic approach. There is insufficient data regarding the role of some tumor markers in differentiation a simple cyst from cystadenoma or cystadenocarcinoma. The marker CA 19–9 is a tumor-associated antigen and is increased in cases of cancer of the colon, stomach, biliary tract and pancreas, but some authors report an increase in serum levels also in simple cysts [2, 3, 5, 6], which excludes at this stage its possibility to play a role in the differential diagnosis. The same is true for CEA marker, which is also found to be elevated in simple liver cysts [3, 5]. A recent report by Zhang [3] found elevated values of biomarkers protein induced by vitamin K absence (PIVKA), and the cause may be due to the compression of a large liver cyst, which damages hepatocytes.Ultrasound is a useful and non-invasive method for the diagnosis of a simple liver cysts, which may be the only one for differentiation form abscesses, malignant tumors, hemangiomas and hamartomas [9]. Contrast-enhanced CT is negative for the internal structures of cystic lesions according to Shimizu et al. [9], and magnetic resonance imaging (MRI) defines a spherical lesion with high signal intensity on T2-weighted images and low signal intensity on T1-weighted images without contrast enhancement.Most of the authors are of the opinion that asymptomatic liver cysts do not require treatment, but only observation, but it should be taken into account that there is an occurrence of communication of the cyst with the biliary tree [7], which would be a reason for rapid growth with risk for rupture [5]. With the advent of minimally invasive treatment, laparoscopy has become the preferred method of treatment with proven effectiveness [2, 4, 5, 7]. A literature review by Kersik et al. [4] found only 22 publications detailing the surgical procedure at 20.8% laparoscopic deroofing was combined with omentopexy (n = 8), argon plasma coagulation (n = 4), or was preceded by ethanol sclerotherapy (n = 4). There is still no clear consensus in the literature regarding the actual efficacy of these techniques in terms of recurrence rates [4]. Percutaneous ultrasonographic guided aspiration is an effective method for immediate symptom relief in large liver cysts [7, 8], but according to Shimizu et al. [9] recurrence and new filling of the cyst is inevitable.\n\nConclusion\n\nLaparoscopy, in addition to being a good method with proven therapeutic effectiveness, can also be a good diagnostic method in case of doubt in differentiating a simple cyst from a cystadenoma, cystadenocarcioma, or hydatid cyst.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 75-year-old man.\n- **Chief Complaint:** None (asymptomatic liver cyst discovered incidentally during ultrasound examination).\n- **History of Present Illness:** Over two years, a liver cyst in the right lobe increased in size from 10 cm to 13 cm, as observed through ultrasound and CT imaging.\n- **Past Medical History:** None mentioned.\n- **Personal History:** None mentioned.\n- **Family History:** None mentioned.\n- **Physical Examination:** Not detailed.\n- **Ancillary Tests:** \n  - CT scan: Revealed a large cystic lesion in the right lobe of the liver (segments IV, V, VIII) measuring approximately 137.9 mm by 109.8 mm with smooth contours.\n  - ELISA test: Positive result, raising suspicion of a hydatid cyst.\n  - Laboratory findings: All normal.\n  - Intraoperative findings: The cyst contained serous fluid and showed no communication with the bile duct. The cyst walls were resected for histopathological analysis.\n  - Pathological examination: Confirmed the diagnosis of a simple hepatic cyst.",
+        "differential_diagnosis": "- The initial concern was that the liver cyst could be a hydatid cyst, given the positive ELISA test result. Hydatid cysts are caused by Echinococcus infection and often require specific surgical and medical interventions that differ significantly from those for simple cysts.\n- Other potential diagnoses included a simple hepatic cyst, biliary cystadenoma, cystadenocarcinoma, or abscesses, all of which necessitate different management strategies. CT imaging suggested a simple cyst due to the smooth contours and absence of complex internal structures.\n- The ELISA test, though commonly used to detect hydatid disease, can yield false-positive results, necessitating histopathological confirmation.\n- Intraoperatively, imaging findings (serous fluid, no bile duct communication, and lack of visual evidence of hydatid cysts) and subsequent histopathological analysis ruled out hydatid disease and confirmed the diagnosis of a simple hepatic cyst.",
+        "final_diagnosis": "The final diagnosis is a **simple hepatic cyst**. The diagnosis was made based on intraoperative findings and histopathological confirmation, despite the initial suspicion of hydatid cyst suggested by the positive ELISA test.",
+        "diagnosis_results": "Simple hepatic cyst."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-10-23",
+    "checked_rare_disease": [],
+    "id": "PMC11632827",
+    "results": {
+        "content": "### Resoning:\n<step 1> **Initial Assessment and Chief Complaint:** The patient is a 75-year-old man who is asymptomatic, and a liver cyst was found incidentally. This suggests the cyst is likely benign and not causing acute problems.  The incidental finding is crucial because it directs the diagnostic pathway away from symptom-driven urgent conditions.\n\n<step 2> **Growth History Analysis:** The cyst grew from 10 cm to 13 cm over two years.  While growth is a factor to consider, the slow growth over a prolonged period is less concerning for malignancy and more consistent with benign cystic lesions.  However, any growth requires investigation.\n\n<step 3> **Imaging Findings Interpretation:** CT and ultrasound both confirm a large cystic lesion in the right lobe of the liver. The smooth contours described on the CT scan are a reassuring feature, generally pointing towards a benign process rather than a malignant one, which often has irregular borders. The size (13.79 cm x 10.98 cm) is significant, making further investigation necessary to characterize the cyst.\n\n<step 4> **ELISA Test Result Evaluation:** A positive ELISA test raises a strong suspicion of a hydatid cyst. This is a critical piece of information that must be considered seriously as hydatid cysts require specific management and can have complications.  This result necessitates further investigation to confirm or rule out hydatid disease.\n\n<step 5> **Laboratory Findings Consideration:**  \"All normal\" laboratory findings are reported. While this is non-specific, it generally suggests no significant systemic inflammation, infection, or liver dysfunction based on routine blood tests.  This doesn't rule out specific diagnoses but makes broad systemic illnesses less likely.\n\n<step 6> **Intraoperative Findings Analysis:** During surgery, the cyst was found to contain serous fluid and had no biliary communication. Serous fluid is typical of simple cysts and less characteristic of hydatid cysts, which can sometimes contain daughter cysts or debris. The absence of biliary communication is also more consistent with a simple cyst rather than a biliary cyst or some types of hydatid cysts that might rupture into the biliary tree.\n\n<step 7> **Pathological Examination Result - Definitive Diagnosis:** The pathological examination of the resected cyst walls confirmed the diagnosis of a \"simple hepatic cyst.\" This is the most crucial and definitive piece of evidence. Pathology is the gold standard for diagnosing tissue abnormalities.  This result directly contradicts the initial suspicion of a hydatid cyst raised by the ELISA test.\n\n<step 8> **Final Diagnosis and Reconciliation of Findings:**  Despite the positive ELISA suggesting hydatid disease, the pathological examination definitively diagnosed a simple hepatic cyst.  In this case, the pathological finding overrides the ELISA result. The positive ELISA could be a false positive, or it might indicate previous exposure to *Echinococcus* without active hydatid infection in this specific cyst. Given the intraoperative and pathological findings consistent with a simple cyst, and the definitive pathological confirmation, the final diagnosis is a simple hepatic cyst.\n\n### Answer:\nSimple hepatic cyst"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Initial Assessment and Chief Complaint:** The patient is a 75-year-old man who is asymptomatic, and a liver cyst was found incidentally. This suggests the cyst is likely benign and not causing acute problems.  The incidental finding is crucial because it directs the diagnostic pathway away from symptom-driven urgent conditions.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Growth History Analysis:** The cyst grew from 10 cm to 13 cm over two years.  While growth is a factor to consider, the slow growth over a prolonged period is less concerning for malignancy and more consistent with benign cystic lesions.  However, any growth requires investigation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Imaging Findings Interpretation:** CT and ultrasound both confirm a large cystic lesion in the right lobe of the liver. The smooth contours described on the CT scan are a reassuring feature, generally pointing towards a benign process rather than a malignant one, which often has irregular borders. The size (13.79 cm x 10.98 cm) is significant, making further investigation necessary to characterize the cyst.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**ELISA Test Result Evaluation:** A positive ELISA test raises a strong suspicion of a hydatid cyst. This is a critical piece of information that must be considered seriously as hydatid cysts require specific management and can have complications.  This result necessitates further investigation to confirm or rule out hydatid disease.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Laboratory Findings Consideration:**  \"All normal\" laboratory findings are reported. While this is non-specific, it generally suggests no significant systemic inflammation, infection, or liver dysfunction based on routine blood tests.  This doesn't rule out specific diagnoses but makes broad systemic illnesses less likely.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Intraoperative Findings Analysis:** During surgery, the cyst was found to contain serous fluid and had no biliary communication. Serous fluid is typical of simple cysts and less characteristic of hydatid cysts, which can sometimes contain daughter cysts or debris. The absence of biliary communication is also more consistent with a simple cyst rather than a biliary cyst or some types of hydatid cysts that might rupture into the biliary tree.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Pathological Examination Result - Definitive Diagnosis:** The pathological examination of the resected cyst walls confirmed the diagnosis of a \"simple hepatic cyst.\" This is the most crucial and definitive piece of evidence. Pathology is the gold standard for diagnosing tissue abnormalities.  This result directly contradicts the initial suspicion of a hydatid cyst raised by the ELISA test.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Final Diagnosis and Reconciliation of Findings:**  Despite the positive ELISA suggesting hydatid disease, the pathological examination definitively diagnosed a simple hepatic cyst.  In this case, the pathological finding overrides the ELISA result. The positive ELISA could be a false positive, or it might indicate previous exposure to *Echinococcus* without active hydatid infection in this specific cyst. Given the intraoperative and pathological findings consistent with a simple cyst, and the definitive pathological confirmation, the final diagnosis is a simple hepatic cyst.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Initial concern was that the liver cyst could be a hydatid cyst due to the positive ELISA test result, indicating Echinococcus infection requiring specific surgical and medical interventions.",
+            "hit": false
+        },
+        {
+            "step": "Other potential diagnoses included simple hepatic cyst, biliary cystadenoma, cystadenocarcinoma, or abscesses, each needing different management strategies.",
+            "hit": false
+        },
+        {
+            "step": "CT imaging suggested a simple cyst due to smooth contours and absence of complex internal structures.",
+            "hit": false
+        },
+        {
+            "step": "ELISA test can yield false-positive results for hydatid disease, necessitating histopathological confirmation.",
+            "hit": false
+        },
+        {
+            "step": "Intraoperative imaging findings (serous fluid, no bile duct communication, and lack of visual evidence of hydatid cysts) and histopathological analysis ruled out hydatid disease.",
+            "hit": true
+        },
+        {
+            "step": "Final diagnosis was a simple hepatic cyst based on intraoperative findings and histopathological confirmation, despite initial suspicion of hydatid cyst from positive ELISA test.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.5,
+    "factulity": 1.0,
+    "recall": 0.3333333333333333
+}

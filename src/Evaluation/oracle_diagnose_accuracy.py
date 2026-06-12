@@ -6,10 +6,11 @@ import multiprocessing
 from multiprocessing import Queue, Manager
 
 from metrics.outcome_accuracy_eval import eval_accuracy
+from metrics.utils import get_eval_model
+from eval_io import load_model_outputs
 
 # Configuration constants
 NUM_WORKERS = 4  # Number of parallel worker processes
-EVALUATION_MODEL = "gpt-4o-2024-11-20"  # Language model used for evaluation
 
 # Set up logging
 logging.basicConfig(
@@ -28,7 +29,7 @@ def extract_answer_content(text):
     return text
 
 
-def evaluate_case(case_data, output_directory, model_name):
+def evaluate_case(case_data, output_directory, model_name, evaluation_model):
     """Evaluate a single case and save results."""
     logger.info(f'Evaluating case {case_data["id"]} for model {model_name}')
 
@@ -44,7 +45,7 @@ def evaluate_case(case_data, output_directory, model_name):
         is_accurate = eval_accuracy(
             pred_outcome_answer=model_prediction, 
             gt_outcome_answer=ground_truth,
-            evaluation_model=EVALUATION_MODEL
+            evaluation_model=evaluation_model
         )
 
         # Store evaluation results
@@ -63,13 +64,21 @@ def worker_process(task_queue):
     """Process evaluation tasks from a queue."""
     while not task_queue.empty():
         try:
-            case_data, output_directory, model_name = task_queue.get()
-            evaluate_case(case_data, output_directory, model_name)
+            case_data, output_directory, model_name, evaluation_model = task_queue.get()
+            evaluate_case(case_data, output_directory, model_name, evaluation_model)
         except Exception as e:
             logger.error(f"Worker error: {str(e)}")
 
 
-def main(model_name, patient_case_filepath, model_output_filepath, output_directory, use_parallel=True):
+def main(
+    model_name,
+    patient_case_filepath,
+    model_output_filepath,
+    output_directory,
+    use_parallel=True,
+    embedded_outputs=False,
+    evaluation_model=None,
+):
     """Orchestrate the evaluation process for a specific model."""
     # Create output directory if it doesn't exist
     if not os.path.exists(output_directory):
@@ -79,8 +88,11 @@ def main(model_name, patient_case_filepath, model_output_filepath, output_direct
     with open(patient_case_filepath, 'r', encoding='utf-8') as f:
         patient_cases = json.load(f)
     
-    with open(model_output_filepath, 'r', encoding='utf-8') as f:
-        model_outputs = json.load(f)
+    model_outputs = load_model_outputs(
+        model_output_filepath, model_name, embedded=embedded_outputs
+    )
+    eval_model = get_eval_model(evaluation_model)
+    logger.info(f'Evaluator model: {eval_model} (backend={os.environ.get("EVAL_BACKEND", "openai")})')
     
     # Identify cases that need to be processed
     cases_to_evaluate = []
@@ -103,7 +115,7 @@ def main(model_name, patient_case_filepath, model_output_filepath, output_direct
         
         # Add all tasks to queue
         for case_data in cases_to_evaluate:
-            task_queue.put((case_data, output_directory, model_name))
+            task_queue.put((case_data, output_directory, model_name, eval_model))
 
         # Create and start worker processes
         processes = []
@@ -122,7 +134,7 @@ def main(model_name, patient_case_filepath, model_output_filepath, output_direct
         # Sequential processing approach
         logger.info("Processing cases sequentially")
         for case_data in cases_to_evaluate:
-            evaluate_case(case_data, output_directory, model_name)
+            evaluate_case(case_data, output_directory, model_name, eval_model)
     
     logger.info(f"Evaluation completed for model {model_name}")
 
@@ -131,18 +143,22 @@ if __name__ == '__main__':
     # Set up command line argument parsing
     parser = argparse.ArgumentParser(description='Evaluate model accuracy on diagnose tasks')
     parser.add_argument('--model', type=str, required=True, 
-                      choices=['qwq', 'o3-mini', 'gemini2-ft', 'deepseek-r1', 'baichuan-m1'],
+                      choices=['qwq', 'o3-mini', 'gemini2-ft', 'deepseek-r1', 'baichuan-m1', 'qwen3-14b', 'qwen3-8b'],
                       help='Model to evaluate')
     parser.add_argument('--sequential', action='store_true', 
                       help='Run sequentially instead of using parallel processing')
     parser.add_argument('--output-dir', type=str, default='./acc_results',
                       help='Base directory for evaluation results')
     parser.add_argument('--patient-cases', type=str,
-                      default='../../../data/MedRBench/diagnosis_957_cases_with_rare_disease_491.json',
-                      help='Path to patient cases file')
+                      default='../../data/MedRBench/test_cases.json',
+                      help='Path to patient cases file (35-sample subset: test_cases.json)')
     parser.add_argument('--model-outputs', type=str,
-                      default='../../../data/InferenceResults/oracle_diagnosis.json',
+                      default='../Inference/oracle_diagnosis_gemini.json',
                       help='Path to model outputs file')
+    parser.add_argument('--embedded-outputs', action='store_true',
+                      help='Model outputs are embedded in the same JSON as inference (e.g. oracle_diagnosis_gemini.json)')
+    parser.add_argument('--eval-model', type=str, default=None,
+                      help='Evaluator/judge model (overrides EVAL_MODEL env)')
     
     args = parser.parse_args()
     
@@ -157,5 +173,7 @@ if __name__ == '__main__':
         patient_case_filepath, 
         model_output_filepath, 
         output_directory, 
-        not args.sequential
+        not args.sequential,
+        embedded_outputs=args.embedded_outputs,
+        evaluation_model=args.eval_model,
     )

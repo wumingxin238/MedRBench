@@ -1,0 +1,149 @@
+{
+    "raw_case": "\nA primary intracranial neuroepithelial neoplasm with novel TCF3::BEND2 fusion: a case report\nAstroblastoma, MN1-altered, is a rare circumscribed glial neoplasm that is composed of round, cuboidal, orcolumnar cells with astroblastic perivascular pseudorosettes, often associated with MN1::BEND2 and MN1::CXXC5 fusions. Atroblastoma-like gliomas harbouring EWSR1::BEND2 have been reported that they defined an epigenetically distinct subtype of astroblastoma. We report a case of a 19-year-old female with an intracranial neuroepithelial tumor featuring a novel TCF3::BEND2 fusion. This tumor, while classified as EWSR1::BEND2 gliomas based on DNA methylation, did not exhibit the MN1 alteration or typical astroblastoma morphology. The patient, initially diagnosed as ependymoma WHO grade 2 following surgery for an intracranial tumor four years prior, presented with a suspected recurrence. Magnetic resonance imaging identified a mixed solid-cystic lesion in the temporal area of the left lateral ventricle. For the recurrent tumor, the histological examination revealed the tumor cells predominantly exhibited a solid arrangement, with the solid areas primarily consisting of oval and short-spindle cells. In certain regions, loosely arranged short-spindle cells was observed. The tumor exhibited high cellular density, nuclear atypia, and frequent mitoses, but lacked the hallmark features typically associated with astroblastoma. Immunohistochemistry revealed patchy positivity for GFAP and OLIG2, diffuse positivity for EMA, and a high MIB-1 labeling index. Genome-wide DNA methylation profiling confirmed the tumor’s classification as EWSR1::BEND2 gliomas with a high-confidence match and revealed focal deletion of chromosome 9q. Targeted next-generation sequencing identified a TCF3::BEND2 fusion, validated by reverse transcription polymerase chain reaction and Sanger sequencing. This case broadens the genetic spectrum of high-grade neuroepithelial tumor and suggests that BEND2 alterations may serve as critical determinants for this EWSR1::BEND2 glioma subgroup within the methylation classifier.\n\nIntroduction\n\nAstroblastoma, MN1-altered, is a rare circumscribed glial neoplasm that is composed of round, cuboidal, orcolumnar cells with astroblastic perivascular pseudorosettes, often associated with MN1::BEN Domain Containing 2 (BEND2) and MN1::CXXC-type zinc finger protein 5 (CXXC5) fusions and primarily occur in the cerebral hemisphere [1]. MN1::BEND2 fusion is the most common fusion in astroblastoma with MN1 alteration [2]. Ewing sarcoma RNA-binding protein 1(EWSR1)::BEND2 glioma is a type of tumor exhibiting morphological features of astroblastoma characterized by EWSR1::BEND2 fusion. It has been reported that EWSR1::BEND2 gliomas defined an epigenetically distinct subtype of astroblastoma, mostly in the spinal cord [3, 4]. Herein, we report a primary intracranial neuroepithelial neoplasm with a novel Transcription Factor 3 (TCF3)::BEND2 fusion. It was classified as EWSR1::BEND2 gliomas based on DNA methylation but lacked the typical astroblastoma morphology.\n\nCase presentation\n\nA 19-year-old female patient, who underwent intracranial tumor surgery at an outside hospital four years ago (August 2019), was admitted to our hospital in May 2023 for a suspected recurrent intracranial tumor. Magnetic resonance imaging revealed a 5.7 cm x 5.3 cm x 4.8 cm mixed solid-cystic lesion centered in the temporal area of the left lateral ventricle (Fig. 1A-D). No other lesions were identified. The initial postoperative pathological diagnosis for the patient was ependymoma, WHO grade 2. The tumor had well-demarcated borders with the surrounding tissue. Most tumor cells were arranged in a rosette-like pattern, with a collagenous fibrous stroma, resembling an astroblastoma. In some areas, the tumor cells were arranged in solid sheets. Nuclear grooves were observed in some of the tumor cells (Fig. 2). The patient passed away one year after the second surgery in May 2024. The patient did not undergo any radiotherapy or chemotherapy. The patient’s progression-free survival (PFS) was 44 months, and overall survival (OS) was 56 months.\n\nHistological examination (Fig. 3) revealed that the recurrent tumor cells predominantly exhibited a solid arrangement, with the solid areas primarily consisting of oval and short-spindle cells. In certain regions, loosely arranged short-spindle cells were observed with a mucinous background noted. Additionally, isolated areas displayed pseudorosettes structures formed by epithelial cells. The tumor had a high cellular density, with some exhibiting significant nuclear atypia and visible nuclear grooves, and frequent mitoses. Areas of coagulative necrosis were observed, with a few perivascular pseudorosettes at the margins. Typical astroblastoma-like pseudorosettes or sclerotic stroma were absent.Immunohistochemically, the tumor cells showed patchy expression of GFAP (Fig. 4A), OLIG2 (Fig. 4B), NSE and NESTIN, diffusely positive for CD56, D2-40, EMA (Fig. 4C), H3K27me3, SOX2 (Fig. 4D), SOX9 and p16 (Fig. 4E), negative for ALK-1, CD1a, CD30, CD34, CD99, CD163, Desmin, L1CAM, PCK, PR, pTRK, S-100, SOX10, SSTR2, STAT6, Syn. The MIB-1 labelling was 40% (Fig. 4F). Reticulin staining revealed a paucity of reticulin fibers.\n\nDNA methylation array analysis was conducted using R version 4.1.0, with the minfi package (version 1.40.0) from Bioconductor (version 3.14) [5] to extract raw signal intensities from the IDAT files of the methylation arrays. The data were normalized using the preprocess Quantile function. Methylation sites on the X and Y chromosomes were excluded, as well as non-informative sites from the 450 K array. The top 20,000 most variable methylation sites were selected for clustering analysis. Two clustering methods were applied: the t-distributed stochastic neighbor embedding (t-SNE) method, implemented using the Rtsne package, and the Uniform Manifold Approximation and Projection (UMAP) method, performed with the UMAP package. In the clustering analysis shown in Fig. 5, the present case was positioned in close proximity to the EWSR1::BEND2 gliomas group across both t-SNE (Fig. 5A) and UMAP plots (Fig. 5B), suggesting a strong similarity in methylation profiles between the present case and the EWSR1::BEND2 glioma subtype. Unsupervised hierarchical clustering pattern highlighted a potential relationship between the present case and EWSR1::BEND2 gliomas (Fig. 5C), implying that the case may share molecular characteristics with this EWSR1::BEND2 glioma subtype. Hypermethylation of the O6-methylguanine methyl transferase (MGMT) gene promoter was absent. Chromosomal copy number analysis from DNA methylation arrays showed focal deletion of chromosome 9q (Fig. 6A).\nBy targeted next-generation DNA sequencing, the tumor demonstrated TCF3 fusion with BEND2 as the 3’ partner, which was validated by reverse transcription polymerase chain reaction (RT-PCR) and Sanger sequencing (Fig. 6B). The primers of RT-PCR were FP: ACCAGCCTCATGCACAACCA and RP: GGGCACTCGTATTTCCCGA. The breakpoint fell within exon 16 in TCF3 and exon 7 in BEND2, resulting in an in-frame fusion. An MN1 fusion was not detected by break-apart fluorescent in situ hybridization and DNA sequencing. ACVR1 c.1112_1113delinsCT (p.G371A), PDGFRA c.2315 C > A (p.S772Y), DDR1 c.2494G > A (p.V832M), KMT2C c.962G > A (p.S321N), CCND1 amplification were detected. No hot-spot mutations in IDH1, IDH2, BRAF, FGFR1, TERT promoter, H3F3A and HIST1H3B were detected in sequencing. The integrated diagnosis was high-grade neuroepithelial tumor with TCF3::BEND2 fusion, not elsewhere classified (NEC).\n\n\nDiscussion and conclusion\n\nThe 2021 WHO central nervous system (CNS) tumor classification characterizes astroblastoma MN1-altered by the MN1 structural rearrangements, most commonly fusing with the BEND2 gene (MN1::BEND2) and sometimes with CXXC5 (MN1::CXXC5). Astroblastoma with MN1-altered typically occurred in girls and mainly supratentorial. The tumor reported here shows many similarities with astroblastoma MN1-altered cases including young female patient and hemispheric location. However, there are notable differences. The present tumor shows significant mucinous degeneration and lacks the typical astroblastoma-like pseudorosette of astroblastoma MN1-altered. Immunophenotypically, astroblastomas typically express GFAP, OLIG2, and EMA to varying extents. In this present case, only a few tumor cells expressed GFAP and OLIG2, while most tumor cells EMA showed aberrant strong positivity. Astroblastoma MN1-altered often shows recurrent mutations in genes like ABCC1, IGF2, ABCF1, and MSH3 [2]. None of these mutations was found in the present case. Interestingly, this case with TCF3::BEND2 fusion shared some mutated genes with pediatric-type diffuse high-grade gliomas with H3 mutation. For instance, ACVR1 mutations, found in 25% of diffuse midline gliomas with H3 K27 alterations [6], and PDGFRA mutations, occurring in 50% of diffuse hemispheric gliomas with H3 G34 mutations [7]. Besides, DDR1 mutation is reported in 11.2% of schwannomas [8].Recently, a group of astroblastoma-like tumors classified by methylation profiling without MN1 alteration has been reported, including 11 EWSR1::BEND2 fused cases, two MAMLD1::BEND2 fused cases and one YAP1::BEND2 fused case [3, 4, 9–13]. The group of EWSR1::BEND2 fused cases is strikingly enriched for non-hemispheric cases, involving the brainstem (two cases) [4, 11] and the spinal cord (seven cases) [3, 4, 10, 12, 13]. Gliomas harbouring EWSR1::BEND2 have been reported that they defined an epigenetically distinct subtype of astroblastoma [3, 4]. The current case with TCF3::BEND2 fusion showed similar DNA methylation profile and poor survival with EWSR1::BEND2 fused cases but located in cerebral hemisphere. All these astroblastoma-like tumors without MN1 alteration show same BEND2 gene as 3’ fusion partner. BEND2 maps to the short arm of the X chromosome (Xp22.13) and encodes a protein characterized by two DNA binding BEN domains. BEND2 is thus potentially involved in transcription and chromatin regulation [14]. It may be hypothesized that BEND2 makes more contribution to the biology of astroblastomas relevant compared to MN1.Except astroblastoma, BEND2 fusion is reported in three sarcomas with two EWSR1::BEND2 fusions [15, 16] and one MN1::BEND2 fusion [17]. According to Akihiko et al., DNA methylation profiling revealed that sarcoma with MN1::BEND2 fusion was plotted close to “Sarcoma (MPNST-like)” using tSNE analysis [17]. We also compared the DNA methylation data of this case with sarcomas. The tumor with TCF3::BEND2 demonstrated a calibrated score below 0.1 and could not be classified into any of the existing categories for sarcomas. It was plotted close to “plexiform neurofibroma (NFB-PLEX)” and different from sarcoma with MN1::BEND2 fusion. Given that the present tumor shows no phenotypic resemblance with NFB-PLEX, we prefer to classify it as glioma rather than sarcoma.Rearrangements involving the TCF3 gene region (19p13.3) are common in both pediatric and adult B-lymphoblastic leukemia/lymphoma (B-ALL/LBL). The PBX1 gene (1q23) is the most common translocation partner for TCF3, resulting in TCF3::PBX1 fusion [18]. Based on histological morphology and immunohistochemistry results, the present case is not considered to be a B-ALL/LBL.In summary, this is the first report of a novel TCF3::BEND2 fusion detected in primary intracranial neoplasm. Although an MN1 alteration and typical morphology of astroblastoma were not detected, the tumor was classified as EWSR1::BEND2 glioma via the methylation classifier. We provisionally diagnose it as a “high-grade neuroepithelial tumor with TCF3::BEND2 fusion, NEC”, which may later be classified as astroblastoma. This case broadens the genetic spectrum of tumor with BEND2-altered and suggests that BEND2 alterations may serve as critical determinants for this tumor subgroup within the methylation classifier.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 19-year-old female.\n- **Chief Complaint:** Suspected recurrent intracranial tumor.\n- **History of Present Illness:** Initially diagnosed with ependymoma (WHO grade 2) and underwent surgery in August 2019 for an intracranial tumor. Presented in May 2023 with a suspected recurrence.\n- **Past Medical History:** Prior surgery for ependymoma.\n- **Personal History:** None specified.\n- **Family History:** None specified.\n- **Physical Examination:** None specified.\n- **Ancillary Tests:**\n  - MRI: Mixed solid-cystic lesion in the temporal area of the left lateral ventricle (5.7 cm x 5.3 cm x 4.8 cm).\n  - Histopathology (recurrent tumor): Solid arrangement of short-spindle and oval cells, nuclear atypia, frequent mitoses, absence of astroblastoma hallmark pseudorosettes.\n  - Immunohistochemistry: Patchy positivity for GFAP and OLIG2, diffuse positivity for EMA, high MIB-1 index (40%).\n  - Genetic Studies:\n    - DNA methylation profiling: Classified as EWSR1::BEND2 glioma subgroup.\n    - Targeted sequencing: TCF3::BEND2 fusion, various other genetic alterations (e.g., ACVR1, PDGFRA mutations), no MN1 fusion or IDH1/IDH2 mutations.\n    - Chromosomal analysis: Focal deletion at chromosome 9q.",
+        "differential_diagnosis": "1. **Initial Diagnosis and Progression:**\n   - Initially classified as an ependymoma (WHO grade 2) based on histology in 2019.\n   - Recurrent tumor's morphological features did not align with typical ependymoma presentation, prompting re-evaluation.\n \n2. **Astroblastoma MN1-Altered Excluded:**\n   - Patient shared similarities (e.g., young female with a hemispheric tumor); however, the tumor lacked hallmark astroblastoma features, such as pseudorosettes and MN1 alteration.\n   - Patchy GFAP and OLIG2 expression were inconsistent with astroblastoma profiles, and DNA profiling revealed no classification into this group.\n\n3. **EWSR1::BEND2 Glioma Considered:**\n   - Tumor demonstrated close epigenetic and molecular alignment with EWSR1::BEND2 gliomas via methylation profiling.\n   - Characteristics such as TCF3::BEND2 fusion and associated genetic alterations aligned with this subgroup.\n\n4. **Exclusion of Other Tumors:**\n   - B-ALL/LBL was excluded due to differing morphology and lack of immunophenotypic markers.\n   - Other gliomas and sarcomas were excluded based on methylation classifier data.\n\n5. **Final Integrated Diagnosis:**\n   - Novel TCF3::BEND2 fusion led to provisional classification as a “high-grade neuroepithelial tumor with TCF3::BEND2 fusion, not elsewhere classified (NEC),” categorized within the EWSR1::BEND2 glioma subgroup.",
+        "final_diagnosis": "High-grade neuroepithelial tumor with TCF3::BEND2 fusion, not elsewhere classified (NEC).",
+        "diagnosis_results": "High-grade neuroepithelial tumor with TCF3::BEND2 fusion, NEC."
+    },
+    "body_category": [
+        "Brain and Nerves"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-8-15",
+    "checked_rare_disease": [
+        "Astroblastoma",
+        "Glial tumor"
+    ],
+    "id": "PMC11552360",
+    "results": {
+        "content": "### Resoning:\n\n**Step 1:** The patient is a 19-year-old female with a history of ependymoma (WHO grade 2) diagnosed in 2019, which was treated surgically. She presents in 2023 with a suspected recurrence of an intracranial tumor.\n\n**Step 2:** The MRI shows a mixed solid-cystic lesion in the left lateral ventricle, specifically in the temporal area, measuring approximately 5.7 cm in diameter.\n\n**Step 3:** Histopathology of the recurrent tumor shows a solid arrangement of short-spindle and oval cells with nuclear atypia and frequent mitoses. There are no astroblastoma hallmark pseudorosettes.\n\n**Step 4:** Immunohistochemistry reveals patchy positivity for GFAP and OLIG2, diffuse positivity for EMA, and a high MIB-1 index of 40%.\n\n**Step 5:** Genetic studies indicate a diagnosis of EWSR1::BEND2 glioma subgroup based on DNA methylation profiling. Targeted sequencing identifies a TCF3::BEND2 fusion, along with other genetic alterations such as ACVR1 and PDGFRA mutations. There are no MN1 fusions or IDH1/IDH2 mutations, and chromosomal analysis shows a focal deletion at chromosome 9q.\n\n**Step 6:** Considering the initial diagnosis of ependymoma and the current findings, I need to determine if this recurrent tumor is a progression of the original ependymoma or a different tumor type.\n\n**Step 7:** Ependymomas typically express GFAP and OLIG2, but the presence of EMA diffuse positivity and the histological features described raise疑问about the exact diagnosis.\n\n**Step 8:** The genetic findings of EWSR1::BEND2 and TCF3::BEND2 fusions suggest a different tumor entity, possibly a glioma with a specific genetic profile.\n\n**Step 9:** The absence of MN1 fusions helps rule out certain differential diagnoses, such as astrocytomas with MN1 fusions.\n\n**Step 10:** The high MIB-1 index of 40% suggests a higher grade tumor, which aligns with the possibility of progression or a different, more aggressive tumor type.\n\n**Step 11:** Given the genetic findings and the histopathological features, it's essential to consider the current World Health Organization (WHO) classification for brain tumors, especially those with specific genetic alterations.\n\n**Step 12:** The EWSR1::BEND2 fusion is characteristic of a specific subgroup of gliomas, which may behave differently from conventional ependymomas.\n\n**Step 13:** The initial tumor was diagnosed as ependymoma, but the recurrent tumor shows different genetic and immunohistochemical profiles, suggesting a possible dedifferentiation or a distinct neoplasm.\n\n**Step 14:** It's also important to consider sampling error or tumor heterogeneity, but the genetic studies support a distinct entity.\n\n**Step 15:** Given the mixed histological features and genetic alterations, the most accurate diagnosis would be a glioma with EWSR1::BEND2 fusion, classified under the EWSR1::BEND2 glioma subgroup.\n\n**Step 16:** This classification is based on the integration of histopathological, immunohistochemical, and molecular genetic findings, which is in line with current diagnostic standards for brain tumors.\n\n### Answer:\n\nGlioma, EWSR1::BEND2 fusion-positive, WHO grade 3 or higher, based on high MIB-1 index and genetic alterations."
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Step 1:** The patient is a 19-year-old female with a history of ependymoma (WHO grade 2) diagnosed in 2019, which was treated surgically. She presents in 2023 with a suspected recurrence of an intracranial tumor.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Step 2:** The MRI shows a mixed solid-cystic lesion in the left lateral ventricle, specifically in the temporal area, measuring approximately 5.7 cm in diameter.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Step 3:** Histopathology of the recurrent tumor shows a solid arrangement of short-spindle and oval cells with nuclear atypia and frequent mitoses. There are no astroblastoma hallmark pseudorosettes.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Step 4:** Immunohistochemistry reveals patchy positivity for GFAP and OLIG2, diffuse positivity for EMA, and a high MIB-1 index of 40%.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Step 5:** Genetic studies indicate a diagnosis of EWSR1::BEND2 glioma subgroup based on DNA methylation profiling. Targeted sequencing identifies a TCF3::BEND2 fusion, along with other genetic alterations such as ACVR1 and PDGFRA mutations. There are no MN1 fusions or IDH1/IDH2 mutations, and chromosomal analysis shows a focal deletion at chromosome 9q.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 6:** Considering the initial diagnosis of ependymoma and the current findings, I need to determine if this recurrent tumor is a progression of the original ependymoma or a different tumor type.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 7:** Ependymomas typically express GFAP and OLIG2, but the presence of EMA diffuse positivity and the histological features described raise疑问about the exact diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 8:** The genetic findings of EWSR1::BEND2 and TCF3::BEND2 fusions suggest a different tumor entity, possibly a glioma with a specific genetic profile.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 9:** The absence of MN1 fusions helps rule out certain differential diagnoses, such as astrocytomas with MN1 fusions.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 10:** The high MIB-1 index of 40% suggests a higher grade tumor, which aligns with the possibility of progression or a different, more aggressive tumor type.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Initially classified as an ependymoma (WHO grade 2) based on histology in 2019, but recurrent tumor's morphological features did not align with typical ependymoma presentation, prompting re-evaluation.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Astroblastoma MN1-altered was excluded due to the tumor lacking hallmark features such as pseudorosettes and MN1 alteration, patchy GFAP and OLIG2 expression being inconsistent with astroblastoma profiles, and DNA profiling revealing no classification into this group.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Tumor demonstrated close epigenetic and molecular alignment with EWSR1::BEND2 gliomas via methylation profiling, with characteristics such as TCF3::BEND2 fusion and associated genetic alterations aligning with this subgroup.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> B-ALL/LBL was excluded due to differing morphology and lack of immunophenotypic markers.",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> Other gliomas and sarcomas were excluded based on methylation classifier data.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> Novel TCF3::BEND2 fusion led to provisional classification as a “high-grade neuroepithelial tumor with TCF3::BEND2 fusion, not elsewhere classified (NEC),” categorized within the EWSR1::BEND2 glioma subgroup.",
+            "hit": true
+        },
+        {
+            "step": "<Step 7> Final diagnosis: High-grade neuroepithelial tumor with TCF3::BEND2 fusion, not elsewhere classified (NEC).",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.6,
+    "factulity": 1.0,
+    "recall": 0.8571428571428571
+}

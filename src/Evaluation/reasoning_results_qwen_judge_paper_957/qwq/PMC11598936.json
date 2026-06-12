@@ -1,0 +1,132 @@
+{
+    "raw_case": "\nWhen multiple primary lung cancers express the same rare mutation: a case report\nThe debate continues whether the expression of the same rare genetic mutation in multiple primary lung cancers suggests intrapulmonary metastasis or truly multiple primary lung cancers. We report a case of a 54-year-old female patient who presented with multiple nodules in the right lung discovered during a routine examination, persisting for six months. The patient had three central lesions in the right lung’s upper, middle, and lower lobes. She underwent thoracoscopic wedge resection, and the postoperative pathology reported two minimally invasive adenocarcinoma and one adenocarcinoma in situ. Interestingly, genetic testing for lung cancer-related driver genes revealed the presence of the rare RET mutation in all three nodules. This led us to speculate that these nodules might have the exact origin rather than being multiple primaries. To verify this hypothesis, we conducted further testing on these nodules, including whole-exome sequencing (The NGS data was generated from the Illumina sequencing platform by Novogene Co. Ltd, Beijing, China). The results indicated that although all three nodules expressed the RET mutation, there was significant heterogeneity in the gene mutations (differences in the number of cellular mutations, substitution composition levels, and clustering analysis of the three nodules). Thus, the patient was considered to have multiple primary lung cancers. In such cases, whole-exome sequencing can distinguish whether the nodules have the exact origin.\n\nBackground\n\nLung cancer remains the leading cause of cancer-related deaths worldwide (1). With the increasing application of low-dose CT for lung cancer screening, more cases of multiple primary lung cancers (MPLC) are being detected. The traditional diagnostic criteria for distinguishing MPLC from pulmonary metastasis are based on the Martini and Melamed (MM) criteria (2) and the Comprehensive Histologic Assessment (CHA) criteria (3), which mainly rely on histological comparison.\nRET gene (proto-oncogene tyrosine-protein kinase receptor RET) is a rare genetic mutation in lung cancer, with only 1-2% incidence (4–6). Most MPLC cases show different mutations in different nodules, but some patients’ nodules exhibit the same mutation, necessitating further evaluation to determine whether they are genuinely MPLC.\n\nCase report\n\nThe case involves a 54-year-old female patient who sought medical evaluation due to the existence of multiple pulmonary nodules in her right lung over six months. A computed tomography (CT) scan performed at our institution identified three nodules within her right lung’s upper, middle, and lower lobes (\nFigure 1\n). The postoperative pathological report indicated that the upper lobe nodule was carcinoma in situ with a diameter of 0.6cm. The middle and lower lobe nodules were microinvasive adenocarcinomas measuring 0.5cm in diameter. All three nodules were predominantly lepidic, and two microinvasive adenocarcinoma had acinar components. Postoperative genetic examination confirmed RET mutation in all three nodules. Considering that RET mutation is rare in lung cancer cases, we performed whole exon sequencing (7) on these three nodules to differentiate between multiple primary lung cancers and intrapulmonary metastatic cancer. The results demonstrated varying somatic mutations among the three nodules: 257, 242,105, respectively. Among these mutations, nine were shared, while others were independent. In addition, 6 substitution analysis and 96 substitution analysis showed differences in 3 nodules (t test, p<0.05). The mutation characteristics of the sample and 78 known mutation characteristics were cluster analyzed, and the similarity was found to be low. Based on these findings, we conclude that this patient has multiple primary lung cancers.\n\nDiscussion\n\nRecent years have seen an increase in lung cancer detection due to low-dose CT screening, with over 60% of cases presenting as ground-glass opacities, and up to 10% of patients having multiple ground-glass nodules (8). Most of these cases are considered MPLC (9, 10), although some studies suggest the possibility of metastasis (11). Next-generation sequencing (NGS) is becoming increasingly important in the molecular typing of lung cancer for treatment decisions. Studies have shown that different ground-glass nodules in the same patient often have different gene mutations, and even when nodules exhibit the same gene mutation, their mutation spectra can differ, suggesting the possibility of MPLC. Yanagitani (12) has reported on a 55-year-old woman with advanced lung adenocarcinoma with metastasis in both lungs who showed multiple metastatic ground glass nodules on CT. In recent years, two additional criteria introduced by the American College of Chest Physicians (ACCP) and the International Association for the Study of Lung Cancer (IASLC) emphasize using histological features, immunohistochemistry (IHC), clinical characteristics, and molecular features to differentiate between multiple primary lung cancers and intrapulmonary metastasis (13, 14).Studies on multiple nodules being primary cancers or lung metastases are limited. Most research is based on targeted genes (9, 10, 15), with few based on genomics (11). Gene targeting for multiple nodules has not found any evidence of intrapulmonary metastasis. Generally, each nodule’s driver gene mutations are highly distinct (9). Next-generation sequencing (NGS) is the most commonly used targeted sequencing technology, allowing for the simultaneous sequencing of millions of DNA fragments and providing sensitive, economical, and high-throughput detection. Therefore, NGS is gaining more and more attention as an auxiliary means in histopathological diagnosis, especially in lung cancer, where molecular typing contributes to treatment selection (16, 17) Research by Park et al. (18) indicated that, by second-generation sequencing of 16 patients with multiple ground-glass nodules, most patients with multiple ground-glass nodules have different gene mutations in each nodule. However, a few patients have the same gene mutation. However, the mutation spectrum is different, suggesting that even if each nodule shows the same gene mutation, the possibility of multiple primary lung cancers still needs to be considered.Zhou et al. ‘s (19) study showed that whole exon sequencing could distinguish multiple primary tumors from intrapulmonary metastases, including CNV(Copy Number Variation) analysis, somatic mutation, 6 substitution analysis, 96 substitution analysis and other methods. This study suggests that pulmonary metastasis exists in multiple nodules, but the number of multiple nodules is not related to the probability of pulmonary metastasis. Other genomic profiling studies (20–22) have also reported sizeable genetic heterogeneity among multiple lesions of MPLC. Applying genomic analysis may be crucial for accurately managing patients with multiple nodules.The RET gene is a proto-oncogene located on the long arm of chromosome 10. It encodes for a tyrosine kinase receptor and is involved in the proliferation, apoptosis, and invasion of tumor cells, affecting the development and progression of tumors (4). The formation of tumors is primarily associated with RET gene fusions, which account for only 1-2% of lung cancers. This report presents a unique case where a patient’s CT scan revealed three ground-glass nodules, considered to be multiple primary lung cancers. Postoperative pathology reported that the nodule in the right upper lobe was a 0.6 cm in situ carcinoma, the nodule in the right middle lobe was a 0.5 cm minimally invasive adenocarcinoma, and the nodule in the right lower lobe was also a 0.5 cm minimally invasive adenocarcinoma. However, postoperatively, genetic testing revealed that all three nodules expressed the RET mutation, an occurrence with an extremely low probability. We conducted whole-exome sequencing to assess further whether the patient’s nodules were intrapulmonary metastases. The results of whole exon sequencing showed (\nFigure 2\n) that the number of somatic mutations in the three nodules differed, 257,242,105, respectively, and only 9 were common among the three nodules. In contrast, other mutations were independent of each other. However, the mutations in the single nucleic acid showed that the proportion of mutations in each nodule was different, and the mutation spectrum of different nodules in patients was significantly inconsistent at the level of substitution composition (t-test,p<0.05). The mutation features of the three samples were clustered with 78 known mutation features in the COSMIC website, and the three mutation features were not similar to any of the known 78 features (cosine similarity <0.9), the cosine similarity between the three mutation features being less than 0.9.The similarity is not high. Therefore, we conclude that this patient has multiple primary lung cancers.This case report indicates that for patients with multiple lung cancers, each nodule exhibits independent genetic characteristics, including in cases of rare mutations. The case presented here involved three nodules, all RET mutations, with an incidence of less than one in a hundred thousand. Through whole-exome sequencing analysis, it was shown that despite the presence of the same mutation in all nodules, genetic heterogeneity still exists among them. Genetic testing cannot be used as a basis to distinguish between multiple primary lung cancers and intrapulmonary metastasis, but further differentiation can be achieved through whole-exome sequencing.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 54-year-old female.\n- **Chief Complaint:** Multiple pulmonary nodules in the right lung discovered six months ago during a routine examination.\n- **History of Present Illness:** Persistent multiple nodules in the right lung identified on CT imaging, involving the upper, middle, and lower lobes.\n- **Past Medical History:** None provided.\n- **Personal History:** None provided.\n- **Family History:** None provided.\n- **Physical Examination:** None provided.\n- **Ancillary Tests:**\n  - CT imaging revealed three nodules in the right lung’s upper, middle, and lower lobes.\n  - Postoperative pathological examination:\n    - Right upper lobe: Adenocarcinoma in situ, diameter 0.6 cm.\n    - Right middle and lower lobes: Minimally invasive adenocarcinoma, diameters 0.5 cm each.\n    - All three nodules predominantly exhibited lepidic patterns; the minimally invasive adenocarcinoma included acinar components.\n  - Genetic testing: All three nodules expressed a rare RET genetic mutation.\n  - Whole-exome sequencing: Significant genetic heterogeneity among the three nodules, with differences in somatic mutations, substitution compositions, and mutation spectra. Only nine mutations were shared among the nodules, and clustering analysis showed low similarity.",
+        "differential_diagnosis": "1. **Initial Consideration:**\n   - The finding of multiple nodules in the same lung raises the possibility of either **multiple primary lung cancers (MPLC)** or **intrapulmonary metastasis**.\n   - RET mutation, being rare, suggested a possible shared origin, raising the suspicion for intrapulmonary metastasis.\n\n2. **Histopathological Analysis:**\n   - Histological findings indicated variations in pathological features (carcinoma in situ vs. minimally invasive adenocarcinoma), favoring the possibility of MPLC.\n\n3. **Genetic Testing:**\n   - RET mutation was found in all nodules. However, subsequent whole-exome sequencing revealed distinct genetic heterogeneity (different somatic mutations, substitution levels, and clustering results for each nodule), providing strong evidence against a shared origin.\n\n4. **Final Exclusion Process:**\n   - Intrapulmonary metastasis was excluded due to the lack of similarity in mutation spectra and the presence of independently mutated regions in each nodule.\n\n5. **Final Conclusion:**\n   - Based on histological and whole-exome sequencing findings, the patient’s condition aligns with MPLC rather than metastatic disease.",
+        "final_diagnosis": "Multiple primary lung cancers (MPLC) with distinct genetic and histopathological characteristics among three nodules.",
+        "diagnosis_results": "Multiple primary lung cancers (MPLC)."
+    },
+    "body_category": [
+        "Lungs and Breathing"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-8-03",
+    "checked_rare_disease": [],
+    "id": "PMC11598936",
+    "results": {
+        "content": "### Reasoning\n\nSo I've got this case here about a 54-year-old female who was found to have multiple pulmonary nodules in her right lung during a routine examination six months ago. The nodules are located in the upper, middle, and lower lobes of the right lung, and they've persisted over time according to CT imaging.\n\nFirst, I need to understand what pulmonary nodules are. They're essentially small masses of tissue in the lungs, usually less than 3 cm in diameter. They can be benign or malignant, so it's important to determine their nature.\n\nGiven that she had surgical resection and pathological examination, that's helpful. The pathology reports show:\n\n- Right upper lobe: Adenocarcinoma in situ, 0.6 cm.\n\n- Right middle and lower lobes: Minimally invasive adenocarcinoma, 0.5 cm each.\n\nAll nodules predominantly show lepidic patterns, which are characteristic of adenocarcinomas, especially the precancerous or early stages.\n\nAdenocarcinoma in situ (AIS) is a pre-invasive lesion, meaning that the cancer cells are contained within the terminal bronchioles and alveoli without invading the interstitium or stroma. Minimally invasive adenocarcinoma (MIA) is the next stage, where there is limited invasion beyond the alveolar walls, but still relatively confined.\n\nThe fact that the minimally invasive adenocarcinomas include acinar components is also noted. Acinar architecture is one of the patterns seen in adenocarcinomas, where there's a more solid growth pattern compared to the lepidic pattern.\n\nNow, the interesting part is that all three nodules express a rare RET genetic mutation. RET mutations are known to be associated with certain cancers, particularly thyroid cancers and some lung cancers. In lung cancer, RET fusions are seen, but a point mutation is less common. So, this could be significant.\n\nFurthermore, whole-exome sequencing showed significant genetic heterogeneity among the three nodules. They have differences in somatic mutations, substitution compositions, and mutation spectra. Only nine mutations were shared among them, and clustering analysis showed low similarity.\n\nThis suggests that these nodules, although all cancerous and expressing the same RET mutation, likely arose independently rather than being metastases from a single primary tumor. Genetic heterogeneity is a hallmark of independent clonal evolution.\n\nSo, putting this all together:\n\n1. Multiple pulmonary nodules in different lobes of the right lung.\n\n2. All nodules are adenocarcinomas, with AIS in one and MIA in the others.\n\n3. All express a rare RET mutation.\n\n4. Significant genetic heterogeneity among the nodules suggests independent origins.\n\nGiven this information, the likely scenario is that this patient has multiple primary lung cancers, all driven by the same RET mutation but evolving independently with different mutational landscapes.\n\nIt's possible that the RET mutation is a germline mutation, meaning it's present in all cells of the body, and in this patient, it's leading to the development of multiple independent adenocarcinomas in the lungs. However, RET mutations in lung cancer are more commonly somatic fusions or mutations, but since it's specified as a \"rare RET genetic mutation,\" it could be either germline or somatic.\n\nTo confirm whether the RET mutation is germline or somatic, further testing would be needed, such as sequencing of the RET gene in non-tumor tissue.\n\nIn terms of management, since all nodules have been resected and are at an early stage (AIS and MIA), the prognosis should be excellent. However, given the presence of multiple primary tumors and the rare RET mutation, it might be worthwhile to consider genetic counseling and possibly screening for other family members, especially if the RET mutation is found to be germline.\n\nAdditionally, regular follow-up with imaging and lung function tests would be important to monitor for any recurrence or new nodules, given the patient's predisposition.\n\n### Answer\n\nMultiple primary adenocarcinomas of the lung, all expressing a rare RET genetic mutation, with significant genetic heterogeneity suggesting independent clonal origins."
+    },
+    "reasoning_eval": [
+        {
+            "step": "### Reasoning",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "So I've got this case here about a 54-year-old female who was found to have multiple pulmonary nodules in her right lung during a routine examination six months ago. The nodules are located in the upper, middle, and lower lobes of the right lung, and they've persisted over time according to CT imaging.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "First, I need to understand what pulmonary nodules are. They're essentially small masses of tissue in the lungs, usually less than 3 cm in diameter. They can be benign or malignant, so it's important to determine their nature.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Given that she had surgical resection and pathological examination, that's helpful. The pathology reports show:",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "- Right upper lobe: Adenocarcinoma in situ, 0.6 cm.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "- Right middle and lower lobes: Minimally invasive adenocarcinoma, 0.5 cm each.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "All nodules predominantly show lepidic patterns, which are characteristic of adenocarcinomas, especially the precancerous or early stages.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Adenocarcinoma in situ (AIS) is a pre-invasive lesion, meaning that the cancer cells are contained within the terminal bronchioles and alveoli without invading the interstitium or stroma. Minimally invasive adenocarcinoma (MIA) is the next stage, where there is limited invasion beyond the alveolar walls, but still relatively confined.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "The fact that the minimally invasive adenocarcinomas include acinar components is also noted. Acinar architecture is one of the patterns seen in adenocarcinomas, where there's a more solid growth pattern compared to the lepidic pattern.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Now, the interesting part is that all three nodules express a rare RET genetic mutation. RET mutations are known to be associated with certain cancers, particularly thyroid cancers and some lung cancers. In lung cancer, RET fusions are seen, but a point mutation is less common. So, this could be significant.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> The finding of multiple nodules in the same lung raises the possibility of either multiple primary lung cancers (MPLC) or intrapulmonary metastasis, with RET mutation suggesting a possible shared origin and suspicion for intrapulmonary metastasis.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Histological findings indicated variations in pathological features, such as carcinoma in situ versus minimally invasive adenocarcinoma, favoring the possibility of MPLC.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> RET mutation was found in all nodules, but whole-exome sequencing revealed distinct genetic heterogeneity, including different somatic mutations, substitution levels, and clustering results for each nodule, providing strong evidence against a shared origin.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Intrapulmonary metastasis was excluded due to the lack of similarity in mutation spectra and the presence of independently mutated regions in each nodule.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Based on histological and whole-exome sequencing findings, the patient’s condition aligns with MPLC rather than metastatic disease.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> Final diagnosis: Multiple primary lung cancers (MPLC) with distinct genetic and histopathological characteristics among three nodules.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.4,
+    "factulity": 1.0,
+    "recall": 1.0
+}

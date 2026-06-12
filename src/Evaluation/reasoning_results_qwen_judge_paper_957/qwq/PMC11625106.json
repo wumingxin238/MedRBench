@@ -1,0 +1,151 @@
+{
+    "raw_case": "\nA rare localization of Ewing's Sarcoma in the coracoid process: A case report and literature review on scapular Ewing's sarcomas\nEwing's sarcoma can affect any bone. Primary localization in the coracoid process is extremely rare and atypical. In the literature there have been a few reports of Ewing's sarcoma of the scapula. We report the case of an adolescent who presented to our department for investigation of a swelling in the left shoulder. Imaging revealed an osteolytic mass centered on the coracoid process. Histological study was in favor of Ewing's sarcoma.\n\nIntroduction\n\nEwing's sarcoma is the second most common bone tumor in children. It was first described by James Ewing in 1921. The coracoid process is still extremely rare localization. Chondrosarcomas, osteoblastomas, and chondroblastoma are the most common bone tumors of the coracoid process [1].\n\nCase\n\nWe report a case of a 12-year-old boy, with no significant medical or surgical history. He seeks consultation for a painful mass under his left clavicle, which has been developing for one month. The clinical examination reveals a hard, painful, and fixed mass, making it difficult to mobilize the shoulder. The patient was referred to our unit for further imaging exploration. The CT /MRI (Fig. 1, Fig. 2)revealed a tissue process centered on the left coracoid process, which appears lysed, showing an intermediate signal on T1 and T2, with heterogeneous enhancement after contrast injection. This process infiltrates the supraspinatus, infraspinatus, and subscapularis muscles. It also invades the glenoid and the humeral head. The mass measures 68 × 29 × 43 mm. The ribs anteriorly and vascular structures are preserved. Additionally, there is an associated pleural effusion and pleural masses (Fig. 3). These findings were associated with multiple bilateral Pulmonary metastases. The histological was consistent with Ewing's sarcoma (Fig. 4).A few months later, and after 8 cycles of chemotherapy. The patient returned with pain in the pelvic region. MRI revealed a signal abnormality in the left iliac bone, suggestive of a secondary lesion. The diagnosis of metastasis in the iliac bone was confirmed by a PET scan (Fig. 5). The decision was therefore made to place the patient on palliative treatment. Rapid progress marked by the onset of cellulitis with exophthalmos, followed by the patient's death.\n\nDiscussion\n\nThe Ewing sarcoma was first described in 1921 by James Ewing [2]. Ewing sarcomas (ES) are classified into ES of bone and extra-skeletal types. The first form is the most common and represents the second most prevalent bone tumor in children and young adults. The most frequent locations are in the long bones, particularly the femur, ilium, tibia, and pelvis [3]. Involvement of the skull, vertebrae, and scapula is quite rare [4]. The localization at the level of the coronoid process of the mandible is also noted [5]. CNS localization is poorly understood. Recent studies have identified a new entity, the extraosseous Ewing sarcoma of the CNS (CNS-EES). At least 8 cases of CNS involvement have been described and histologically proven [6]. The lungs, bones, and bone marrow are the most common sites of metastasis [7].According to studies, Ewing's sarcoma of the scapula is more common in males, with an average age of 14 years. The highest prevalence is observed in Asia, followed by Europe [4]. The involvement on the right side is 53.3%, while on the left side it is 46.6%.Clinically, Ewing's sarcomas of the scapula present as a large, mildly painful mass that leads to functional impairment in 33% of cases. The time between the onset of the disease and the appearance of symptoms varies from one day to one year.It is a rapidly progressive tumor. According to studies, premetastases are found in 35.71% of cases, Metastases were observed in the lungs 26% lymph nodes 6% [8], bone marrow 6%, skeleton 6% [9], and spinal intradural 6% [10].On a standard X-ray, the bone tumor appears as a lytic or sclerotic lesion. CT scans allow for a better study of the mass, defining its size and searching for metastases, which show heterogeneous enhancement with bone lysis and periosteal reaction, sometimes with cystic changes. MRI is the preferred examination for analyzing the surrounding soft tissues: the mass shows isointensity on T1 hyperintensity heterogeneous on T2. It can reveal fluid levels, hemorrhages, and necrotic areas [2].Histological analysis revealed clusters of small blue round cells featuring round or oval nuclei, distinct nuclear membranes, powdery chromatin, and evidence of mitosis. Rosettes and pseudo-rosettes were observed in one case [11]. Another study that performed periodic acid–Schiff (PAS) staining found a significant presence of cytoplasmic glycogen [12]. Histologically, Ewing sarcoma can be misidentified as small cell osteosarcoma, mesenchymal chondrosarcoma, lymphoma, or primitive neuroectodermal tumor (PNET).For definitive diagnosis, 86.6% of the studies utilized immunohistochemical markers, primarily including CD-99, vimentin, and FLI-1 and chromosomal translocations of the EWS gene on chromosome 22q12. Recent studies raise doubts about the neuroectodermal origin of the tumor cells.The treatment combines chemotherapy, radiotherapy, and surgery. Radiotherapy is often used as a complement to surgery when the resection margins are narrow, in the case of a large tumor, or when there is a poor response to chemotherapy [13,14]. The combination of surgery and neoadjuvant chemotherapy provides the best results.The most commonly used technique for Ewing sarcoma of the scapula is scapulectomy. To our knowledge, there is no information on the surgical treatment of the coracoid process. Our patient did not receive surgical treatment because of the presence of metastases. Another case involved reverse total shoulder reconstruction following scapulectomy [15].The outcome is characterized by a good prognosis with surgical treatment in the absence of metastases. However, certain complications may arise, such as pleural effusion, local recurrence, respiratory insufficiency, and limited mobility. The survival rate is generally not affected by local recurrence, according to some studies [9].\n\nConclusion\n\nEwing sarcoma of the scapula, and more specifically the coracoid process, is very rare. It is a rapidly evolving tumor. MRI is the primary method for accurate local and regional characterization of the lesion. Definitive diagnosis is made through histology and immunohistochemistry. Surgery with neoadjuvant chemotherapy improves the prognosis. Despite its rarity, Ewing's sarcoma should be considered in the diagnosis of apophysial tumors.\n\nEthics approval\n\nOur institution does not require ethical approval for reporting individual cases.\n\nPatient consent\n\nWritten informed consent was obtained from the parents of the patient for the publication of their anonymized information in this article.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 12-year-old boy.\n- **Chief Complaint:** Painful mass under the left clavicle.\n- **History of Present Illness:** One-month history of a painful, hard, and fixed mass in the left shoulder, causing difficulty in shoulder mobilization.\n- **Past Medical History:** None.\n- **Personal History:** None.\n- **Family History:** None.\n- **Physical Examination:** Hard, painful, and fixed mass under the left clavicle causing limited shoulder mobility.\n- **Ancillary Tests:**\n  - Imaging (CT/MRI): Osteolytic mass centered on the coracoid process (68 × 29 × 43 mm) with heterogeneous enhancement. Infiltration of supraspinatus, infraspinatus, and subscapularis muscles, and involvement of the glenoid and humeral head. Pleural effusion, pleural masses, and multiple bilateral pulmonary metastases were observed.\n  - Histology: Consistent with Ewing's sarcoma.\n  - PET Scan: Confirmed secondary lesion in the left iliac bone.\n- Prognosis and progression: Despite chemotherapy, metastases progressed to include the iliac bone, and the patient eventually succumbed to the disease following palliative treatment.\n\n---",
+        "differential_diagnosis": "1. **Initial considerations based on presentation:**\n   - The painful, fixed mass with imaging findings of an osteolytic lesion raised concerns for bone malignancies localized to the coracoid process. Primary differentials included Ewing's sarcoma, osteosarcoma, chondrosarcoma, and other rare malignancies like mesenchymal chondrosarcoma or lymphoma.\n\n2. **Ewing's Sarcoma:**\n   - Considered strongly due to the patient's age, imaging findings (bone lysis with heterogeneous soft tissue involvement), and histological consistency with clusters of small blue round cells.\n   - Further immunohistochemical studies demonstrated markers specific to Ewing’s sarcoma, such as CD-99 and FLI-1, confirming the diagnosis.\n\n3. **Exclusion of other bone malignancies:**\n   - **Chondrosarcoma:** Typically seen in older individuals; histological examination did not support this diagnosis.\n   - **Osteoblastoma and Osteosarcoma:** Differs histologically from Ewing’s; osteoblastoma is less aggressive, while osteosarcoma shows osteoid production, which was absent.\n   - **Mesenchymal Chondrosarcoma or Lymphoma:** Histology and immunohistochemical studies were negative for these types.\n\n4. **Metastasis confirmation:**\n   - Further imaging revealed bilateral pulmonary metastases and subsequent iliac bone involvement, consistent with the aggressive nature of Ewing's sarcoma.\n\n---",
+        "final_diagnosis": "The final diagnosis is **Ewing’s Sarcoma of the coracoid process** with pulmonary and iliac bone metastases. The diagnosis was confirmed through clinical presentation, imaging findings, histological analysis, and immunohistochemistry.\n\n---",
+        "diagnosis_results": "Ewing’s Sarcoma of the coracoid process with metastases."
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-10-14",
+    "checked_rare_disease": [
+        "Skeletal Ewing sarcoma",
+        "Peripheral primitive neuroectodermal tumor"
+    ],
+    "id": "PMC11625106",
+    "results": {
+        "content": "### Reasoning:\nIn this case, we have a 12-year-old boy presenting with a one-month history of a painful, hard, and fixed mass under his left clavicle, which is causing difficulty in shoulder mobilization. Given his age and the characteristics of the mass, several considerations come to mind regarding potential diagnoses.\n\nFirst, it's important to consider benign and malignant causes of masses in this age group. Benign conditions such as lymphadenopathy due to infection, hormonal changes, or trauma could present with a painful, firm mass. However, the fact that the mass is fixed and causing limited mobility suggests a more serious underlying issue.\n\nGiven the location under the clavicle, one might initially think of lymph node enlargement. But the description mentions that it's a mass centered on the coracoid process, which is part of the scapula. This anatomical detail is crucial because it points towards a primary bone or soft tissue origin rather than solely lymphatic involvement.\n\nThe imaging findings are particularly informative. There's an osteolytic mass centered on the coracoid process, with infiltration into surrounding muscles and involvement of the glenoid and humeral head. Additionally, there's pleural effusion, pleural masses, and multiple bilateral pulmonary metastases. This widespread involvement suggests a malignant process with aggressive behavior.\n\nThe histological confirmation of Ewing's sarcoma is a key diagnostic point. Ewing's sarcoma is a type of small, round blue cell tumor that primarily affects children and young adults. It typically arises in bones but can also occur in soft tissues. Given the patient's age and the bone involvement, this diagnosis aligns well with the clinical presentation.\n\nThe PET scan showing a secondary lesion in the left iliac bone further supports the metastatic nature of the disease. Ewing's sarcoma is known for its propensity to metastasize, most commonly to the lungs, followed by bones.\n\nDespite chemotherapy, the metastases progressed, including involvement of the iliac bone, leading to the patient's eventual demise. This unfortunate outcome underscores the aggressive nature of Ewing's sarcoma, particularly when it presents with widespread disease at diagnosis.\n\nIn summary, the patient's presentation, imaging findings, histology, and disease course are all consistent with Ewing's sarcoma, a malignant bone tumor common in pediatric and adolescent populations, with a tendency for early metastasis.\n\n### Answer:\nEwing's sarcoma"
+    },
+    "reasoning_eval": [
+        {
+            "step": "In this case, we have a 12-year-old boy presenting with a one-month history of a painful, hard, and fixed mass under his left clavicle, which is causing difficulty in shoulder mobilization. Given his age and the characteristics of the mass, several considerations come to mind regarding potential diagnoses.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "First, it's important to consider benign and malignant causes of masses in this age group. Benign conditions such as lymphadenopathy due to infection, hormonal changes, or trauma could present with a painful, firm mass. However, the fact that the mass is fixed and causing limited mobility suggests a more serious underlying issue.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Given the location under the clavicle, one might initially think of lymph node enlargement. But the description mentions that it's a mass centered on the coracoid process, which is part of the scapula. This anatomical detail is crucial because it points towards a primary bone or soft tissue origin rather than solely lymphatic involvement.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The imaging findings are particularly informative. There's an osteolytic mass centered on the coracoid process, with infiltration into surrounding muscles and involvement of the glenoid and humeral head. Additionally, there's pleural effusion, pleural masses, and multiple bilateral pulmonary metastases. This widespread involvement suggests a malignant process with aggressive behavior.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The histological confirmation of Ewing's sarcoma is a key diagnostic point. Ewing's sarcoma is a type of small, round blue cell tumor that primarily affects children and young adults. It typically arises in bones but can also occur in soft tissues. Given the patient's age and the bone involvement, this diagnosis aligns well with the clinical presentation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The PET scan showing a secondary lesion in the left iliac bone further supports the metastatic nature of the disease. Ewing's sarcoma is known for its propensity to metastasize, most commonly to the lungs, followed by bones.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Despite chemotherapy, the metastases progressed, including involvement of the iliac bone, leading to the patient's eventual demise. This unfortunate outcome underscores the aggressive nature of Ewing's sarcoma, particularly when it presents with widespread disease at diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "In summary, the patient's presentation, imaging findings, histology, and disease course are all consistent with Ewing's sarcoma, a malignant bone tumor common in pediatric and adolescent populations, with a tendency for early metastasis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> The painful, fixed mass with imaging findings of an osteolytic lesion raised concerns for bone malignancies localized to the coracoid process, with primary differentials including Ewing's sarcoma, osteosarcoma, chondrosarcoma, mesenchymal chondrosarcoma, and lymphoma.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Ewing's sarcoma was strongly considered due to the patient's age, imaging findings of bone lysis with heterogeneous soft tissue involvement, and histological consistency with clusters of small blue round cells.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Immunohistochemical studies demonstrated markers specific to Ewing’s sarcoma, such as CD-99 and FLI-1, confirming the diagnosis.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Chondrosarcoma was excluded as it is typically seen in older individuals, and histological examination did not support this diagnosis.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Osteoblastoma and osteosarcoma were excluded based on histological differences, with osteoblastoma being less aggressive and osteosarcoma showing osteoid production, which was absent.",
+            "hit": false
+        },
+        {
+            "step": "<Step 6> Mesenchymal chondrosarcoma and lymphoma were excluded as histology and immunohistochemical studies were negative for these types.",
+            "hit": false
+        },
+        {
+            "step": "<Step 7> Further imaging revealed bilateral pulmonary metastases and subsequent iliac bone involvement, consistent with the aggressive nature of Ewing's sarcoma.",
+            "hit": true
+        },
+        {
+            "step": "<Step 8> The final diagnosis is Ewing’s Sarcoma of the coracoid process with pulmonary and iliac bone metastases, confirmed through clinical presentation, imaging findings, histological analysis, and immunohistochemistry.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.75
+}

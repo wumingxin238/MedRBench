@@ -1,0 +1,169 @@
+{
+    "raw_case": "\nDiagnosis and Management of a Patient With Chronic Lymphocytic Leukemia and a Concurrent Plasmacytoma\nChronic lymphocytic leukemia (CLL) typically presents as an indolent disease with a benign disposition in most patients. In select patients, CLL can progress into a more aggressive disease via its original morphology, following a Richter transformation to an alternative non-Hodgkin's lymphoma, or with the concomitant development of multiple myeloma. In an extremely rare subset of individuals with CLL, an extramedullary plasmacytoma may coexist. This case report seeks to describe the diagnosis and treatment of a patient with concurrent CLL and a plasmacytoma.\n\n1. Introduction\n\nOf the breadth of hematological malignancies, chronic lymphocytic leukemia (CLL) is viewed as a common lymphoproliferative disorder in Western populations [1]. Most patients with CLL tend to follow an indolent disease course, with an approximate 5-year relative survival rate of 88.0% [2]. However, progressive involvement of disease remains a concern and may necessitate further diagnostic workup and treatment. Causes of disease progression in CLL can be stratified into progression of the original pathology, a pathological transformation as seen in Richter syndrome, or the appearance of a concomitant hematological malignancy [3].In the setting of a secondary malignancy, CLL progression can parallel the development of hematological malignancies not associated with a Richter transformation, myeloproliferative disorders, or select solid tumors [4]. In an exceedingly rare subset of individuals, the presence of an extramedullary plasmacytoma may coexist with active CLL disease. A scarcity of such cases exists in the scientific literature, thereby necessitating further identification and review of this uncommon patient population. This case report details the diagnosis and treatment of a patient found to have both CLL and a concurrent plasmacytoma at the time of diagnosis.\n\n2. Case Presentation\n\nA 59-year-old male with a past medical history of ADHD and bilateral hearing loss secondary to occupational exposures presented to his local emergency department with a complaint of right-sided mouth pain. An initial computed tomography (CT) of the facial bones was only revealing for dental disease of the left second molar with early periapical disease. The patient's complaints were thereby assessed as secondary to a dental infection and was originally discharged with a course of oral clindamycin. He completed the antibiotic course as prescribed but experienced no relief of his symptoms and returned to the emergency department for reevaluation and admission thereafter. Of note, his family history consisted of his father passing from diffuse large B cell lymphoma (DLBCL), his paternal uncle passing from anaplastic thyroid cancer, and his brother being diagnosed with an unknown kidney malignancy at the time of service.On admission, the pain progressed despite more aggressive antibiotic and analgesic treatment and was paralleled with new complaints of facial numbness and dysgeusia. Outpatient magnetic resonance imaging (MRI) of the brain was obtained and demonstrated several enhancing lesions, including an extramedullary mass at the right side of the skull base. Further CT imaging of the chest, abdomen, and pelvis demonstrated additional numerous, indeterminate scattered lytic lesions alongside the aforementioned skull base mass. Laboratory workup was notable for hypercalcemia, a kappa free light chain of 73 mg/L (normal 3.30–19.40 mg/L), a kappa/lambda ratio of 9.2 (normal 0.26–1.65), and a 1.7 g M-sike with IgG-K banding on serum protein electrophoresis (SPEP). Several complete blood counts, including white blood cell counts, hemoglobin, and platelet counts were all within normal limits throughout his diagnostic workup.A final MRI of the abdomen and pelvis was obtained and ultimately demonstrated over 40 abnormal foci of marrow identified within the ribs, lower thoracic spine, upper lumbar spine, and iliac bones Figure 1. An additional positron-emission tomography/computed tomography (PET/CT) was obtained, which further delineated the presence of multiple intensely hypermetabolic bone marrow lesions and an additional hypermetabolic extramedullary mass at the skull base.A biopsy of the basal skull mass was obtained which confirmed the presence of a plasmacytoma. Fluorescent in-situ hybridization (FISH) analysis of the biopsied tissue demonstrated gain of ATM, TP53, and NF1 mutations. An additional FISH analysis of a peripheral blood sample failed to demonstrate any evidence of trisomy 12, P53 deletion or amplification, D13S319, or ATM deletion. Furthermore, three separate bone marrow biopsies demonstrated CD5+ and CD23+ B-cell lymphoma consistent with CLL and/or small lymphocytic leukemia (SLL), as well as a clonal plasma cell neoplasm. On further analysis, the aforementioned bone marrow biopsies also demonstrated a 13q14 deletion, which was not originally seen on the skull biopsy results. This distinct deletion confirmed that the plasmacytoma and CLL were separate malignancies not originating from the same clone.Given the patient's burden of radiological disease, the decision was made between a multidisciplinary team to pursue active treatment via combination therapy. His CLL regimen consisted of obinutuzumab and venetoclax for 6 cycles followed by a year of venetoclax maintenance therapy. His plasmacytoma was managed with two courses of gamma radiation therapy. At the time of this report, the patient has completed his maintenance therapy and maintained a complete metabolic response with no active disease noted on repeat imaging obtained 1 year and 2 years following the initiation of treatment.\n\n3. Discussion\n\nThe development of a concomitant extramedullary plasmacytoma in the setting of CLL remains both a theoretical rarity and a scarcely reported phenomena in the scientific literature [5–7]. In addition, a select few reports detail the transformation of CLL to a plasmacytoma, but not their combined appearance in the same diagnostic workup with different clonal origins [8, 9]. Amongst these cases, most noted the development of the plasmacytoma several years after the original discovery of CLL, thereby further highlighting the novelty of this case.The variety of diagnostic techniques available in the oncological setting, such as FISH analysis, kappa/lambda chain analysis, and SPEP, allow for precise determination of different origins to each malignancy. When presented with the unique situation of differentiating between the origins of CLL and a concurrent plasmacytoma, it is reasonable to assume FISH analysis is the optimal etiological methodology at this time. Moving forward, next-generation DNA sequencing and/or “Tumor ID” assays from liquid or solid biopsies may provide additional diagnostic utility in the setting of either hematological malignancy [10]. However, further validation of such testing remains necessary before it can be reasonably applied in these scenarios, as discussed in management of similar plasma cell dyscrasias [11].The treatment of these combined malignancies requires a tailored therapeutic approach. Extramedullary plasmacytomas can be curatively treated with surgery and/or radiation depending on lesions size, location, lymph node involvement, and generalized risk stratification [12]. Therefore, it is reasonable to pursue both surgical oncology and/or radiation oncology treatment for the plasmacytoma while simultaneously designing an additional treatment plan for the concomitant CLL. Management of CLL may follow its typical indolent course, but additional surveillance should be considered for possible accelerated disease progression and/or Richter's transformation in the setting of both a secondary malignancy and dueling therapeutic approaches.Although this case relies upon a single-patient report, its unique presentation of comparable, competing hematological malignancies enhances its significance as an advisory report for clinicians. Continued investigation of the incidence of these concurrent malignancies and optimal treatment strategies is warranted. Furthermore, the case presented includes an extensive family history of aggressive malignancies, including a paternal primary DLBCL. A greater study of any potential hereditary syndromes in these associated patient populations may be warranted to improve prognostication and disease management.\n\n4. Conclusion\n\nThis case report details the diagnostic and treatment approach taken for a patient with CLL and a concurrent extramedullary plasmacytoma. In doing so, further attention is provided to this rare potential complication of an otherwise common hematological malignancy.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 59-year-old male\n- **Chief Complaint:** Right-sided mouth pain\n- **History of Present Illness:** Right-sided mouth pain initially attributed to dental disease; worsened despite antibiotic therapy, leading to recurrent emergency department visits with additional symptoms, including facial numbness and dysgeusia.\n- **Past Medical History:** ADHD, bilateral hearing loss due to occupational exposures.\n- **Personal History:** None\n- **Family History:** Father passed from diffuse large B-cell lymphoma (DLBCL), paternal uncle passed from anaplastic thyroid cancer, brother diagnosed with an unknown kidney malignancy.\n- **Physical Examination:** Not specifically described but supplemented by imaging revealing multiple abnormal lesions.\n- **Ancillary Tests:**  \n  - Imaging: MRI and CT showed numerous lytic and enhancing lesions, including an extramedullary skull base mass. PET/CT confirmed hypermetabolic bone marrow lesions and an extramedullary mass.  \n  - Labs: Elevated kappa free light chain (73 mg/L), elevated kappa/lambda ratio (9.2), IgG-K band on SPEP, and normal blood counts.  \n  - Biopsies: Bone marrow confirmed CD5+/CD23+ B-cell CLL/SLL and a clonal plasma cell neoplasm with a 13q14 deletion. Skull mass biopsy confirmed plasmacytoma (distinct clonal origin from CLL). FISH showed gains in ATM, TP53, and NF1 mutations in the plasmacytoma but no CLL-related genetic deletions in peripheral blood.",
+        "differential_diagnosis": "- **Initial Consideration:** Right-sided mouth pain initially suspected to be secondary to dental disease (periapical disease).\n- **Step 1:** Antibiotic treatment failure, progression of symptoms like facial numbness, and imaging results suggested a more systemic or malignant process. Possible differential diagnoses included:\n  - **Richter Transformation:** Considered due to co-occurrence with CLL, ruled out by lack of compatible genetic mutations from FISH analysis.\n  - **Multiple Myeloma:** Considered due to hypercalcemia, elevated kappa light chains, and lytic lesions. Ruled out because the plasma cell neoplasm was localized to an extramedullary plasmacytoma rather than systemic involvement.\n  - **Extramedullary Plasmacytoma:** Confirmed by biopsy showing plasmacytoma independent of CLL clone (distinct genetic profiles).\n  - **Progressive CLL:** Ruled out as the disease did not align with Richter syndrome or generalized progression (normal blood counts and distinct clonal origins for separate malignancies).",
+        "final_diagnosis": "The patient was diagnosed with **chronic lymphocytic leukemia (CLL)** and a **concurrent extramedullary plasmacytoma** arising from separate clonal origins. This rare occurrence was confirmed through biopsy and FISH analysis.",
+        "diagnosis_results": "Chronic lymphocytic leukemia (CLL) and concurrent extramedullary plasmacytoma."
+    },
+    "body_category": [
+        "Blood, Heart and Circulation"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-7-19",
+    "checked_rare_disease": [
+        "B-cell chronic lymphocytic leukemia",
+        "Plasmacytoma",
+        "Non-Hodgkin lymphoma"
+    ],
+    "id": "PMC11444798",
+    "results": {
+        "content": "### Reasoning:\n\n**Step 1: Understanding the Clinical Presentation**\n\nThe patient is a 59-year-old male presenting with right-sided mouth pain initially attributed to dental disease. However, the pain worsened despite antibiotic therapy and was accompanied by recurrent emergency department visits, facial numbness, and dysgeusia. This suggests that the underlying cause may not be purely dental and could involve other structures in the head and neck region.\n\nGiven the patient's history of ADHD and bilateral hearing loss due to occupational exposures, it's important to consider if these conditions could be related to or influencing the current presentation, although they might not be directly relevant.\n\n**Step 2: Reviewing the Imaging Studies**\n\nImaging studies, including MRI and CT scans, revealed numerous lytic and enhancing lesions, including an extramedullary skull base mass. PET/CT confirmed hypermetabolic bone marrow lesions and an extramedullary mass. These findings suggest the presence of a proliferative process involving both bone marrow and extramedullary sites, which could be neoplastic in nature.\n\n**Step 3: Interpreting Laboratory Results**\n\nLaboratory tests showed elevated kappa free light chains (73 mg/L), elevated kappa/lambda ratio (9.2), and an IgG-K band on serum protein electrophoresis (SPEP). These findings are consistent with a clonal plasma cell proliferation, such as multiple myeloma or a related disorder.\n\nBlood counts were normal, which suggests that, at least hematologically, there is no evidence of peripheral blood involvement by the plasma cell neoplasm or other hematological disorders.\n\n**Step 4: Evaluating Biopsy Findings**\n\nBone marrow biopsy confirmed the presence of both chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL) characterized by CD5+/CD23+ B-cells and a clonal plasma cell neoplasm with a 13q14 deletion. The skull mass biopsy confirmed plasmacytoma, which is a solitary plasma cell tumor, and it was determined to have a distinct clonal origin from the CLL.\n\nFISH studies on the plasmacytoma showed gains in ATM, TP53, and NF1 mutations, but no CLL-related genetic deletions were found in the peripheral blood.\n\n**Step 5: Considering the Family History**\n\nThe patient has a family history of malignancies, including his father's death from diffuse large B-cell lymphoma (DLBCL), a paternal uncle's death from anaplastic thyroid cancer, and a brother diagnosed with an unknown kidney malignancy. This suggests a possible genetic predisposition to malignancies, although specific genetic syndromes are not immediately apparent.\n\n**Step 6: Integrating Findings to Form a Diagnosis**\n\nGiven the presence of both CLL/SLL and a clonal plasma cell neoplasm, with distinct clonal origins, the patient appears to have a dual diagnosis of CLL and a plasma cell neoplasm, specifically a plasmacytoma.\n\nThe elevated free light chains and the kappa/lambda ratio suggest that the plasma cell neoplasm is producing monoclonal protein, which is consistent with plasmacytoma.\n\nThe imaging findings of lytic bone lesions and an extramedullary mass support the diagnosis of plasmacytoma, which can occur in the setting of solitary plasmacytoma or multiple myeloma.\n\nHowever, given that there are multiple lesions noted on imaging, this could indicate multiple myeloma rather than solitary plasmacytoma. The presence of hypermetabolic bone marrow lesions on PET/CT further supports a diagnosis of multiple myeloma.\n\n**Step 7: Distinguishing Between Solitary Plasmacytoma and Multiple Myeloma**\n\nSolitary plasmacytoma is defined by a single plasma cell tumor without evidence of systemic disease, whereas multiple myeloma is characterized by the presence of multiple bone lesions and evidence of end-organ damage.\n\nIn this case, the presence of multiple lytic lesions and hypermetabolic bone marrow involvement suggests multiple myeloma rather than solitary plasmacytoma.\n\n**Step 8: Considering the Coexistence of CLL and Plasma Cell Neoplasm**\n\nThe coexistence of CLL and a plasma cell neoplasm is possible, as both are B-cell malignancies, and patients with one may have an increased risk of developing another hematological malignancy.\n\nHowever, it is crucial to determine whether these two neoplasms are related or independent, given that they have distinct clonal origins based on the biopsy findings.\n\n**Step 9: Assessing the Impact on Management**\n\nThe diagnosis of multiple myeloma would necessitate a different treatment approach compared to solitary plasmacytoma or CLL alone. Treatment for multiple myeloma typically involves chemotherapy, targeted agents, and possibly stem cell transplantation, depending on the stage and genetics of the disease.\n\nGiven the patient's age and overall health status, a multidisciplinary approach involving hematology/oncology would be essential.\n\n**Step 10: Considering Prognostic Factors**\n\nPrognostic factors in multiple myeloma include the presence of specific cytogenetic abnormalities, such as those found in the plasmacytoma (gains in ATM, TP53, and NF1 mutations). TP53 alterations, in particular, are associated with a poorer prognosis.\n\nThe 13q14 deletion in the CLL is a common genetic abnormality and generally has an indolent clinical course, but in the context of multiple myeloma, the impact on overall prognosis needs to be considered.\n\n**Step 11: Family History and Genetic Counseling**\n\nGiven the family history of malignancies, including DLBCL, anaplastic thyroid cancer, and kidney malignancy, it may be prudent to consider genetic counseling and potential genetic testing for hereditary cancer syndromes, although this would be secondary to the immediate diagnostic and therapeutic considerations.\n\n**Step 12: Formulating the Final Diagnosis**\n\nBased on the clinical presentation, imaging findings, laboratory results, and biopsy findings, the patient appears to have multiple myeloma with plasmacytoma manifestations, coexisting with CLL/SLL. The multiple lytic bone lesions and extramedullary plasmacytoma, along with the biochemical evidence of a clonal plasma cell disorder, support the diagnosis of multiple myeloma.\n\nGiven that the plasmacytoma has a distinct clonal origin from the CLL, it is essential to manage both malignancies appropriately, considering their individual prognoses and treatment options.\n\n### Answer:\n\nMultiple Myeloma with plasmacytoma manifestations, coexisting with Chronic Lymphocytic Leukemia (CLL)/Small Lymphocytic Lymphoma (SLL)."
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Step 1: Understanding the Clinical Presentation**",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "The patient is a 59-year-old male presenting with right-sided mouth pain initially attributed to dental disease. However, the pain worsened despite antibiotic therapy and was accompanied by recurrent emergency department visits, facial numbness, and dysgeusia. This suggests that the underlying cause may not be purely dental and could involve other structures in the head and neck region.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Given the patient's history of ADHD and bilateral hearing loss due to occupational exposures, it's important to consider if these conditions could be related to or influencing the current presentation, although they might not be directly relevant.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 2: Reviewing the Imaging Studies**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Imaging studies, including MRI and CT scans, revealed numerous lytic and enhancing lesions, including an extramedullary skull base mass. PET/CT confirmed hypermetabolic bone marrow lesions and an extramedullary mass. These findings suggest the presence of a proliferative process involving both bone marrow and extramedullary sites, which could be neoplastic in nature.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 3: Interpreting Laboratory Results**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Laboratory tests showed elevated kappa free light chains (73 mg/L), elevated kappa/lambda ratio (9.2), and an IgG-K band on serum protein electrophoresis (SPEP). These findings are consistent with a clonal plasma cell proliferation, such as multiple myeloma or a related disorder.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Blood counts were normal, which suggests that, at least hematologically, there is no evidence of peripheral blood involvement by the plasma cell neoplasm or other hematological disorders.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 4: Evaluating Biopsy Findings**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Bone marrow biopsy confirmed the presence of both chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL) characterized by CD5+/CD23+ B-cells and a clonal plasma cell neoplasm with a 13q14 deletion. The skull mass biopsy confirmed plasmacytoma, which is a solitary plasma cell tumor, and it was determined to have a distinct clonal origin from the CLL.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Right-sided mouth pain was initially suspected to be secondary to dental disease, specifically periapical disease.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Antibiotic treatment failure, progression of symptoms like facial numbness, and imaging results suggested a more systemic or malignant process.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Richter Transformation was considered due to its co-occurrence with CLL but ruled out due to the lack of compatible genetic mutations from FISH analysis.",
+            "hit": false
+        },
+        {
+            "step": "<Step 4> Multiple Myeloma was considered due to hypercalcemia, elevated kappa light chains, and lytic lesions but ruled out because the plasma cell neoplasm was localized to an extramedullary plasmacytoma rather than systemic involvement.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Extramedullary Plasmacytoma was confirmed by biopsy showing plasmacytoma independent of the CLL clone, with distinct genetic profiles.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> Progressive CLL was ruled out as the disease did not align with Richter syndrome or generalized progression, evidenced by normal blood counts and distinct clonal origins for separate malignancies.",
+            "hit": true
+        },
+        {
+            "step": "<Step 7> The patient was diagnosed with chronic lymphocytic leukemia (CLL) and a concurrent extramedullary plasmacytoma arising from separate clonal origins.",
+            "hit": true
+        },
+        {
+            "step": "<Step 8> This rare occurrence was confirmed through biopsy and FISH analysis.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.9,
+    "factulity": 0.8888888888888888,
+    "recall": 0.875
+}

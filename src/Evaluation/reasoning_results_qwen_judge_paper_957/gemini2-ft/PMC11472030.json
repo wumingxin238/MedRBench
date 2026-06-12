@@ -1,0 +1,105 @@
+{
+    "raw_case": "\nGanglioneuroma of the cervical sympathetic chain: A case report and review of literature\nGanglioneuromas are rare benign neurogenic tumors of the sympathetic nervous system. Its presence in the neck is relatively rare, characterized by a slow growing mass, usually asymptomatic. Its imaging findings are nonspecific and its diagnosis usually requires surgical biopsy. The treatment of choice is surgical removal.Here, we report the case of a cervical GN in a 16-years-old boy with slowly growing right cervical mass.\n\nIntroduction\n\nGanglioneuromas (GN) are rare benign neurogenic tumors of the sympathetic nervous system [1]. They are most frequently found in the posterior mediastinum (41.5% of cases), retroperitoneum (37.5%), adrenal gland (21%), and neck (8%) [2]. Cervical GN is a slowly growing, well-differentiated tumor that usually appears as an expanding mass in the neck, occurring mostly in young individuals [3]. It is usually asymptomatic although symptoms related to compression of have been reported [1,3]. Its diagnosis often requires surgical biopsy, since fine needle aspiration is often inconclusive and imaging findings of ganglioneuromas are variable and nonspecific [1,4,5]. The treatment of choice of GN is surgical excision and its prognosis is usually favorable [1].Here, we report the case of a cervical GN in a 16-years-old boy with slowly growing right cervical mass.\n\nCase presentation\n\nA 16-year-old boy with no significant medical history presented to the ENT clinic with a slowly growing right cervical mass that had been evolving over the past year. He was referred to our department for a cervical CT scan, which revealed a right cervical mass located deep in the right carotid space. The mass extended from the fourth cervical vertebra to the first thoracic vertebra and measured 48 × 49 × 104 mm. The mass had a fusiform shape with regular margins, was hypoattenuating on noncontrast CT, and showed discrete heterogeneous enhancement after contrast injection. It was displacing the structures of the right carotid space (the common carotid artery and the internal jugular vein) anterolaterally, without causing splaying of the carotid vessels or separation of the arteries and veins. Additionally, the mass was deviating the laryngopharyngeal tract to the left. These imaging findings were suggestive of a schwannoma of the cervical sympathetic chain (Fig. 1).Surgical biopsy of the cervical mass revealed a benign tumor proliferation consisting of mature ganglion cells, either isolated or grouped in clusters. The nuclei of these cells were singular and eccentric, with a prominent nucleolus. The cytoplasm was abundant, eosinophilic, and exhibited distinct cell borders. The stroma was composed of regular Schwann cells arranged in interlaced fascicles. There were no atypical mitotic figures or necrosis observed. No rhabdomyoblasts or neuroblasts were found.These findings were consistent with a mature ganglioneuroma with no histological signs of malignancy (Fig. 2).Therapeutic abstention was adopted with regular monitoring of the patient during medical consultations.\n\nDiscussion\n\nPeripheral neuroblastic tumors (pNTs) define a spectrum of sympathetic neuroectodermal tumors, including undifferentiated neuroblastoma, ganglioneuroblastoma, and mature ganglioneuroma [6]. The presence of immature tissue in neuroblastoma and ganglioneuroblastoma suggests malignant or potentially malignant behavior [2]. In contrast, ganglioneuroma is a well-differentiated benign tumor composed entirely of ganglion cells and Schwannian stroma [2].The most commonly affected sites are the posterior mediastinum, the retroperitoneum and the adrenal gland, which affect 41.5%, 37.5%, and 21% of cases, respectively [6]. GN located in the neck represent 8% of cases. Most of the reported cases were under 18 years of age with slight female predominance [1,6].Cervical ganglioneuromas (GN) are indolent and very slow-growing masses. They are typically asymptomatic, and a mass must reach at least 25-30 mm in size before it can be detected during a clinical examination [4]. The most common location for cervical GNs is the parapharyngeal space, followed by the retropharyngeal space, the paravertebral space, and the spine [1]. The most common presentation is a painless neck swelling, seen in up to 60% of cases [6]. Although less common, associated symptoms such as dysphagia, pain, proptosis, spinal cord compression, hearing loss, cranial nerve palsy, or even tetraparesis have been reported [1,6]. It should be noted that some GN were reported to be endocrinologically active with production of catecholamines causing thus hypertension, diarrhea, sweating, flushing, renal acidosis and other symptoms of elevated catecholamines [3].Imaging modalities such as ultrasound, CT, and MRI are of great help for evaluating cervical masses, for narrowing preoperative differentials and to plan surgical strategies. However, GN does not have specific imaging findings and it is therefore very difficult to distinguish ganglioneuromas from other pNTs [1,7]. Ultrasound findings of GN are the presence of a homogeneous, hypoechoic neck mass with well-defined. CT show a homogenous, well demarcated, and hypoattenuating mass, with low or moderate enhancement, and can contain some granular calcifications. MRI shows homogeneous low intensity on T1-weighted imaging and heterogeneous high intensity on T2-weighted imaging, and low enhancement after gadolinium injection [4].Fine needle aspiration is a minimally invasive procedure, often used as a first line modality to approach the histological diagnosis of cervical masses. However, it is not reliable to diagnose GN and is often misleading and inconclusive [6]. Therefore, definitive diagnosis of GN can be obtained only by surgical biopsy and its most important histological feature is the presence of mature ganglion cells [1].Complete surgical excision is the treatment of choice [1,4,6]. The excision goals are to confirm the diagnosis, to stop the tumor growth and subsequently the compression of anatomic structures [1,2,6]. GN are usually of good prognosis [1,6]. The risks are related to preoperative injuries of adjacent neural and vascular structures [1,6]. Follow up imaging is mandatory, although recurrence after total excision is rare [1,4,6]. Horner syndrome is the main complication detected after surgery but it usually completely resolves within several months [1,6].In conclusion, ganglioneuromas (GN) are benign, well-differentiated neuroblastic tumors with a generally favorable prognosis. Although rare, they should be considered in the differential diagnosis of cervical masses. Due to the lack of distinctive clinical signs and specific imaging features, achieving a definitive diagnosis before pathological examination can be challenging. Therefore, awareness of ganglioneuromas and their presentation is essential for accurate diagnosis and appropriate management.\n\nPatient consent\n\nWritten informed consent was obtained from a legally authorized representative(s) for anonymized patient information to be published in this article.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 16-year-old male.\n- **Chief Complaint:** Slowly growing right cervical mass.\n- **History of Present Illness:** Progression of the right cervical mass over the past year.\n- **Past Medical History:** None.\n- **Personal History:** None specified.\n- **Family History:** None specified.\n- **Physical Examination:** Not detailed in the case report.\n- **Ancillary Tests:**\n  - **Cervical CT Findings:** Right cervical mass (48 × 49 × 104 mm) located deep in the carotid space, extending from C4 to T1 vertebra. Characteristics included fusiform shape, regular margins, hypoattenuation on noncontrast CT, discrete heterogeneous enhancement post-contrast, anterolateral displacement of carotid space structures without vessel splaying, and left deviation of the laryngopharyngeal tract.\n  - **Surgical Biopsy Findings:** Benign tumor proliferation with mature ganglion cells, singular eccentric nuclei, eosinophilic cytoplasm, Schwann cells in fascicles, and absence of malignancy markers (e.g., mitotic figures, necrosis).",
+        "differential_diagnosis": "- Initial evaluation of a painless, slow-growing cervical mass led to considerations of cervical neurogenic tumors, including **schwannoma**, **neurofibroma**, and **ganglioneuroma**, as well as reactive or infectious lymphadenopathy, paragangliomas, and malignancies.\n- The CT imaging findings supported the possibility of a neurogenic tumor, particularly a schwannoma or ganglioneuroma, due to the hypoattenuation, regular margins, and anterolateral displacement of structures.\n- Fine needle aspiration being inconclusive for ganglioneuromas necessitated a surgical biopsy.\n- Histopathological evidence of mature ganglion cells and Schwannian stroma without signs of immaturity (e.g., no mitoses, neuroblasts, or rhabdomyoblasts) confirmed the diagnosis of a **mature ganglioneuroma**, ruling out malignant neuroblastomas and intermediate forms like ganglioneuroblastomas.",
+        "final_diagnosis": "Mature ganglioneuroma of the cervical sympathetic chain. The diagnosis was based on the clinical presentation of a slow-growing cervical mass, imaging findings typical of neurogenic tumors, and histopathological confirmation of mature ganglion cells and Schwannian stroma with no malignancy features.",
+        "diagnosis_results": "Mature ganglioneuroma."
+    },
+    "body_category": [
+        "Brain and Nerves"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-9-5",
+    "checked_rare_disease": [
+        "Ganglioneuroma"
+    ],
+    "id": "PMC11472030",
+    "results": {
+        "content": "### Reasoning:\n<step 1> Analyze the patient's demographics and chief complaint. A 16-year-old male presenting with a slowly growing right cervical mass over a year suggests a benign, slow-progressing lesion rather than an aggressive malignancy.\n\n<step 2> Review the location and size of the mass based on CT findings. The mass is located in the carotid space, deep in the neck, and is quite large (48 × 49 × 104 mm) extending from C4 to T1.  Its fusiform shape and regular margins on CT suggest a well-defined, potentially benign lesion originating from nerve sheath or neural tissue within the carotid space. The hypoattenuation on non-contrast CT and heterogeneous enhancement post-contrast are also consistent with certain benign tumors like schwannomas, neurofibromas, or ganglioneuromas. The displacement of carotid space structures and laryngopharyngeal tract deviation further confirms a space-occupying lesion in this region.\n\n<step 3> Critically evaluate the surgical biopsy findings. The biopsy report is crucial and points towards a benign tumor composed of \"mature ganglion cells\" and \"Schwann cells.\"  The absence of malignancy markers like mitotic figures and necrosis strongly supports a benign diagnosis. The combination of mature ganglion cells and Schwann cells is highly suggestive of a specific type of benign neural tumor.\n\n<step 4> Differentiate potential diagnoses based on the biopsy findings.  Considering benign neural tumors that contain both ganglion cells and Schwann cells, the most prominent diagnosis is **Ganglioneuroma**. While other neural tumors exist in the carotid space (like schwannoma or neurofibroma), they are typically composed primarily of Schwann cells and fibroblasts, respectively, and not characterized by prominent ganglion cells.  Paragangliomas, although in the differential for carotid space masses, are composed of chief cells and sustentacular cells, and while chief cells are neuron-like, the biopsy specifically mentions \"mature ganglion cells\" and \"Schwann cells,\" making ganglioneuroma a stronger fit. Ganglioneuroblastoma and neuroblastoma are less likely due to the \"benign tumor proliferation\" and \"mature ganglion cells\" description, which contradicts the immature and malignant nature of neuroblastomas.\n\n<step 5> Synthesize all findings to reach the final diagnosis. Combining the patient's age, slow growth of the mass, location in the carotid space, CT characteristics suggesting a benign neural lesion, and most importantly, the biopsy report confirming a benign tumor with mature ganglion cells and Schwann cells, the most consistent and definitive diagnosis is **Ganglioneuroma**.\n\n### Answer:\nGanglioneuroma"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Analyze the patient's demographics and chief complaint. A 16-year-old male presenting with a slowly growing right cervical mass over a year suggests a benign, slow-progressing lesion rather than an aggressive malignancy.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Review the location and size of the mass based on CT findings. The mass is located in the carotid space, deep in the neck, and is quite large (48 × 49 × 104 mm) extending from C4 to T1.  Its fusiform shape and regular margins on CT suggest a well-defined, potentially benign lesion originating from nerve sheath or neural tissue within the carotid space. The hypoattenuation on non-contrast CT and heterogeneous enhancement post-contrast are also consistent with certain benign tumors like schwannomas, neurofibromas, or ganglioneuromas. The displacement of carotid space structures and laryngopharyngeal tract deviation further confirms a space-occupying lesion in this region.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Critically evaluate the surgical biopsy findings. The biopsy report is crucial and points towards a benign tumor composed of \"mature ganglion cells\" and \"Schwann cells.\"  The absence of malignancy markers like mitotic figures and necrosis strongly supports a benign diagnosis. The combination of mature ganglion cells and Schwann cells is highly suggestive of a specific type of benign neural tumor.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Differentiate potential diagnoses based on the biopsy findings.  Considering benign neural tumors that contain both ganglion cells and Schwann cells, the most prominent diagnosis is **Ganglioneuroma**. While other neural tumors exist in the carotid space (like schwannoma or neurofibroma), they are typically composed primarily of Schwann cells and fibroblasts, respectively, and not characterized by prominent ganglion cells.  Paragangliomas, although in the differential for carotid space masses, are composed of chief cells and sustentacular cells, and while chief cells are neuron-like, the biopsy specifically mentions \"mature ganglion cells\" and \"Schwann cells,\" making ganglioneuroma a stronger fit. Ganglioneuroblastoma and neuroblastoma are less likely due to the \"benign tumor proliferation\" and \"mature ganglion cells\" description, which contradicts the immature and malignant nature of neuroblastomas.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Synthesize all findings to reach the final diagnosis. Combining the patient's age, slow growth of the mass, location in the carotid space, CT characteristics suggesting a benign neural lesion, and most importantly, the biopsy report confirming a benign tumor with mature ganglion cells and Schwann cells, the most consistent and definitive diagnosis is **Ganglioneuroma**.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Initial evaluation of a painless, slow-growing cervical mass led to considerations of cervical neurogenic tumors, including schwannoma, neurofibroma, and ganglioneuroma, as well as reactive or infectious lymphadenopathy, paragangliomas, and malignancies.",
+            "hit": false
+        },
+        {
+            "step": "CT imaging findings supported the possibility of a neurogenic tumor, particularly a schwannoma or ganglioneuroma, due to the hypoattenuation, regular margins, and anterolateral displacement of structures.",
+            "hit": false
+        },
+        {
+            "step": "Fine needle aspiration being inconclusive for ganglioneuromas necessitated a surgical biopsy.",
+            "hit": false
+        },
+        {
+            "step": "Histopathological evidence of mature ganglion cells and Schwannian stroma without signs of immaturity (e.g., no mitoses, neuroblasts, or rhabdomyoblasts) confirmed the diagnosis of a mature ganglioneuroma, ruling out malignant neuroblastomas and intermediate forms like ganglioneuroblastomas.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Mature ganglioneuroma of the cervical sympathetic chain.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.2
+}

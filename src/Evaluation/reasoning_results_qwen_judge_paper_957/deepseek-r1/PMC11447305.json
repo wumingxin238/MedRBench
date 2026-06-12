@@ -1,0 +1,104 @@
+{
+    "raw_case": "\nFatal outcome of postpolypectomy syndrome: A case report\nPostpolypectomy syndrome (PPS), also known as postpolypectomy coagulation syndrome or transmural burn syndrome, is a rare complication following colonic polypectomy characterized by abdominal pain, fever, and leukocytosis. Herein, we present a case of a patient in his 70s who developed abdominal pain and fever after a polypectomy. He was diagnosed with PPS, which rapidly progressed to septic shock necessitating left hemicolectomy. Pathological findings confirmed intestinal necrosis and severe electrocoagulation injury. Despite surgical intervention, the patient succum to multiple complications. While usually mild, approximately 0.07% of PPS cases require hospitalization due to localized peritonitis from electrocautery. Conservative management is effective, though severe complications are rare. Despite its generally favorable prognosis, our case highlights rapid progression to fatal septic shock postsurgery. Recognition of PPS is crucial, particularly in patients with abdominal pain postpolypectomy, as it can lead to life-threatening outcomes.\n\nIntroduction\n\nPostpolypectomy syndrome (PPS), also known as postpolypectomy coagulation syndrome or transmural burn syndrome, is an uncommon complication characterized by colonoscopic polypectomy [1,2]. Symptoms typically include localized abdominal tenderness, muscular guarding, fever, and leukocytosis, appearing 6-24 hours postprocedure.The pathogenesis of PPS involves thermal injury from high-frequency electrical current during polypectomy, causing transmural burns and localized peritonitis [3,4]. This thermal damage extends through the colon wall layers, triggering peritoneal irritation and systemic inflammation [5].While generally mild, severe complications occur in approximately 1% of all PPS cases [5,6], with 0.07% requiring hospitalization [7]. Zhuang reported critical cases of PPS-induced septic shock not requiring surgery [8]. Mortality rates are low, with Cha et al. [7] reporting no deaths.Here, we present a fatal case where septic shock following polypectomy necessitated urgent left hemicolectomy in our institution, thus highlighting the rare but severe nature of PPS. This work has been reported in line with the SCARE criteria [9].\n\nPresentation of case\n\nA male patient in his 70s walked into our institution with complaints of abdominal pain, fever, nausea, and vomiting postpolypectomy. His medical history included hypertension and dyslipidemia, with medication use including nifedipine, pitavastatin, calcium, and brotizolam. He denied significant family history. A 3 mm-large adenomatous polyp was detected during routine lower gastrointestinal endoscopy (Fig. 1A, initial endoscopy). Subsequent hot-snare biopsy was performed without any complications. The patient returned home and had a meal in the evening, but he developed fever, abdominal pain, nausea, and vomiting during the night. These symptoms progressively worsened. The next morning he was transported to the emergency room approximately 12 hours after the polypectomy.On examination, his temperature was 37.6°C, heart rate (HR) was 100 beats/min, blood pressure (BP) was 102/73 mmHg, respiratory rate (RR) was 34 breaths/min, and SpO2 was 97%. Physical examination revealed abdominal pain in the middle upper quadrant along with muscle guarding and rebound tenderness in the right lower quadrant. Blood tests revealed a white blood cell (WBC) count of 10,340/µl (reference range: 4,000-10,000/µl) and an elevated C-reactive protein (CRP) level of 6.02 mg/dL (reference range: <0.5 mg/dL). Liver function tests showed aspartate aminotransferase (AST) at 26 U/l (reference range: 10-40 U/l), alanine aminotransferase (ALT) at 22 U/l (reference range: 7-56 U/l), and lactate dehydrogenase (LDH) at 147 U/l (reference range: 140-280 U/l). Electrolyte levels were within normal limits, with sodium (Na) at 143 mEq/l (reference range: 135-145 mEq/l), potassium (K) at 4.3 mEq/l (reference range: 3.5-5.0 mEq/l), and chloride (Cl) at 101 mEq/l (reference range: 98-106 mEq/l). Platelet count was 269,000/µl (reference range: 150,000-450,000/µl), and hemoglobin (Hb) was 12.0 mg/dl (reference range: 13.5-17.5 g/dL). A second endoscopy revealed severe edema and mucosal congestion in the transverse colon at the polypectomy site (Fig. 1B, performed the morning after symptom onset).Computed tomography of the abdomen showed bowel wall thickening and increased fat density around the transverse colon, consistent with the polypectomy site (Fig. 2, performed immediately after the follow-up endoscopy). Ascites was noted in the pelvis, but no free air was detected in the abdomen. Based on these findings, the patient was diagnosed with PPS. Ischemic colitis was ruled out during differential diagnosis because it typically occurs in the descending colon, which is inconsistent with our case.As PSS is usually mild, conservative treatment was initiated. However, despite being hospitalized and monitored, the patient deteriorated rapidly over the following few hours, necessitating emergent surgery. Intraoperatively, left-sided transverse colon ischemia prompted left hemicolectomy. Pathology revealed mucosal necrosis. Postsurgery, intravenous antibiotics and intensive care using noradrenaline were unsuccessful in the intensive care unit, and the patient died 8 days postoperation.\n\nDiscussion\n\nPSS lacks definitive diagnostic criteria and is diagnosed by presentation postpolypectomy [7]. Symptoms typically include abdominal pain, fever, and leukocytosis.Our case demonstrated typical symptoms and imaging findings of PSS, highlighting the importance of prompt diagnosis. The mechanism involves thermal injury and bacterial translocation, exacerbated by procedural factors like polyp size and duration [3]. To the best of our knowledge, there have been no reports regarding PPS-related mortality, indicating that PPS typically has a favorable prognosis. Due to its positive prognosis, PPS is usually treated conservatively. Nevertheless, severe complications may occur and even lead to death.Computed tomographic imaging plays a crucial role in diagnosing PPS, revealing thickening and enhancement of the colon wall without perforation [10]. However, diagnosis remains challenging without a recent procedural history.Cha et al. [7] reported that hypertension, large polyp size (> 2 cm), and prolonged operation time (> 90 minutes) increases PPS risk [11]. Despite advancements like cold snare polypectomy, which reduces thermal injury risk [12], PPS can still occur [13].Our case has the limitation of the unknown exact cause of rapid deterioration. The polypectomy had no complications, making it hard to predict PPS as a rare complication with a typically good prognosis. Further studies on risk and morbidity are warranted.\n\nConclusion\n\nPPS is a rare and serious complication that should be recognized as such. Clinicians should be aware of the risk and ensure early recognition and appropriate management of PPS.\n\nPatient consent\n\nInformed consent was obtained from the patient.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** Male, in his 70s.\n- **Chief Complaint:** Abdominal pain, fever, nausea, and vomiting after colonic polypectomy.\n- **History of Present Illness:** Symptoms developed approximately 6-12 hours after a polypectomy procedure performed for a 3 mm adenomatous polyp. Symptoms progressively worsened, prompting emergency evaluation.\n- **Past Medical History:** Hypertension and dyslipidemia treated with nifedipine, pitavastatin, calcium, and brotizolam.\n- **Personal History:** Not detailed.\n- **Family History:** None significant.\n- **Physical Examination:** Abdominal tenderness in the middle upper quadrant, muscular guarding, and rebound tenderness in the right lower quadrant. Vital signs: temperature 37.6°C, HR 100 beats/min, BP 102/73 mmHg, RR 34 breaths/min, SpO2 97%.\n- **Ancillary Tests:** \n    - Blood work showed WBC 10,340/µl, elevated CRP (6.02 mg/dL), normal liver enzymes (AST 26 U/L, ALT 22 U/L, LDH 147 U/L), normal electrolytes, platelet count (269,000/µl), hemoglobin (12.0 mg/dL). \n    - Imaging: Abdominal CT revealed bowel wall thickening and increased fat density near the transverse colon, with no free air. Pelvic ascites was present.\n    - Endoscopy: Severe edema and mucosal congestion at the polypectomy site.",
+        "differential_diagnosis": "1. **Postpolypectomy Syndrome (PPS):** The diagnosis was strongly supported by the temporal relationship to the procedure, localized abdominal pain, fever, leukocytosis, and imaging findings of bowel thickening without perforation. This was confirmed clinically and radiologically.\n2. **Ischemic Colitis:** Ruled out due to the location of inflammation (transverse colon instead of typical descending colon involvement).\n3. **Other Causes of Abdominal Pain (e.g., perforation, appendicitis, diverticulitis):** Ruled out based on absence of free air on imaging (excluding perforation), lack of anatomical correlation with pain location, and findings localized to the polypectomy site.\n\nConservative management was initiated for PPS but failed as the condition progressed to ischemia and septic shock necessitating surgery.",
+        "final_diagnosis": "Postpolypectomy syndrome (PPS) complicated by transverse colon ischemia, severe electrocoagulation injury, and rapid progression to septic shock.",
+        "diagnosis_results": "Postpolypectomy syndrome (PPS) complicated by ischemic necrosis and septic shock."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Injuries and Wounds"
+    ],
+    "receive_time": "2024-8-18",
+    "checked_rare_disease": [],
+    "id": "PMC11447305",
+    "results": {
+        "thinking_process": "Okay, let's tackle this case. The patient is a 70-year-old male presenting with abdominal pain, fever, nausea, and vomiting after a colonic polypectomy. Symptoms started 6-12 hours post-procedure. Hmm, post-polypectomy complications are a concern here.\n\nFirst, the timing is important. Symptoms developing within hours after the procedure suggest an acute complication. The main complications after polypectomy include bleeding, perforation, and post-polypectomy syndrome. Bleeding usually presents with hematochezia or dropping hemoglobin, but his hemoglobin is 12, which is within normal range. So maybe not bleeding. Perforation is another possibility. The CT didn't show free air, which makes perforation less likely, but not impossible. Sometimes small perforations can be missed, but the absence of free air leans against it. \n\nNext, post-polypectomy syndrome. This is caused by electrocoagulation injury to the bowel wall leading to a transmural burn and localized peritonitis. The symptoms include abdominal pain, fever, leukocytosis. The CT findings here show bowel wall thickening and fat stranding near the transverse colon, which is where the polypectomy was done. Pelvic ascites could be reactive fluid from inflammation. The endoscopy showing edema and congestion at the site supports this. \n\nThe lab results: elevated WBC and CRP point to inflammation or infection. No elevated liver enzymes, so probably not related to the liver. The vital signs show mild fever, tachycardia, and tachypnea, which are signs of systemic inflammation. The physical exam findings of tenderness, guarding, and rebound in the RLQ might be confusing. Wait, the polypectomy was on the transverse colon. But the rebound tenderness is in the right lower quadrant. Maybe the inflammation is causing referred pain or the fluid from the transverse area is tracking down? Or could there be another issue like appendicitis? But the recent polypectomy makes the post-procedure complication more likely. \n\nConsidering the imaging and endoscopy, the bowel wall thickening and fat stranding around the transverse colon, along with mucosal changes at the polypectomy site, all fit with a localized inflammatory process. Post-polypectomy syndrome typically presents without perforation, which aligns with the CT findings of no free air. \n\nOther differentials: infection like diverticulitis, but the patient just had a procedure, so the timing is more suggestive of a procedure-related issue. Also, the CT didn't mention diverticula. Ischemia? Unlikely given the context and normal lactate (if checked, but not mentioned here). \n\nSo putting it all together: The patient's symptoms, lab results, imaging, and endoscopy findings all support post-polypectomy electrocoagulation syndrome. The absence of perforation makes this the most likely diagnosis. Therefore, the final answer should be post-polypectomy syndrome.",
+        "content": "```\n### Resoning:\n<step 1> The patient's symptoms (abdominal pain, fever, nausea/vomiting) developed acutely 6-12 hours after colonic polypectomy, suggesting a procedural complication. Common complications include bleeding, perforation, or post-polypectomy electrocoagulation syndrome (PPES).  \n<step 2> Absence of free air on CT and stable hemoglobin (12.0 mg/dL) make perforation or significant hemorrhage less likely. Elevated WBC and CRP, along with localized peritoneal signs (rebound tenderness, guarding), indicate inflammation.  \n<step 3> CT findings of bowel wall thickening, fat stranding near the transverse colon (polypectomy site), and pelvic ascites suggest localized inflammation. Endoscopic evidence of edema and mucosal congestion further supports thermal injury from polypectomy.  \n<step 4> Post-polypectomy electrocoagulation syndrome (PPES) aligns with the clinical picture: post-procedural inflammatory response due to transmural thermal injury without frank perforation. RLQ rebound tenderness may reflect inflammatory fluid tracking to the pelvis.  \n<step 5> Alternative diagnoses (e.g., diverticulitis, appendicitis) are less likely given the direct temporal and anatomical correlation with the polypectomy site. Normal liver enzymes and electrolytes exclude unrelated etiologies.  \n\n### Answer:\nPost-polypectomy electrocoagulation syndrome (post-polypectomy syndrome)."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient's symptoms (abdominal pain, fever, nausea/vomiting) developed acutely 6-12 hours after colonic polypectomy, suggesting a procedural complication. Common complications include bleeding, perforation, or post-polypectomy electrocoagulation syndrome (PPES).",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Absence of free air on CT and stable hemoglobin (12.0 mg/dL) make perforation or significant hemorrhage less likely. Elevated WBC and CRP, along with localized peritoneal signs (rebound tenderness, guarding), indicate inflammation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "CT findings of bowel wall thickening, fat stranding near the transverse colon (polypectomy site), and pelvic ascites suggest localized inflammation. Endoscopic evidence of edema and mucosal congestion further supports thermal injury from polypectomy.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Post-polypectomy electrocoagulation syndrome (PPES) aligns with the clinical picture: post-procedural inflammatory response due to transmural thermal injury without frank perforation. RLQ rebound tenderness may reflect inflammatory fluid tracking to the pelvis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Alternative diagnoses (e.g., diverticulitis, appendicitis) are less likely given the direct temporal and anatomical correlation with the polypectomy site. Normal liver enzymes and electrolytes exclude unrelated etiologies.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Diagnosis of Postpolypectomy Syndrome (PPS) supported by temporal relationship to procedure, localized abdominal pain, fever, leukocytosis, and imaging findings of bowel thickening without perforation.",
+            "hit": true
+        },
+        {
+            "step": "Step 2: Ischemic Colitis ruled out due to inflammation located in the transverse colon rather than the typical descending colon.",
+            "hit": false
+        },
+        {
+            "step": "Step 3: Other causes of abdominal pain (perforation, appendicitis, diverticulitis) ruled out based on absence of free air on imaging, lack of anatomical correlation with pain location, and findings localized to the polypectomy site.",
+            "hit": true
+        },
+        {
+            "step": "Step 4: Conservative management initiated for PPS but failed as condition progressed to ischemia and septic shock requiring surgery.",
+            "hit": false
+        },
+        {
+            "step": "Step 5: Final diagnosis: Postpolypectomy syndrome (PPS) complicated by transverse colon ischemia, severe electrocoagulation injury, and rapid progression to septic shock.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.4
+}

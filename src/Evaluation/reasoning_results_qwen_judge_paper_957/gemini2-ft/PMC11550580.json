@@ -1,0 +1,136 @@
+{
+    "raw_case": "\nGastric hamartomatous inverted polyps have high internal echoes: A case report\nA 58-year-old woman with an elevated lesion in the stomach was referred to our hospital. Gastroscopy showed a lobulated mass resembling a submucosal tumor. The tumor showed early enhancement on computed tomography. Endoscopic ultrasound showed a lobulated tumor with distinct borders, no attenuated posterior echoes, and high internal echoes. Fine needle aspiration biopsy pathologically showed normal gastric mucosa and spindle cells growing sparsely with SMA positivity and DOG1/S100 negativities, suggesting an inflammatory fibroid polyp. The patient, therefore, underwent laparoscopy endoscopy cooperative surgery to the gastric lesion. Postoperative pathological study showed downward mucosal proliferation into the submucosal layer in a lobulated manner with hyperplasia of the crypt epithelium. Some part of the lesion was located under the normal orthotopic gastric mucosa. These pathologic findings led us to the diagnosis of gastric hamartomatous inverted polyp (GHIP). In conclusion, endoscopy specialists should note that fibrous component-rich tumors have low internal echoes and attenuated posterior echoes, whereas GHIPs have high internal echoes and no attenuated posterior echoes.\n\nIntroduction\n\nSimilar to computed tomography (CT) and magnetic resonance imaging (MRI), ultrasound is an extremely useful diagnostic modality in various solid malignancies. Ultrasound, however, has limited efficacy against hollow organ diseases such as gastric cancers and colon cancers due to the highly probable presence of air just around the lesions.Endoscopic ultrasonography (EUS) can depict submucosal tumors through ultrasound image acquisition by directly contacting the ultrasound probe to the mucosa just above the lesion. In addition, fine needle aspiration (FNA) biopsy under EUS guidance plays important roles in the diagnosis of submucosal tumors.Gastric hamartomatous inverted polyps (GHIPs) are rare disorders of the stomach and are characterized by their downward growth of hyperplastic mucosal component into the submucosal layer [[1], [2], [3]]. GHIPs develop predominantly in the upper part of the stomach, but EUS findings of them remain uncertain.We experienced this rare GHIP case and herein report that this disorder should have high internal echoes due to its pathological structures.\n\nCase presentation\n\nA 58-year-old woman had been diagnosed with a protruding lesion in her stomach on a medical health check. Endoscopy for detailed examination clarified the chronic gastritis and a gastric tumor 3 years before. Positive urine Helicobacter pylori (H. pylori) antibody showed the chronic gastritis to be caused by H. Pylori infection followed by successful antibiotic therapy. Under the tentative diagnosis of possible gastric cancer, endoscopic biopsy was done to the gastric tumor and showed the tumor not to be gastric cancer, but to be hyperplastic polyp. The patient, therefore, underwent annual endoscopic checkups for the atrophic gastritis. Two years later, follow-up CT showed that the elevated lesion was 26mm in size, located close to the esophago-gastric junction, had a similar Hounsfield Unit value to that of the gastric wall, and had strong early enhancement (Fig. 1). Repeated gastroscopy showed a lobulated mass resembling a submucosal tumor (Fig. 2) that had distinct borders, no attenuated posterior echoes, and high internal echoes on EUS (Fig. 3). FNA biopsy pathologically showed normal gastric mucosa and spindle cells growing sparsely with SMA positivity and DOG1 / S100 negativities, suggesting an inflammatory fibroid polyp [4,5]. The patient, therefore, underwent laparoscopy endoscopy cooperative surgery (LECS) to the gastric lesion both for definitive diagnosis and treatment [[6], [7], [8]]. LECS consisted of endoscopic submucosal dissection of the lesion followed by laparoscopic inversion suture of the dissected thin gastric wall. Postoperative pathological study showed downward mucosal proliferation in a lobulated manner with hyperplasia of the crypt epithelium, sparse fibroblast-like spindle cells growing in a storiform pattern, and no eosinophil infiltration. Some part of the lesion was located under the normal orthotopic gastric mucosa. These pathologic findings led us to the diagnosis of GHIP (Fig. 4). The patient recovered uneventfully, was discharged on the postoperative 7th day, and was scheduled to receive annual endoscopic follow-ups.\n\nDiscussion\n\nThe World Health Organization classifies nonepithelial digestive tumors by their pathological origins, i.e., Cajal cells, adipose tissue, (myosin) fibroblast, smooth muscle, skeletal muscle, vessel, nerve, and uncertain [9]. Each origin shows a positive result for specific immune-markers. We, therefore, can easily rule out the possibility of neurogenic tumors and gastro-intestinal stromal tumors due to the SMA positivity and S100/DOG1 negativities in this case. In addition, CD34 positivity further led us to rule out the leiomyoma.Inflammatory fibroid polyp is a fibroblast-derived disease with few cellular components and eosinophil infiltration [4,5]. It is a rare disorder often found in the stomach and ileum with possible CD34 and SMA positivities, having led us to the initial tentative diagnosis of inflammatory fibroid polyp in this case. This disorder, however, should present low internal echoes due to its fibrous component dominant characteristics. Low internal echoes should also be observed in fibrous component-rich various diseases such as desmoid fibromatosis, leiomyoma, and shwannoma. In addition, massive fibrous components generally cause delayed mass enhancement on images, markedly conflicting to the image findings in this case.Hamartomas are intermediate disorders between tumors and malformations, in which certain tissue components are present in ratios different from those normally possessed by each organ. Hamartomas, therefore, are well-defined masses with an abundant fat component in the breast hamartomas and with a large quantity of cartilage component in the lung hamartomas. GHIP is neither a pure hamartoma nor a submucosal tumor. However, the pathological components of GHIP are essentially the same as those of hamartomas: marked mucosal proliferation and small amount of fibroblast-like spindle cell proliferation in this case. When the proliferated mucosal clusters are found submucosally, the presence of papillary structures and micro voids in the GFIP causes large ultrasound wave backscattering, making the internal echoes of the tumor high. Even if fibrous components are present in GHIP, they are usually small in amount, generally leading to no posterior echo attenuation as was seen in this case.Nonepithelial tumors generally possess varying degree of fibrous components, often causing immunostaining use for the definitive diagnosis in many cases. Immunostaining results suggested the diagnosis of inflammatory fibroid polyp in this case. Diagnostic physicians, however, can correctly diagnose GHIPs with pathological component-based image evaluation.\n\nConclusion\n\nGHIPs are rare gastric disorders and have proliferated gastric mucosa in the tumors.The presence of gastric mucosa with papillary structures and/or micro voids generates large ultrasound wave backscattering, making the internal echoes of the tumor high. Diagnostic physicians should note that GHIPs have high internal echoes and no attenuated posterior echoes.\n\nPatient consent\n\nWritten informed consent was obtained from the patient for the publication of this case report and any accompanying images.",
+    "generate_case": {
+        "case_summary": "- Patient Information: 58-year-old woman\n- Chief Complaint: Elevated lesion in the stomach \n- History of Present Illness: Protruding gastric lesion identified during a routine health check three years prior; previously identified during endoscopy as a hyperplastic polyp with chronic Helicobacter pylori (H. pylori)–induced gastritis treated successfully with antibiotics; no significant symptoms were reported.\n- Past Medical History: Treated H. pylori infection; chronic gastritis managed with annual endoscopic follow-ups.\n- Personal History: None.\n- Family History: None.\n- Physical Examination: Not explicitly described.\n- Ancillary Tests: \n  - Gastroscopy: Repeated examinations showed a lobulated mass resembling a submucosal tumor with high internal echoes and no attenuated posterior echoes on endoscopic ultrasound (EUS).\n  - Fine-Needle Aspiration (FNA) Biopsy: Normal gastric mucosa and spindle cells with SMA positivity and DOG1/S100 negativities suggested an inflammatory fibroid polyp.\n  - Computed Tomography (CT): Demonstrated a 26-mm elevated lesion near the esophago-gastric junction with early enhancement and similar Hounsfield Units to the gastric wall.\n  - Histopathological (Postoperative): Downward mucosal proliferation into the submucosal layer with hyperplastic crypt epithelium. Sparse spindle cells with no eosinophil infiltration were observed. Final pathology revealed a gastric hamartomatous inverted polyp (GHIP).",
+        "differential_diagnosis": "1. **Initial Differential Diagnosis:**\n   - The patient's gastric lesion and imaging findings initially raised concerns for gastric cancer or inflammatory fibroid polyp due to its prominent features.\n   - Biopsy findings ruled out gastric cancer and suggested an inflammatory fibroid polyp based on spindle cell growth and SMA-positive/DOG1- and S100-negative markers.\n\n2. **Refining the Diagnosis:**\n   - The patient underwent laparoscopy endoscopy cooperative surgery (LECS) for definitive diagnosis and treatment. Postoperative histology revealed features inconsistent with an inflammatory fibroid polyp (e.g., absence of significant fibrous components or eosinophil infiltration).\n\n3. **Ruling Out Other Submucosal Tumors:**\n   - Differential markers and imaging findings ruled out leiomyoma, schwannoma, and other fibrous tumors due to the tumor's unique high internal echoes, absence of posterior attenuation, and microscopically observed proliferation of gastric mucosa.\n\n4. **Final Diagnosis of GHIP:**\n   - The distinct pathological findings of downward mucosal growth, crypt epithelial hyperplasia, and occasional spindle cells confirmed the rare diagnosis of gastric hamartomatous inverted polyp. The EUS finding of high internal echoes with no posterior echo attenuation further supported this conclusion.",
+        "final_diagnosis": "Gastric Hamartomatous Inverted Polyp (GHIP)",
+        "diagnosis_results": "Gastric Hamartomatous Inverted Polyp (GHIP)"
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-9-23",
+    "checked_rare_disease": [],
+    "id": "PMC11550580",
+    "results": {
+        "content": "### Resoning:\n<step 1> **Initial Review of Patient Information and Chief Complaint:** The patient is a 58-year-old woman presenting with an elevated gastric lesion discovered during a routine health check. This immediately flags the need to investigate the nature of this lesion, considering the patient's age and the potential for gastric malignancies.\n\n<step 2> **Analyzing History of Present Illness:** The lesion was initially identified three years prior and characterized as a hyperplastic polyp associated with H. pylori gastritis, which was treated.  The patient has been under endoscopic surveillance, indicating ongoing concern and monitoring of the lesion.  The lack of reported symptoms is important but doesn't exclude significant pathology.\n\n<step 3> **Evaluating Past Medical History:** The history of treated H. pylori infection and chronic gastritis is relevant as H. pylori is a known risk factor for various gastric pathologies, including both benign and malignant conditions. The annual endoscopic follow-ups suggest a proactive approach to monitoring the gastric condition.\n\n<step 4> **Assessing Ancillary Tests - Gastroscopy and EUS:** Repeated gastroscopies revealed a lobulated mass resembling a submucosal tumor. Endoscopic ultrasound (EUS) further characterized it with high internal echoes and no attenuated posterior echoes. This EUS finding is less typical for a purely submucosal tumor but more suggestive of a lesion with a complex internal structure or potentially arising from the mucosa and extending deeper.\n\n<step 5> **Analyzing Ancillary Tests - FNA Biopsy:** The FNA biopsy reported normal gastric mucosa and spindle cells with SMA positivity and DOG1/S100 negativities. This immunohistochemical profile initially suggested an inflammatory fibroid polyp (IFP), a benign mesenchymal tumor. However, the mention of \"normal gastric mucosa\" alongside spindle cells in the FNA of a presumed polyp is slightly unusual and could indicate sampling limitations or a lesion with mixed components.\n\n<step 6> **Analyzing Ancillary Tests - CT Scan:** The CT scan showed a 26-mm elevated lesion near the esophago-gastric junction with early enhancement and similar Hounsfield Units to the gastric wall. This confirms the presence of a lesion and provides information about its size, location, and vascularity (early enhancement). The similar Hounsfield Units to the gastric wall could suggest the lesion originates from or is integrated within the gastric wall.\n\n<step 7> **Critically Examining Final Histopathological (Postoperative) Findings:** The postoperative histopathology is the definitive diagnostic test. It reveals downward mucosal proliferation into the submucosa with hyperplastic crypt epithelium. The presence of sparse spindle cells without eosinophil infiltration, combined with the final pathology diagnosis of a gastric hamartomatous inverted polyp (GHIP), is crucial. This final diagnosis directly contradicts the initial FNA suggestion of IFP and provides a clear and conclusive diagnosis.\n\n<step 8> **Synthesizing all Information and Formulating Final Diagnosis:**  Despite initial impressions and the FNA biopsy suggesting IFP, the final histopathology report from the resected specimen definitively diagnoses a Gastric Hamartomatous Inverted Polyp (GHIP). GHIP is a benign lesion, and the histopathological description provided (downward mucosal proliferation, hyperplastic crypts, sparse spindle cells, no eosinophils) is consistent with this diagnosis.  The earlier findings, including the FNA's immunohistochemistry, while initially suggestive of IFP, are ultimately superseded by the comprehensive postoperative histopathological examination. Therefore, the final diagnosis must be based on the conclusive histopathology report.\n\n### Answer:\nGastric Hamartomatous Inverted Polyp (GHIP)"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Initial Review of Patient Information and Chief Complaint:** The patient is a 58-year-old woman presenting with an elevated gastric lesion discovered during a routine health check. This immediately flags the need to investigate the nature of this lesion, considering the patient's age and the potential for gastric malignancies.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Analyzing History of Present Illness:** The lesion was initially identified three years prior and characterized as a hyperplastic polyp associated with H. pylori gastritis, which was treated.  The patient has been under endoscopic surveillance, indicating ongoing concern and monitoring of the lesion.  The lack of reported symptoms is important but doesn't exclude significant pathology.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Evaluating Past Medical History:** The history of treated H. pylori infection and chronic gastritis is relevant as H. pylori is a known risk factor for various gastric pathologies, including both benign and malignant conditions. The annual endoscopic follow-ups suggest a proactive approach to monitoring the gastric condition.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Assessing Ancillary Tests - Gastroscopy and EUS:** Repeated gastroscopies revealed a lobulated mass resembling a submucosal tumor. Endoscopic ultrasound (EUS) further characterized it with high internal echoes and no attenuated posterior echoes. This EUS finding is less typical for a purely submucosal tumor but more suggestive of a lesion with a complex internal structure or potentially arising from the mucosa and extending deeper.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Analyzing Ancillary Tests - FNA Biopsy:** The FNA biopsy reported normal gastric mucosa and spindle cells with SMA positivity and DOG1/S100 negativities. This immunohistochemical profile initially suggested an inflammatory fibroid polyp (IFP), a benign mesenchymal tumor. However, the mention of \"normal gastric mucosa\" alongside spindle cells in the FNA of a presumed polyp is slightly unusual and could indicate sampling limitations or a lesion with mixed components.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Analyzing Ancillary Tests - CT Scan:** The CT scan showed a 26-mm elevated lesion near the esophago-gastric junction with early enhancement and similar Hounsfield Units to the gastric wall. This confirms the presence of a lesion and provides information about its size, location, and vascularity (early enhancement). The similar Hounsfield Units to the gastric wall could suggest the lesion originates from or is integrated within the gastric wall.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Critically Examining Final Histopathological (Postoperative) Findings:** The postoperative histopathology is the definitive diagnostic test. It reveals downward mucosal proliferation into the submucosa with hyperplastic crypt epithelium. The presence of sparse spindle cells without eosinophil infiltration, combined with the final pathology diagnosis of a gastric hamartomatous inverted polyp (GHIP), is crucial. This final diagnosis directly contradicts the initial FNA suggestion of IFP and provides a clear and conclusive diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Synthesizing all Information and Formulating Final Diagnosis:**  Despite initial impressions and the FNA biopsy suggesting IFP, the final histopathology report from the resected specimen definitively diagnoses a Gastric Hamartomatous Inverted Polyp (GHIP). GHIP is a benign lesion, and the histopathological description provided (downward mucosal proliferation, hyperplastic crypts, sparse spindle cells, no eosinophils) is consistent with this diagnosis.  The earlier findings, including the FNA's immunohistochemistry, while initially suggestive of IFP, are ultimately superseded by the comprehensive postoperative histopathological examination. Therefore, the final diagnosis must be based on the conclusive histopathology report.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> The patient's gastric lesion and imaging findings initially raised concerns for gastric cancer or inflammatory fibroid polyp due to its prominent features; biopsy findings ruled out gastric cancer and suggested an inflammatory fibroid polyp based on spindle cell growth and SMA-positive/DOG1- and S100-negative markers.",
+            "hit": false
+        },
+        {
+            "step": "<Step 2> The patient underwent laparoscopy endoscopy cooperative surgery (LECS) for definitive diagnosis and treatment; postoperative histology revealed features inconsistent with an inflammatory fibroid polyp (e.g., absence of significant fibrous components or eosinophil infiltration).",
+            "hit": false
+        },
+        {
+            "step": "<Step 3> Differential markers and imaging findings ruled out leiomyoma, schwannoma, and other fibrous tumors due to the tumor's unique high internal echoes, absence of posterior attenuation, and microscopically observed proliferation of gastric mucosa.",
+            "hit": false
+        },
+        {
+            "step": "<Step 4> The distinct pathological findings of downward mucosal growth, crypt epithelial hyperplasia, and occasional spindle cells confirmed the rare diagnosis of gastric hamartomatous inverted polyp; the EUS finding of high internal echoes with no posterior echo attenuation further supported this conclusion.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Gastric Hamartomatous Inverted Polyp (GHIP).",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.0
+}

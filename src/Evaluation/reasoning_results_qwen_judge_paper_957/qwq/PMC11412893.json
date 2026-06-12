@@ -1,0 +1,159 @@
+{
+    "raw_case": "\nCase Report: A Chinese child with Barth syndrome caused by a novel TAFAZZIN mutation\nBarth syndrome (BTHS) is a rare X-linked recessive genetic disorder characterized by a broad spectrum of clinical features including cardiomyopathy, skeletal myopathy, neutropenia, growth delay, and 3-methylglutaconic aciduria. This disease is caused by loss-of-function mutations in the TAFAZZIN gene located on chromosome Xq28, resulting in cardiolipin deficiency. Most patients are diagnosed in childhood, and the mortality rate is highest in the early years. We report a case of acute, life-threatening metabolic decompensation occurring one day after birth. A novel TAFAZZIN splice site mutation was identified in the patient, marking the first reported case of such a mutation in BTHS identified in China. The report aims to expand our understanding of the spectrum of TAFAZZIN mutations in BTHS.1\n\nIntroduction\n\nBTHS (MIM 302060) was initially identified as a rare X-linked recessive genetic disorder primarily affecting the mitochondrial function in neutrophils, as well as cardiac and skeletal muscles. The syndrome is characterized by cardiomyopathy, neutropenia, developmental delays, skeletal muscle dysfunction, and 3-methylglutaconic aciduria (1). The causative factor of BTHS has been traced to loss-of-function mutations in the TAFAZZIN gene located on the Xq28 region of the X chromosome (2). This study reports a Chinese pediatric case of BTHS, which is the first reported case of this specific novel splice site mutation. This discovery enhances our understanding of the molecular mechanisms underlying the disease.2\n\nCase presentation\n\nThe male neonate was delivered via cesarean section at 36 weeks of gestation due to fetal cardiac anomalies and umbilical cord entanglement. He weighed 2,780 g at birth, with Apgar scores of 9 at 1, 5, and 10 min. His condition deteriorated rapidly after delivery, with severe cyanosis, frothing, and reduced vitality. Initial vital signs demonstrated no fever, low blood pressure (65/29 mmHg), tachycardia (heart rate 128–152 beats/min), or rapid breathing (respiratory rate 52–62 breaths/min), with oxygen saturation at 91%–95%. Chest radiography revealed cardiomegaly (Figure 1A). Concurrent echocardiography showed left atrial and ventricular enlargement with thickening of the ventricular wall and septum, with a left ventricular internal diameter of 1.9 cm and a wall thickness of 0.5 cm. The left ventricular ejection fraction was 36%, indicating decreased contractility, but there was no noncompaction of the LV myocardium (Figure 1B). Blood tests revealed metabolic acidosis (pH 7.21, PCO2 59 mmHg, HCO3–0.60 mmol/L), coagulation abnormalities (activated partial thromboplastin time 3.12), creatine kinase levels at 438 U/L, and brain natriuretic peptide levels at 15,638 pg/ml, with normal troponin levels. The neutrophil count was 1.36*109/L. Based on these clinical manifestations, BTHS was suspected. Treatment included continuous low-flow nasal cannula oxygen and anti-infective therapy with piperacillin sodium, tazobactam sodium, sodium creatine phosphate, and oral digoxin to enhance myocardial function. The patient's cardiac function improved significantly, and he was eventually discharged. Subsequent whole-exome sequencing was performed to identify mutations in the couple and their children, revealing a novel DNA splicing site mutation in intron 10 of TAFAZZIN (c.778 -30_778del) (Figure 1C). The mutation was inherited from a mother with no cardiac disease history. According to the American College of Medical Genetics and Genomics criteria (Pathogenic very strong 1 and Moderate 2), this novel variant was likely pathogenic.3\n\nDiscussion\n\nBTHS is an X-linked recessive genetic disorder first described by Barth et al. (3) characterized by cardiomyopathy, skeletal myopathy, neutropenia, growth delay, and increased urinary excretion of 3-methylglutaconic acid (3). Additional features include dilation, hypertrophy, and incomplete compaction of the left ventricle, leading to congestive heart failure. Early studies indicated high mortality rates in infants and children (4). Molecular genetic testing for mutations in TAFAZZIN has been used to diagnose BTHS, with over 120 pathogenic mutations identified across all 11 exons and introns of the gene (5). Nicola et al. described younger cousins with dilated cardiomyopathy including myocardial thickening, excessive trabeculation, mild-to-moderate mitral valve insufficiency, and impaired left ventricular contractile function with an ejection fraction of 38%. Older cousins exhibited mild clinical features. A hemizygous DNA splice site mutation (c.777+1G>A) was identified in intron 10 of TAFAZZIN (6) among these cousins. TAE et al. also reported a 13-month-old boy with refractory heart failure attributed to dilated cardiomyopathy due to hemi-frame shift deletion of nine amino acids within exon 10 of TAFAZZIN (c.725_751del, p.Pro242_Glu250del) (7). Similar to the results of our study, these reports indicate that TAFAZZIN mutations may affect cardiac metabolism and dysfunction. Laure et al. reported the first confirmed case of BTHS in a female patient who experienced severe heart failure at one month old diagnosed with dilated, hypo contractile, and hypertrophic cardiomyopathy, with incomplete contraction of the left ventricle (8). Then, a large deletion encompassing the first five exons of TAFAZZIN was confirmed through genetic analysis. BTHS is caused by mutations in TAFAZZIN located on chromosome Xq28, which encodes tafazzin, a protein involved in the remodeling of cardiolipin, a phospholipid vital for mitochondrial membrane integrity. Tafazzin, a phospholipid transacylase, is involved in the remodeling of phosphatidylglycerol and cardiolipin within the inner mitochondrial membrane. Defects in tafazzin enzyme activity lead to cardiolipin loss, disrupting the stability of respiratory chain supercomplexes, and impairing electron transport chain function (9–11). Recent studies have demonstrated that the genetic background of a mouse model of BTHS influenced the phenotypic expression of tafazzin, potentially altering mitochondrial quality control (12). A new mutation identified in China, a DNA splicing site mutation in intron 10 of TAFAZZIN (c.778-30_778del), aids in establishing the genotype-phenotype relationship of tafazzin induced BTHS and improves our understanding of its function.4\n\nConclusions\n\nThis report shows a splicing site mutation in intron 10 of TAFAZZIN (c.778-30_778del), which is the first genetically confirmed case of BTHS in a Chinese child.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** Male neonate, Chinese ethnicity.\n- **Chief Complaint:** Severe cyanosis, frothing, and reduced vitality within one day after birth.\n- **History of Present Illness:** Rapid condition deterioration after birth with cardiac anomalies identified prenatally.\n- **Past Medical History:** None.\n- **Personal History:** Delivered via cesarean section at 36 weeks gestation due to fetal cardiac anomalies and umbilical cord entanglement.\n- **Family History:** Mother carries the TAFAZZIN mutation but has no cardiac disease history.\n- **Physical Examination:**\n  - Severe cyanosis, frothing, reduced vitality.\n  - Low blood pressure (65/29 mmHg), tachycardia (128-152 beats/min), rapid breathing (52-62 breaths/min), oxygen saturation at 91%–95%.\n- **Ancillary Tests:** \n  - Chest radiography: cardiomegaly.\n  - Echocardiography: Left atrial/ventricular enlargement, thickened ventricular wall and septum, reduced left ventricular ejection fraction (36%), no noncompaction.\n  - Blood tests: Metabolic acidosis (pH 7.21), abnormal coagulation, elevated creatine kinase (438 U/L), high brain natriuretic peptide (15,638 pg/ml), low neutrophil count (1.36*10^9/L), normal troponin levels.\n  - Genetic testing: Novel DNA splicing site mutation in intron 10 of TAFAZZIN (c.778-30_778del).",
+        "differential_diagnosis": "- **Initial considerations included:** Neonatal cardiomyopathies, genetic mitochondrial disorders, infections, and metabolic diseases.\n- **Reasons for considering Barth syndrome (BTHS):**\n  - Clinical triad suggestive of BTHS (cardiomyopathy, neutropenia, and 3-methylglutaconic aciduria, though the latter was not explicitly tested here).\n  - Echocardiographic and laboratory findings (dilated cardiomyopathy, low ejection fraction, metabolic acidosis, neutropenia).\n- **Exclusion of other diagnoses:**\n  - Infectious causes: No clinical or laboratory signs of active infection.\n  - Non-BTHS cardiomyopathies lacked evidence of alternative specific genetic or acquired causes (e.g., myocarditis, idiopathic cardiomyopathy).\n  - Rarity and specific mutation findings reinforced BTHS's likelihood.\n- **Diagnostic confirmation:** Whole-exome sequencing revealed a novel pathogenic splicing mutation (c.778-30_778del) in the TAFAZZIN gene, inherited in an X-linked pattern.",
+        "final_diagnosis": "The patient was diagnosed with Barth Syndrome (BTHS) caused by a novel TAFAZZIN splicing site mutation (c.778-30_778del), marking the first genetically confirmed case in a Chinese child. Clinical and genetic findings supported this conclusion.",
+        "diagnosis_results": "Barth Syndrome (BTHS) caused by a novel TAFAZZIN (c.778-30_778del) mutation."
+    },
+    "body_category": [
+        "Blood, Heart and Circulation"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-7-17",
+    "checked_rare_disease": [
+        "3-methylglutaconic aciduria type 1",
+        "3-methylglutaconic aciduria",
+        "Barth syndrome",
+        "Dilated cardiomyopathy",
+        "3-methylglutaconic aciduria type 3"
+    ],
+    "id": "PMC11412893",
+    "results": {
+        "content": "### Reasoning:\n\n1. **Initial Assessment of Symptoms and Presentation:**\n\n   - The patient is a male neonate, born at 36 weeks via cesarean section due to prenatal detection of fetal cardiac anomalies and umbilical cord entanglement.\n   \n   - Post-birth, he presents with severe cyanosis, frothing, and reduced vitality, indicating significant distress.\n   \n   - Vital signs show low blood pressure, tachycardia, and tachypnea, with oxygen saturation ranging from 91% to 95%, suggesting impaired cardiovascular function.\n\n2. **Relevant Past History and Family History:**\n\n   - No past medical history is noted, which is expected for a neonate.\n   \n   - The mother carries the TAFAZZIN mutation but has no history of cardiac disease, indicating that the mutation may have variable expression.\n\n3. **Physical Examination Findings:**\n\n   - Severe cyanosis and frothing suggest respiratory distress possibly due to cardiac failure.\n   \n   - Low blood pressure and tachycardia are signs of circulatory compromise.\n   \n   - Tachypnea could be a compensatory mechanism for hypoxia.\n\n4. **Ancillary Tests:**\n\n   - **Chest Radiography:** Shows cardiomegaly, indicating an enlarged heart, which could be due to various cardiac pathologies.\n   \n   - **Echocardiography:** Reveals left atrial and ventricular enlargement, thickened ventricular wall and septum, and reduced left ventricular ejection fraction (LVEF 36%), with no evidence of noncompaction.\n   \n   - **Blood Tests:**\n     - Metabolic acidosis (pH 7.21) suggests impaired oxygen delivery and utilization.\n     - Abnormal coagulation parameters may indicate disseminated intravascular coagulation or other clotting disorders.\n     - Elevated creatine kinase (CK 438 U/L) could suggest muscle injury, potentially related to cardiac muscle.\n     - High brain natriuretic peptide (BNP 15,638 pg/mL) is consistent with heart failure.\n     - Low neutrophil count (1.36*10^9/L) may indicate bone marrow suppression or consumption.\n     - Normal troponin levels suggest no acute myocardial necrosis.\n   \n   - **Genetic Testing:** Novel DNA splicing site mutation in intron 10 of TAFAZZIN (c.778-30_778del). TAFAZZIN is associated with Barth syndrome, a rare X-linked recessive disorder characterized by cardiomyopathy, neutropenia,growth delay, and 3-methylglutaconic aciduria.\n\n5. **Differential Diagnosis:**\n\n   - **Barth Syndrome:** Given the genetic mutation in TAFAZZIN and the clinical presentation of cardiomyopathy and neutropenia.\n   \n   - **Hypoplastic Left Heart Syndrome (HLHS):** Presents with cyanosis and cardiovascular instability, but echocardiography would show underdevelopment of the left heart structures, which is not consistent with the findings here.\n   \n   - **Dilated Cardiomyopathy:** Can present with ventricular enlargement and reduced LVEF, but the thickened ventricular wall suggests hypertrophic rather than dilated cardiomyopathy.\n   \n   - **Hypertrophic Cardiomyopathy:** Characterized by ventricular hypertrophy, but typically LVEF is preserved, which is not the case here.\n   \n   - **Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC):** Usually presents in older individuals with arrhythmias and heart failure, not typically in neonates.\n   \n   - **Storage Disorders:** Some lysosomal storage disorders can present with cardiomyopathy and metabolic abnormalities, but the specific genetic mutation points towards Barth syndrome.\n\n6. **Integration of Clinical and Genetic Findings:**\n\n   - The combination of left ventricular enlargement, hypertrophy, reduced LVEF, neutropenia, and a mutation in the TAFAZZIN gene strongly suggests Barth syndrome.\n   \n   - Barth syndrome is characterized by cardiomyopathy, neutropenia, growth retardation, and 3-methylglutaconic aciduria, though not all features may be present at birth.\n\n7. **Consideration of Neonatal Presentation:**\n\n   - Neonates with Barth syndrome can present with congestive heart failure, feeding difficulties, and failure to thrive.\n   \n   - The severity of symptoms can vary, but in this case, the patient presents with severe cyanosis and cardiovascular instability, indicating a critical condition.\n\n8. **Exclusion of Other Causes:**\n\n   - The echocardiographic findings do not support diagnoses like HLHS or other structural heart defects typically associated with cyanosis in neonates.\n   \n   - The genetic mutation in TAFAZZIN provides a clear etiological link to Barth syndrome.\n\n9. **Final Diagnostic Consideration:**\n\n   - Given the clinical presentation, echocardiographic findings, blood test abnormalities, and the specific genetic mutation in TAFAZZIN, the diagnosis is consistent with Barth syndrome.\n\n### Answer:\n\nBarth Syndrome"
+    },
+    "reasoning_eval": [
+        {
+            "step": "1. **Initial Assessment of Symptoms and Presentation:**",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "   - The patient is a male neonate, born at 36 weeks via cesarean section due to prenatal detection of fetal cardiac anomalies and umbilical cord entanglement.\n   \n   - Post-birth, he presents with severe cyanosis, frothing, and reduced vitality, indicating significant distress.\n   \n   - Vital signs show low blood pressure, tachycardia, and tachypnea, with oxygen saturation ranging from 91% to 95%, suggesting impaired cardiovascular function.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "2. **Relevant Past History and Family History:**",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "   - No past medical history is noted, which is expected for a neonate.\n   \n   - The mother carries the TAFAZZIN mutation but has no history of cardiac disease, indicating that the mutation may have variable expression.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "3. **Physical Examination Findings:**",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "   - Severe cyanosis and frothing suggest respiratory distress possibly due to cardiac failure.\n   \n   - Low blood pressure and tachycardia are signs of circulatory compromise.\n   \n   - Tachypnea could be a compensatory mechanism for hypoxia.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "4. **Ancillary Tests:**",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "   - **Chest Radiography:** Shows cardiomegaly, indicating an enlarged heart, which could be due to various cardiac pathologies.\n   \n   - **Echocardiography:** Reveals left atrial and ventricular enlargement, thickened ventricular wall and septum, and reduced left ventricular ejection fraction (LVEF 36%), with no evidence of noncompaction.\n   \n   - **Blood Tests:**\n     - Metabolic acidosis (pH 7.21) suggests impaired oxygen delivery and utilization.\n     - Abnormal coagulation parameters may indicate disseminated intravascular coagulation or other clotting disorders.\n     - Elevated creatine kinase (CK 438 U/L) could suggest muscle injury, potentially related to cardiac muscle.\n     - High brain natriuretic peptide (BNP 15,638 pg/mL) is consistent with heart failure.\n     - Low neutrophil count (1.36*10^9/L) may indicate bone marrow suppression or consumption.\n     - Normal troponin levels suggest no acute myocardial necrosis.\n   \n   - **Genetic Testing:** Novel DNA splicing site mutation in intron 10 of TAFAZZIN (c.778-30_778del). TAFAZZIN is associated with Barth syndrome, a rare X-linked recessive disorder characterized by cardiomyopathy, neutropenia,growth delay, and 3-methylglutaconic aciduria.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "5. **Differential Diagnosis:**",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "   - **Barth Syndrome:** Given the genetic mutation in TAFAZZIN and the clinical presentation of cardiomyopathy and neutropenia.\n   \n   - **Hypoplastic Left Heart Syndrome (HLHS):** Presents with cyanosis and cardiovascular instability, but echocardiography would show underdevelopment of the left heart structures, which is not consistent with the findings here.\n   \n   - **Dilated Cardiomyopathy:** Can present with ventricular enlargement and reduced LVEF, but the thickened ventricular wall suggests hypertrophic rather than dilated cardiomyopathy.\n   \n   - **Hypertrophic Cardiomyopathy:** Characterized by ventricular hypertrophy, but typically LVEF is preserved, which is not the case here.\n   \n   - **Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC):** Usually presents in older individuals with arrhythmias and heart failure, not typically in neonates.\n   \n   - **Storage Disorders:** Some lysosomal storage disorders can present with cardiomyopathy and metabolic abnormalities, but the specific genetic mutation points towards Barth syndrome.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Initial considerations included neonatal cardiomyopathies, genetic mitochondrial disorders, infections, and metabolic diseases.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Barth syndrome (BTHS) was considered due to the clinical triad of cardiomyopathy, neutropenia, and 3-methylglutaconic aciduria, though the latter was not explicitly tested.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Echocardiographic and laboratory findings, including dilated cardiomyopathy, low ejection fraction, metabolic acidosis, and neutropenia, further supported the suspicion of BTHS.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Infectious causes were excluded due to the absence of clinical or laboratory signs of active infection.",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> Non-BTHS cardiomyopathies were excluded due to the lack of evidence for alternative specific genetic or acquired causes, such as myocarditis or idiopathic cardiomyopathy.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> The rarity of BTHS and the identification of a specific mutation reinforced the likelihood of this diagnosis.",
+            "hit": true
+        },
+        {
+            "step": "<Step 7> Whole-exome sequencing revealed a novel pathogenic splicing mutation (c.778-30_778del) in the TAFAZZIN gene, inherited in an X-linked pattern.",
+            "hit": true
+        },
+        {
+            "step": "<Step 8> The patient was diagnosed with Barth Syndrome (BTHS) caused by the novel TAFAZZIN splicing site mutation (c.778-30_778del).",
+            "hit": true
+        },
+        {
+            "step": "<Step 9> This case marked the first genetically confirmed instance of Barth Syndrome in a Chinese child.",
+            "hit": true
+        },
+        {
+            "step": "<Step 10> Clinical and genetic findings supported the final diagnosis of Barth Syndrome (BTHS).",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.5,
+    "factulity": 0.8,
+    "recall": 0.9
+}

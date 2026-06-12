@@ -1,0 +1,9 @@
+# P100 + pip torch 2.1.2+cu118 (old glibc). Do not install latest transformers.
+numpy<2
+torch==2.1.2
+transformers==4.44.2
+accelerate==0.33.0
+bitsandbytes==0.42.0
+fastapi>=0.100.0
+uvicorn>=0.23.0
+openai>=1.0.0

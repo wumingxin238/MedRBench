@@ -1,0 +1,116 @@
+{
+    "raw_case": "\nNeurological and orbital complication of acute sinusitis in pediatric patient: A case report\nSinusitis is a common condition that can lead to various neurological complications due to the spread of infection to the intracranial and orbital regions. Fortunately, the availability of antibiotics has significantly improved the prognosis of sinusitis-associated intracranial complications. As a result, the overall incidence of neurological complications arising from sinusitis remains low. We present a rare case of a 13-year-old male who developed epidural empyema and orbital cellulitis as a complication of acute sinusitis. The patient initially exhibited signs and symptoms of orbital cellulitis, including eyelid swelling, erythema, and pain. Subsequently, the patient's condition worsened, with the development of fever and an intensifying headache. Imaging revealed an epidural empyema, necessitating urgent medical intervention. This case highlights the importance of early recognition and prompt management of sinusitis-related intracranial and orbital complications to prevent potentially life-threatening outcomes\n\nIntroduction\n\nSinusitis is a common condition that can lead to various neurological complications by spreading infection to the intracranial and orbital regions, such as epidural empyema and orbital cellulitis. Antibiotic and surgical interventions have significantly reduced the risk of complications associated with sinusitis. Imaging plays a crucial role in the early detection of these complications. We report a rare case of a 13-year-old male who presented to our radiology department from the Emergency Room with orbital cellulitis. A noncontrast head and brain computed tomography (NCCT) scan and a noncontrast head and brain magnetic resonance imaging (NCMRI) scan were performed, revealing acute sinusitis and epidural empyema. The patient underwent antibiotic therapy and surgical intervention, leading to full recovery without permanent sequelae.\n\nCase report\n\nA 14-year-old male presented to our emergency department with severe left eye pain, accompanied by eyelid edema, erythema, and localized warmth. His medical history included recent episodes of severe nasal congestion and headaches. On initial evaluation, the patient was febrile (39.5°C), and laboratory findings showed elevated C-reactive protein (CRP) levels (306.9 mg/L), leukocytosis (15.30 × 10^3/µL), and neutrophilia (13.16 × 10^3/µL). An NCCT scan of the head revealed significant thickening and inhomogeneity of the soft tissues in the left orbital and periorbital regions, along with a noticeable air pocket along the lower margin of the orbital roof. There was near-complete inflammatory obliteration of the left maxillary sinus, as well as a small frontal extra-axial epidural empyema (Figs. 1A-E). Empirical antibiotic therapy was initiated. A subsequent NCMRI scan of the head confirmed left maxillary sinusitis with subtotal inflammatory obliteration of the left maxillary sinus, ipsilateral periorbital cellulitis, and extra-axial frontal epidural empyema (Figs. 1F-I). The patient underwent sinus surgery to drain the retained mucus in the paranasal sinuses. After symptom resolution and normalization of laboratory parameters, the patient was discharged.\n\nDiscussion\n\nSinusitis is the inflammation of the paranasal sinuses, which can be either infectious or noninfectious. Infectious sinusitis can be caused by bacteria, fungi, or viruses. Acute sinusitis is characterized by an infection lasting less than 4 weeks, while subacute sinusitis involves symptoms persisting for 4–12 weeks, and chronic sinusitis refers to infection lasting over 12 weeks. Sinusitis can lead to various neurological complications due to disease spread to the intracranial and orbital regions. Intracranial complications include suppurative conditions such as brain abscess, epidural abscess, and subdural empyema, as well as nonsuppurative conditions like meningitis and cerebral venous sinus thrombosis [3]. These complications often occur simultaneously, as seen in our case [4].The spread of infection from the paranasal sinuses occurs through 2 primary pathways. The first is retrograde spread via valveless diploic veins, driven by thrombus propagation or the release of septic emboli. These veins drain the mucosa of the paranasal sinuses and communicate with the dural venous sinuses. The second mechanism involves direct extension through bone, potentially due to congenital or traumatic defects, sinus wall erosion or dehiscence, or existing foramina [6]. In paediatric patients, sinusitis most commonly affects the maxillary and anterior ethmoidal sinuses [5], as observed in our case (Fig. 1).Epidural empyema is a rare but serious intracranial complication characterized by the accumulation of purulent material between the dura mater and the skull. It is often secondary to sinusitis and caused by bacteria from the upper respiratory tract. Symptoms can initially mimic those of the primary infection but may progress to altered consciousness and neurological deficits [1].Orbital cellulitis is a severe infection of the soft tissues surrounding the eye, typically secondary to sinusitis or trauma, and most commonly caused by bacterial pathogens. Symptoms include proptosis, ophthalmoplegia, pain, and systemic manifestations like fever [2]. According to Chandler's staging system [7], orbital cellulitis can be classified into 5 stages:1.Preseptal cellulitis: Inflammation confined within the orbital septum.2.Postseptal cellulitis: Inflammation extending into orbital tissues without abscess formation.3.Subperiosteal abscess: Abscess formation beneath the periosteum of the orbit.4.Orbital abscess: Abscess formation within the orbit.5.Cavernous sinus thrombosis.Progression through these stages is not inevitable.The causes of orbital cellulitis include both endogenous and exogenous factors. Endogenous factors, such as the absence of valves between the orbit and sinuses, allow retrograde spread of infections. Conditions like diabetes mellitus and immunosuppression also increase the risk. Exogenous causes include foreign bodies, trauma, eye surgeries, dacryocystitis, infected tumours, and mucormycosis. Orbital cellulitis is most commonly seen in children aged 1–7 years, as their immune systems are still developing [8].Due to the potential for severe vision-threatening and life-threatening complications, prompt intravenous antibiotic administration is crucial in all cases of orbital cellulitis. Empiric antibiotic therapy typically targets common causative organisms, primarily gram-positive bacteria such as Staphylococcus and Streptococcus. However, cultures from the conjunctiva, nose, or throat may not reflect the pathogens present in abscesses. Age influences the bacteriology and treatment response; younger children usually present with simpler infections that respond to treatment, while older children and adults may experience more complex, polymicrobial infections that are harder to manage both medically and surgically, as seen in our case [9].In most cases, epidural empyema requires both antibiotic therapy and surgery to prevent complications. However, in our case, due to the small size of the empyema, antibiotic therapy alone was sufficient.In conclusion, early recognition and treatment of sinus-related intracranial and orbital complications are essential to prevent potentially life-threatening outcomes. Intracranial complications should be suspected in paediatric patients with sinusitis and orbital cellulitis. Accurate diagnosis is crucial for effective management and to prevent complications due to delayed treatment.\n\nPatient consent\n\nWritten informed consent for publication of their clinical details and clinical images was obtained from the patients.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 13-year-old male\n- **Chief Complaint:** Severe left eye pain\n- **History of Present Illness:** Eyelid edema, erythema, localized warmth of the left eye; recent severe nasal congestion and headaches.\n- **Past Medical History:** None reported.\n- **Personal History:** None reported.\n- **Family History:** None reported.\n- **Physical Examination:** Febrile (39.5°C), with signs of orbital inflammation.\n- **Ancillary Tests:** \n  - **Laboratory Findings:** Elevated CRP (306.9 mg/L), leukocytosis (15.30 × 10^3/µL), and neutrophilia (13.16 × 10^3/µL).\n  - **NCCT Scan:** Thickened, inhomogeneous left orbital and periorbital tissue; air pocket along the orbital roof; inflammatory obliteration of the left maxillary sinus; small frontal epidural empyema.\n  - **NCMRI Scan:** Confirmed findings of NCCT and revealed left maxillary sinusitis, ipsilateral periorbital cellulitis, and extra-axial frontal epidural empyema.",
+        "differential_diagnosis": "1. **Orbital Cellulitis:** This was strongly suspected given the patient's symptoms of severe eye pain, erythema, eyelid swelling, and associated systemic signs like fever. Imaging confirmed periorbital inflammation and air pockets, supporting the diagnosis.\n2. **Epidural Empyema:** Small empyema was identified by NCCT and confirmed by NCMRI. This is a recognized complication of sinusitis through direct or retrograde venous spread.\n3. **Acute Sinusitis:** Maxillary sinusitis was evident on imaging with inflammatory obliteration, suggesting the primary source of infection.\n4. **Other Conditions (e.g., Cavernous Sinus Thrombosis, Meningitis):** While possible complications of sinusitis, these were excluded due to the absence of specific clinical or imaging features such as altered consciousness or neurological deficits.\n   \nRationale for exclusion of alternative diagnoses:\n- The combination of left eye symptoms and imaging findings pointed towards orbital cellulitis and sinusitis as primary drivers.\n- Epidural empyema was identified on imaging and matched the clinical scenario.\n- No evidence was found to support a thrombotic or meningeal process.",
+        "final_diagnosis": "The patient was diagnosed with **orbital cellulitis secondary to acute sinusitis**, complicated by a small **frontal epidural empyema**. This conclusion was supported by clinical findings, laboratory markers, and imaging studies.",
+        "diagnosis_results": "Orbital cellulitis secondary to acute sinusitis with frontal epidural empyema."
+    },
+    "body_category": [
+        "Brain and Nerves"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-10-9",
+    "checked_rare_disease": [],
+    "id": "PMC11625232",
+    "results": {
+        "thinking_process": "Okay, let's start by looking at the patient's information. He's a 13-year-old male with severe left eye pain. The main symptoms include eyelid edema, erythema, warmth around the left eye, along with recent severe nasal congestion and headaches. His physical exam shows a high fever (39.5°C) and signs of orbital inflammation. The lab results are significant for elevated CRP, leukocytosis, and neutrophilia—all pointing to a bacterial infection. \n\nNow, the imaging results. The NCCT scan shows thickened orbital tissue, an air pocket in the orbital roof, inflammation in the left maxillary sinus, and a small frontal epidural empyema. The MRI confirms these findings and adds ipsilateral periorbital cellulitis and maxillary sinusitis. \n\nFirst, considering the eye symptoms and sinus involvement, this is likely orbital cellulitis. Orbital cellulitis often arises from sinusitis, especially in children. The presence of maxillary sinusitis here makes sense. But there's more. The epidural empyema complicates things. Empyema is a collection of pus, so this suggests the infection has spread beyond the sinuses and orbit into the intracranial space.\n\nThe high fever and inflammatory markers support a severe infection. The air pocket on CT could indicate gas-forming organisms or an abscess. The combination of orbital cellulitis with epidural empyema points to a possible route of spread from the sinuses through the bone (osteomyelitis) or via venous channels, leading to intracranial complications. \n\nDifferential diagnoses might include preseptal cellulitis, but that usually doesn't involve the orbit or cause such systemic symptoms. Cavernous sinus thrombosis is another possibility, but the imaging shows epidural empyema instead. The key here is linking the sinusitis to orbital and intracranial involvement. \n\nPutting it all together: the patient has left orbital cellulitis secondary to acute bacterial sinusitis, complicated by frontal epidural empyema. This is a serious condition requiring urgent treatment, likely IV antibiotics and possible surgical drainage.",
+        "content": "```\n### Resoning:\n<step 1> The patient presents with severe left eye pain, eyelid edema, erythema, and localized warmth, all indicative of orbital inflammation. Systemic signs (fever, elevated CRP, leukocytosis, neutrophilia) strongly suggest a severe bacterial infection.  \n<step 2> The recent severe nasal congestion and headaches, combined with imaging-confirmed left maxillary sinusitis, imply a sinus origin. Sinusitis is a common precursor to orbital complications due to anatomical proximity.  \n<step 3> NCCT and NCMRI reveal thickened orbital/periorbital tissue, air pockets, and frontal epidural empyema. Air along the orbital roof suggests gas-forming infection or abscess formation. The epidural empyema indicates intracranial extension of the infection.  \n<step 4> The progression from sinusitis to orbital cellulitis and subsequent intracranial involvement (epidural empyema) aligns with the pathophysiology of untreated or aggressive bacterial sinusitis, often involving pathogens like *Staphylococcus aureus* or *Streptococcus* species.  \n<step 5> The constellation of orbital inflammation, sinusitis, and intracranial empyema confirms a contiguous spread of infection, ruling out isolated preseptal cellulitis or non-infectious causes.  \n\n### Answer:\nOrbital cellulitis secondary to acute bacterial sinusitis complicated by frontal epidural empyema."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient presents with severe left eye pain, eyelid edema, erythema, and localized warmth, all indicative of orbital inflammation. Systemic signs (fever, elevated CRP, leukocytosis, neutrophilia) strongly suggest a severe bacterial infection.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The recent severe nasal congestion and headaches, combined with imaging-confirmed left maxillary sinusitis, imply a sinus origin. Sinusitis is a common precursor to orbital complications due to anatomical proximity.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "NCCT and NCMRI reveal thickened orbital/periorbital tissue, air pockets, and frontal epidural empyema. Air along the orbital roof suggests gas-forming infection or abscess formation. The epidural empyema indicates intracranial extension of the infection.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The progression from sinusitis to orbital cellulitis and subsequent intracranial involvement (epidural empyema) aligns with the pathophysiology of untreated or aggressive bacterial sinusitis, often involving pathogens like *Staphylococcus aureus* or *Streptococcus* species.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The constellation of orbital inflammation, sinusitis, and intracranial empyema confirms a contiguous spread of infection, ruling out isolated preseptal cellulitis or non-infectious causes.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Orbital Cellulitis was strongly suspected based on severe eye pain, erythema, eyelid swelling, and associated systemic signs like fever. Imaging confirmed periorbital inflammation and air pockets, supporting the diagnosis.",
+            "hit": true
+        },
+        {
+            "step": "Step 2: Acute Maxillary Sinusitis was evident on imaging with inflammatory obliteration, suggesting the primary source of infection.",
+            "hit": false
+        },
+        {
+            "step": "Step 3: Small Epidural Empyema was identified by NCCT and confirmed by NCMRI, recognized as a complication of sinusitis through direct or retrograde venous spread.",
+            "hit": false
+        },
+        {
+            "step": "Step 4: Other conditions such as Cavernous Sinus Thrombosis or Meningitis were excluded due to the absence of specific clinical or imaging features like altered consciousness or neurological deficits.",
+            "hit": false
+        },
+        {
+            "step": "Step 5: The combination of left eye symptoms and imaging findings pointed towards orbital cellulitis and sinusitis as primary drivers.",
+            "hit": true
+        },
+        {
+            "step": "Step 6: Imaging findings matched the clinical scenario, confirming the presence of epidural empyema.",
+            "hit": false
+        },
+        {
+            "step": "Step 7: No evidence was found to support a thrombotic or meningeal process.",
+            "hit": false
+        },
+        {
+            "step": "Final Diagnosis: The patient was diagnosed with orbital cellulitis secondary to acute sinusitis, complicated by a small frontal epidural empyema. This conclusion was supported by clinical findings, laboratory markers, and imaging studies.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.375
+}

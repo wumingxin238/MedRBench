@@ -1,0 +1,120 @@
+{
+    "raw_case": "\nFulminant amoebic colitis: a challenging diagnosis for the surgeon\n\n\nAbstract\n\nFulminant amoebic colitis is a rare complication of amoebiasis that carries a high mortality rate. Its diagnosis is challenging and requires a high index of suspicion, and its early recognition is a priority to provide timely medical and surgical treatment. We present the case of a male patient who came to the emergency department with unspecific clinical presentation of abdominal pain, systemic inflammatory response and imaging study showing intestinal perforation of the right colon. Fecal peritonitis and perforation at the level of the hepatic flexure were observed, so a right hemicolectomy with terminal ileostomy was performed. Despite adequate medical and surgical treatment, the patient presented progressive deterioration and died. Colon perforation due to Entamoeba histolytica was the final diagnosis.\n\nIntroduction\n\nAmoebiasis is a parasitic infection caused by Entamoeba histolytica (E. hystolytica). It is endemic to some tropical regions of the world and is considered the second leading cause of death from parasitic diseases worldwide [1].The main route of transmission is the ingestion of food contaminated with cysts. Poor hygiene conditions, tropical climates, overcrowding, inadequate fecal waste management, malnutrition, alcoholism, and recent travel to endemic areas are considered risk factors favoring transmission [2].Most cases are asymptomatic; however, 10%–20% develop amoebic colitis and liver abscesses. Amebiasis can involve any part of the intestine but mainly affects the cecum and ascending colon [3]. Its clinical presentation in case of bowel involvement represents a spectrum, including asymptomatic cases, dysentery cases, and, in extreme cases, fulminant amoebic colitis with peritonitis (FAC) [4, 5].\n\nCase report\n\nWe present the case of a 44-year-old man with no history of chronic diseases who was admitted to the emergency department with a one-week history of diffuse abdominal pain, predominantly in the right hypochondrium, and fever. Physical examination showed tachycardia (144 beats per minute), blood pressure 120/86 mm/Hg, generalized abdominal pain on palpation without peritoneal signs, and a palpable mass in the right upper quadrant. Laboratory tests showed leukocytosis (17 000/mm3), neutrophilia (82%), severe anemia (hemoglobin levels of 6.8 g/dl), platelet count 148 000/mm3, serum creatinine 0.7 mg/dl, moderate hyponatremia (128 mmol/L), and hypoalbuminemia (1.6 g/dl). A contrasted abdominal computed tomography was requested as part of his approach, showing thickening of the right colon wall and perforation of the colon wall at the level of the hepatic flexure with communication to a subphrenic abscess with segmental destruction of the right hepatic lobe parenchyma and diffusely distributed hepatic abscesses (Fig. 1).The patient underwent surgery and intraoperative findings included free intestinal fluid in the abdominal cavity, perforation of the colon at the hepatic angle, and a right subphrenic abscess in continuity with the right hepatic lobe. Abdominal cavity lavage and a right hemicolectomy with terminal ileostomy were performed. Histopathological analysis confirmed the diagnosis of acute colitis with infiltration of E. histolytica trophozoites (Fig. 2).As part of the treatment, broad-spectrum antibiotic was started since the admission of the patient, including coverage for gram-negative microorganisms with metronidazole, which is part of the antiamoebic treatment; however, in the postoperative period, the patient developed refractory septic shock that culminated in the patient's death.\n\nDiscussion\n\nAcute amoebic colitis presents with diarrhea, abdominal pain, fever, and blood in the stool. The most feared complication of amoebic dysentery is acute FAC, occurring in 0.5% of cases and carrying mortality of 55% to 88% [6].Risk factors for developing complicated amoebic infection have been described, including age over 60 years, limited access to potable water, use of corticosteroid therapy, chronic kidney disease and diabetes mellitus [7], concomitant liver abscess, signs of peritonitis, leukocytosis, hyponatremia, hypokalemia and hypoalbuminemia [3]. Our patient lived in an endemic area and had a concomitant liver abscess, leukocytosis, hyponatremia, and hypoalbuminemia as risk factors for the development of this entity.Serological tests and stool studies can be performed for diagnosis. Cyst visualization can be performed under microscopy, although with low sensitivity (60%). Stool real-time polymerase chain reaction (sensitivity 79% and specificity 96%), stool antigen detection with enzyme-linked immunosorbent assay (ELISA) (sensitivity 55%–100% and specificity 93%–100%) [8, 9], detection of antibodies by serologic assay (indirect fluorescent, counter immunoelectrophoresis or enzyme linked immunosorbent assay) with a sensitivity of 60% to 90% [10] can also be used. No serological tests or stool tests were performed initially on our patient because his clinical presentation required treatment with an emergency surgery, and the diagnosis was confirmed after histopathological analysis of the surgical specimen.Computed tomography is considered the study of choice in the evaluation of this complication, although the imaging findings tend to be nonspecific as they overlap with those of other conditions, the findings include thickening of the colon wall, intestinal pneumatosis and pneumoperitoneum in case of intestinal perforation [7].The management of invasive E. histolytica infections includes systemic treatment with drugs such as metronidazole, nitazoxanide y secnidazole [8]. Since admission to the emergency department, our patient was started on broad-spectrum antimicrobial therapy with coverage for gran-negative microorganisms, including metronidazole, due to findings in imaging studies suggestive of intestinal perforation.The diagnosis of this condition is challenging, and histological analysis will have to make differential diagnosis with entities such as intestinal tuberculosis, malignant tumors, and inflammatory bowel disease, being the presence of trophozoites loaded with red blood cells in the thickness of the tissues pathognomonic of an invasive disease [11].In addition to supportive care and antibiotic therapy, surgical management is a cornerstone in the treatment of FAC, preferring complete resection of the affected segment over conservative surgical treatment due to the risk of suture dehiscence [3].\n\nConclusions\n\nFulminant amoebic colitis is a rare entity whose clinical relevance lies in its high mortality rate related to misdiagnosis. Considering this disease as part of the differential diagnosis in endemic areas and when the patient refers to a history of recent travel to endemic areas increases the diagnostic suspicion, early recognition, and treatment. Surgical management with resection of the affected segment should be considered in case of signs of peritonitis and imaging findings suggesting bowel perforation.\n\nConflict of interest statement\n\nThe authors declare no conflicts of interest.\n\nFunding\n\nNone declared.",
+    "generate_case": {
+        "case_summary": "- Patient Information: 44-year-old male\n- Chief Complaint: Diffuse abdominal pain, predominantly in the right hypochondrium, and fever for one week\n- History of Present Illness: One-week history of diffuse abdominal pain localized to the right hypochondrium with fever.\n- Past Medical History: None\n- Personal History: Resides in an endemic area for Entamoeba histolytica\n- Family History: None\n- Physical Examination: Tachycardia (144 bpm), blood pressure 120/86 mmHg, generalized abdominal tenderness without peritoneal signs, and a palpable mass in the right upper quadrant.\n- Ancillary Tests: Laboratory findings: leukocytosis (17,000/mm³), neutrophilia (82%), severe anemia (hemoglobin 6.8 g/dL), platelet count 148,000/mm³, serum creatinine 0.7 mg/dL, hyponatremia (128 mmol/L), and hypoalbuminemia (1.6 g/dL). CT abdomen: thickened right colon, hepatic flexure perforation, subphrenic abscess, hepatic parenchymal destruction, diffuse liver abscesses. Histopathology: Acute colitis with Entamoeba histolytica trophozoite infiltration.",
+        "differential_diagnosis": "1. **Initial Presentation and Imaging**: The patient's fever, abdominal pain, leukocytosis, and CT findings of hepatic abscesses and colon perforation suggest an intra-abdominal infection. Differential includes:\n   - Amoebic colitis (due to residing in an endemic area, imaging findings of hepatic abscess, and colonic perforation).\n   - *Diverticulitis*: Less likely, as the hepatic flexure location and liver abscesses are atypical.\n   - *Malignancy*: Unlikely given the acute presentation and trophozoites found on histology.\n   - *Inflammatory Bowel Disease*: Unlikely, as the patient presented acutely and had no prior chronic symptoms.\n   - *Bacterial peritonitis or gastrointestinal perforation*: These are considered, but imaging and subsequent histopathology confirmed an amoebic etiology.\n\n2. **Histopathology Confirmation**: The confirmed presence of Entamoeba histolytica trophozoites in the tissue was diagnostic, ruling out bacterial or other causes of colitis.\n\n3. **Other Work-Up Limitations**: Serological or stool tests for amoebiasis were not performed due to the emergent surgical requirement, but the invasive colitis findings and endemic exposure were consistent with fulminant amoebic colitis.",
+        "final_diagnosis": "Fulminant amoebic colitis with bowel perforation and peritonitis secondary to invasive Entamoeba histolytica.",
+        "diagnosis_results": "Fulminant amoebic colitis secondary to Entamoeba histolytica."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-9-11",
+    "checked_rare_disease": [],
+    "id": "PMC11587891",
+    "results": {
+        "content": "### Resoning:\n<step 1> Initial assessment based on chief complaint and demographics: A 44-year-old male presents with right hypochondrium abdominal pain and fever for one week. This raises suspicion for acute abdominal pathology, potentially infectious or inflammatory, localized in the upper right abdomen.\n\n<step 2> Consideration of relevant history: The patient's residence in an *Entamoeba histolytica* endemic area is a critical piece of information, strongly suggesting amebiasis as a potential etiology for his symptoms.\n\n<step 3> Interpretation of physical examination findings: Tachycardia and fever indicate systemic illness. Generalized abdominal tenderness, especially in the right upper quadrant, aligns with the patient's pain localization. A palpable mass in the right upper quadrant suggests an enlarged organ or abscess in that region, possibly liver or colon.\n\n<step 4> Analysis of laboratory findings:\n    * Leukocytosis with neutrophilia points to bacterial infection or significant inflammatory process.\n    * Severe anemia is concerning and suggests chronic blood loss, hemolysis or bone marrow suppression.\n    * Thrombocytopenia is mild but could be associated with sepsis or inflammation.\n    * Hyponatremia and hypoalbuminemia are indicative of systemic illness, potentially due to fluid shifts, inflammation, malnutrition or liver dysfunction.\n\n<step 5> Interpretation of CT abdomen findings: The CT scan reveals severe intra-abdominal pathology:\n    * Thickened right colon and hepatic flexure perforation suggest colitis with a serious complication.\n    * Subphrenic abscess indicates a localized collection of pus above the diaphragm, likely secondary to perforation.\n    * Hepatic parenchymal destruction and diffuse liver abscesses are highly significant and point towards liver involvement, likely due to spread of infection from the colon or hematogenous dissemination.\n\n<step 6> Histopathology confirmation: The histopathology report of acute colitis with *Entamoeba histolytica* trophozoite infiltration definitively confirms amebic colitis as the underlying cause of the colonic pathology.\n\n<step 7> Synthesis of all findings to formulate a final diagnosis: Combining the clinical presentation, laboratory results, imaging findings, and histopathological confirmation, the patient is suffering from severe, complicated amebiasis. The amebic colitis has led to hepatic flexure perforation, resulting in subphrenic abscess and diffuse amebic liver abscesses. The anemia, leukocytosis, and hypoalbuminemia reflect the severity and systemic impact of the infection.\n\n### Answer:\nSevere Amebic Colitis with Hepatic Flexure Perforation, Subphrenic Abscess, and Diffuse Amebic Liver Abscesses"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Initial assessment based on chief complaint and demographics: A 44-year-old male presents with right hypochondrium abdominal pain and fever for one week. This raises suspicion for acute abdominal pathology, potentially infectious or inflammatory, localized in the upper right abdomen.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Consideration of relevant history: The patient's residence in an *Entamoeba histolytica* endemic area is a critical piece of information, strongly suggesting amebiasis as a potential etiology for his symptoms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Interpretation of physical examination findings: Tachycardia and fever indicate systemic illness. Generalized abdominal tenderness, especially in the right upper quadrant, aligns with the patient's pain localization. A palpable mass in the right upper quadrant suggests an enlarged organ or abscess in that region, possibly liver or colon.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Analysis of laboratory findings:\n    * Leukocytosis with neutrophilia points to bacterial infection or significant inflammatory process.\n    * Severe anemia is concerning and suggests chronic blood loss, hemolysis or bone marrow suppression.\n    * Thrombocytopenia is mild but could be associated with sepsis or inflammation.\n    * Hyponatremia and hypoalbuminemia are indicative of systemic illness, potentially due to fluid shifts, inflammation, malnutrition or liver dysfunction.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Interpretation of CT abdomen findings: The CT scan reveals severe intra-abdominal pathology:\n    * Thickened right colon and hepatic flexure perforation suggest colitis with a serious complication.\n    * Subphrenic abscess indicates a localized collection of pus above the diaphragm, likely secondary to perforation.\n    * Hepatic parenchymal destruction and diffuse liver abscesses are highly significant and point towards liver involvement, likely due to spread of infection from the colon or hematogenous dissemination.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Histopathology confirmation: The histopathology report of acute colitis with *Entamoeba histolytica* trophozoite infiltration definitively confirms amebic colitis as the underlying cause of the colonic pathology.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Synthesis of all findings to formulate a final diagnosis: Combining the clinical presentation, laboratory results, imaging findings, and histopathological confirmation, the patient is suffering from severe, complicated amebiasis. The amebic colitis has led to hepatic flexure perforation, resulting in subphrenic abscess and diffuse amebic liver abscesses. The anemia, leukocytosis, and hypoalbuminemia reflect the severity and systemic impact of the infection.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> The patient presents with fever, abdominal pain, leukocytosis, and CT findings of hepatic abscesses and colon perforation, suggesting an intra-abdominal infection. The differential includes amoebic colitis, diverticulitis, malignancy, inflammatory bowel disease, and bacterial peritonitis or gastrointestinal perforation.",
+            "hit": false
+        },
+        {
+            "step": "<Step 2> Amoebic colitis is considered due to the patient's residence in an endemic area, imaging findings of hepatic abscesses, and colonic perforation. Diverticulitis is less likely because the hepatic flexure location and liver abscesses are atypical. Malignancy is unlikely given the acute presentation and trophozoites found on histology. Inflammatory bowel disease is unlikely as the patient presented acutely without prior chronic symptoms.",
+            "hit": false
+        },
+        {
+            "step": "<Step 3> Histopathology confirmed the presence of Entamoeba histolytica trophozoites, ruling out bacterial or other causes of colitis.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Serological or stool tests for amoebiasis were not performed due to the emergent surgical requirement, but the invasive colitis findings and endemic exposure were consistent with fulminant amoebic colitis.",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> Final diagnosis: Fulminant amoebic colitis with bowel perforation and peritonitis secondary to invasive Entamoeba histolytica.",
+            "hit": false
+        }
+    ],
+    "efficiency": 0.8571428571428571,
+    "factulity": 1.0,
+    "recall": 0.2
+}

@@ -1,0 +1,166 @@
+{
+    "raw_case": "\nOrtner's syndrome: Hoarseness of voice revealing severe secondary pulmonary hypertension\nOrtner's syndrome or cardiovocal syndrome is a rare condition referring to laryngeal recurrent nerve paralysis due to cardiovascular conditions. We report the case of a 66-year-old man, with a medical history of active smoking, who complained of hoarseness of voice secondary to vocal cord palsy. A neck and thoracic CT scan revealed severe enlargement of pulmonary main artery, which caused compression of the left recurrent laryngeal nerve in the aortopulmonary window. The prolonged course of the left laryngeal nerve makes it susceptible to injury from cardiovascular structures in the mediastinum. Consequently, cardiovascular conditions such as dilated pulmonary artery or an aneurysm of the aortic arch can compress the nerve, resulting in Ortner's syndrome.\n\nIntroduction\n\nOrtner's syndrome, also known as cardiovocal syndrome is a rare cause of hoarseness. It refers to left laryngeal recurrent nerve palsy secondary to cardiovascular pathologies.Norbert Ortner first described in 1897 this condition in 3 patients with mitral stenosis [1].Since then, it has been associated with various other cardiovascular pathologies, including left atrial enlargement, pulmonary hypertension, aortic aneurysms, and ductus arteriosus aneurysm [2].Vocal cord palsy may in some cases reveal life-threatening cardiovascular diseases that require urgent treatment.We report a case of Ortner's syndrome associated with severe secondary pulmonary hypertension.\n\nCase presentation\n\nA 61-year-old patient with a medical history of hypertension and 20 pack-year smoking history presented to the otolaryngology department with complaints of hoarseness of voice persisting for 3 months, while maintaining a generally good state of health.No acute or significant respiratory symptoms were reported.Laryngoscopy revealed left vocal paralysis with a normal mucosal macroscopic appearance.A Neck and thoraco-abdominal CT scan was indicated to determine the cause of paralysis.The scan revealed features suggestive of left vocal cord paralysis including dilatation of the left pyriform sinus, medial deviation and thickening of the left aryepiglottic fold, an abducted left vocal cord with ipsilateral laryngeal ventricle dilatation presenting the “sail sign”, and no evident mass (Fig. 1).Thoracic CT angiography showed important enlargement of the pulmonary trunk and main pulmonary branches, which was compressing on the aortic arch. The pulmonary trunk measured 55 mm in axial diameter at its bifurcation, compared to the aortic diameter of 31 mm at the same level. The significant enlargement of the pulmonary trunk was shown to be compressing the aortic arch and the aortopulmonary window (Fig. 2).No other lesions in the course of the left recurrent laryngeal nerve were observed.Parenchymal lung analysis demonstrated features of chronic obstructive pulmonary disease, including diffuse emphysema and bronchiectasis, which explained the pulmonary hypertension.Further investigations including transthoracic echocardiography and pulmonary function tests confirmed the diagnosis.Given that the pulmonary artery trunk is already significantly dilated, the patient was managed medically by initiating maintenance treatment for COPD to prevent the worsening of pulmonary hypertension, without specific treatment for the latter.\n\nDiscussion\n\nVocal cord palsy can arise from various causes, such as inflammation, tumors and idiopathic origins. It is caused by cardiovascular etiologies in only 1.5% to 6.3% of cases [5].The left recurrent laryngeal nerve innervates the intrinsic laryngeal muscles involved in phonation. It arises from the ipsilateral vagus nerve at the level of the aortic arch, then loops around the aorta and ascends along the tracheoesophageal groove [3]. As it curves beneath the aortic arch, it traverses the aortopulmonary window and passes behind the ligamentum arteriosum [3].This prolonged course makes it vulnerable to injury from lesions affecting nearby structures. Consequently, cardiovascular conditions such as dilated pulmonary artery or aneurysm of the aortic arch can compress the nerve, leading to the presentation of Ortner's syndrome [4].In cardiovocal syndrome, laryngoscopy reveals VC paralysis with normal mucosal macroscopic appearance [6].CT scan show features suggestive of vocal cord palsy, including enlargement of the ipsilateral pyriform sinus, medialization of the aryepiglottic fold, abduction of the vocal cord with compensatory medial bowing of the contralateral cord, and laryngeal ventricle dilatation known as the “sail sign” [3].However, CT is primarily performed to determine the underlying cause of the paralysis. It is crucial to scan the entire course of the recurrent laryngeal nerves, including the aortopulmonary window [2].Most cases of Ortner's syndrome documented in the literature were caused by aortic aneurysms. However, there are also reported cases where the syndrome has been linked to aneurysms of the ductus arteriosus, a dilated left atrium, or pulmonary hypertension [7,8,10].Causes of pulmonary hypertension result in pulmonary artery dilation, which in turn compresses the left recurrent laryngeal nerve against the aorta.This condition can be suggested on imaging when the diameter of the main pulmonary artery exceeds 29 mm at its bifurcation or exceeds the aorta diameter at the same level [9].In our case, compression of the left recurrent laryngeal nerve was caused by severe pulmonary trunk dilation secondary to chronic obstructive pulmonary disease.\n\nConclusion\n\nThe long and complex course of the left recurrent laryngeal nerve (RLN) makes it susceptible to pathologies of neighboring structures, particularly cardiovascular structures within the mediastinum. Imaging is crucial for identifying the causes of recurrent laryngeal nerve palsy and should encompass the entire course of the nerve to ensure a complete evaluation.\n\nPatient consent\n\nWritten informed consent was obtained from the patient to publish this manuscript.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 61-year-old male\n- **Chief Complaint:** Hoarseness of voice persisting for 3 months\n- **History of Present Illness:** Gradual onset of hoarseness with no significant respiratory symptoms or other acute complaints. Patient was otherwise healthy.\n- **Past Medical History:** \n  - Hypertension\n  - 20-pack-year smoking history\n- **Personal History:** Active smoker with chronic obstructive pulmonary disease (COPD)\n- **Family History:** None reported\n- **Physical Examination:** Laryngoscopy revealed left vocal cord paralysis without abnormal mucosal appearance.\n- **Ancillary Tests:** \n  - Neck and thoraco-abdominal CT scan showed left vocal cord paralysis with signs such as dilatation of the left pyriform sinus, medial deviation of the left aryepiglottic fold, left vocal cord abduction, and ipsilateral laryngeal ventricle dilatation.\n  - Thoracic CT angiography revealed severe dilation of the pulmonary trunk (55 mm at bifurcation) compressing the aortic arch and aortopulmonary window.\n  - Parenchymal lung findings included diffuse emphysema and bronchiectasis indicative of COPD.\n  - Transthoracic echocardiography and pulmonary function tests confirmed secondary pulmonary hypertension.",
+        "differential_diagnosis": "1. **Initial Consideration of Causes of Hoarseness/Vocal Cord Palsy:**  \n   Hoarseness can result from neurological damage, tumors, inflammatory processes, or idiopathic origins. Vocal cord paralysis warrants evaluation of the recurrent laryngeal nerve for possible compression or injury.\n\n2. **Suspecting Cardiovascular Etiology:**  \n   Considering the left recurrent laryngeal nerve's unique anatomical course around the aortic arch and susceptibility to mediastinal causes, cardiovascular conditions like aneurysms or pulmonary hypertension were explored.\n\n3. **Imaging to Explore Compression Causes:**  \n   CT scan demonstrated significant dilation of the pulmonary artery compressing the aortopulmonary window, confirming mechanical compression of the left recurrent laryngeal nerve. No masses or tumors were identified.\n\n4. **Linking Pulmonary Hypertension and COPD:**  \n   Pulmonary function tests and radiographic findings of emphysema and bronchiectasis aligned with the diagnosis of COPD, which served as the underlying cause of pulmonary hypertension and subsequent pulmonary artery dilation.\n\n5. **Exclusion of Alternative Diagnoses:**  \n   Other potential causes, such as inflammatory disease, neoplasm, or idiopathic left recurrent laryngeal nerve palsy, were ruled out due to imaging findings consistent with vascular compression and absence of any other pathologic lesion along the nerve's course.",
+        "final_diagnosis": "The patient was diagnosed with **Ortner's syndrome (cardiovocal syndrome)**, secondary to severe pulmonary artery dilation caused by chronic obstructive pulmonary disease (COPD) and associated pulmonary hypertension. The left recurrent laryngeal nerve was compressed in the aortopulmonary window, leading to left vocal cord paralysis and the clinical presentation of hoarseness.",
+        "diagnosis_results": "Ortner's syndrome (cardiovocal syndrome) secondary to pulmonary hypertension caused by chronic obstructive pulmonary disease (COPD)."
+    },
+    "body_category": [
+        "Ear, Nose and Throat"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-8-27",
+    "checked_rare_disease": [],
+    "id": "PMC11459457",
+    "results": {
+        "content": "### Reasoning:\nLet's dive into this case. We have a 61-year-old man with a 3-month history of hoarseness. He's otherwise healthy except for hypertension and a significant smoking history, which also led to COPD. So, right off the bat, his smoking jumps out as a critical factor in his current condition.\n\nFirst, hoarseness can be caused by various things, from simple laryngitis to more serious conditions like vocal cord paralysis or even tumors. Given that it's been going on for 3 months, it's notacute, and there are no other respiratory symptoms, which might suggest something more chronic.\n\nLooking at his past medical history, hypertension is managed, and he's a smoker with COPD. Smoking is a major risk factor for laryngeal disorders, including cancers and neuropathies that could affect the vocal cords.\n\nThe physical exam reveals left vocal cord paralysis without abnormal mucosal appearance. That's interesting because vocal cord paralysis can be due to damage or compression of the recurrent laryngeal nerve, which supplies the muscles of the larynx.\n\nThe CT scans show left vocal cord paralysis with some specific signs like dilatation of the left pyriform sinus, medial deviation of the left aryepiglottic fold, abduction of the left vocal cord, and dilatation of the ipsilateral laryngeal ventricle. These findings are consistent with recurrent laryngeal nerve palsy.\n\nNow, what could be causing this nerve palsy? Well, in a smoker, the first thought is laryngeal cancer, which can invade or compress the nerve. However, the laryngoscopy didn't show any abnormal mucosal appearance, which makes cancer less likely, though not completely impossible, as sometimes early cancers might not be visible.\n\nAnother possibility is compression from a mass outside the larynx. The thoracic CT angiography reveals severe dilation of the pulmonary trunk, measuring 55 mm at the bifurcation, which is compressing the aortic arch and the aortopulmonary window. This is significant because the left recurrent laryngeal nerve loops around the aortic arch, so any mass or dilation in that area could compress the nerve, leading to vocal cord paralysis.\n\nAdditionally, the patient has COPD with diffuse emphysema and bronchiectasis, and echocardiography and pulmonary function tests confirm secondary pulmonary hypertension. The severe pulmonary hypertension could be causing the dilation of the pulmonary trunk, which in turn is compressing the left recurrent laryngeal nerve.\n\nIt's also worth considering other causes of vocal cord paralysis, such as infections, trauma, or neurologic disorders, but given the patient's smoking history and the presence of severe pulmonary hypertension, the most likely cause is compression of the left recurrent laryngeal nerve by the dilated pulmonary trunk.\n\nSo, to summarize, the patient's hoarseness is due to left vocal cord paralysis caused by compression of the left recurrent laryngeal nerve from severe dilation of the pulmonary trunk secondary to pulmonary hypertension in the setting of COPD.\n\n### Answer:\nLeft recurrent laryngeal nerve palsy due to compression from severe pulmonary trunk dilation secondary to pulmonary hypertension in a patient with COPD"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Let's dive into this case. We have a 61-year-old man with a 3-month history of hoarseness. He's otherwise healthy except for hypertension and a significant smoking history, which also led to COPD. So, right off the bat, his smoking jumps out as a critical factor in his current condition.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "First, hoarseness can be caused by various things, from simple laryngitis to more serious conditions like vocal cord paralysis or even tumors. Given that it's been going on for 3 months, it's notacute, and there are no other respiratory symptoms, which might suggest something more chronic.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Looking at his past medical history, hypertension is managed, and he's a smoker with COPD. Smoking is a major risk factor for laryngeal disorders, including cancers and neuropathies that could affect the vocal cords.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The physical exam reveals left vocal cord paralysis without abnormal mucosal appearance. That's interesting because vocal cord paralysis can be due to damage or compression of the recurrent laryngeal nerve, which supplies the muscles of the larynx.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The CT scans show left vocal cord paralysis with some specific signs like dilatation of the left pyriform sinus, medial deviation of the left aryepiglottic fold, abduction of the left vocal cord, and dilatation of the ipsilateral laryngeal ventricle. These findings are consistent with recurrent laryngeal nerve palsy.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Now, what could be causing this nerve palsy? Well, in a smoker, the first thought is laryngeal cancer, which can invade or compress the nerve. However, the laryngoscopy didn't show any abnormal mucosal appearance, which makes cancer less likely, though not completely impossible, as sometimes early cancers might not be visible.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Another possibility is compression from a mass outside the larynx. The thoracic CT angiography reveals severe dilation of the pulmonary trunk, measuring 55 mm at the bifurcation, which is compressing the aortic arch and the aortopulmonary window. This is significant because the left recurrent laryngeal nerve loops around the aortic arch, so any mass or dilation in that area could compress the nerve, leading to vocal cord paralysis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Additionally, the patient has COPD with diffuse emphysema and bronchiectasis, and echocardiography and pulmonary function tests confirm secondary pulmonary hypertension. The severe pulmonary hypertension could be causing the dilation of the pulmonary trunk, which in turn is compressing the left recurrent laryngeal nerve.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "It's also worth considering other causes of vocal cord paralysis, such as infections, trauma, or neurologic disorders, but given the patient's smoking history and the presence of severe pulmonary hypertension, the most likely cause is compression of the left recurrent laryngeal nerve by the dilated pulmonary trunk.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "So, to summarize, the patient's hoarseness is due to left vocal cord paralysis caused by compression of the left recurrent laryngeal nerve from severe dilation of the pulmonary trunk secondary to pulmonary hypertension in the setting of COPD.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Hoarseness can result from neurological damage, tumors, inflammatory processes, or idiopathic origins, and vocal cord paralysis warrants evaluation of the recurrent laryngeal nerve for possible compression or injury.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Considering the left recurrent laryngeal nerve's anatomical course around the aortic arch, cardiovascular conditions like aneurysms or pulmonary hypertension were explored as potential causes.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> A CT scan revealed significant dilation of the pulmonary artery compressing the aortopulmonary window, confirming mechanical compression of the left recurrent laryngeal nerve, with no masses or tumors identified.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Pulmonary function tests and radiographic findings of emphysema and bronchiectasis supported the diagnosis of COPD, which was identified as the underlying cause of pulmonary hypertension and subsequent pulmonary artery dilation.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Alternative causes, such as inflammatory disease, neoplasm, or idiopathic left recurrent laryngeal nerve palsy, were excluded based on imaging findings consistent with vascular compression and the absence of other pathologic lesions along the nerve's course.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> The patient was diagnosed with Ortner's syndrome (cardiovocal syndrome), secondary to severe pulmonary artery dilation caused by chronic obstructive pulmonary disease (COPD) and associated pulmonary hypertension.",
+            "hit": true
+        },
+        {
+            "step": "<Step 7> The left recurrent laryngeal nerve was compressed in the aortopulmonary window, leading to left vocal cord paralysis and the clinical presentation of hoarseness.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 0.9,
+    "recall": 1.0
+}

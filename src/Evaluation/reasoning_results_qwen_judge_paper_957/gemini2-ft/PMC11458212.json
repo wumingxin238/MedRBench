@@ -1,0 +1,134 @@
+{
+    "raw_case": "\nOsteochondroma versus Chondrosarcoma a Diagnostic Dilemma – a Case Report\n\n\nAbstract\n\n\n\nIntroduction:\n\nOsteochondroma is a benign bone tumor, commonly seen as a bony outgrowth from the metaphysis of long bones, having a stalk and cartilage cap. They may be sessile or multiple and usually arise before 20 years of age with no growth beyond puberty. Malignant transformation is a rare complication seen in 1% of solitary cases and 3–5% in the hereditary multiple enchondromatosis variety. Here, we report a rare case of atypical benign osteochondroma with clinical and radiological features suggestive of a malignant transformation.\n\nCase Report:\n\nA 17-year-old boy presented to us with a complaint of swelling in his right thigh for 12 years. Radiological features were suggestive of malignant transformation, with bony outgrowth exhibiting heterogeneous calcification, local invasion, and a cartilage cap of size 2.5 cm. Bilateral lung nodules were detected on high-resolution computed tomography. Positron emission tomography scan showed no evidence of metastasis. The patient underwent a wide excision of the tumor and the histopathology revealed it to be a benign osteochondroma. It is an atypical presentation of osteochondroma in which we had a discrepancy in radio-histopathological correlation.\n\nConclusion:\n\nIn instances of diagnostic uncertainty concerning atypical osteochondroma, opting for an excisional biopsy serves as a prudent next step for the planning of subsequent management. The patient needs to be followed up regularly to look for recurrence or any other signs of metastasis.\n\nLearning Point of the Article:\n\nIn cases of clinical and radiological suspicion of malignant transformation in osteochondroma, it is advisable to plan for wide excision with clear margins as definitive management. It is also important to follow-up such patients regularly to look for signs of local recurrence/metastasis.\n\nIntroduction\n\nOsteochondroma is the most common benign bone tumor [1]. It is not a true neoplasm but a developmental enchondromatous hyperplasia leading to a bony outgrowth on the external surface of long bones, usually arising from the metaphyseal area [2]. Classically, it has two pathognomonic features: The presence of medullary cavity continuity with the parent bone and a cartilaginous cap [3, 4]. It may present as a solitary lesion or manifest as multiple hereditary enchondromatosis syndrome as an inherited autosomal dominant genetic disease [5]. Metastatic transformation is a rare complication seen in 1% of solitary cases and 3–5% in the hereditary multiple enchondromatosis variety, with symptoms such as an increase in size beyond skeletal maturity and new sudden onset pain [6]. Radiological signs such as cartilage cap of more than 1.5 cm in skeletally mature patients, irregular or indistinct surface of the lesion, focal radiolucency, heterogeneous irregular or scattered calcifications, and local soft-tissue invasion are strongly suggestive of the same [1].\n\nCase Report\n\nA 17-year-old healthy male presented to us with complaints of painless swelling in the right thigh for the past 12 years. The swelling was first noticed at the age of 4 years, which progressively increased in size over the next 8 years. For the past 3–4 years, there was no gross increase in size of the lesion. On examination, he had a swelling on the medial aspect of the thigh above the knee joint, measuring 8 × 8 cm, non-tender with an irregular surface, and well-defined margins, and it was bony hard in consistency, fixed to the underlying bone (Fig. 1). X-ray findings were suggestive of a bony outgrowth with heterogenous calcification near the femur diaphysis (Fig. 2). Magnetic resonance imaging (MRI) revealed a lesion with an irregular surface, a cartilage cap of 2.5 cm, local invasion into rectus femoris and vastus medialis, and calcific rings and arcs within the lesion on computed tomography (CT) correlation (Fig. 3-6). Multiple bilateral centrilobular and subpleural nodules, each <3 mm, were appreciated on high-resolution CT scan, as they are <1 cm, they are non-specific, and not considered to be metastatic in nature. The patient also underwent a positron emission tomography (PET) scan after the surgery, which showed no evidence of metastasis. Later, the patient underwent wide excision and histopathology confirmed the diagnosis of benign osteochondroma (Fig. 7-9).\n\nDiscussion\n\nOsteochondroma is the most common benign bone tumor, accounting for 35% of benign and 8% of all bone tumors [1]. They typically arise from the metaphysis of long bones, most commonly in the distal femur [2]. Predominance is observed in the male population in the growing age group. They may be solitary or multiple lesions, as in the case of multiple hereditary osteochondroma syndrome, which has an autosomal dominant genetic inheritance pattern [5]. Osteochondromas cease to grow after skeletal maturity [7]. Our case had a progressive growth of the tumor mass till the age of 13 years, which was suggestive of its benign nature.Woertler et al. conducted a MRI pictorial review of 2600 cases with symptomatic osteochondroma and found that a cartilage thickness of 2 cm in adults and 3 cm in children is suspicious of malignant transformation [7]. Stacy et al. in a pictorial essay, found that an increased thickness of the cartilage cap was suggestive of malignant transformation [8, 9]. Ahmed et al. conducted a study on 107 patients suffering from secondary chondrosarcoma arising from osteochondroma. They found an irregularity in the surface, areas of lucency, and inhomogeneous mineralization within the tumor and surrounding soft tissue was characteristic of malignant transformation [10]. Our case exhibited a cartilage cap of <3 cm, irregular surface, invasion of the rectus, and vastus medialis, and on CT correlation, calcific rings and arcs were observed with scattered irregular calcifications.Hence, in our case, the size of the cartilaginous cap which was <3 cm was indicative of a benign lesion but the rest of the MRI and CT features of the lesion were in favor of malignant transformation making it a borderline case for suspicion of malignancy. The histopathology post-wide excision was indicative of a benign osteochondroma. The patient underwent a PET scan post-surgery and will be on regular follow-up to look for local recurrence or other signs of metastasis.\n\nConclusion\n\nWe report this case due to its rare atypical presentation. Cases like these, characterized by altered radio-pathological correlation, pose a challenge to treat. In such cases, a detailed evaluation and a wide excision of the tumor with biopsy-proven clear margins serve as a prudent next step to rule out malignant transformation.\n\nClinical Message\n\nOsteochondroma is a common benign bone tumor that may undergo malignant transformation into secondary chondrosarcoma. In cases where there is suspicion of malignant transformation, wide excision with biopsy-proven clear margins can be a definite management.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 17-year-old male\n- **Chief Complaint:** Painless swelling in the right thigh for 12 years.\n- **History of Present Illness:** Swelling noticed at 4 years of age; progressively increased in size until 13 years, then stabilized. The swelling was non-tender.\n- **Past Medical History:** None mentioned.\n- **Personal History:** None mentioned.\n- **Family History:** None mentioned.\n- **Physical Examination:** Swelling on the medial aspect of the right thigh above the knee joint (8 × 8 cm). Non-tender, irregular surface, well-defined margins, bony hard, fixed to underlying bone.\n- **Ancillary Tests:**  \n  - X-ray: Bony outgrowth with heterogeneous calcification near the femur diaphysis.  \n  - MRI: Lesion with irregular surface, cartilage cap 2.5 cm, local invasion into rectus femoris and vastus medialis, calcific rings and arcs.  \n  - High-resolution CT: Bilateral centrilobular and subpleural nodules (<3 mm, non-specific, not metastatic).  \n  - PET scan: No evidence of metastasis.  \n  - Histopathology: Benign osteochondroma confirmed after wide excision.",
+        "differential_diagnosis": "- **Step 1: Osteochondroma (Benign)**  \n  - Initially considered due to the patient's history of slow tumor growth halting after skeletal maturity and a cartilaginous cap <3 cm.  \n  - However, imaging features of irregular surface, local invasion, and heterogeneous calcification suggested possible malignant transformation.  \n\n- **Step 2: Secondary Chondrosarcoma (Malignant)**  \n  - Imaging findings (e.g., irregular surface, invasion of soft tissue, and calcification patterns) raised concerns for secondary chondrosarcoma. However, histological evaluation after excision confirmed no malignant cells, ruling out this diagnosis.  \n\n- **Step 3: Confirming Diagnosis**  \n  - Radio-pathological correlation confirmed the lesion was a benign osteochondroma despite suspicious imaging findings suggesting malignancy.",
+        "final_diagnosis": "Benign osteochondroma with atypical features radiologically resembling malignant transformation. Histopathology post-excision confirmed the diagnosis.",
+        "diagnosis_results": "Benign osteochondroma."
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-7-24",
+    "checked_rare_disease": [
+        "Chondrosarcoma"
+    ],
+    "id": "PMC11458212",
+    "results": {
+        "content": "### Resoning:\n<step 1> Analyze the Chief Complaint and History of Present Illness: The patient is a 17-year-old male presenting with a long-standing (12 years) painless swelling in the right thigh. The swelling started at age 4, grew progressively until age 13, and then stabilized. This history suggests a benign, slow-growing process, likely related to skeletal growth, which typically slows down around puberty.  The lack of pain is also a significant indicator against acute inflammatory or aggressive malignant processes.\n\n<step 2> Evaluate the Physical Examination Findings: The physical exam reveals a well-defined, bony hard, non-tender swelling (8x8 cm) on the medial aspect of the right thigh, fixed to the underlying bone. These characteristics strongly point towards a bony lesion. The bony hardness and fixation suggest origin from or involvement of the bone.  The well-defined margins further suggest a localized process, potentially benign.\n\n<step 3> Interpret the X-ray Results: The X-ray showing a \"bony outgrowth with heterogeneous calcification near the femur diaphysis\" is highly suggestive of an osteochondroma. Osteochondromas are benign bone tumors that typically present as bony outgrowths near the growth plate of long bones, often with calcified cartilaginous components, which would explain the heterogeneous calcification.\n\n<step 4> Interpret the MRI Results: The MRI findings further support the diagnosis of osteochondroma. The description of a \"lesion with irregular surface, cartilage cap 2.5 cm, local invasion into rectus femoris and vastus medialis, calcific rings and arcs\" is characteristic. Osteochondromas have a cartilaginous cap, which can be measured on MRI.  \"Local invasion\" into muscles in the context of osteochondroma usually refers to the lesion's physical extension and abutment to adjacent soft tissues rather than true malignant invasion. Calcific rings and arcs are typical patterns of ossification within a cartilage lesion.\n\n<step 5> Interpret the High-resolution CT Results: The \"bilateral centrilobular and subpleural nodules (<3 mm, non-specific, not metastatic)\" in the lungs are likely incidental findings. These are common and often benign, especially given they are described as non-specific and non-metastatic. They are unlikely to be related to the thigh lesion in the context of the other findings pointing towards a benign osteochondroma.\n\n<step 6> Interpret the PET scan Results: The \"no evidence of metastasis\" on the PET scan is consistent with a benign lesion and further excludes malignancy. This is expected for an osteochondroma.\n\n<step 7> Interpret the Histopathology Results: The \"benign osteochondroma confirmed after wide excision\" is the definitive diagnostic confirmation. Histopathology is the gold standard for diagnosing tumors, and this result unequivocally confirms the diagnosis suggested by the clinical and radiological findings.\n\n<step 8> Synthesize all findings and conclude the diagnosis: All pieces of evidence – the patient's age, long history of painless swelling, physical examination findings of a bony hard mass fixed to bone, and, most importantly, the X-ray, MRI, and histopathology results – are consistently pointing towards a benign osteochondroma of the femur. The lung nodules are irrelevant to the diagnosis of the thigh lesion and are likely benign incidental findings.\n\n### Answer:\nBenign osteochondroma of the right femur"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Analyze the Chief Complaint and History of Present Illness: The patient is a 17-year-old male presenting with a long-standing (12 years) painless swelling in the right thigh. The swelling started at age 4, grew progressively until age 13, and then stabilized. This history suggests a benign, slow-growing process, likely related to skeletal growth, which typically slows down around puberty.  The lack of pain is also a significant indicator against acute inflammatory or aggressive malignant processes.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Evaluate the Physical Examination Findings: The physical exam reveals a well-defined, bony hard, non-tender swelling (8x8 cm) on the medial aspect of the right thigh, fixed to the underlying bone. These characteristics strongly point towards a bony lesion. The bony hardness and fixation suggest origin from or involvement of the bone.  The well-defined margins further suggest a localized process, potentially benign.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Interpret the X-ray Results: The X-ray showing a \"bony outgrowth with heterogeneous calcification near the femur diaphysis\" is highly suggestive of an osteochondroma. Osteochondromas are benign bone tumors that typically present as bony outgrowths near the growth plate of long bones, often with calcified cartilaginous components, which would explain the heterogeneous calcification.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Interpret the MRI Results: The MRI findings further support the diagnosis of osteochondroma. The description of a \"lesion with irregular surface, cartilage cap 2.5 cm, local invasion into rectus femoris and vastus medialis, calcific rings and arcs\" is characteristic. Osteochondromas have a cartilaginous cap, which can be measured on MRI.  \"Local invasion\" into muscles in the context of osteochondroma usually refers to the lesion's physical extension and abutment to adjacent soft tissues rather than true malignant invasion. Calcific rings and arcs are typical patterns of ossification within a cartilage lesion.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Interpret the High-resolution CT Results: The \"bilateral centrilobular and subpleural nodules (<3 mm, non-specific, not metastatic)\" in the lungs are likely incidental findings. These are common and often benign, especially given they are described as non-specific and non-metastatic. They are unlikely to be related to the thigh lesion in the context of the other findings pointing towards a benign osteochondroma.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Interpret the PET scan Results: The \"no evidence of metastasis\" on the PET scan is consistent with a benign lesion and further excludes malignancy. This is expected for an osteochondroma.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Interpret the Histopathology Results: The \"benign osteochondroma confirmed after wide excision\" is the definitive diagnostic confirmation. Histopathology is the gold standard for diagnosing tumors, and this result unequivocally confirms the diagnosis suggested by the clinical and radiological findings.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Synthesize all findings and conclude the diagnosis: All pieces of evidence – the patient's age, long history of painless swelling, physical examination findings of a bony hard mass fixed to bone, and, most importantly, the X-ray, MRI, and histopathology results – are consistently pointing towards a benign osteochondroma of the femur. The lung nodules are irrelevant to the diagnosis of the thigh lesion and are likely benign incidental findings.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Initially considered osteochondroma (benign) due to slow tumor growth halting after skeletal maturity and a cartilaginous cap <3 cm, but imaging features of irregular surface, local invasion, and heterogeneous calcification suggested possible malignant transformation.",
+            "hit": false
+        },
+        {
+            "step": "Step 2: Imaging findings (irregular surface, invasion of soft tissue, and calcification patterns) raised concerns for secondary chondrosarcoma, but histological evaluation after excision confirmed no malignant cells, ruling out this diagnosis.",
+            "hit": false
+        },
+        {
+            "step": "Step 3: Radio-pathological correlation confirmed the lesion was a benign osteochondroma despite suspicious imaging findings suggesting malignancy.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Benign osteochondroma with atypical features radiologically resembling malignant transformation; histopathology post-excision confirmed the diagnosis.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.0
+}

@@ -1,0 +1,117 @@
+{
+    "raw_case": "\nChronic vomiting revealing Joubert syndrome: A case report\nJoubert syndrome is a rare autosomal recessive disorder characterized by the presence of the molar tooth sign on imaging. We report the case of a 5-year-old girl diagnosed with Joubert syndrome during the investigation of chronic vomiting. The patient presented with neuropsychomotor delay, a history of neonatal respiratory disorders, and hydrocephalus treated with a ventriculoperitoneal shunt. Brain magnetic resonance imaging revealed a deepened interpeduncular fossa, thickening and horizontalization of the upper cerebellar peduncles, and vermian hypoplasia, resulting in the characteristic \"molar tooth\" appearance. The neuropsychomotor delay was attributed to Joubert syndrome, while the chronic vomiting was linked to hyperdrainage. This case underscores the potential for clinical signs of Joubert syndrome to confuse clinicians and highlights the importance of recognizing the pathognomonic molar tooth sign in imaging, which all radiologists should be familiar with.\n\nIntroduction\n\nJoubert syndrome (JS) is a rare autosomal recessive disorder, characterized clinically by early cerebellar symptoms (such as hypotonia, apraxia) and neonatal respiratory disorders (including episodes of apnea and tachypnea). On brain MRI, the presence of the molar tooth sign (MTS), which refers to the characteristic malformation of the cerebellum and brainstem, is pathognomonic [1,2]. When additional organs are affected, such as in cases of nephronophthisis, hepatic fibrosis, retinal dystrophy and polydactily, the term Joubert syndrome and related disorders (JSRD) is preferably used [1].\n\nCase presentation\n\nWe report the case of a 5-year-old girl, the youngest child of a nonconsanguineous marriage, admitted for chronic vomiting. She had a history of neonatal hospitalization for perinatal asphyxia, an encephalocele with hydrocephalus treated by ventriculoperitoneal shunt, and a congenital hip dislocation. The child presents with growth and neuropsychomotor delay (head control achieved at 3 years, walking not yet acquired, limited speech, and comprehension of parental instructions). On clinical examination, the child was hypotonic and unable to walk independently.Laboratory investigations were conducted, but no cause for the vomiting was identified. A brain CT scan was then performed (Fig. 1), revealing a brainstem malformation with a “molar tooth” appearance, suggestive of Joubert syndrome (JS). To further characterize the malformation, a brain magnetic resonance imaging (MRI) was obtained (Fig. 1), showing agenesis of the vermis and right cerebellar hemisphere, with hypoplasia of the left cerebellar hemisphere. This was associated with thickening and horizontalization of the superior cerebellar peduncles and a deepened interpeduncular fossa, characteristic features of the molar tooth sign (MTS). Additional findings included corpus callosum hypotrophy, polymicrogyria, and the previously known encephalocele. The vomiting was determined to be due to overdrainage, as the ventricular system appeared collapsed. A full-body assessment for Joubert syndrome and related disorders (JSRD) revealed no other visceral involvement, indicating a pure form of JS in our patient.Neurosurgical management was undertaken to manage the overdrainage. A multidisciplinary team, including doctors, paramedics, psychologists, and social workers, provided comprehensive care for the child, focusing on mitigating neurodevelopmental delays, overcoming learning difficulties, and supporting social integration.\n\nDiscussion\n\nJoubert syndrome (JS) is a rare autosomal recessive disorder, characterized on brain imaging by the presence of the molar tooth sign (MTS). In its pure form, JS is clinically manifested by neurological and respiratory symptoms. However, when associated with other visceral disorders, it is referred to as Joubert syndrome and related disorders (JSRD). Therefore, JSRD encompasses all disorders displaying the MTS on brain imaging, making it a pathognomonic sign [2,3].JSRD is a rare condition, the incidence is estimated to be between 1/80,000 and 1/100,000 live births, however, this may be an underestimate [3].The clinical presentation of JSRD is variable. The pure form includes neurological and respiratory signs, such as cerebellar symptoms (hypotonia and oculomotor apraxia, which may progress to developmental delay and intellectual disability) and, occasionally, neonatal respiratory disorders (episodes of apnea and tachypnea) that typically resolve by the age of 6 months [3]. Related disorders may also involve nephronophthisis, hepatic fibrosis, retinal dystrophy, and polydactyly.Cerebral imaging, primarily MRI, allows for the identification of the malformation underlying this syndrome. On axial images, the combination of a deepened interpeduncular fossa, thickening of the superior cerebellar peduncles, and vermian hypodysplasia creates a \"molar tooth\" appearance. However, caution is needed to avoid the diagnostic pitfall of a \"molar tooth\" appearance due to misdirected axial planes, which can lead to an erroneous diagnosis of JS. To prevent this error, one should confirm thickening and horizontal alignment of the superior cerebellar peduncles on a sagittal paramedian section of the posterior fossa. Additional malformations may be present, including hydrocephalus, corpus callosum anomalies, cystic enlargement of the posterior fossa, white matter cysts, and absence of the pituitary gland [4]. Polymicrogyria and encephalocele are very rare associated malformations [1,5], making our case distinctive, as it presents with corpus callosum hypotrophy, polymicrogyria, and encephalocele. These malformations can negatively impact the prognosis of patients with JSRD. Diffusion tensor imaging can provide further information, showing the absence of fiber decussation in the pyramidal tract and superior cerebellar peduncles.The prognosis for patients with JSRD depends on the severity of respiratory symptoms and visceral involvement. Severe neonatal breathing dysregulation may require assisted ventilation, though respiratory problems may resolve within a few months. Hepatic and renal complications also impact prognosis, necessitating proper management to reduce morbidity and mortality.To improve prognosis, early diagnosis is essential for initiating appropriate management as soon as possible. While hypotonia is common to several neuropediatric conditions, its association with oculomotor apraxia and irregular breathing should prompt clinicians to consider JSRD and order a brain MRI to confirm the presence of the molar tooth sign (MTS). Antepartum imaging can be beneficial in cases with a family history of JSRD, as the MTS can often be detected between 17 and 20 weeks of gestation. However, late diagnoses (up to 32 weeks) or missed diagnoses despite close monitoring have been reported in the literature [6].\n\nConclusion\n\nJS is a rare syndrome whose clinical signs can easily confuse clinicians. Imaging can help overcome this issue by demonstrating the pathognomonic MTS. All radiologists need to be familiar with this sign in order to initiate appropriate management.\n\nDeclaration of generative AI and AI-assisted technologies in the writing process\n\nDuring the preparation of this work the author(s) used ChatGPT in order to improve language and readability; After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the content of the publication.\n\nPatient consent\n\nInformed consent was obtained from the patient.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 5-year-old girl, youngest child in a nonconsanguineous marriage.\n- **Chief Complaint:** Chronic vomiting.\n- **History of Present Illness:** History of neonatal respiratory disorders (perinatal asphyxia requiring neonatal hospitalization), neuropsychomotor delay (head control achieved at 3 years, inability to walk independently, limited speech, and delayed comprehension), and hydrocephalus treated with a ventriculoperitoneal shunt.\n- **Past Medical History:** Encephalocele, congenital hip dislocation.\n- **Personal History:** None.\n- **Family History:** None mentioned.\n- **Physical Examination:** Hypotonia, inability to walk independently; neurodevelopmental delays evident.\n- **Ancillary Tests:** \n  - Brain CT: Brainstem malformation with \"molar tooth\" appearance indicative of Joubert Syndrome.\n  - Brain MRI: Vermian agenesis, hypoplasia of cerebellar hemispheres, thickening and horizontalization of superior cerebellar peduncles, deepened interpeduncular fossa (confirming molar tooth sign). Additional findings: corpus callosum hypotrophy, polymicrogyria, and encephalocele.\n  - No evidence of involvement of other organ systems (ruling out Joubert Syndrome and related disorders).\n\n---",
+        "differential_diagnosis": "1. **Initial Consideration of Chronic Vomiting Causes:**\n   - Differential diagnoses for chronic vomiting include gastrointestinal, neurological, and systemic causes. No abnormalities were found in initial laboratory studies to suggest a metabolic or gastrointestinal cause.\n\n2. **Inclusion of Structural Brain Abnormalities:**\n   - The history of hydrocephalus and ventriculoperitoneal shunting, along with neurodevelopmental delays, prompted imaging studies to rule out central nervous system-related causes for vomiting.\n\n3. **Identification of the Molar Tooth Sign:**\n   - CT and MRI findings confirmed the molar tooth sign, a hallmark of Joubert Syndrome. Key findings included vermian agenesis, thickened and horizontalized superior cerebellar peduncles, and a deepened interpeduncular fossa. These findings directed the diagnosis toward Joubert Syndrome.\n   - Polymicrogyria, corpus callosum hypotrophy, and encephalocele are rare malformations associated with the condition, strengthening the diagnosis.\n\n4. **Exclusion of Joubert Syndrome and Related Disorders (JSRD):**\n   - A full-body evaluation ruled out systemic involvement (e.g., nephronophthisis, hepatic fibrosis, retinal dystrophy, polydactyly), confirming a \"pure\" form of Joubert Syndrome without features of related disorders.\n\n5. **Cause of Vomiting—Hyperdrainage:**\n   - Vomiting was attributed to hyperdrainage of the ventriculoperitoneal shunt, with imaging revealing a collapsed ventricular system.\n\n---",
+        "final_diagnosis": "**Joubert Syndrome (pure form)** with neurodevelopmental delays, hypotonia, and chronic vomiting secondary to shunt overdrainage. The diagnosis was based on clinical presentation and confirmation of the pathognomonic molar tooth sign on MRI. Systemic involvement characteristic of related disorders was excluded. \n\n---",
+        "diagnosis_results": "Joubert Syndrome (pure form)."
+    },
+    "body_category": [
+        "Brain and Nerves"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-9-23",
+    "checked_rare_disease": [
+        "Joubert syndrome"
+    ],
+    "id": "PMC11647125",
+    "results": {
+        "thinking_process": "Okay, let me start by reviewing the case. The patient is a 5-year-old girl with a history of chronic vomiting. She's the youngest in a nonconsanguineous marriage. Her past medical history includes perinatal asphyxia needing neonatal hospitalization, neuropsychomotor delays like head control at 3 years, can't walk alone, limited speech, and hydrocephalus treated with a shunt. She also had encephalocele and congenital hip dislocation.\n\nFirst, the key findings here are the neurodevelopmental issues and the brain imaging. The brain CT showed a molar tooth sign, which is classic for Joubert Syndrome. Then the MRI confirmed vermian agenesis, hypoplastic cerebellar hemispheres, and the molar tooth sign with those peduncle changes. Plus, there's polymicrogyria and corpus callosum hypotrophy. But wait, the ancillary tests also mention no evidence of other organ system involvement, which is a bit confusing because Joubert Syndrome can have multi-organ issues. But the initial part says \"ruling out Joubert Syndrome and related disorders,\" which might be a typo or misunderstanding. Because the imaging clearly points to Joubert. Let me check that again.\n\nWait, the test results say: \"No evidence of involvement of other organ systems (ruling out Joubert Syndrome and related disorders).\" Hmm, that's contradictory because the molar tooth sign is pathognomonic for Joubert. Maybe they meant that other organ systems weren't involved, so it's not a Joubert-related disorder with systemic features. Joubert Syndrome can sometimes present with kidney, liver, or retinal issues. But if those aren't present here, it might still be Joubert Syndrome but without the extra-neurological manifestations.\n\nThe patient also has encephalocele, which isn't typically a main feature of Joubert. But polymicrogyria and corpus callosum issues can be part of other malformations. However, the molar tooth sign is so specific. The vermian agenesis and cerebellar peduncle abnormalities are key here.\n\nThen there's the neurodevelopmental delay, hypotonia, and the history of hydrocephalus. Hydrocephalus might be related to the encephalocele or the brain malformations. Encephalocele is a neural tube defect, but in this case, it's part of the congenital anomalies.\n\nSo putting it all together: The molar tooth sign on imaging is the hallmark of Joubert Syndrome. Even though other organ systems aren't affected, the presence of the molar tooth sign, vermian hypoplasia, and the clinical symptoms (hypotonia, developmental delays) point strongly to Joubert Syndrome. The other findings like polymicrogyria and corpus callosum hypotrophy might be part of the spectrum or co-occurring anomalies. The note about ruling out Joubert might be a mistake, or perhaps they considered other related ciliopathies but found no systemic involvement, so the diagnosis is still Joubert Syndrome.\n\nTherefore, the final diagnosis should be Joubert Syndrome.",
+        "content": "```\n### Reasoning:\n<step 1> The patient’s neuroimaging findings are critical. Brain CT and MRI reveal a \"molar tooth\" sign (thickened, horizontalized superior cerebellar peduncles, vermian agenesis, and deepened interpeduncular fossa), which is pathognomonic for Joubert Syndrome. Additional findings (polymicrogyria, corpus callosum hypotrophy, encephalocele) align with Joubert Syndrome spectrum or associated structural brain anomalies.  \n<step 2> Clinical features (severe neurodevelopmental delay, hypotonia, chronic vomiting, history of hydrocephalus) are consistent with Joubert Syndrome, a disorder characterized by congenital cerebellar and brainstem malformations.  \n<step 3> The absence of other organ system involvement does not exclude Joubert Syndrome, as it can present as an isolated neurological disorder (pure Joubert Syndrome) without renal, hepatic, or ocular manifestations.  \n<step 4> Encephalocele and congenital hip dislocation may represent associated congenital anomalies, though not core diagnostic criteria for Joubert Syndrome.  \n<step 5> The ancillary tests explicitly confirm the molar tooth sign and vermian hypoplasia, which are diagnostic hallmarks, outweighing the ambiguous note about \"ruling out Joubert Syndrome,\" likely referring to systemic variants (e.g., Joubert-related disorders) rather than the core diagnosis.  \n\n### Answer:\nJoubert Syndrome"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient’s neuroimaging findings are critical. Brain CT and MRI reveal a \"molar tooth\" sign (thickened, horizontalized superior cerebellar peduncles, vermian agenesis, and deepened interpeduncular fossa), which is pathognomonic for Joubert Syndrome. Additional findings (polymicrogyria, corpus callosum hypotrophy, encephalocele) align with Joubert Syndrome spectrum or associated structural brain anomalies.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Clinical features (severe neurodevelopmental delay, hypotonia, chronic vomiting, history of hydrocephalus) are consistent with Joubert Syndrome, a disorder characterized by congenital cerebellar and brainstem malformations.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The absence of other organ system involvement does not exclude Joubert Syndrome, as it can present as an isolated neurological disorder (pure Joubert Syndrome) without renal, hepatic, or ocular manifestations.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Encephalocele and congenital hip dislocation may represent associated congenital anomalies, though not core diagnostic criteria for Joubert Syndrome.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The ancillary tests explicitly confirm the molar tooth sign and vermian hypoplasia, which are diagnostic hallmarks, outweighing the ambiguous note about \"ruling out Joubert Syndrome,\" likely referring to systemic variants (e.g., Joubert-related disorders) rather than the core diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Differential diagnoses for chronic vomiting include gastrointestinal, neurological, and systemic causes; no abnormalities were found in initial laboratory studies suggesting a metabolic or gastrointestinal cause.",
+            "hit": false
+        },
+        {
+            "step": "<Step 2> Imaging studies were performed to rule out central nervous system-related causes for vomiting due to the patient's history of hydrocephalus, ventriculoperitoneal shunting, and neurodevelopmental delays.",
+            "hit": false
+        },
+        {
+            "step": "<Step 3> CT and MRI confirmed the molar tooth sign, indicating Joubert Syndrome; key findings included vermian agenesis, thickened and horizontalized superior cerebellar peduncles, and a deepened interpeduncular fossa.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Polymicrogyria, corpus callosum hypotrophy, and encephalocele were identified as rare malformations associated with Joubert Syndrome, supporting the diagnosis.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> A full-body evaluation ruled out systemic involvement such as nephronophthisis, hepatic fibrosis, retinal dystrophy, and polydactyly, confirming a \"pure\" form of Joubert Syndrome.",
+            "hit": false
+        },
+        {
+            "step": "<Step 6> Vomiting was attributed to hyperdrainage of the ventriculoperitoneal shunt, with imaging showing a collapsed ventricular system.",
+            "hit": false
+        },
+        {
+            "step": "<Step 7> Final diagnosis: Joubert Syndrome (pure form) with neurodevelopmental delays, hypotonia, and chronic vomiting secondary to shunt overdrainage.",
+            "hit": false
+        },
+        {
+            "step": "<Step 8> Diagnosis was based on clinical presentation and confirmation of the pathognomonic molar tooth sign on MRI.",
+            "hit": true
+        },
+        {
+            "step": "<Step 9> Systemic involvement characteristic of related disorders was excluded during the diagnostic process.",
+            "hit": false
+        }
+    ],
+    "efficiency": 0.8,
+    "factulity": 1.0,
+    "recall": 0.3333333333333333
+}

@@ -1,0 +1,127 @@
+{
+    "raw_case": "\nA rare pediatric case of FDG-avid synovial herniation pits\nSynovial herniation pits are benign, round radiolucent lesions surrounded by a thin sclerotic rim within the superolateral aspect of the proximal femoral neck that are most commonly seen in the physically active adult population. Here we report, to the best of our knowledge, the first pediatric case of synovial herniation pits showing focal FDG uptake on a PET/CT scan in a 15 year old boy with Hodgkin's Lymphoma.\n\nIntroduction\n\nSynovial herniation pits are small, subcortical osseous defects often found in the superolateral aspect of the femoral neck. They have been reported to be FDG-avid in adult literature. Our aim is to report the first pediatric case of FDG-avid synovial herniation pits in a 15 year old patient with a past medical history of Hodgkin's Lymphoma to alert pediatric health care providers and imaging specialists about the benign nature of this finding, so as to avoid unnecessary surgical exploration or biopsy.\n\nCase presentation\n\nA 15-year-old boy with Hodgkin's Lymphoma presented for surveillance evaluation with 2-deoxy-2-[18F] fluoro-D-glucose positron emission tomography/computed tomography (FDG PET/CT) 4 months following cessation of chemotherapy. He was reported to be asymptomatic and clinical examination was unmarkable. A PET scan was performed from skull vertex to mid femora 63 minutes following the intravenous injection of 185 MBq of FDG together with a low dose CT for attenuation correction and anatomical localization on a Philips ingenuity TF 128 PET CT scanner (Philips Medical Systems, Cleveland). Maximum intensity projection (Fig. 1A), fused coronal PET/CT (Fig. 1B), and fused axial PET/CT (Fig. 1C) demonstrated mild focal hypermetabolism in the anterior superolateral aspect of the subcapital region of both femora, more prominent on the left. The left maximum standardized uptake value (SUVmax) was 2.7 and the right SUVmax was 2.3. Coronal (Fig. 1D) and axial low dose CT (Fig. 1E) localized the hypermetabolism to small cortical radiolucencies surrounded by thin sclerotic rims characteristic radiographic findings of synovial herniation pits [1,2].\n\nDiscussion\n\nSynovial herniation pits are benign, round radiolucent lesions most commonly found in the anterior aspect of the superolateral femoral neck [1]. They are often unilateral, though reports of bilateral pits have been published [1,2]. They are thought to occur secondary to mechanical stress from the overlying capsule and are therefore found more frequently in the physically active, adult population [1]. They have an association with femoroacetabular impingement [3]. The incidence within the adult population is approximately 5% with no reported incidence rates in the pediatric population [3]. On magnetic resonance imaging, herniation pits present as well defined lesions with central low T1 and high T2 signal. Adjacent bone marrow oedema may occasionally be present [2]. Synovial herniation pits are also reported to demonstrate increased uptake on bone scintigraphy, thought secondary to bony remodeling [4,5]. FDG uptake on PET/CT has been sparsely reported in adult patients with potential explanations including local inflammation (from mechanical stress) and suspected growth of the pit [6,7]. However, to the best of our knowledge, no such findings have been reported in the pediatric population. Histologically, herniation pits contain fibrocartilage and hyaline tissue walls filled with fibroareolar tissue [1]. Despite their potential to grow over time, they are most often incidental findings of no clinical significance [3]. Accurate diagnosis may prevent unnecessary surgical interventions, particularly in children with oncological diagnoses.\n\nConclusion\n\nHere we report, to the best of our knowledge, the first pediatric case of synovial herniation pits showing focal FDG uptake on a PET/CT scan in a 15-year-old boy with Hodgkin's Lymphoma. Pediatric health care providers and imaging specialists should be aware of the benign nature of this finding on FDG PET/CT so as to avoid unnecessary surgical excision or biopsy.\n\nPatient consent\n\nPersonal patient information was removed from the presented radiology images and appropriate patient consent was acquired.\n\nCRediT authorship contribution statement\n\nKaran Bir Singh: Writing – original draft, Writing – review & editing, Visualization. Monica A. Rossleigh: Writing – review & editing. Sumanth Nagabushan: Writing – review & editing. Ivan Ho Shon: Conceptualization, Writing – review & editing, Visualization, Supervision.",
+    "generate_case": {
+        "case_summary": "- Patient Information: 15-year-old male \n- Chief Complaint: None (asymptomatic)\n- History of Present Illness: None\n- Past Medical History: Hodgkin’s Lymphoma, completed chemotherapy 4 months prior\n- Personal History: Physically active\n- Family History: None reported\n- Physical Examination: Normal \n- Ancillary Tests: FDG PET/CT scan revealed mild focal FDG uptake localized to small cortical radiolucencies surrounded by thin sclerotic rims in the anterior superolateral aspect of the subcapital region of both femora (left SUVmax 2.7, right SUVmax 2.3), consistent with synovial herniation pits.",
+        "differential_diagnosis": "- Synovial herniation pits were identified as characteristic lesions based on radiographic findings (cortical radiolucencies with thin sclerotic rims). Given their benign nature and typical anatomical localization, they were the primary consideration.\n- Other possible causes of FDG uptake, such as malignant bone lesions or metastases, were excluded due to the absence of clinical symptoms, normal physical examination, lack of destructive changes on imaging, and the patient’s history of Hodgkin’s Lymphoma being in remission.\n- Growth or local inflammation associated with synovial herniation pits was considered to explain FDG avidity, which has been previously documented in adults. No other pathological findings necessitating further diagnostic workup or invasive intervention were present.",
+        "final_diagnosis": "FDG-avid synovial herniation pits (bilateral).",
+        "diagnosis_results": "FDG-avid synovial herniation pits."
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-8-4",
+    "checked_rare_disease": [
+        "Hodgkin lymphoma"
+    ],
+    "id": "PMC11414554",
+    "results": {
+        "content": "### Resoning:\n<step 1> **Analyze the Chief Complaint and History of Present Illness:** The patient is asymptomatic and has no current complaints. This immediately reduces the urgency and likelihood of acute or severe conditions causing noticeable symptoms.\n\n<step 2> **Review Past Medical History:**  The patient has a history of Hodgkin's Lymphoma treated with chemotherapy, completed 4 months prior. This is a significant piece of information. While the cancer treatment is completed, it raises the possibility of long-term effects of chemotherapy or recurrence/metastasis, although recurrence is less likely given the asymptomatic nature and the timeframe post-treatment. However, chemotherapy can impact bone health and metabolism.\n\n<step 3> **Evaluate Physical Examination and Personal/Family History:** The physical examination is normal, which further supports the asymptomatic nature of the case and reduces the likelihood of obvious physical manifestations of disease.  The personal history of being physically active is relevant as it can relate to musculoskeletal findings.  No significant family history is reported, which is less pertinent in this case but is routinely noted.\n\n<step 4> **Interpret Ancillary Tests: FDG PET/CT Scan:** This is the most crucial piece of diagnostic information. The scan reveals \"mild focal FDG uptake localized to small cortical radiolucencies surrounded by thin sclerotic rims in the anterior superolateral aspect of the subcapital region of both femora\".  Crucially, the report states these findings are \"consistent with synovial herniation pits\".  SUVmax values of 2.7 and 2.3 are described as mild uptake.\n\n<step 5> **Understand Synovial Herniation Pits (Pitt's Pits):** Synovial herniation pits are benign, common, and often incidental findings, particularly in young adults. They are cortical defects in the femoral neck resulting from herniation of synovial tissue through the bone cortex. They are typically asymptomatic and radiologically characteristic: small radiolucencies with sclerotic borders in the femoral neck.\n\n<step 6> **Correlate PET/CT findings with Synovial Herniation Pits and FDG Uptake:** While synovial herniation pits are benign, FDG uptake on PET scans usually warrants consideration of malignancy or inflammation. However, mild FDG uptake can be seen in benign lesions due to bone remodeling or physiological activity.  In this context, with the description \"consistent with synovial herniation pits\" and the mild SUVmax values, the FDG uptake is likely related to benign bone turnover within or around the pits, rather than representing malignancy or significant pathology.  The low SUVmax further supports a benign interpretation.\n\n<step 7> **Formulate the Final Diagnosis:** Based on the asymptomatic presentation, the characteristic radiological findings on PET/CT described as \"consistent with synovial herniation pits\", and the mild FDG uptake which can be attributed to benign processes in this context, the most likely diagnosis is bilateral synovial herniation pits of the femora. The prior history of Hodgkin's Lymphoma is important context, but the current findings are highly suggestive of a benign, unrelated condition.\n\n### Answer:\nBilateral Synovial Herniation Pits of the Femora"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Analyze the Chief Complaint and History of Present Illness:** The patient is asymptomatic and has no current complaints. This immediately reduces the urgency and likelihood of acute or severe conditions causing noticeable symptoms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Review Past Medical History:**  The patient has a history of Hodgkin's Lymphoma treated with chemotherapy, completed 4 months prior. This is a significant piece of information. While the cancer treatment is completed, it raises the possibility of long-term effects of chemotherapy or recurrence/metastasis, although recurrence is less likely given the asymptomatic nature and the timeframe post-treatment. However, chemotherapy can impact bone health and metabolism.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Evaluate Physical Examination and Personal/Family History:** The physical examination is normal, which further supports the asymptomatic nature of the case and reduces the likelihood of obvious physical manifestations of disease.  The personal history of being physically active is relevant as it can relate to musculoskeletal findings.  No significant family history is reported, which is less pertinent in this case but is routinely noted.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpret Ancillary Tests: FDG PET/CT Scan:** This is the most crucial piece of diagnostic information. The scan reveals \"mild focal FDG uptake localized to small cortical radiolucencies surrounded by thin sclerotic rims in the anterior superolateral aspect of the subcapital region of both femora\".  Crucially, the report states these findings are \"consistent with synovial herniation pits\".  SUVmax values of 2.7 and 2.3 are described as mild uptake.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Understand Synovial Herniation Pits (Pitt's Pits):** Synovial herniation pits are benign, common, and often incidental findings, particularly in young adults. They are cortical defects in the femoral neck resulting from herniation of synovial tissue through the bone cortex. They are typically asymptomatic and radiologically characteristic: small radiolucencies with sclerotic borders in the femoral neck.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Correlate PET/CT findings with Synovial Herniation Pits and FDG Uptake:** While synovial herniation pits are benign, FDG uptake on PET scans usually warrants consideration of malignancy or inflammation. However, mild FDG uptake can be seen in benign lesions due to bone remodeling or physiological activity.  In this context, with the description \"consistent with synovial herniation pits\" and the mild SUVmax values, the FDG uptake is likely related to benign bone turnover within or around the pits, rather than representing malignancy or significant pathology.  The low SUVmax further supports a benign interpretation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Formulate the Final Diagnosis:** Based on the asymptomatic presentation, the characteristic radiological findings on PET/CT described as \"consistent with synovial herniation pits\", and the mild FDG uptake which can be attributed to benign processes in this context, the most likely diagnosis is bilateral synovial herniation pits of the femora. The prior history of Hodgkin's Lymphoma is important context, but the current findings are highly suggestive of a benign, unrelated condition.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Synovial herniation pits were identified as characteristic lesions based on radiographic findings (cortical radiolucencies with thin sclerotic rims) and were considered primary due to their benign nature and typical anatomical localization.",
+            "hit": true
+        },
+        {
+            "step": "Other possible causes of FDG uptake, such as malignant bone lesions or metastases, were excluded due to the absence of clinical symptoms, normal physical examination, lack of destructive changes on imaging, and the patient's history of Hodgkin's Lymphoma being in remission.",
+            "hit": true
+        },
+        {
+            "step": "Growth or local inflammation associated with synovial herniation pits was considered to explain FDG avidity, which has been previously documented in adults.",
+            "hit": true
+        },
+        {
+            "step": "No other pathological findings necessitating further diagnostic workup or invasive intervention were present.",
+            "hit": true
+        },
+        {
+            "step": "Final diagnosis: FDG-avid synovial herniation pits (bilateral).",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 1.0
+}

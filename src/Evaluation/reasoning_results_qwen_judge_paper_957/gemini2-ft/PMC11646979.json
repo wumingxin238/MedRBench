@@ -1,0 +1,134 @@
+{
+    "raw_case": "\nUncommon presentation of left main congenital coronary aneurysm: a rare case report\nCoronary aneurysm, a dilated segment of the coronary artery, is a rare condition with a prevalence ranging from 0.02% to 0.2%. According to the current literature, reports of large aneurysms in the left main artery are extremely rare. We present a case of a 43-year-old male patient presenting with cough, wheezing, and dyspnea after a cold. Initial examinations suggested viral myocarditis, but further evaluation revealed a giant aneurysm in the left main coronary artery. Due to the high surgical risk, conservative treatment was chosen. Follow-up assessments showed no significant changes in the coronary aneurysm, with slight improvement in dyspnea. This rare case of a left main congenital coronary aneurysm suggests that treatment should consider the patient's overall condition, thrombosis presence, suitability for anticoagulant therapy, and aneurysm location and size.1\n\nBackground\n\nCoronary angioma is characterized as a dilated segment of the coronary artery that exceeds 1.5 times the diameter of adjacent normal segments (1). Based on current literature, the prevalence of large coronary aneurysms ranges from 0.02% to 0.2% (2). However, the prevalence of large coronary aneurysms measuring 5 cm or more in diameter is even lower, less than 0.02% (1–3). The right coronary artery is the most commonly affected, accounting for 40%–70% of cases, followed by the circumferential artery (23%) and the anterior descending branch (32%) (1, 2, 4). Involvement of all three vessels or the left coronary trunk is rare.2\n\nCase presentation\n\nThis case report presents the clinical details of a 43-year-old male patient who developed a cough and sneezing following a recent cold. Although the cold symptoms improved with self-administered medication, the patient experienced wheezing and paroxysmal dyspnea after physical activity. An electrocardiography(ECG) at a local hospital revealed rapid ventricular rate atrial fibrillation with variable conduction.The cardiac ultrasound indicated that the LVEF was 38% and the left atrium and ventricle were enlargement with weakened ventricular septal motion. Moderate mitral and mild aortic and pulmonary regurgitation were also noted. The patient also displayed a troponin sensitivity of 0.023 ug/L. Based on these findings, the local hospital suspected viral myocarditis. The patient was referred to our cardiovascular department for further assessment. The patient's NT pro-BNP level was measured at 1,169 pg/ml, and myocardial nuclide imaging (PET) revealed increased fibroblast activation protein inhibitors(FAPI) uptake throughout the left ventricle and right atrium (Figure 1), supporting a diagnosis of myocarditis. The patient received symptomatic treatment, including hormone anti-inflammatory therapy, nutritional support for myocarditis, and gamma globulin therapy. However, these interventions provided limited relief from wheezing. Coronary angiography showed a left coronary dominant type, with no obvious stenosis in the left main trunk but a 2.7 × 2.3 cm aneurysm in the distal part of the left main trunk. No stenosis was observed in the anterior descending branch, circumflex branch, or right coronary artery (Figure 2). Autoimmune workup, including ANA, anti-dsDNA, ENA antibody profile, and ANCA, returned negative results, ruling out autoimmune causes of the aneurysm. Given the giant aneurysm in the left main trunk, myocarditis, and heart failure with intermediate ejection fraction, open-heart surgery with cardiopulmonary bypass, partial tumor resection, and coronary artery bypass grafting was recommended. However, due to the high risk, the patient and family opted for conservative treatment. As intravascular ultrasound (IVUS) was not performed during coronary angiography, antithrombotic or anticoagulant therapy was not initiated. Instead, the patient was prescribed atorvastatin 20 mg nightly and metoprolol succinate sustained-release 47.5 mg daily.The patient was closely monitored at 3, 6, 9, and 12 months post-discharge. During follow-up, the coronary aneurysm showed no significant changes, and the patient reported slight improvement in dyspnea, though other symptoms and physical signs remained stable.3\n\nDiscussion\n\nThe exact cause of coronary aneurysm formation remains unclear. However, studies have shown that matrix metalloproteinases play a role in the pathogenesis of CAA formation by increasing the breakdown of proteins in the extracellular matrix (5, 6). These enzymes have the ability to degrade various components of the arterial wall matrix and are found in higher concentrations in aneurysms. There is no consensus on the definition of a giant coronary aneurysm. In most literature, it is considered a giant coronary aneurysm if the dilation of the coronary artery is more than 1.5 times the diameter of adjacent normal reference vessels or if the vessel diameter is directly greater than 20 mm (7–9).Coronary aneurysms can have several etiologies, including atherosclerosis, autoimmune diseases, and Kawasaki disease (9, 10). In this case, the patient's autoimmune screening and coronary angiography findings were negative, suggesting a high likelihood of congenital origin. Coronary aneurysms can present with a range of clinical manifestations, such as asymptomatic chest pain, chest tightness, and pericardial tamponade (11). Initially, the patient did not experience any symptoms but was admitted to the hospital this time due to wheezing and dyspnea after catching a cold. Myocardial nuclide imaging was performed to consider myocarditis, but the symptoms did not improve significantly with treatment. Subsequent coronary angiography revealed the presence of a large coronary aneurysm.Thrombus formation occurs in coronary aneurysms due to slow blood flow and platelet activation. To better assess aneurysm condition, intravascular ultrasound (IVUS) is recommended when a coronary aneurysm is detected via angiography. In the case with thrombosis, coagulation function, thromboelastography (TEG), and platelet function tests are advised. With timely anticoagulation or antithrombotic therapyare necessary. According to a 2021 study by Tuncay Taskesen, patients without symptoms, coronary occlusion, or thrombosis may not require specialized treatment (12). Additionally, Cihan Ozturk reported a case of an asymptomatic patient with a right coronary aneurysm who remained symptom-free for many years (13). However, for patients with obstructive coronary artery disease symptoms or myocardial ischemia due to embolization, surgical intervention is appropriate. Surgical options include interventional therapy, aneurysm excision, ligation, or coronary artery bypass surgery (2). In a notable 2024 case report by Najdat Bazarbashi, a patient with a large coronary aneurysm was successfully treated with a combination of stent placement and coil embolization (14). For cases involving multiple vessel disease, left main coronary artery aneurysm, or complications like fistula, compression, or rupture, surgical treatment is typically indicated. However, our patient opted for conservative management, which led to symptom alleviation over follow-up. If symptoms worsen, surgical or interventional treatments may become necessary, though surgical costs are high, and clinical evidence on specific prognostic outcomes is limited.4\n\nConclusion\n\nLeft main congenital coronary aneurysms are exceedingly rare. Proper diagnosis and treatment require assessment of thrombus presence within the aneurysm, along with evaluation of coagulation and platelet function to guide anticoagulation or antiplatelet therapy. For surgical decision-making, factors such as aneurysm location, size, arterial wall condition, and overall patient health should be carefully considered to select an appropriate treatment approach.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 43-year-old male\n- **Chief Complaint:** Wheezing and paroxysmal dyspnea after physical activity\n- **History of Present Illness:** Developed cough and sneezing after a cold; cold symptoms resolved with self-medication, but the patient experienced worsening respiratory symptoms (wheezing and dyspnea) after exertion.\n- **Past Medical History:** None mentioned\n- **Personal History:** None mentioned\n- **Family History:** None mentioned\n- **Physical Examination:** Not explicitly mentioned\n- **Ancillary Tests:**\n  - ECG: Rapid ventricular rate atrial fibrillation with variable conduction\n  - Cardiac ultrasound: LVEF 38%, left atrium and ventricle enlargement, weakened ventricular septal motion, moderate mitral regurgitation, mild aortic, and pulmonary regurgitation\n  - Troponin sensitivity: 0.023 µg/L\n  - NT pro-BNP: 1,169 pg/ml\n  - Myocardial nuclide imaging: Increased fibroblast activation protein inhibitors (FAPI) uptake in the left ventricle and right atrium, suggestive of myocarditis\n  - Coronary angiography: Aneurysm (2.7 × 2.3 cm) in the distal left main coronary artery without significant stenosis in other coronary vessels\n  - Autoimmune workup: Negative (ANA, anti-dsDNA, ENA antibody profile, ANCA)",
+        "differential_diagnosis": "1. **Initial considerations based on symptoms of dyspnea and wheezing:**\n   - Viral myocarditis: Initially suspected due to recent viral illness, elevated troponin, NT pro-BNP levels, and findings on PET imaging (myocardial FAPI uptake). However, limited symptom improvement despite treatment.\n   - Heart failure with reduced ejection fraction: Supported by LVEF reduction (38%), left atrium and ventricle enlargement, and elevated NT pro-BNP. Contributory but secondary diagnosis.\n   - Pulmonary conditions (e.g., asthma, COPD): Excluded due to cardiovascular findings and absence of prior history or signs of chronic lung disease.\n\n2. **Revised considerations upon identification of coronary aneurysm:**\n   - Coronary atherosclerosis and autoimmune causes (e.g., vasculitis, Kawasaki disease): Excluded as coronary angiography and autoimmune workup findings were negative.\n   - Congenital coronary artery aneurysm: Highly likely, given no evidence of atherosclerosis or autoimmune processes and the detection of a large aneurysm in the left main coronary artery.\n\n3. **Final differentiation:**\n   - Congenital origin considered the most probable cause of the coronary aneurysm, given negative inflammatory/autoimmune findings and lack of other risk factors. The aneurysm contributed to symptoms of dyspnea and abnormal cardiac function.",
+        "final_diagnosis": "Left main congenital coronary artery aneurysm, with secondary myocarditis and heart failure with intermediate ejection fraction.",
+        "diagnosis_results": "Left main congenital coronary artery aneurysm"
+    },
+    "body_category": [
+        "Blood, Heart and Circulation"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-10-01",
+    "checked_rare_disease": [
+        "Congenital coronary artery aneurysm"
+    ],
+    "id": "PMC11646979",
+    "results": {
+        "content": "### Resoning:\n<step 1> Analyze the Chief Complaint and History of Present Illness: The patient is a 43-year-old male presenting with wheezing and paroxysmal dyspnea after physical activity. These are respiratory symptoms that worsened after a cold. While initial cold symptoms resolved, the respiratory issues persisted and were exacerbated by exertion. This points towards a potential underlying respiratory or cardiovascular issue triggered by a preceding infection.\n\n<step 2> Evaluate ECG Findings: The ECG reveals \"Rapid ventricular rate atrial fibrillation with variable conduction.\" Atrial fibrillation is a cardiac arrhythmia characterized by rapid and irregular heartbeats originating from the atria. The rapid ventricular rate signifies that the ventricles are also beating quickly and irregularly. This is a significant cardiac abnormality and requires immediate attention.\n\n<step 3> Analyze Cardiac Ultrasound Findings: The cardiac ultrasound shows multiple concerning findings:\n    * LVEF 38%: This is a significantly reduced Left Ventricular Ejection Fraction, indicating systolic heart failure. Normal LVEF is typically above 55%.\n    * Left atrium and ventricle enlargement: This suggests cardiac remodeling, often seen in chronic heart conditions or heart failure.\n    * Weakened ventricular septal motion: Indicates impaired contractility of the heart muscle, further supporting myocardial dysfunction.\n    * Moderate mitral regurgitation, mild aortic, and pulmonary regurgitation: These are valvular insufficiencies, likely secondary to the chamber enlargement and myocardial dysfunction, which can contribute to heart failure symptoms.\n\n<step 4> Interpret Biomarker Results:\n    * Troponin sensitivity 0.023 µg/L: This is a slightly elevated troponin level, indicating myocardial injury or damage. While not dramatically high, it's above the normal range and is clinically significant in this context.\n    * NT pro-BNP 1,169 pg/ml: This is a significantly elevated NT pro-BNP level, a strong marker for heart failure and cardiac stress. Levels above 125 pg/ml are generally considered elevated, and this level strongly supports the presence of heart failure.\n\n<step 5> Assess Myocardial Nuclide Imaging: The myocardial nuclide imaging shows \"Increased fibroblast activation protein inhibitors (FAPI) uptake in the left ventricle and right atrium, suggestive of myocarditis.\" FAPI uptake is indicative of fibroblast activation, which is a hallmark of myocardial inflammation and fibrosis, strongly suggesting myocarditis (inflammation of the heart muscle). This is a crucial finding that explains the cardiac dysfunction and elevated biomarkers.\n\n<step 6> Consider Coronary Angiography Findings:  The coronary angiography reveals an \"Aneurysm (2.7 × 2.3 cm) in the distal left main coronary artery without significant stenosis in other coronary vessels.\" A coronary artery aneurysm is an abnormal dilation of a coronary artery. While this is an important finding that needs further investigation and management, it is less likely to be the primary cause of the acute symptoms of dyspnea and wheezing, especially given the strong evidence for myocarditis and heart failure. It should be noted but considered a potentially incidental finding in the acute setting, requiring further evaluation for its etiology and management.\n\n<step 7> Review Autoimmune Workup: The autoimmune workup is \"Negative (ANA, anti-dsDNA, ENA antibody profile, ANCA).\" This makes autoimmune causes of myocarditis less likely, but does not entirely rule them out, as some autoimmune myocarditis can be antibody-negative. It increases the likelihood of viral or idiopathic myocarditis, especially given the history of a preceding cold.\n\n<step 8> Synthesize all findings to formulate a final diagnosis:  The constellation of findings – wheezing and dyspnea post-cold, atrial fibrillation, heart failure with reduced ejection fraction, elevated cardiac biomarkers, and FAPI scan suggestive of myocarditis – strongly points to **myocarditis-induced heart failure with reduced ejection fraction and atrial fibrillation**. The coronary artery aneurysm is a separate, significant finding that needs to be addressed but is not the primary driver of the acute presentation of heart failure. The wheezing is likely \"cardiac asthma,\" which is wheezing secondary to heart failure.\n\n### Answer:\nMyocarditis-induced heart failure with reduced ejection fraction and atrial fibrillation."
+    },
+    "reasoning_eval": [
+        {
+            "step": "Analyze the Chief Complaint and History of Present Illness: The patient is a 43-year-old male presenting with wheezing and paroxysmal dyspnea after physical activity. These are respiratory symptoms that worsened after a cold. While initial cold symptoms resolved, the respiratory issues persisted and were exacerbated by exertion. This points towards a potential underlying respiratory or cardiovascular issue triggered by a preceding infection.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Evaluate ECG Findings: The ECG reveals \"Rapid ventricular rate atrial fibrillation with variable conduction.\" Atrial fibrillation is a cardiac arrhythmia characterized by rapid and irregular heartbeats originating from the atria. The rapid ventricular rate signifies that the ventricles are also beating quickly and irregularly. This is a significant cardiac abnormality and requires immediate attention.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Analyze Cardiac Ultrasound Findings: The cardiac ultrasound shows multiple concerning findings:\n    * LVEF 38%: This is a significantly reduced Left Ventricular Ejection Fraction, indicating systolic heart failure. Normal LVEF is typically above 55%.\n    * Left atrium and ventricle enlargement: This suggests cardiac remodeling, often seen in chronic heart conditions or heart failure.\n    * Weakened ventricular septal motion: Indicates impaired contractility of the heart muscle, further supporting myocardial dysfunction.\n    * Moderate mitral regurgitation, mild aortic, and pulmonary regurgitation: These are valvular insufficiencies, likely secondary to the chamber enlargement and myocardial dysfunction, which can contribute to heart failure symptoms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Interpret Biomarker Results:\n    * Troponin sensitivity 0.023 µg/L: This is a slightly elevated troponin level, indicating myocardial injury or damage. While not dramatically high, it's above the normal range and is clinically significant in this context.\n    * NT pro-BNP 1,169 pg/ml: This is a significantly elevated NT pro-BNP level, a strong marker for heart failure and cardiac stress. Levels above 125 pg/ml are generally considered elevated, and this level strongly supports the presence of heart failure.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Assess Myocardial Nuclide Imaging: The myocardial nuclide imaging shows \"Increased fibroblast activation protein inhibitors (FAPI) uptake in the left ventricle and right atrium, suggestive of myocarditis.\" FAPI uptake is indicative of fibroblast activation, which is a hallmark of myocardial inflammation and fibrosis, strongly suggesting myocarditis (inflammation of the heart muscle). This is a crucial finding that explains the cardiac dysfunction and elevated biomarkers.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Consider Coronary Angiography Findings:  The coronary angiography reveals an \"Aneurysm (2.7 × 2.3 cm) in the distal left main coronary artery without significant stenosis in other coronary vessels.\" A coronary artery aneurysm is an abnormal dilation of a coronary artery. While this is an important finding that needs further investigation and management, it is less likely to be the primary cause of the acute symptoms of dyspnea and wheezing, especially given the strong evidence for myocarditis and heart failure. It should be noted but considered a potentially incidental finding in the acute setting, requiring further evaluation for its etiology and management.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Review Autoimmune Workup: The autoimmune workup is \"Negative (ANA, anti-dsDNA, ENA antibody profile, ANCA).\" This makes autoimmune causes of myocarditis less likely, but does not entirely rule them out, as some autoimmune myocarditis can be antibody-negative. It increases the likelihood of viral or idiopathic myocarditis, especially given the history of a preceding cold.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Synthesize all findings to formulate a final diagnosis:  The constellation of findings – wheezing and dyspnea post-cold, atrial fibrillation, heart failure with reduced ejection fraction, elevated cardiac biomarkers, and FAPI scan suggestive of myocarditis – strongly points to **myocarditis-induced heart failure with reduced ejection fraction and atrial fibrillation**. The coronary artery aneurysm is a separate, significant finding that needs to be addressed but is not the primary driver of the acute presentation of heart failure. The wheezing is likely \"cardiac asthma,\" which is wheezing secondary to heart failure.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Initial considerations based on symptoms of dyspnea and wheezing: Viral myocarditis initially suspected due to recent viral illness, elevated troponin, NT pro-BNP levels, and myocardial FAPI uptake on PET imaging; however, limited symptom improvement despite treatment. Heart failure with reduced ejection fraction supported by LVEF reduction (38%), left atrium and ventricle enlargement, and elevated NT pro-BNP; considered secondary to other diagnoses. Pulmonary conditions (e.g., asthma, COPD) excluded due to cardiovascular findings and absence of prior history or signs of chronic lung disease.",
+            "hit": false
+        },
+        {
+            "step": "<Step 2> Revised considerations upon identification of coronary aneurysm: Coronary atherosclerosis and autoimmune causes (e.g., vasculitis, Kawasaki disease) excluded as coronary angiography and autoimmune workup findings were negative. Congenital coronary artery aneurysm highly likely given no evidence of atherosclerosis or autoimmune processes and detection of a large aneurysm in the left main coronary artery.",
+            "hit": false
+        },
+        {
+            "step": "<Step 3> Final differentiation: Congenital origin considered the most probable cause of the coronary aneurysm, given negative inflammatory/autoimmune findings and lack of other risk factors. The aneurysm contributed to symptoms of dyspnea and abnormal cardiac function.",
+            "hit": false
+        },
+        {
+            "step": "<Step 4> Final diagnosis: Left main congenital coronary artery aneurysm, with secondary myocarditis and heart failure with intermediate ejection fraction.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.0
+}

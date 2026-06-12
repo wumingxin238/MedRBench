@@ -1,0 +1,159 @@
+{
+    "raw_case": "\nWernicke’s encephalopathy with pinpoint pupils and diplopia\nThis case report presents the clinical findings of a female patient diagnosed with Wernicke’s encephalopathy, characterized by pinpoint pupils. While pupillary changes can occur in Wernicke’s encephalopathy, the presence of pinpoint pupils is exceedingly rare. In this report, we aim to document and discuss this unusual presentation, as well as speculate on the potential mechanisms underlying this atypical manifestation of the disease.\n\nSupplementary Information\n\nThe online version contains supplementary material available at 10.1186/s12883-024-03935-2.\n\nIntroduction\n\nWernicke’s encephalopathy is a metabolic disorder of the central nervous system caused by vitamin B1 deficiency. Its etiology can be divided into: alcohol-related (chronic alcoholism) and non-alcohol-related (such as vomiting in pregnancy, gastrointestinal surgery, frequent vomiting, chronic diarrhoea, cancer chemotherapy, dialysis, etc.).This disease often symmetrically involves the mammillary bodies, thalamus, tissue around the third ventricle, periaqueductal gray matter, and other areas of rapid glucose metabolism and sensitivity to thiamine deficiency, with the mammillary bodies being the most vulnerable site [1, 2]. Typical clinical manifestations are the ‘triad signs’ - oculomotor disorders, ataxia, and mental consciousness disorders [3]. However, in our case report, the symptoms and the MRI of the patient were not obvious upon initial admission to the hospital.She was even misdiagnosed with Miller-Fisher syndrome and exhibited rare pinpoint pupils and diplopia.\n\nCase presentation\n\nA female patient in her 50s received parenteral nutrition in the gastrointestinal surgery department for one month due to intestinal obstruction, and then developed dizziness, ocular movement disorders, bilateral pinpoint pupils, diplopia, photophobia, repeated refractory hiccups, and unsteady gait. Upon physical examination, it was revealed that the patient exhibited limited convergence reflex, adduction, abduction, upward and downward gaze of both eyes. However, the light reflex was found to be normal (Video 1). And the patient did not have ptosis or significant nystagmus.The Romberg sign was positive and tendon reflexes were decreased. Additionally, the patient’s speech comprehension ability and reaction ability were dull. The rest of the physical examination was normal.In addition, the patient denied organophosphorus or choline poisoning. The patient also denied congenital miosis and other ophthalmological disorders. Moreover, the patient’s pupils size and light reflex were normal when she was first admitted to the gastrointestinal surgery department, and her family did not notice any similar pupil abnormalities.Initially, the patient was diagnosed with Miller-Fisher syndrome in the gastrointestinal surgery department. On March 8th, brain Magnetic resonance imaging (MRI) and electromyogram (EMG) were normal (Fig. 1 March 8th). Lumbar puncture revealed no obvious protein-cell separation phenomenon, and the examination of rheumatism series showed no obvious abnormality.The patient did not receive vitamin B1 treatment during her hospitalisation in gastrointestinal surgery department. The patient was referred to the Department of Neurology on 11 March, where she was initially considered to have Wernicke’s encephalopathy and was treated with vitamin B1 immediately after blood tests for vitamin B1 levels were drawn. And on March 15th, the patient’s brain MRI showed hyper signal lesions in bilateral thalamus and aqueduct of midbrain (Fig. 1 March 15th). The blood vitamin B1 levels were low at 41.5 mmol/L (normal range: 70–180 mmol/L), and Aquaporin-4 (AQP-4) antibody presented no discernible abnormalities. As a result, Thus, the final diagnosis was Wernicke’s encephalopathy rather than Miller-Fisher syndrome and treatment with vitamin B1 was continued.After receiving vitamin B1 treatment, the patient showed significant improvement in repeated hiccups, pupil size, diplopia, ophthalmoplegia and ocular movement disorders compared to admission. On March 25th, the completed MRI of the brain revealed improvements in the high-signal lesions in the bilateral thalamus and the cerebral aqueduct of the midbrain on T2-weighted image(T2WI), diffusion weighted imaging (DWI), and T2 fluid attenuated inversion recovery (Flair) compared to before. This indicates a positive development in the patient’s condition. Subsequent outpatient follow-up indicated that the patient’s vitamin B1 levels had returned to normal. Although the patient’s pinpoint pupils had improved, they had not returned to their original size. Additionally, eye movements and diplopia were better than before.\n\n\nDiscussion and conclusion\n\nWe report a case of Wernicke’s encephalopathy with marked pinpoint pupils and diplopia in addition to the typical features of Wernicke’s encephalopathy. The initial MRI of the brain did not reveal obvious lesions [4]. And the patient was initially diagnosed with Miller-fisher syndrome.The lumbar puncture was performed without obvious abnormality. However, as the patient’s condition progressed, the lesions were observed on in the MRI. Following treatment with vitamin B1, the lesions gradually improved, but the pinpoint pupils did not return to its original size. After discharge, the patient was followed up in the outpatient clinic and was significantly better than before.While pupillary changes can occur in Wernicke’s encephalopathy, the occurrence of Wernicke’s encephalopathy with pinpoint pupils is extremely rare [5]. Numerous previous literature has shown that changes in pupil size are closely related to damage to sympathetic pathways [6–8]. Damage to different sites of the sympathetic pathway will result in different clinical symptoms.The sympathetic pathway originates in the hypothalamus, descends via the brainstem, and leaving the spinal cord and ascending within the sympathetic chain. The neurons travel first in the carotid artery wall, join the abducens nerve in the cavernous sinus, and thereafter join the ophthalmic nerve, pass the ciliary ganglion, and reach the pupillary dilator muscle [9–11].In addition, Wernicke’s encephalopathy typically involves the hypothalamus, periventricular tissues of the third ventricle, and tissues surrounding the midbrain aqueduct. Moreover, sympathetic fibres from the hypothalamus and insula pass down through the periventricular tissues of the third ventricle, where the pupil-dilating centre of the sympathetic fibres and the patient’s lesion are located.The patient’s sympathetic fibres were selectively affected, resulting in pinpoint pupils. We consider that this is the possible mechanism by which the patient developed this symptom.We also believe that patients with this disease may have normal MRI in the early stages of the disease and that the typical symptoms are a late finding, so clinicians should recognise thiamine depletion in time to enable appropriate treatment and prevention of Wernicke’s encephalopathy and full recovery [3, 4].\n\nElectronic supplementary material\n\nBelow is the link to the electronic supplementary material.\nSupplementary Material 1: Video 1. The patient had pinpoint pupils in both eyes, normal light reflexes in both eyes, limited inward and outward eye movements in both eyes, and unrestricted upward and downward movements.\n",
+    "generate_case": {
+        "case_summary": "- Patient Information: Female, in her 50s.\n- Chief Complaint: None.\n- History of Present Illness: A month of parenteral nutrition due to intestinal obstruction. Developed dizziness, ocular movement disorders, bilateral pinpoint pupils, diplopia, photophobia, refractory hiccups, and unsteady gait.\n- Past Medical History: None specified.\n- Personal History: None.\n- Family History: No similar pupil abnormalities reported.\n- Physical Examination: Limited convergence reflex, adduction, abduction, upward and downward gaze of both eyes; normal light reflex; positive Romberg sign; decreased tendon reflexes; dull speech comprehension and reaction; rest of the physical examination normal.\n- Ancillary Tests: \n  - Initial MRI and EMG (March 8): Normal.\n  - Lumbar puncture: No protein-cell separation.\n  - Vitamin B1 levels: Low (41.5 mmol/L; normal 70–180 mmol/L).\n  - Aquaporin-4 (AQP-4) antibody: Normal.\n  - Repeat MRI (March 15): Hyper signal lesions in bilateral thalamus and aqueduct of midbrain.\n  - MRI (March 25): Improved lesions.",
+        "differential_diagnosis": "1. **Initial Diagnosis: Miller-Fisher Syndrome**  \n   - Rationale: Presented with diplopia, ophthalmoplegia, and ataxia, but no typical oculomotor symptoms of Wernicke’s encephalopathy or clear MRI findings initially. Lumbar puncture did not support a Miller-Fisher syndrome diagnosis (no protein-cell separation).\n   - Exclusion: MRI later showed lesions typical of Wernicke’s encephalopathy; blood work confirmed thiamine deficiency.\n\n2. **Revised Diagnosis: Wernicke’s Encephalopathy Secondary to Thiamine Deficiency**  \n   - Rationale: Clinical triad (oculomotor disorders, ataxia, mental status changes) supported by hyper signal lesions in thalamus and midbrain aqueduct on follow-up MRI, low thiamine levels, and improvement after thiamine treatment.\n   - Considered Rare Feature: Bilateral pinpoint pupils likely due to sympathetic pathway involvement at the periventricular tissues of the third ventricle.\n\n3. **Exclusions of Other Conditions:**\n   - Organophosphorus or choline poisoning: Denied by patient.\n   - Congenital miosis or other ophthalmological disorders: Denied by patient and family.\n   - Acute neurological pathologies: Ruled out by clinical course and improvement with thiamine.",
+        "final_diagnosis": "Wernicke’s encephalopathy with rare presentation of bilateral pinpoint pupils and diplopia, secondary to prolonged thiamine deficiency.",
+        "diagnosis_results": "Wernicke's encephalopathy."
+    },
+    "body_category": [
+        "Brain and Nerves"
+    ],
+    "disorder_category": [
+        "Metabolic Problems"
+    ],
+    "receive_time": "2024-9-7",
+    "checked_rare_disease": [],
+    "id": "PMC11523574",
+    "results": {
+        "content": "### Resoning:\n<step 1> Analyze the patient's chief complaint and history of present illness. The patient presents with neurological symptoms (dizziness, ocular movement disorders, pinpoint pupils, diplopia, photophobia, hiccups, unsteady gait) that developed after a month of parenteral nutrition for intestinal obstruction. The absence of a chief complaint at presentation in the summary is likely an error or refers to the initial consultation before symptom onset. The crucial point is the temporal relationship between parenteral nutrition and the onset of neurological symptoms.\n\n<step 2> Consider the past medical, personal, and family history. These are non-contributory, making underlying genetic or pre-existing conditions less likely to be the primary cause of the acute neurological symptoms.\n\n<step 3> Evaluate the physical examination findings.  Limited convergence, adduction, abduction, upward and downward gaze, pinpoint pupils, positive Romberg, decreased tendon reflexes, and dull speech comprehension/reaction strongly suggest neurological dysfunction, particularly affecting the brainstem and cerebellum. The normal light reflex despite pinpoint pupils is an important observation to note.\n\n<step 4> Analyze the ancillary tests, starting with the most significant finding: low Vitamin B1 level. This is a critical piece of information, especially in the context of parenteral nutrition. Thiamine (Vitamin B1) deficiency is a known cause of neurological disorders, particularly Wernicke encephalopathy.\n\n<step 5> Evaluate the MRI findings. The repeat MRI showing hyper signal lesions in bilateral thalamus and aqueduct of midbrain is highly suggestive of Wernicke encephalopathy. These are classic locations for lesions associated with thiamine deficiency. The improvement on a later MRI suggests a reversible process, consistent with nutritional deficiency and treatment response. The initial normal MRI might have been too early in the disease course to show clear lesions.\n\n<step 6> Consider the lumbar puncture result. The absence of protein-cell separation helps to rule out inflammatory or infectious etiologies like meningitis or encephalitis.\n\n<step 7> Assess the normal AQP-4 antibody result. This helps to rule out Neuromyelitis Optica Spectrum Disorder (NMOSD) as a primary cause of the brainstem symptoms.\n\n<step 8> Synthesize all findings to formulate a diagnosis. The constellation of symptoms (neurological deficits, ocular movement disorders, ataxia, altered mental status), the risk factor (parenteral nutrition leading to potential thiamine deficiency), the laboratory finding (low Vitamin B1), and the characteristic MRI findings strongly point towards Wernicke encephalopathy as the most likely diagnosis. The improvement on repeat MRI further supports this diagnosis, indicating a response to likely thiamine repletion.\n\n<step 9> Differentiate from other possible diagnoses. While other conditions might initially be considered (e.g., brainstem stroke, encephalitis, drug toxicity), the clinical picture, particularly the low Vitamin B1 and the MRI findings specific to Wernicke encephalopathy, make it the most compelling diagnosis. The normal light reflex with pinpoint pupils, while somewhat atypical for classic opioid overdose, can be seen in pontine lesions, and in the context of Wernicke's, the overall picture fits.\n\n### Answer:\nWernicke encephalopathy"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Analyze the patient's chief complaint and history of present illness. The patient presents with neurological symptoms (dizziness, ocular movement disorders, pinpoint pupils, diplopia, photophobia, hiccups, unsteady gait) that developed after a month of parenteral nutrition for intestinal obstruction. The absence of a chief complaint at presentation in the summary is likely an error or refers to the initial consultation before symptom onset. The crucial point is the temporal relationship between parenteral nutrition and the onset of neurological symptoms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Consider the past medical, personal, and family history. These are non-contributory, making underlying genetic or pre-existing conditions less likely to be the primary cause of the acute neurological symptoms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Evaluate the physical examination findings.  Limited convergence, adduction, abduction, upward and downward gaze, pinpoint pupils, positive Romberg, decreased tendon reflexes, and dull speech comprehension/reaction strongly suggest neurological dysfunction, particularly affecting the brainstem and cerebellum. The normal light reflex despite pinpoint pupils is an important observation to note.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Analyze the ancillary tests, starting with the most significant finding: low Vitamin B1 level. This is a critical piece of information, especially in the context of parenteral nutrition. Thiamine (Vitamin B1) deficiency is a known cause of neurological disorders, particularly Wernicke encephalopathy.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Evaluate the MRI findings. The repeat MRI showing hyper signal lesions in bilateral thalamus and aqueduct of midbrain is highly suggestive of Wernicke encephalopathy. These are classic locations for lesions associated with thiamine deficiency. The improvement on a later MRI suggests a reversible process, consistent with nutritional deficiency and treatment response. The initial normal MRI might have been too early in the disease course to show clear lesions.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Consider the lumbar puncture result. The absence of protein-cell separation helps to rule out inflammatory or infectious etiologies like meningitis or encephalitis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Assess the normal AQP-4 antibody result. This helps to rule out Neuromyelitis Optica Spectrum Disorder (NMOSD) as a primary cause of the brainstem symptoms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Synthesize all findings to formulate a diagnosis. The constellation of symptoms (neurological deficits, ocular movement disorders, ataxia, altered mental status), the risk factor (parenteral nutrition leading to potential thiamine deficiency), the laboratory finding (low Vitamin B1), and the characteristic MRI findings strongly point towards Wernicke encephalopathy as the most likely diagnosis. The improvement on repeat MRI further supports this diagnosis, indicating a response to likely thiamine repletion.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Differentiate from other possible diagnoses. While other conditions might initially be considered (e.g., brainstem stroke, encephalitis, drug toxicity), the clinical picture, particularly the low Vitamin B1 and the MRI findings specific to Wernicke encephalopathy, make it the most compelling diagnosis. The normal light reflex with pinpoint pupils, while somewhat atypical for classic opioid overdose, can be seen in pontine lesions, and in the context of Wernicke's, the overall picture fits.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Presented with diplopia, ophthalmoplegia, and ataxia, but no typical oculomotor symptoms of Wernicke’s encephalopathy or clear MRI findings initially; lumbar puncture did not support a Miller-Fisher syndrome diagnosis (no protein-cell separation).",
+            "hit": false
+        },
+        {
+            "step": "<Step 2> MRI later showed lesions typical of Wernicke’s encephalopathy; blood work confirmed thiamine deficiency.",
+            "hit": false
+        },
+        {
+            "step": "<Step 3> Clinical triad (oculomotor disorders, ataxia, mental status changes) supported by hyper signal lesions in thalamus and midbrain aqueduct on follow-up MRI, low thiamine levels, and improvement after thiamine treatment.",
+            "hit": false
+        },
+        {
+            "step": "<Step 4> Bilateral pinpoint pupils likely due to sympathetic pathway involvement at the periventricular tissues of the third ventricle.",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> Patient denied organophosphorus or choline poisoning.",
+            "hit": false
+        },
+        {
+            "step": "<Step 6> Patient and family denied congenital miosis or other ophthalmological disorders.",
+            "hit": false
+        },
+        {
+            "step": "<Step 7> Acute neurological pathologies ruled out by clinical course and improvement with thiamine.",
+            "hit": false
+        },
+        {
+            "step": "<Step 8> Final diagnosis: Wernicke’s encephalopathy with rare presentation of bilateral pinpoint pupils and diplopia, secondary to prolonged thiamine deficiency.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.0
+}

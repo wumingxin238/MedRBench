@@ -1,0 +1,144 @@
+{
+    "raw_case": "\nHepatocellular adenoma with activation of the β-catenin mutation pathway mimicking intrahepatic cholangiocarcinoma: Case report\nHepatocellular adenomas are relatively rare benign tumors of the liver that primarily develop in young women, particularly those who use oral contraceptive pills. There are 4 distinct subtypes of these tumors. Among them, β-catenin-mutated adenomas constitute approximately 10% to 15% and are notable for their potential to undergo malignant transformation. In this report, we present the case of a young patient who had a 4 cm hepatic lesion. The initial imaging studies, particularly an MRI, suggested that the lesion might be an intrahepatic cholangiocarcinoma. However, upon further histological examination, the lesion was identified as a benign hepatic adenoma, with activation of the β-catenin mutation pathway. Due to the associated risk of malignant transformation, the treatment plan included surgical resection of the adenoma. This approach is critical in managing such lesions to prevent any potential progression to hepatocellular carcinoma.\n\nIntroduction\n\nHepatocellular adenomas (HCAs) are rare benign liver tumors that primarily occur in young women taking oral contraceptives. The molecular classification identifies 4 subtypes of adenomas with significantly different evolutionary profiles. β-catenin-mutated adenomas account for 10%-15% of HCAs and are associated with malignant transformations to hepatocellular carcinoma [1]. Magnetic resonance imaging (MRI) is superior to other imaging modalities for diagnosis and surveillance of HCA allowing for subtype differentiation in up to 80% of cases. However, histology should be performed when the MRI is inconclusive [2].\n\nCase report\n\nWe report the case of a 50-year-old female patient with controlled hypertension on Valsartan and amlodipine, with no history of long-term oral contraceptive use. She presented to the consultation with right upper quadrant pain lasting for 2 months, accompanied by a weight loss of 5 kg in the absence of any other digestive or extra-digestive symptoms. Clinical examination revealed a patient in good general condition, non-icteric.Hepatobiliary ultrasound showed a gallbladder with multiple stones and a slightly hyperechoic and heterogeneous image in segment IV, measuring approximately 40 mm with slight Doppler signal uptake.Biological assessment indicated cholestasis (ALP: 2N, GGT: 3N) with normal bilirubin levels.Liver MRI revealed a liver of normal size with regular contours, showing a lesion in segment IV measuring 41 mm, hypointense on T1 and T2, with slight diffusion restriction and moderate late enhancement after gadolinium injection, primarily suggesting intrahepatic cholangiocarcinoma (Fig. 1). The intrahepatic bile ducts and the main bile duct appeared thin, with no obstructive images.A CT-guided biopsy was performed, and histology suggested benign cellular proliferation composed of hepatocytes with normal morphology, arranged in disorganized and branched trabeculae, with a normal reticulin framework on special reticulin staining. The immunohistochemical study on the DAKO platform showed diffuse membranous positivity for anti-β-catenin antibodies and diffuse cytoplasmic positivity for anti-glutamine synthetase antibodies, suggesting a hepatocellular adenoma with activation of the β-catenin pathway (Fig. 2).Management consisted of curative surgical treatment with cholecystectomy and tumor resection.The postoperative course was uneventful, with no complications.\n\nDiscussion\n\nHepatocellular adenomas (HCAs) are generally benign liver tumors resulting from abnormal hepatocyte proliferation. These tumors are frequently linked to hormonal or metabolic disruptions, often associated with the use of oral contraceptives or androgenic steroids [3]. The molecular classification identifying 4 subtypes of adenomas where the B-catenin mutated subtype accounts for 10%-15% [1]. B-catenin mutations have also been identified in hepatocellular carcinomas related to hepatitis C virus infections. These mutations are associated to an increased risk of bleeding and malignant transformation [3,4].HCA is commonly diagnosed in women between the ages of 35 and 40, with a female-to-male ratio of 10:1. Numerous studies have highlighted the possible influence of sex hormones in HCA development. Long-term use of oral contraceptives is associated with a 30 to 40-fold increase in the incidence of HCA [5].β-catenin-activated hepatocellular adenomas are characterized by mutations in the β-catenin gene (CTNNB1), initially identified in exon 3 and more recently in exons 7 and 8. These mutations are associated with an elevated risk of malignant progression to hepatocellular carcinoma. β-HCAs display morphological features such as cellular atypia, pseudoglandular formations, and cholestasis. Tumor hepatocytes show a distinct immunophenotypic profile, with diffuse and typically strong positivity for glutamine synthetase (a β-catenin target), as well as nuclear β-catenin expression [6].HCA is no longer considered a single entity, as imaging now reflects its various subtypes. Magnetic resonance imaging is superior to other modalities, such as contrast-enhanced ultrasound and CT scans, due to its ability to detect fat and vascular spaces, allowing for subtype differentiation in up to 80% of cases. However, β-catenin HCAs present less distinctive imaging features and can be difficult to differentiate from hepatocellular carcinoma (HCC). These lesions typically appear heterogeneous and hyperintense on T2-weighted images and hypointense on T1-weighted images, with a central scar but no signal loss on chemical shift sequences. On contrast-enhanced imaging, they generally show arterial enhancement and may retain or reduce signal intensity in the portal venous phase [2]. In Ba-Ssalamah et al.'s study, 5 out of 6 β-catenin HCAs retained gadoxetic acid in the hepatobiliary phase, a feature observed in both inflammatory and β-catenin HCAs, and linked to the expression of the biliary transporter OATP1B1/B3 [7].Typically, intrahepatic cholangiocarcinoma presents as a well-defined intrahepatic mass with irregular margins, biliary stricture, and upstream bile duct dilation. It often shows peripheral rim enhancement during the arterial phase and progressive centripetal enhancement. However, in certain forms of cholangiocarcinoma, particularly the small duct type, there may be variable signal intensities on T1 and T2 sequences, without associated bile duct dilation around the lesion, making the imaging diagnosis even more challenging. It is in such atypical cases that distinguishing between adenoma and cholangiocarcinoma on imaging becomes particularly difficult [8].Biopsy may be considered within a benign liver tumor experienced multidisciplinary team to exclude malignancy [9]. All guidelines recommend that a biopsy should be performed when imaging results are inconclusive, as it is essential for making informed treatment decisions [10].When tissue samples are available for diagnostic purposes, curative intervention is recommended for β-catenin-activated mutated HCAs, regardless of tumor size. The European Association for the Study of the Liver (EASL) advises resection of HCAs in men, and in any case where a β-catenin mutation is confirmed, irrespective of the lesion's size [2].\n\nConclusion\n\nβ-catenin-HCAs are benign tumors accounting for 10%-15% of HCAs with a higher risk of hemorrhage and malignant transformation. Our case report presents a case of β-catenin-mutated HCA in a woman with no risk factors, mimicking a cholangiocarcinoma on MRI, and was effectively treated with curative surgery.\n\nPatient consent\n\nWritten informed consent for the publication of this case report was obtained from the patient.",
+    "generate_case": {
+        "case_summary": "- Patient Information: 50-year-old female.\n- Chief Complaint: Right upper quadrant abdominal pain lasting 2 months.\n- History of Present Illness: Pain accompanied by 5 kg weight loss; no additional digestive or extra-digestive symptoms.\n- Past Medical History: Controlled hypertension managed with Valsartan and amlodipine; no history of long-term oral contraceptive use.\n- Personal History: None mentioned.\n- Family History: None mentioned.\n- Physical Examination: Good general condition, non-icteric.\n- Ancillary Tests: \n  - Hepatobiliary ultrasound: Gallbladder stones; 40 mm slightly hyperechoic and heterogeneous hepatic lesion in segment IV with slight Doppler signal uptake.\n  - Liver MRI: 41 mm lesion in segment IV, hypointense on T1 and T2, with slight diffusion restriction and moderate late enhancement post-gadolinium, suggesting intrahepatic cholangiocarcinoma.\n  - Laboratory findings: Elevated ALP (2× normal) and GGT (3× normal); normal bilirubin.\n  - CT-guided biopsy: Benign hepatocyte proliferation with preservation of the reticulin framework; immunohistochemical staining positive for β-catenin and glutamine synthetase, consistent with hepatocellular adenoma with β-catenin pathway activation.",
+        "differential_diagnosis": "1. **Intrahepatic cholangiocarcinoma**: Initially suspected based on MRI findings (41 mm lesion with imaging features favoring a malignant process). Excluded after histological and immunohistochemical evaluation revealed a benign hepatocellular lesion.\n2. **Hepatocellular carcinoma (HCC)**: Considered due to the histological and molecular profile (e.g., β-catenin activation). However, the absence of nuclear β-catenin staining and absence of other malignant features confirmed benign nature.\n3. **Hepatocellular adenoma (HCA)**: Supported by biopsy findings of normal hepatocyte morphology, preserved architecture, and β-catenin immunohistochemical positivity. Subtyped as β-catenin-mutated based on molecular findings.\n   - β-catenin mutation subtype confirmed by immunohistochemical markers (anti-β-catenin and anti-glutamine synthetase).\n   - Malignant potential necessitated surgical intervention.",
+        "final_diagnosis": "Hepatocellular adenoma with activation of the β-catenin mutation pathway, misdiagnosed initially as intrahepatic cholangiocarcinoma due to atypical MRI findings.",
+        "diagnosis_results": "Hepatocellular adenoma with β-catenin mutation pathway activation."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-9-30",
+    "checked_rare_disease": [
+        "Hepatocellular adenoma"
+    ],
+    "id": "PMC11570408",
+    "results": {
+        "content": "### Resoning:\n\nPatient is a 50-year-old female presenting with a 2-month history of right upper quadrant abdominal pain accompanied by a 5 kg weight loss. There are no additional digestive or extra-digestive symptoms mentioned. Past medical history includes controlled hypertension managed with Valsartan and amlodipine, and no history of long-term oral contraceptive use. Personal and family histories are not provided, which may be relevant but are currently absent.\n\nPhysical examination reveals a patient in good general condition with no icterus, suggesting that there is no significant obstruction or hepatobiliary dysfunction leading to jaundice.\n\nAncillary tests include:\n\n- Hepatobiliary ultrasound showing gallbladder stones and a 40 mm slightly hyperechoic and heterogeneous hepatic lesion in segment IV with slight Doppler signal uptake.\n\n- Liver MRI describing a 41 mm lesion in segment IV that is hypointense on T1 and T2, with slight diffusion restriction and moderate late enhancement post-gadolinium, suggesting intrahepatic cholangiocarcinoma.\n\n- Laboratory findings show elevated ALP (2× normal) and GGT (3× normal), with normal bilirubin levels, indicating possible cholestasis or biliary tract pathology without overt obstructive jaundice.\n\n- CT-guided biopsy reveals benign hepatocyte proliferation with preservation of the reticulin framework, and immunohistochemical staining positive for β-catenin and glutamine synthetase, consistent with hepatocellular adenoma with β-catenin pathway activation.\n\nGiven this information, the initial consideration was intrahepatic cholangiocarcinoma based on the MRI findings and the location of the lesion in segment IV. However, the biopsy results contradict this diagnosis by showing benign hepatocyte proliferation characteristic of a hepatocellular adenoma, specifically one with β-catenin pathway activation.\n\nHepatocellular adenomas are benign liver tumors that can occur in various contexts, most commonly in women using oral contraceptives or with hyperestrogenic states. However, in this case, there is no history of long-term oral contraceptive use, and no other hyperestrogenic conditions are mentioned. Despite this, hepatocellular adenomas can occur in the absence of these risk factors, albeit less commonly.\n\nThe imaging characteristics initially suggested cholangiocarcinoma, possibly due to the lesion's appearance and location. Cholangiocarcinomas can present with hypointense signals on T1 and T2 weighted images, with diffusion restriction and enhancement patterns that can vary. However, the biopsy findings are definitive for a benign adenomatous process, specifically a hepatocellular adenoma with β-catenin activation.\n\nβ-catenin pathway activation in hepatocellular adenomas is associated with a specific subtype, the β-catenin-activated hepatocellular adenoma, which is a distinct entity characterized by mutations leading to constitutive activation of β-catenin, resulting in nuclear localization and transcriptional activation of target genes, including glutamine synthetase.\n\nGiven the biopsy results, the diagnosis should align with hepatocellular adenoma, despite the imaging suggesting cholangiocarcinoma. This discrepancy could be due to several factors:\n\n1. **Imaging Misinterpretation:** Sometimes, the imaging features of hepatocellular adenomas can mimic malignancies, especially if the adenoma is large or has atypical features.\n\n2. **Heterogeneity of the Lesion:** The lesion may have areas of necrosis, hemorrhage, or inflammation that could alter its imaging characteristics, making it appear more malignant.\n\n3. **Sampling Error in Biopsy:** Although unlikely, there is a possibility that the biopsy did not sample the exact area of concern, potentially missing a malignant component if it exists.\n\n4. **Coincidental Findings:** It's possible that there are both a benign adenoma and an underlying cholangiocarcinoma present, but this seems less likely given the biopsy results.\n\nHowever, considering that the biopsy is conclusive for a hepatocellular adenoma with β-catenin pathway activation, and there is no histological evidence of malignancy, the primary diagnosis should be hepatocellular adenoma.\n\nThe patient's symptoms of right upper quadrant pain and weight loss could be related to the adenoma, especially if the lesion is large or has undergone complications such as hemorrhage or torsion. Alternatively, these symptoms could be related to the gallbladder stones, although typically gallstones present with more acute symptoms like biliary colic.\n\nGiven the presence of gallbladder stones, it is possible that the patient is experiencing chronic cholecystitis, which could explain some of the symptoms. However, the weight loss and persistent pain suggest that there may be another underlying issue.\n\nConsidering the biopsy results, the most appropriate diagnosis is hepatocellular adenoma. The initial suspicion of cholangiocarcinoma based on imaging needs to be reconciled with the histological findings. It is possible that the imaging characteristics were misleading in this case, which underscores the importance of histological confirmation in liver lesions.\n\nFurthermore, given the patient's age and the presence of a β-catenin-activated adenoma, it is essential to consider the risk of adenoma rupture or malignant transformation, although these risks are generally low in non-female patients not using oral contraceptives.\n\nIn summary, the diagnosis is hepatocellular adenoma with β-catenin pathway activation, and further management should be guided by this diagnosis, considering the need for surveillance or potential intervention based on the adenoma's size and symptoms.\n\n### Answer:\n\nHepatocellular Adenoma with β-catenin Pathway Activation"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Patient is a 50-year-old female presenting with a 2-month history of right upper quadrant abdominal pain accompanied by a 5 kg weight loss. There are no additional digestive or extra-digestive symptoms mentioned. Past medical history includes controlled hypertension managed with Valsartan and amlodipine, and no history of long-term oral contraceptive use. Personal and family histories are not provided, which may be relevant but are currently absent.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Physical examination reveals a patient in good general condition with no icterus, suggesting that there is no significant obstruction or hepatobiliary dysfunction leading to jaundice.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Ancillary tests include:",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "- Hepatobiliary ultrasound showing gallbladder stones and a 40 mm slightly hyperechoic and heterogeneous hepatic lesion in segment IV with slight Doppler signal uptake.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "- Liver MRI describing a 41 mm lesion in segment IV that is hypointense on T1 and T2, with slight diffusion restriction and moderate late enhancement post-gadolinium, suggesting intrahepatic cholangiocarcinoma.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "- Laboratory findings show elevated ALP (2× normal) and GGT (3× normal), with normal bilirubin levels, indicating possible cholestasis or biliary tract pathology without overt obstructive jaundice.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "- CT-guided biopsy reveals benign hepatocyte proliferation with preservation of the reticulin framework, and immunohistochemical staining positive for β-catenin and glutamine synthetase, consistent with hepatocellular adenoma with β-catenin pathway activation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Given this information, the initial consideration was intrahepatic cholangiocarcinoma based on the MRI findings and the location of the lesion in segment IV. However, the biopsy results contradict this diagnosis by showing benign hepatocyte proliferation characteristic of a hepatocellular adenoma, specifically one with β-catenin pathway activation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Hepatocellular adenomas are benign liver tumors that can occur in various contexts, most commonly in women using oral contraceptives or with hyperestrogenic states. However, in this case, there is no history of long-term oral contraceptive use, and no other hyperestrogenic conditions are mentioned. Despite this, hepatocellular adenomas can occur in the absence of these risk factors, albeit less commonly.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The imaging characteristics initially suggested cholangiocarcinoma, possibly due to the lesion's appearance and location. Cholangiocarcinomas can present with hypointense signals on T1 and T2 weighted images, with diffusion restriction and enhancement patterns that can vary. However, the biopsy findings are definitive for a benign adenomatous process, specifically a hepatocellular adenoma with β-catenin activation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Intrahepatic cholangiocarcinoma was initially suspected based on MRI findings of a 41 mm lesion with imaging features favoring a malignant process but was excluded after histological and immunohistochemical evaluation revealed a benign hepatocellular lesion.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Hepatocellular carcinoma was considered due to the histological and molecular profile, including β-catenin activation, but was ruled out due to the absence of nuclear β-catenin staining and other malignant features, confirming the benign nature of the lesion.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Hepatocellular adenoma was supported by biopsy findings showing normal hepatocyte morphology, preserved architecture, and β-catenin immunohistochemical positivity.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> The hepatocellular adenoma was subtyped as β-catenin-mutated based on molecular findings and confirmed by immunohistochemical markers, including anti-β-catenin and anti-glutamine synthetase.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> The malignant potential of the β-catenin-mutated hepatocellular adenoma necessitated surgical intervention.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> The final diagnosis was hepatocellular adenoma with activation of the β-catenin mutation pathway, which was initially misdiagnosed as intrahepatic cholangiocarcinoma due to atypical MRI findings.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.6,
+    "factulity": 1.0,
+    "recall": 1.0
+}

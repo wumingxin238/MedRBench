@@ -1,0 +1,94 @@
+{
+    "raw_case": "\nUnexpected intraoperative finding of a hyalinizing cholecystitis in a patient with gallbladder calculi\n\n\nAbstract\n\nHyalinizing cholecystitis is a rare subtype of chronic cholecystitis in which the gallbladder tissue is replaced with hyaline sclerosis, more or less, and has a characteristic intraoperative appearance. Preoperative diagnosis is hard to establish. The entity is strongly associated with gallbladder carcinoma. Therefore, the pathologist should perform a thorough microscopic analysis. We present a case of an unusual intraoperative finding in a male patient with chronic cholecystitis which was proved to be a hyalinizing cholecystitis.\n\nIntroduction\n\nHyalinizing cholecystitis (HC) is a rare clinicopathologic variant of chronic cholecystitis with hyaline sclerosis of the gallbladder wall without complete calcification as in the case of ‘porcelain gallbladder’. Its incidence is ~1.6% of the cases of cholecystitis. A strong association of the HC with gallbladder carcinoma has been shown. The frequency of gallbladder carcinoma arising in these patients is estimated to be 15% [1]. We present a case of a male patient operated upon the diagnosis of symptomatic chronic cholecystitis preoperatively diagnosed with ultrasound. The intraoperative finding presented with an unusual gallbladder appearance which was later confirmed to be a case of HC. Informed consent was taken from the patient to present this case.\n\nCase report\n\nA 48-year-old male patient was admitted to our hospital for an elective laparoscopic cholecystectomy due to chronic calculous cholecystitis. The patient’s gallbladder calculi were diagnosed 10 years ago and only one episode of biliary colic in 2019 was self-reported. The preoperative laboratory work-up showed no abnormalities, except an elevated total serum-cholesterol value of 6.3 mmol/L (0–5.2 mmol/L). The abdominal ultrasound revealed a gallbladder with a slightly thickened wall with many present calculi.Intraoperatively, a strained gallbladder was found, with a wall covered with whitish tissue replacing the normal gallbladder serosa (Fig. 1, Video 1). No other abnormalities were noted during the exploration and a cholecystectomy was performed without intraoperative incident (Fig. 2). The postoperative period was uneventful and the patient was discharged at postoperative Day 2.The pathology analysis reported a chronic calculous hyalinizing cholecystitis. The gallbladder dimensions were 95 x 50 x 28 mm. The outer layer of its wall was described as whitish-smooth. Five specimens from the gallbladder neck, corpus, and fundus were taken for microscopic analysis. It showed a completely hyalinized gallbladder wall without the presence of normal mucosa. Neither calcifications nor cancer cells were found in the specimen (Fig. 3A and B).\n\nDiscussion\n\nHC was initially described in 2011 by Patel et al. as a distinct type of cholecystitis. They described the replacement of the histological gallbladder layers with dense, paucicellular hyaline fibrosis with or without calcifications [1, 2]. The gender distribution for HC has been reported to have a female-to-male ratio of 5.0 with a mean patient age of 56 [1].The histopathologic definition of the HC comprehends the presence of dense, laminar, paucicellular, or acellular hyaline fibrosis of the gallbladder wall, thus transforming it into a thin and uniform band. Another pathological feature of the HC is the presence of calcifications. Cases with > 80% intramural calcifications are called ‘porcelain gallbladder’, while those not fulfilling these criteria are called HC. Finally, a concomitant adenocarcinoma might arise in HC [1, 3]. In this case, neither calcifications nor carcinoma were present in the gallbladder.The preoperative diagnosis of HC where no calcifications are present is difficult. Final pathological analysis confirms the presence of hyaline fibrosis [4, 5].Report for the use of positron emission tomography with 2-deoxy-2-[fluorine-18] fluoro- D-glucose integrated with computed tomography (18F-FDG PET/CT) was reported to be helpful in cases of hyalinizing cholecystitis where an intense 18F-FDG uptake was noted [6].The presence of carcinoma in HC is even more diagnostically challenging. It is reported that even 70% of these cases are not suspected preoperatively because HC-related carcinomas do not present as mass lesions or as significant wall-thickening. The microscopic analysis is also challenging for the pathologist since these carcinomas are often mistaken for entrapped glands. Therefore, the pathologist should be alerted if a glandular formation is present in the hyalinized tissue [1].The prognosis for patients with HC with associated carcinoma should be emphasized. According to the study by Patel et al., cases with HC-associated carcinoma have statistically worse median survival than patients with the usual gallbladder carcinoma (P = 0.024) [1].\n\nConclusion\n\nThis case reports a rare variant of chronic cholecystitis (hyalinizing cholecystitis) diagnosed after a histopathologic analysis. Surgeons should be aware when an intraoperative finding of a whitish gallbladder wall is encountered during a routine cholecystectomy and should alert the pathologist for a thorough microscopic analysis of the removed gallbladder.\n\nSupplementary Material\n\nVideo_1_rjae651",
+    "generate_case": {
+        "case_summary": "- Patient Information: 48-year-old male\n- Chief Complaint: None (elective surgery for chronic calculous cholecystitis)\n- History of Present Illness: Diagnosed with gallbladder calculi 10 years ago; self-reported one episode of biliary colic in 2019.\n- Past Medical History: None provided.\n- Personal History: None provided.\n- Family History: None provided.\n- Physical Examination: Intraoperative findings of a strained gallbladder with a whitish, smooth wall replacing the normal serosa.\n- Ancillary Tests:\n  - Preoperative laboratory workup: Normal, except for elevated serum cholesterol (6.3 mmol/L).\n  - Abdominal ultrasound: Slightly thickened gallbladder wall with multiple calculi.\n  - Pathology: Chronic calculous hyalinizing cholecystitis, no calcifications or carcinoma identified.",
+        "differential_diagnosis": "1. **Chronic Calculous Cholecystitis**:\n   - Supported by history of gallbladder calculi, self-reported biliary colic, and thickened gallbladder wall on ultrasound.\n   - Confirmed intraoperatively as a strained gallbladder with whitish tissue, and later by histopathology.\n\n2. **Porcelain Gallbladder**:\n   - Considered due to the thickened wall and whitish appearance.\n   - Excluded based on the absence of intramural calcifications (histopathologic examination).\n\n3. **Gallbladder Carcinoma**:\n   - Suspected due to the association of hyalinizing cholecystitis with gallbladder carcinoma.\n   - Excluded by histopathology, which showed no malignancy.\n\n4. **Hyalinizing Cholecystitis**:\n   - Not suspected preoperatively but considered intraoperatively due to the gallbladder's unusual whitish and fibrotic appearance.\n   - Diagnosed via histopathology, which revealed complete hyalinization of the gallbladder wall without calcification or carcinoma.",
+        "final_diagnosis": "Chronic calculous hyalinizing cholecystitis.",
+        "diagnosis_results": "Chronic calculous hyalinizing cholecystitis."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-9-03",
+    "checked_rare_disease": [],
+    "id": "PMC11487882",
+    "results": {
+        "thinking_process": "Okay, let's start by reviewing the case. The patient is a 48-year-old male who's scheduled for elective surgery due to chronic calculous cholecystitis. His main issue is gallbladder stones diagnosed a decade ago, with one episode of biliary colic in 2019. The physical exam during surgery showed a strained gallbladder with a whitish, smooth wall replacing the normal serosa. The labs were mostly normal except for high cholesterol. The ultrasound confirmed a slightly thickened gallbladder wall and multiple stones. The pathology report says chronic calculous hyalinizing cholecystitis without signs of cancer or calcifications.\n\nFirst, the chief complaint is elective surgery, so he's already diagnosed with chronic calculous cholecystitis. But I need to confirm if the findings align with that. The history of gallstones for 10 years and a past episode of colic fit with chronic cholecystitis. The ultrasound shows thickened walls and stones, typical for this condition. However, the intraoperative findings mention a whitish, smooth serosa. Normally, chronic cholecystitis can lead to a thickened, fibrotic gallbladder. The whitish appearance might suggest something else, like a porcelain gallbladder, which is associated with calcifications. But the pathology didn't find calcifications, so that's ruled out.\n\nNext, the term \"hyalinizing\" in the pathology report. Hyalinization refers to the accumulation of hyaline material, which is a dense, homogeneous substance often seen in chronic inflammation. In the gallbladder, this could be part of the fibrotic changes from long-standing inflammation due to stones. The absence of carcinoma is important here, so malignancy isn't a concern. The elevated cholesterol might contribute to stone formation, as cholesterol is a major component of many gallstones.\n\nNow, considering other possibilities. Porcelain gallbladder was a thought because of the whitish serosa, but the lack of calcifications on pathology makes that unlikely. Acute cholecystitis usually presents with more acute symptoms, but this patient has a chronic history. The hyalinizing aspect could also be part of the chronic inflammatory process leading to tissue degeneration and scarring. The term \"chronic calculous hyalinizing cholecystitis\" seems to be the pathologist's way of describing the advanced fibrotic changes in the gallbladder wall due to long-standing stones.\n\nPutting it all together: the patient's history of gallstones, the imaging findings, the surgical appearance, and the pathology report all point towards a chronic inflammatory condition of the gallbladder caused by stones. The hyalinization is a specific histopathological feature indicating dense fibrosis or scarring. There's no mention of other conditions like adenomyomatosis or xanthogranulomatous cholecystitis in the report. Therefore, the final diagnosis aligns with the pathology findings provided.",
+        "content": "```\n### Resoning:\n<step 1> The patient has a long-standing history of gallbladder calculi (10 years) with one episode of biliary colic, aligning with chronic calculous cholecystitis. The preoperative ultrasound confirms gallbladder wall thickening and calculi, consistent with this diagnosis.  \n<step 2> Intraoperative findings of a whitish, smooth gallbladder wall suggest fibrotic or hyalinized changes, which are typical of chronic inflammation. The absence of calcifications or carcinoma in pathology rules out porcelain gallbladder or malignancy.  \n<step 3> Elevated serum cholesterol supports a metabolic predisposition to cholesterol gallstone formation, a key factor in chronic calculous cholecystitis.  \n<step 4> The pathology report explicitly confirms \"chronic calculous hyalinizing cholecystitis,\" highlighting advanced hyalinization (degenerative fibrosis) of the gallbladder wall due to prolonged inflammation from calculi.  \n<step 5> No atypical features (e.g., calcifications, dysplasia) or acute inflammatory components are noted, solidifying the diagnosis as a chronic, stone-driven process without complications.  \n\n### Answer:\nChronic calculous hyalinizing cholecystitis."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient has a long-standing history of gallbladder calculi (10 years) with one episode of biliary colic, aligning with chronic calculous cholecystitis. The preoperative ultrasound confirms gallbladder wall thickening and calculi, consistent with this diagnosis.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Intraoperative findings of a whitish, smooth gallbladder wall suggest fibrotic or hyalinized changes, which are typical of chronic inflammation. The absence of calcifications or carcinoma in pathology rules out porcelain gallbladder or malignancy.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Elevated serum cholesterol supports a metabolic predisposition to cholesterol gallstone formation, a key factor in chronic calculous cholecystitis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The pathology report explicitly confirms \"chronic calculous hyalinizing cholecystitis,\" highlighting advanced hyalinization (degenerative fibrosis) of the gallbladder wall due to prolonged inflammation from calculi.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "No atypical features (e.g., calcifications, dysplasia) or acute inflammatory components are noted, solidifying the diagnosis as a chronic, stone-driven process without complications.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Chronic Calculous Cholecystitis supported by gallbladder calculi, self-reported biliary colic, and thickened gallbladder wall on ultrasound; confirmed intraoperatively and by histopathology.",
+            "hit": true
+        },
+        {
+            "step": "Step 2: Porcelain Gallbladder considered due to thickened wall and whitish appearance, excluded based on absence of intramural calcifications.",
+            "hit": true
+        },
+        {
+            "step": "Step 3: Gallbladder Carcinoma suspected due to association with hyalinizing cholecystitis, excluded by histopathology showing no malignancy.",
+            "hit": true
+        },
+        {
+            "step": "Step 4: Hyalinizing Cholecystitis not suspected preoperatively but considered intraoperatively due to whitish and fibrotic gallbladder appearance; diagnosed via histopathology revealing complete hyalinization without calcification or carcinoma.",
+            "hit": true
+        },
+        {
+            "step": "Final Diagnosis: Chronic calculous hyalinizing cholecystitis.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.6,
+    "factulity": 1.0,
+    "recall": 1.0
+}

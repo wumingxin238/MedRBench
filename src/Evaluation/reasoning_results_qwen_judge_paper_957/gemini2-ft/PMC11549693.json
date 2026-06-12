@@ -1,0 +1,132 @@
+{
+    "raw_case": "\nAtypical presentation of psoriasis on the breast of an elderly woman: A case report\nPsoriasis is a chronic, inflammatory skin disease that affects over 60 million adults and children globally. It is classically characterized by pink plaques covered with silver scales on the extensor surfaces, trunk, or scalp. In this report, we describe the case of a woman in her late 60s with psoriasis presenting as a painful plaque on her left breast. This case highlights the importance of considering psoriasis as a differential diagnosis in patients with unilateral breast plaques, even in the absence of typical psoriasis scaling elsewhere on the body.\n\nIntroduction\n\nPsoriasis is a chronic inflammatory disease with an incidence of 2%–3% and characteristically presents as well demarcated, erythematous, hyperkeratotic, scaly plaques, usually on extensor surfaces on the upper and lower extremities, scalp, trunk, and intergluteal cleft.\n1\n Inverse psoriasis, manifesting as well-defined erythematous plaques devoid of the characteristic silvery scale of classic psoriasis, usually occur in body folds in the inframammary or groin locations.\n2\n Psoriasis occurring unilaterally only on the nipple-areola complex is rarely documented in the literature. It can present as well-demarcated, erythematous plaques with fine micaceous scales located on the nipple or areola.\n\nCase report\n\nA woman in her late 60s with hyperlipidemia, presented with 3 years of a unilateral, large, very painful, scaly, erythematous, ulcerative plaque on her left breast (Figure 1). She denied nipple drainage or a history of unexplained weight loss. Her left breast was much warmer to the touch than her right breast. A previous 3D mammogram and radiograph were normal. She had been treated with multiple topical and systemic antibiotics, topical steroids, and topical antifungals in the past with no improvement. No similar plaques were found elsewhere on complete cutaneous examination. She denied a family history of known autoimmune diseases or malignancies. Two shave and punch biopsies of the lateral nipple and upper lateral breast were obtained for histopathological examination.The histopathological analysis of the lateral nipple of the left breast revealed confluent mounds of parakeratosis, psoriasiform epidermal hyperplasia with dilated tortuous blood vessels present at the tips of dermal papillae, and superficial perivascular mixed inflammatory cell infiltrate. The left upper breast displayed an epidermis with mounds of scale-crust that contained neutrophils and spongiotic psoriasiform hyperplasia with an associated superficial perivascular predominantly lymphocytic infiltrate (Figure 2). Cytokeratin-7 and E-cadherin stains were also negative.Histopathological examination findings were consistent with psoriasis. Following an initial loading dose of risankizumab 150 mg subcutaneously, the patient returned after 1 month with only residual hyperpigmentation and no symptoms (Figure 3). She continues to receive risankizumab 150 mg each quarter without recurrence.\n\nDiscussion\n\nPsoriasis is an immune-mediated, inflammatory skin disease associated with genetic factors and pathogenic autoimmune traits.2–4 Although it typically involves the skin, it can also affect other organs as a systemic disease, causing conditions such as psoriatic arthritis.\n2\n Psoriasis can also be triggered by multiple environmental factors, such as skin trauma, infections, smoking, medications, and stress.\n3\n Patients with psoriasis are also more likely to suffer from hyperlipidemia, type 2 diabetes, hypertension, coronary artery disease, and increased body mass index.2,3 There are multiple subtypes of cutaneous psoriasis, including plaque, inverse, erythrodermic, pustular, and guttate psoriasis.5,6 These can vary in severity, presentation, and location of the lesion, and can also affect different age groups, with guttate psoriasis being more common in children and adolescents, for example.\n5\nThe pathogenesis of psoriasis is not fully understood but involves overactivity of the adaptive immune system and proinflammatory cytokines.1,2 The disease can usually be diagnosed based on the patient’s history and the morphology of the lesions; however, a skin biopsy may be needed in atypical presentations as in this case.1,4 The histopathology of psoriasis is characterized by epidermal hyperplasia with inflammatory infiltrates of dermal dendritic cells, macrophages, T cells, and neutrophils.2,6 This is due to sustained inflammation resulting in excessive keratinocyte proliferation.2,3First-line treatment of psoriasis involves the use of topical agents such as corticosteroids, calcineurin inhibitors, keratolytics, and vitamin D analogs.1,7,8 Second-line treatment in more severe cases includes phototherapy and systemic agents such as methotrexate, ciclosporin, or acitretin.1,7,8 Finally, a wide variety of biologic agents have also been approved for psoriasis, including risankizumab, an IL-23 p19 inhibitor which was successfully used in this case.1,7 These agents are usually recombinant monoclonal antibodies or receptor fusion proteins that target proinflammatory cytokines and typically need to be administered subcutaneously or intravenously on a regular basis.1,7Unilateral, isolated psoriasis of the breast is rarely reported in literature. When psoriasis manifests as an atypical plaque on the breast and does not respond to topical corticosteroids, as in this case, it is important to differentiate it from neoplastic diseases of the breast. In this patient with a negative screening for breast cancer and histology confirming psoriasis, although some characteristics of her case, such as unilateral involvement of a painful plaque, negative family history, lack of response to topical steroids, and her age, are alarming, they are not unheard of. Furthermore, her positive response to risankizumab supports a diagnosis of psoriasis, as there are no reports of other dermatoses, such as Paget’s disease, responding to the agent. In 2019, there were few reported cases in the literature of psoriasis affecting the nipple and/or areola following breastfeeding, radiotherapy (Koebner Phenomenon), dabrafenib treatment, and in the setting of lymphedema following quadrantectomy and radiotherapy.9,10 Saritas et al. noted a case of psoriasis of the nipple-areola complex in a 31-year-old female that manifested as a plaque of 3 years (unresponsive to dapsone, topical and systemic corticosteroids, oral and topical antibiotics, and antihistamines) that responded to topical tacrolimus.\n10\n\n\nConclusion\n\nIn this report, we describe the case of a patient presenting with painful lesions that were restricted to one breast. She lacked typical psoriasis scaling and did not respond to topical steroids or systemic antibiotics, mimicking the presentation of mastitis, Paget’s disease of the breast, or inflammatory breast cancer. Interestingly, after a single dose of risankizumab, the patient reported only residual hyperpigmentation on her breast and no further symptoms.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** Female patient in her late 60s.\n- **Chief Complaint:** Painful, unilateral, scaly, erythematous, and ulcerative plaque on the left breast for 3 years.\n- **History of Present Illness:** Persistent plaque, no other plaques elsewhere, no improvement with prior treatments (topical/systemic antibiotics, topical steroids, antifungals). Denies nipple drainage or unexplained weight loss.\n- **Past Medical History:** Hyperlipidemia.\n- **Personal History:** None reported.\n- **Family History:** No known autoimmune diseases or malignancies.\n- **Physical Examination:** Large, painful, erythematous, ulcerative plaque; left breast notably warmer than the right.\n- **Ancillary Tests:** Prior 3D mammogram and radiograph were normal. Histopathological examination (shave and punch biopsies) of the lateral nipple and upper breast showed psoriasiform epidermal hyperplasia, parakeratosis, dermal papillary blood vessel changes, neutrophils in the epidermis, and perivascular lymphocytic infiltrate. Negative cytokeratin-7 and E-cadherin stains.\n\n---",
+        "differential_diagnosis": "1. **Initial hypothesis:** Possible differential diagnoses included inflammatory breast conditions (mastitis, infectious or noninfectious), Paget’s disease of the breast, inflammatory breast cancer, or an unusual presentation of psoriasis. \n   - These were considered due to the patient’s unilateral, painful plaque with erythema and ulceration, along with lack of response to prior treatments.\n   \n2. **Mastitis:** This was ruled out based on the chronicity of the lesion, lack of systemic symptoms of infection, and absence of improvement with systemic antibiotics.\n\n3. **Paget’s Disease of the Breast:** Paget’s disease often presents with eczematous nipple lesions but was ruled out based on the negative cytokeratin-7 and E-cadherin histopathological stains, which are markers for Paget’s disease.\n\n4. **Inflammatory Breast Cancer:** Ruled out due to normal mammogram and radiologic imaging, histopathology absent markers of malignancy, and absence of peau d’orange or diffuse breast thickening.\n\n5. **Psoriasis:** Confirmed through histopathological findings that were consistent with psoriasis (parakeratosis, psoriasiform hyperplasia, neutrophils in scale-crust, and lymphocytic infiltrate). The patient’s rapid and lasting response to a biologic agent (risankizumab, an IL-23 inhibitor) further supported the diagnosis.",
+        "final_diagnosis": "Unilateral, atypical presentation of **plaque psoriasis** on the left breast.\n\n---",
+        "diagnosis_results": "Unilateral plaque psoriasis of the left breast."
+    },
+    "body_category": [
+        "Skin, Hair and Nails"
+    ],
+    "disorder_category": [],
+    "receive_time": "2024-9-2",
+    "checked_rare_disease": [],
+    "id": "PMC11549693",
+    "results": {
+        "content": "### Resoning:\n<step 1> **Initial Assessment of Chief Complaint and History:** The patient presents with a chronic (3 years), unilateral, painful, scaly, erythematous, and ulcerative plaque on the left breast.  The unilateral location and chronicity, combined with the description of the plaque, are key features to consider.  The lack of improvement with antibiotics, steroids, and antifungals suggests common infections and inflammatory dermatoses are less likely or not the primary cause. The absence of nipple discharge or weight loss is noted, which can be helpful in narrowing down certain diagnoses.\n\n<step 2> **Analyzing Physical Examination Findings:** The physical exam confirms the large, painful, erythematous, ulcerative plaque on the left breast, and importantly, notes that the left breast is warmer than the right.  Increased warmth suggests inflammation or increased vascularity in the affected area, which is consistent with inflammatory or infectious processes, but also potentially neoplastic processes.\n\n<step 3> **Evaluating Ancillary Tests - Imaging:** Normal mammogram and radiograph are mentioned. This is helpful in ruling out underlying deep breast malignancy as the primary cause for the skin lesion, although it does not exclude superficial skin malignancies or inflammatory conditions of the skin.\n\n<step 4> **Interpreting Histopathology Results:** The histopathology is crucial.  \"Psoriasiform epidermal hyperplasia, parakeratosis, dermal papillary blood vessel changes, neutrophils in the epidermis, and perivascular lymphocytic infiltrate\" are all features commonly associated with **psoriasis**.  Psoriasiform hyperplasia and parakeratosis are hallmarks of psoriasis. Neutrophils in the epidermis can be seen in psoriasis, particularly pustular psoriasis, but also in other inflammatory conditions. Perivascular lymphocytic infiltrate is a common, non-specific inflammatory pattern.\n\n<step 5> **Significance of Negative Cytokeratin-7 and E-cadherin Stains:** The negative cytokeratin-7 (CK-7) and E-cadherin stains are highly significant in this context. These stains are used to rule out **Paget's disease of the breast**. Paget's disease is a rare form of breast cancer that can present as a persistent, eczematous or psoriasiform plaque on the nipple and areola. Paget's cells are typically positive for CK-7 and often show aberrant E-cadherin expression (usually negative or reduced).  The negative stains strongly argue against Paget's disease.\n\n<step 6> **Differential Diagnosis Refinement:** Based on the clinical presentation, refractoriness to common treatments, and especially the histopathology findings, the differential diagnosis should be focused on conditions that present with psoriasiform features and are consistent with the biopsy results.  While other inflammatory dermatoses could be considered, the histopathology strongly points towards **psoriasis**.  Other conditions like eczema or fungal infections are less likely given the chronic nature, lack of response to treatments, and specific histopathology.  Although less common, some atypical infections or cutaneous lymphomas could be considered, but the provided histology is not strongly suggestive of these.\n\n<step 7> **Formulating the Most Likely Diagnosis:** Considering all the evidence, particularly the psoriasiform histology and the exclusion of Paget's disease by immunohistochemistry, the most probable diagnosis is **psoriasis vulgaris**.  While the unilateral breast location is somewhat atypical for classic psoriasis, psoriasis can present in unusual locations, and the histopathology is very supportive.  The lack of response to initial treatments is also not uncommon in psoriasis, which can be refractory to topical therapies.\n\n<step 8> **Final Diagnostic Conclusion:**  The combination of clinical presentation, refractoriness to initial therapies, psoriasiform histopathology, and negative CK-7 and E-cadherin stains strongly suggests a diagnosis of **psoriasis vulgaris**.  Further management should focus on treatments appropriate for psoriasis, considering its chronic and resistant nature.\n\n### Answer:\nPsoriasis Vulgaris"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Initial Assessment of Chief Complaint and History:** The patient presents with a chronic (3 years), unilateral, painful, scaly, erythematous, and ulcerative plaque on the left breast.  The unilateral location and chronicity, combined with the description of the plaque, are key features to consider.  The lack of improvement with antibiotics, steroids, and antifungals suggests common infections and inflammatory dermatoses are less likely or not the primary cause. The absence of nipple discharge or weight loss is noted, which can be helpful in narrowing down certain diagnoses.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Analyzing Physical Examination Findings:** The physical exam confirms the large, painful, erythematous, ulcerative plaque on the left breast, and importantly, notes that the left breast is warmer than the right.  Increased warmth suggests inflammation or increased vascularity in the affected area, which is consistent with inflammatory or infectious processes, but also potentially neoplastic processes.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Evaluating Ancillary Tests - Imaging:** Normal mammogram and radiograph are mentioned. This is helpful in ruling out underlying deep breast malignancy as the primary cause for the skin lesion, although it does not exclude superficial skin malignancies or inflammatory conditions of the skin.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Interpreting Histopathology Results:** The histopathology is crucial.  \"Psoriasiform epidermal hyperplasia, parakeratosis, dermal papillary blood vessel changes, neutrophils in the epidermis, and perivascular lymphocytic infiltrate\" are all features commonly associated with **psoriasis**.  Psoriasiform hyperplasia and parakeratosis are hallmarks of psoriasis. Neutrophils in the epidermis can be seen in psoriasis, particularly pustular psoriasis, but also in other inflammatory conditions. Perivascular lymphocytic infiltrate is a common, non-specific inflammatory pattern.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Significance of Negative Cytokeratin-7 and E-cadherin Stains:** The negative cytokeratin-7 (CK-7) and E-cadherin stains are highly significant in this context. These stains are used to rule out **Paget's disease of the breast**. Paget's disease is a rare form of breast cancer that can present as a persistent, eczematous or psoriasiform plaque on the nipple and areola. Paget's cells are typically positive for CK-7 and often show aberrant E-cadherin expression (usually negative or reduced).  The negative stains strongly argue against Paget's disease.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Differential Diagnosis Refinement:** Based on the clinical presentation, refractoriness to common treatments, and especially the histopathology findings, the differential diagnosis should be focused on conditions that present with psoriasiform features and are consistent with the biopsy results.  While other inflammatory dermatoses could be considered, the histopathology strongly points towards **psoriasis**.  Other conditions like eczema or fungal infections are less likely given the chronic nature, lack of response to treatments, and specific histopathology.  Although less common, some atypical infections or cutaneous lymphomas could be considered, but the provided histology is not strongly suggestive of these.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Formulating the Most Likely Diagnosis:** Considering all the evidence, particularly the psoriasiform histology and the exclusion of Paget's disease by immunohistochemistry, the most probable diagnosis is **psoriasis vulgaris**.  While the unilateral breast location is somewhat atypical for classic psoriasis, psoriasis can present in unusual locations, and the histopathology is very supportive.  The lack of response to initial treatments is also not uncommon in psoriasis, which can be refractory to topical therapies.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Final Diagnostic Conclusion:**  The combination of clinical presentation, refractoriness to initial therapies, psoriasiform histopathology, and negative CK-7 and E-cadherin stains strongly suggests a diagnosis of **psoriasis vulgaris**.  Further management should focus on treatments appropriate for psoriasis, considering its chronic and resistant nature.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Initial hypothesis: Possible differential diagnoses included inflammatory breast conditions (mastitis, infectious or noninfectious), Paget’s disease of the breast, inflammatory breast cancer, or an unusual presentation of psoriasis, considering the patient's unilateral, painful plaque with erythema and ulceration, along with lack of response to prior treatments.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Mastitis ruled out due to chronicity of the lesion, lack of systemic symptoms of infection, and absence of improvement with systemic antibiotics.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Paget’s disease of the breast ruled out based on negative cytokeratin-7 and E-cadherin histopathological stains.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Inflammatory breast cancer ruled out due to normal mammogram and radiologic imaging, absence of markers of malignancy, and absence of peau d’orange or diffuse breast thickening.",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> Psoriasis confirmed through histopathological findings showing parakeratosis, psoriasiform hyperplasia, neutrophils in scale-crust, and lymphocytic infiltrate.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> Patient’s rapid and lasting response to risankizumab (an IL-23 inhibitor) further supported the diagnosis of psoriasis.",
+            "hit": false
+        },
+        {
+            "step": "<Step 7> Final diagnosis: Unilateral, atypical presentation of plaque psoriasis on the left breast.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.75,
+    "factulity": 0.8333333333333334,
+    "recall": 0.7142857142857143
+}

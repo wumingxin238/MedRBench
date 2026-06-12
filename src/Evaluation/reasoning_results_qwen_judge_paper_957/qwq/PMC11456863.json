@@ -1,0 +1,149 @@
+{
+    "raw_case": "\nLaparoscopic excision of an incidental vascular tumor\n\n\nAbstract\n\nAnastomosing hemangioma (AH) is an exceedingly rare benign vascular tumor, often mistaken for malignant neoplasms due to its histological features. First described in 2009, AH has been documented in various sites, including the kidney, liver, and adrenal gland. This report presents a 64-year-old man who, following a bicycle accident, underwent imaging that revealed a nodule suspicious for a paraganglioma in the right para-caval region. Despite the high radiotracer uptake on 68Ga-DOTANOC PET scan, which suggested paraganglioma, the patient remained asymptomatic and laboratory tests ruled out excessive catecholamine secretion. Surgical excision led to a diagnosis of AH, distinguished by its unique anastomosing vascular pattern and histological similarity to angiosarcoma. This case underlines the diagnostic challenges and potential for overtreatment of AH, highlighting the need for heightened awareness and careful histopathological and imaging evaluation to avoid misdiagnosis and ensure appropriate management.\n\nIntroduction\n\nHemangiomas are benign vascular tumors, most located in the skin and subcutaneous tissue. Visceral hemangiomas are uncommon and occur predominantly in the liver. Histologically, they have been classified as cavernous, capillary, or venous [1].Anastomosing hemangioma (AH) is an extremely rare subtype of vascular tumor, histologically resembling angiosarcoma, first described in 2009, and initially attributed to the genitourinary system. Since its initial description, it has been identified in multiple other locations, including the adrenal gland, liver, colon, small intestine, and mesentery [2]. To date, ~120 cases have been reported in the literature, with ~60 occurring in the kidney [3].The name derives from its unique histological characteristics, characterized by blood vessels resembling capillaries organized in a unique anastomosing pattern. The cells lining up the vessels are generally uniform, with minimal atypia and mitotic activity. These cells may also exhibit a “hobnail” morphology, associated with some malignant tumors, including renal cell carcinoma.AH shows a slightly higher prevalence in women (1.38:1), with an average age of diagnosis of 53 years. Its average size is 2 cm and is generally unilateral, though it can occasionally appear bilaterally or multifocally [2]. These tumors are typically asymptomatic and found incidentally on imaging studies. Diagnosis is made through histopathological evaluation of a biopsy or surgical excision of the lesion.Despite the increasing prevalence, this remains a poorly understood entity due to the absence of specific radiological and clinical manifestations, often leading to other differential diagnoses, and overtreatment.\n\nCase report\n\nA 64-year-old man with a history of type 2 diabetes, dyslipidemia, and benign prostatic hyperplasia presented to the emergency department following a bicycle accident, resulting in left lumbar trauma. During the patient’s evaluation, an abdominal-perineal computed tomography (CT AP) was requested, which revealed: “Left perirenal hematoma without evidence of active extravasation. A 20x27x24mm nodule (T X AP X CC) in the right para-caval region, approximately at the level of the convergence of the common iliac veins, with heterogeneous and progressive enhancement, possibly indicating a paraganglioma/Zuckerkandl organ.” (Figs 1 and 2). The patient was admitted to the Urology department for conservative treatment, with good clinical evolution, and discharged after 5 days.Following the incidental finding on the CT AP, and given the suspicion of paraganglioma, the patient was referred to Endocrinology, where blood and urine tests were requested (Table 1), along with a 68Ga-DOTANOC PET scan, which revealed: “Increased radiotracer uptake in a nodular density, approximately, 27 mm in the largest axial dimension, located in the para-caval region (SUV max 9.3), suggesting disease with increased somatostatin receptor expression.” The patient was asymptomatic, leading to a diagnosis of non-functioning paraganglioma and referral to General Surgery, where surgical excision of the lesion was proposed.The patient underwent laparoscopic surgery, with intraoperative identification of a nodular formation above the right iliac artery and medial to the right ureter, measuring 3 cm, which was excised after opening the retroperitoneum and ligating the vascular pedicle. The postoperative course was uneventful, and the patient was discharged after 2 days.Pathology revealed a benign vascular neoplasm, whose morphological pattern favored AH (Figs 3 and 4).\n\nDiscussion\n\nThe presented case describes an incidental finding during imaging evaluation. The initial computed tomography (CT) scan suggested a potentially significant lesion, leading to the suspicion of a paraganglioma, a rare neuroendocrine neoplasm that originates from neural crest cells and can secrete catecholamines, causing a range of clinical manifestations. However, the patient was asymptomatic, and subsequent laboratory tests showed no evidence of excessive hormonal production, supporting the diagnosis of a non-functioning paraganglioma.The 68Ga-DOTANOC PET scan, which showed significant radiotracer uptake in the lesion, reinforced the initial suspicion of paraganglioma due to the high expression of somatostatin receptors, a common characteristic of this neoplasm. However, this finding is not specific to paragangliomas and can be observed in other vascular lesions, including AHs, although this is less common [4].AH is a rare vascular neoplasm that can be easily mistaken for malignant tumors due to its histological and imaging characteristics. This case report illustrates the complexity of differential diagnosis in incidental vascular lesions, particularly when located in critical anatomical regions.A multidisciplinary approach, involving specialists in radiology, endocrinology, surgery, and pathology, was essential in this case, from initial detection to definitive diagnosis. This report highlights the importance of meticulous histopathological evaluation and the careful use of imaging studies, such as 68Ga-DOTANOC PET, which, despite their high sensitivity, may lead to misinterpretations when not adequately contextualized.The rare occurrence of AHs emphasizes the need for increased awareness of this entity among healthcare professionals, so it can be considered in future differential diagnoses. Further studies are necessary to elucidate the clinical behavior of this neoplasm and to develop management guidelines that can minimize unnecessary interventions and optimize patient outcomes.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 64-year-old male.\n- **Chief Complaint:** None (incidental finding following trauma).\n- **History of Present Illness:** Incidental finding of a vascular nodule during evaluation of left lumbar trauma post-bicycle accident.\n- **Past Medical History:** Type 2 diabetes, dyslipidemia, benign prostatic hyperplasia.\n- **Personal History:** None reported.\n- **Family History:** None reported.\n- **Physical Examination:** None reported.\n- **Ancillary Tests:** \n  - Abdominal-perineal CT: 27×20×24 mm right para-caval nodule suspected to be a paraganglioma.\n  - 68Ga-DOTANOC PET scan: Increased radiotracer uptake (SUV max 9.3) suggesting a lesion with somatostatin receptor expression, supporting initial suspicion of non-functioning paraganglioma.\n  - Blood and urine tests: No excessive catecholamine secretion.\n  - Pathological examination post-surgical excision: Benign vascular tumor consistent with anastomosing hemangioma (AH).",
+        "differential_diagnosis": "- **Suspected Paraganglioma:**\n  - Initial CT findings and high radiotracer uptake on PET scan supported a working diagnosis of non-functioning paraganglioma due to somatostatin receptor expression.\n  - But lack of symptoms and absence of catecholamine elevation on lab results cast doubt on a functional neuroendocrine tumor.\n\n- **Anastomosing Hemangioma (AH):**\n  - Considered based on histological analysis showing benign vascular neoplasm with anastomosing capillary-like vessels, minimal atypia, and absence of malignancy features such as mitotic activity.\n  - Imaging characteristics overlapped with paraganglioma, demonstrating the challenge of preoperative diagnosis for AH.\n \n- **Ruling Out Other Neoplasms:**\n  - Angiosarcoma (a malignant vascular tumor) ruled out by pathological analysis showing benign histological morphology.\n  - Other benign vascular lesions or neuroendocrine tumors excluded based on lack of specific histological features.\n\nThe ultimate diagnosis hinged on the pathology report, which identified the lesion as an AH, a rare benign vascular tumor.",
+        "final_diagnosis": "Anastomosing hemangioma (AH), a benign vascular neoplasm incidentally discovered and misinterpreted as paraganglioma on imaging studies.",
+        "diagnosis_results": "Anastomosing hemangioma (AH)."
+    },
+    "body_category": [
+        "Endocrine System"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-8-27",
+    "checked_rare_disease": [],
+    "id": "PMC11456863",
+    "results": {
+        "content": "### Resoning:\n\n**Step 1:** The patient is a 64-year-old male with a history of type 2 diabetes, dyslipidemia, and benign prostatic hyperplasia. He was evaluated after a bicycle accident that resulted in left lumbar trauma, during which an incidental finding of a vascular nodule was discovered.\n\n**Step 2:** The initial suspicion was of a paraganglioma based on the abdominal-perineal CT scan, which showed a right para-caval nodule measuring 27x20x24 mm. Paragangliomas are tumors arising from paraganglia, which are groups of cells from the neural crest, and they can secrete catecholamines, leading to symptoms like hypertension, palpitations, etc. However, in this case, the patient had no chief complaints, and blood and urine tests did not show excessive catecholamine secretion, suggesting it might be a non-functioning paraganglioma.\n\n**Step 3:** To further investigate the nature of the lesion, a 68Ga-DOTANOC PET scan was performed. This scan showed increased radiotracer uptake (SUV max 9.3), indicating the presence of somatostatin receptors on the lesion's cells. Somatostatin receptors are commonly expressed in neuroendocrine tumors, including paragangliomas, which aligns with the initial suspicion.\n\n**Step 4:** However, the final diagnosis after surgical excision and pathological examination was a benign vascular tumor consistent with an anastomosing hemangioma (AH). Anastomosing hemangiomas are rare, benign vascular tumors characterized by a complex network of thin-walled vascular channels with frequent anastomoses.\n\n**Step 5:** This discrepancy between the initial suspicion of a paraganglioma and the final diagnosis of an anastomosing hemangioma suggests that the imaging findings and the somatostatin receptor expression can sometimes be non-specific or overlapping between different types of tumors.\n\n**Step 6:** It is important to consider alternative diagnoses, especially in cases where the initial suspicions do not align with the histopathological findings. In this case, the vascular nature of the tumor, as indicated by its appearance on CT and the最终病理诊断为良性血管肿瘤，符合动静脉畸形（AVM）。 However, the final pathological examination revealed a benign vascular tumor consistent with an anastomosing hemangioma (AH), not a paraganglioma as initially suspected.\n\n**Step 7:** This case highlights the importance of confirming diagnoses through definitive pathological examination, even when imaging and other tests point strongly towards a particular diagnosis. Pathology remains the gold standard for tumor diagnosis.\n\n**Step 8:** Additionally, it is crucial to be aware of the potential for overlap in imaging characteristics and biomarker expression between different types of tumors. This can lead to misdiagnosis if one relies solely on imaging and functional imaging without confirmatory pathological analysis.\n\n**Step 9:** In summary, while the initial clinical and imaging suspicion was of a paraganglioma based on location, appearance, and somatostatin receptor expression, the final diagnosis was an anastomosing hemangioma, a benign vascular tumor. This emphasizes the need for comprehensive diagnostic approaches, including histopathological evaluation, to confirm the nature of lesions.\n\n### Answer:\n\nAnastomosing Hemangioma (AH)\n"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Step 1:** The patient is a 64-year-old male with a history of type 2 diabetes, dyslipidemia, and benign prostatic hyperplasia. He was evaluated after a bicycle accident that resulted in left lumbar trauma, during which an incidental finding of a vascular nodule was discovered.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Step 2:** The initial suspicion was of a paraganglioma based on the abdominal-perineal CT scan, which showed a right para-caval nodule measuring 27x20x24 mm. Paragangliomas are tumors arising from paraganglia, which are groups of cells from the neural crest, and they can secrete catecholamines, leading to symptoms like hypertension, palpitations, etc. However, in this case, the patient had no chief complaints, and blood and urine tests did not show excessive catecholamine secretion, suggesting it might be a non-functioning paraganglioma.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 3:** To further investigate the nature of the lesion, a 68Ga-DOTANOC PET scan was performed. This scan showed increased radiotracer uptake (SUV max 9.3), indicating the presence of somatostatin receptors on the lesion's cells. Somatostatin receptors are commonly expressed in neuroendocrine tumors, including paragangliomas, which aligns with the initial suspicion.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 4:** However, the final diagnosis after surgical excision and pathological examination was a benign vascular tumor consistent with an anastomosing hemangioma (AH). Anastomosing hemangiomas are rare, benign vascular tumors characterized by a complex network of thin-walled vascular channels with frequent anastomoses.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 5:** This discrepancy between the initial suspicion of a paraganglioma and the final diagnosis of an anastomosing hemangioma suggests that the imaging findings and the somatostatin receptor expression can sometimes be non-specific or overlapping between different types of tumors.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 6:** It is important to consider alternative diagnoses, especially in cases where the initial suspicions do not align with the histopathological findings. In this case, the vascular nature of the tumor, as indicated by its appearance on CT and the最终病理诊断为良性血管肿瘤，符合动静脉畸形（AVM）。 However, the final pathological examination revealed a benign vascular tumor consistent with an anastomosing hemangioma (AH), not a paraganglioma as initially suspected.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 7:** This case highlights the importance of confirming diagnoses through definitive pathological examination, even when imaging and other tests point strongly towards a particular diagnosis. Pathology remains the gold standard for tumor diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 8:** Additionally, it is crucial to be aware of the potential for overlap in imaging characteristics and biomarker expression between different types of tumors. This can lead to misdiagnosis if one relies solely on imaging and functional imaging without confirmatory pathological analysis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 9:** In summary, while the initial clinical and imaging suspicion was of a paraganglioma based on location, appearance, and somatostatin receptor expression, the final diagnosis was an anastomosing hemangioma, a benign vascular tumor. This emphasizes the need for comprehensive diagnostic approaches, including histopathological evaluation, to confirm the nature of lesions.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Initial CT findings and high radiotracer uptake on PET scan supported a working diagnosis of non-functioning paraganglioma due to somatostatin receptor expression.",
+            "hit": true
+        },
+        {
+            "step": "Step 2: Lack of symptoms and absence of catecholamine elevation on lab results cast doubt on a functional neuroendocrine tumor.",
+            "hit": true
+        },
+        {
+            "step": "Step 3: Histological analysis showed a benign vascular neoplasm with anastomosing capillary-like vessels, minimal atypia, and absence of malignancy features, leading to consideration of anastomosing hemangioma (AH).",
+            "hit": false
+        },
+        {
+            "step": "Step 4: Imaging characteristics of AH overlapped with paraganglioma, presenting a diagnostic challenge for preoperative identification.",
+            "hit": true
+        },
+        {
+            "step": "Step 5: Pathological analysis ruled out angiosarcoma (a malignant vascular tumor) due to its benign histological morphology.",
+            "hit": true
+        },
+        {
+            "step": "Step 6: Other benign vascular lesions or neuroendocrine tumors were excluded based on the absence of specific histological features.",
+            "hit": true
+        },
+        {
+            "step": "Step 7: The ultimate diagnosis was determined by the pathology report, identifying the lesion as an AH, a rare benign vascular tumor.",
+            "hit": true
+        },
+        {
+            "step": "Step 8: The final diagnosis is anastomosing hemangioma (AH), a benign vascular neoplasm incidentally discovered and misinterpreted as paraganglioma on imaging studies.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.7777777777777778,
+    "factulity": 0.8571428571428571,
+    "recall": 0.875
+}

@@ -1,0 +1,124 @@
+{
+    "raw_case": "\nAtypical presentation of acute retinal necrosis mimicking Vogt-Koyanagi-Harada disease leading to misdiagnosis: a case report\nAcute retinal necrosis (ARN) is a serious, sight-threatening condition characterized by rapidly progressive necrotizing retinitis, most commonly caused by varicella-zoster virus and herpes simplex virus. We report an atypical case of ARN in a 57-year-old immunocompetent male, initially misdiagnosed as Vogt-Koyanagi-Harada (VKH) disease. This case highlights the challenges in the early differential diagnosis of infectious and non-infectious uveitis. Misdiagnosis can lead to a delay in initiating antiviral therapy, potentially accelerating disease progression and worsening visual outcomes.1\n\nIntroduction\n\nAcute retinal necrosis (ARN) represents a rapidly progressing necrotizing herpetic retinitis. It is primarily caused by varicella-zoster virus (VZV) and herpes simplex virus (HSV), and its clinical presentation is influenced by the degree of host immune response. ARN classically presents with prominent anterior chamber and vitreous inflammation, often accompanied by occlusive retinal vasculitis. Both immunocompromised and immunocompetent individuals can be affected. Diagnosing ARN can be difficult as many infectious and non-infectious conditions present similar symptoms and clinical features, such as CMV retinitis, toxoplasmic retinochoroiditis, syphilis, lupus vasculitis, Behçet’s disease, sarcoidosis, and bacterial or fungal chorioretinitis (1, 2). However, ARN mimicking the ophthalmologic findings of VKH is uncommon in clinical practice.This report presents a case of ARN in an immunocompetent male, initially misdiagnosed as Vogt-Koyanagi-Harada (VKH) disease. This case underscores two crucial points: (1) the importance of a thorough differential diagnosis in suspected cases of uveitis; and (2) the potential for inappropriate corticosteroid treatment to exacerbate disease progression and mask classic clinical features.2\n\nCase description\n\nA 57-year-old male presented with a 10-day history of progressively worsening bilateral blurred vision. Ten days prior to presentation at our institution, he presented to a local hospital. Fundus photography at that time revealed vitreous haze, blurred optic disc margins, scattered hemorrhages in the posterior pole, and yellowish-white lesions at the macula, and indistinct grayish-white lesions in the peripheral retina. Optical coherence tomography (OCT) showed subretinal fluid at the macula and intraretinal fluid. Late-phase fluorescein angiography (FFA) demonstrated hyperfluorescence of the optic disc and multiple lake-like hyperfluorescent areas in the retina. Indocyanine green angiography (ICGA) revealed hypofluorescence in the affected area and scattered hypofluorescent spots (Figure 1). Based on these findings, he was diagnosed with VKH disease and treated with oral prednisone 60 mg daily, topical prednisolone acetate eye drops three times daily in both eyes, and topical compound tropicamide eye drops twice daily in both eyes. Due to a lack of improvement, he presented to Beijing Tongren Hospital. He had no significant past medical history, denying any history of ocular disease, prior ocular surgery, or relevant family history. He denied recent travel, high-risk behaviors, tick bites, or intravenous drug use. Ocular examination findings are summarized in Table 1. Fundus photographs are shown in Figure 2.Optical coherence tomography of the macula revealed subretinal fluid, intraretinal fluid, hyperreflective intraretinal layers, and retinal necrosis (Figure 2). Serological tests for antiphospholipid antibodies, anticardiolipin antibodies, antinuclear antibodies, anti-neutrophil cytoplasmic antibodies, as well as complete blood count, blood chemistry panel, tuberculosis screening, HIV, and syphilis IgG were all negative. Aqueous humor PCR analysis was strongly positive for VZV. The patient’s CD4+ T-cell count was 961 cells/μl, within the normal range.Based on the patient’s clinical presentation and laboratory findings, a diagnosis of Atypical ARN was made. Oral corticosteroid therapy (prednisone acetate tablets) was gradually tapered, and the patient was started on treatment with intravitreal ganciclovir 2 mg/0.1 mL every other day in both eyes and intravenous ganciclovir 0.25 g twice daily. At the 20-day follow-up, visual acuity was counting fingers at face in the right eye and no light perception in the left eye. OCT showed retinal retinolysis in both eyes (Figure 3).3\n\nDiscussion\n\nAcute retinal necrosis often presents with acute panuveitis. Clinical findings may include anterior uveitis, scleritis, vitritis, occlusive vasculitis, necrotizing retinitis, and optic disc edema (3). In the early stages of the disease, the patient’s OCT findings showed retinal detachment, subretinal membranous structures, and hyperreflective retinal spots. These findings closely resemble the characteristic OCT manifestations of VKH disease (4), contributing to the initial misdiagnosis. However, careful fundus examination revealed yellow-white lesions with relatively clear boundaries in the posterior pole and periphery. Detailed history taking revealed no symptoms of meningeal irritation, auditory abnormalities, or hair and skin changes. Additionally, the patient’s condition worsened after steroid use. These factors suggested that the patient did not have VKH disease. As observed in this case, choroidal involvement, characterized by elevation of the retinal pigment epithelium (RPE) layer on optical coherence tomography (OCT) and hypofluorescent lesions on indocyanine green angiography (ICGA), may be indicative of rapid disease progression in acute retinal necrosis (ARN) (5).The misdiagnosis of VKH in this case led to the early administration of high-dose corticosteroids, thereby suppressing the body’s immune response to the virus. While this may have mitigated systemic and anterior segment inflammation, as well as retinal exudation, corticosteroid use alone, without concurrent effective antiviral therapy, can foster viral replication, delay optimal treatment, and accelerate disease progression (6). In this case, the early administration of corticosteroids may have contributed to the patient’s rapid progression of retinitis, resulting in severe and irreversible retinal damage, including retinal lysis and profound vision loss. The decision to initiate corticosteroid therapy in suspected cases of uveitis, particularly when the etiology is viral, presents a clinical dilemma. While corticosteroids can effectively reduce inflammation, their immunosuppressive effects could potentially exacerbate the underlying viral infection driving ARN. Delaying corticosteroid initiation may be beneficial in cases concerning infection (7). This underscores the importance of a comprehensive differential diagnosis and a careful assessment of the risks and benefits of corticosteroid therapy in such scenarios. Early intervention with antiviral therapy remains the cornerstone of ARN management (8). However, limitations in current antiviral therapy underscore the need for further investigation into novel therapeutic strategies to enhance visual prognosis. In this case, no significant visual improvement was observed during the follow-up period, but long-term follow-up is crucial to comprehensively assess the long-term visual outcome and monitor for any potential complications, such as retinal detachment.In conclusion, this case highlights the importance of differentiating infectious from non-infectious uveitis in its early stages. The early presentation of choroidal inflammation suggests rapidly progressing ARN, and misdiagnosis can lead to treatment delays and potentially worsen outcomes.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 57-year-old immunocompetent male.\n- **Chief Complaint:** 10-day progressive bilateral blurred vision.\n- **History of Present Illness:** Presented with blurred vision; fundus photography showed vitreous haze, optic disc margin blurring, scattered hemorrhages, and retinal lesions. OCT revealed subretinal fluid. Initial diagnosis was Vogt-Koyanagi-Harada (VKH) disease, treated with high-dose corticosteroids (oral prednisone, topical prednisolone, and tropicamide), with no improvement.\n- **Past Medical History:** None significant; no ocular disease, prior ocular surgery, or systemic illnesses.\n- **Personal History:** No recent travel, high-risk behaviors, tick bites, or IV drug use.\n- **Family History:** None relevant.\n- **Physical Examination:** Indicated bilateral anterior uveitis, vitritis, and necrotizing retinitis.\n- **Ancillary Tests:** \n  - Laboratory: Negative for antiphospholipid antibodies, anticardiolipin antibodies, antinuclear antibodies, and antineutrophil cytoplasmic antibodies. Normal blood counts, chemistry, negative for tuberculosis, HIV, syphilis. Aqueous humor PCR positive for varicella-zoster virus (VZV).\n  - Imaging: Fundus photographs and OCT revealed subretinal fluid, retinal necrosis, and lesion distribution. ICGA showed hypofluorescent spots.",
+        "differential_diagnosis": "- **Initial Misdiagnosis of VKH Disease:** Based on the presence of retinal fluid, optic disc hyperfluorescence, and choroidal inflammation seen on OCT and ICGA. However, the absence of systemic symptoms (e.g., meningitis, hair/skin issues), worsening with corticosteroids, and focal retinal lesions were inconsistent with VKH.\n- **Consideration of Infectious Causes:**\n  - **Acute Retinal Necrosis (ARN):** This emerged as the most likely diagnosis given rapid disease progression, choroidal changes, and PCR confirmation of VZV in aqueous humor. ARN fit the pattern of necrotizing retinitis with viral etiology.\n  - Other infectious causes (CMV retinitis, toxoplasmic retinochoroiditis, syphilis): Excluded via negative serologies and lack of consistent clinical features.\n- **Non-Infectious Causes:** Autoimmune conditions (e.g., Behçet's disease, sarcoidosis) and lupus vasculitis were ruled out by the absence of systemic symptoms and negative serologies.\n- Rapid confirmation of VZV via PCR solidified this diagnosis, redirecting treatment to antiviral therapy.",
+        "final_diagnosis": "The final diagnosis is **Atypical Acute Retinal Necrosis (ARN)** caused by varicella-zoster virus (VZV), initially misdiagnosed as Vogt-Koyanagi-Harada (VKH) disease. Characteristics supporting this include necrotizing retinitis, ICGA-visualized choroidal involvement, rapid disease progression, and positive PCR for VZV.",
+        "diagnosis_results": "Atypical Acute Retinal Necrosis (ARN) caused by varicella-zoster virus (VZV)."
+    },
+    "body_category": [
+        "Eyes and Vision"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-7-23",
+    "checked_rare_disease": [
+        "Infectious posterior uveitis"
+    ],
+    "id": "PMC11620890",
+    "results": {
+        "content": "### Resoning:\n<step 1> Initial assessment based on chief complaint and initial fundus findings: The patient presents with progressive bilateral blurred vision and fundus findings including vitreous haze, optic disc margin blurring, hemorrhages, retinal lesions, and subretinal fluid. These findings are suggestive of bilateral intraocular inflammation, specifically uveitis and retinitis. The initial diagnosis of Vogt-Koyanagi-Harada (VKH) disease was considered, which is a plausible differential for bilateral uveitis with retinal involvement.\n\n<step 2> Evaluating the response to corticosteroids: The patient received high-dose corticosteroids (oral prednisone, topical prednisolone, and tropicamide) but showed no improvement. VKH usually responds well to steroids. Lack of response to steroids raises suspicion about the initial diagnosis and necessitates considering steroid-resistant inflammatory conditions or, more importantly, infectious etiologies.\n\n<step 3> Considering necrotizing retinitis from physical examination: The physical examination reveals necrotizing retinitis in addition to anterior uveitis and vitritis. Necrotizing retinitis is a critical finding that strongly suggests an infectious cause, particularly viral retinitis, although other rarer causes like bacterial or fungal infections need consideration. In immunocompetent individuals, viral causes like Herpes Simplex Virus (HSV), Varicella-Zoster Virus (VZV), and Cytomegalovirus (CMV) are the most common culprits of necrotizing retinitis.\n\n<step 4> Analyzing ancillary test results, particularly aqueous humor PCR: The aqueous humor PCR is positive for varicella-zoster virus (VZV). This is a highly specific and significant finding. A positive PCR for VZV in the aqueous humor definitively confirms the presence of VZV infection within the eye and strongly points towards VZV retinitis as the diagnosis. The negative laboratory tests for autoimmune conditions (ANA, ANCA, antiphospholipid, anticardiolipin antibodies) and other infections (TB, HIV, syphilis) further support focusing on the VZV etiology, especially given the positive PCR result.\n\n<step 5> Integrating all findings for final diagnosis: Combining the clinical findings of bilateral necrotizing retinitis, lack of response to steroids, and the definitive positive VZV PCR in aqueous humor, the most conclusive diagnosis is Varicella-Zoster Virus (VZV) Retinitis.  Given the acute presentation and necrotizing nature, Acute Retinal Necrosis (ARN) or Progressive Outer Retinal Necrosis (PORN) caused by VZV should be considered. In an immunocompetent patient, ARN due to VZV is more likely than PORN, although both are possibilities.\n\n<step 6> Final Diagnostic Refinement (Optional, but good clinical practice): Although not strictly necessary for the requested output format, differentiating between ARN and PORN could be considered based on the clinical course and progression, but the definitive etiological diagnosis is VZV retinitis. The key is the identification of VZV as the causative agent, which is established by the PCR result.\n\n### Answer:\nVaricella-Zoster Virus (VZV) Retinitis"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Initial assessment based on chief complaint and initial fundus findings: The patient presents with progressive bilateral blurred vision and fundus findings including vitreous haze, optic disc margin blurring, hemorrhages, retinal lesions, and subretinal fluid. These findings are suggestive of bilateral intraocular inflammation, specifically uveitis and retinitis. The initial diagnosis of Vogt-Koyanagi-Harada (VKH) disease was considered, which is a plausible differential for bilateral uveitis with retinal involvement.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Evaluating the response to corticosteroids: The patient received high-dose corticosteroids (oral prednisone, topical prednisolone, and tropicamide) but showed no improvement. VKH usually responds well to steroids. Lack of response to steroids raises suspicion about the initial diagnosis and necessitates considering steroid-resistant inflammatory conditions or, more importantly, infectious etiologies.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Considering necrotizing retinitis from physical examination: The physical examination reveals necrotizing retinitis in addition to anterior uveitis and vitritis. Necrotizing retinitis is a critical finding that strongly suggests an infectious cause, particularly viral retinitis, although other rarer causes like bacterial or fungal infections need consideration. In immunocompetent individuals, viral causes like Herpes Simplex Virus (HSV), Varicella-Zoster Virus (VZV), and Cytomegalovirus (CMV) are the most common culprits of necrotizing retinitis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Analyzing ancillary test results, particularly aqueous humor PCR: The aqueous humor PCR is positive for varicella-zoster virus (VZV). This is a highly specific and significant finding. A positive PCR for VZV in the aqueous humor definitively confirms the presence of VZV infection within the eye and strongly points towards VZV retinitis as the diagnosis. The negative laboratory tests for autoimmune conditions (ANA, ANCA, antiphospholipid, anticardiolipin antibodies) and other infections (TB, HIV, syphilis) further support focusing on the VZV etiology, especially given the positive PCR result.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Integrating all findings for final diagnosis: Combining the clinical findings of bilateral necrotizing retinitis, lack of response to steroids, and the definitive positive VZV PCR in aqueous humor, the most conclusive diagnosis is Varicella-Zoster Virus (VZV) Retinitis.  Given the acute presentation and necrotizing nature, Acute Retinal Necrosis (ARN) or Progressive Outer Retinal Necrosis (PORN) caused by VZV should be considered. In an immunocompetent patient, ARN due to VZV is more likely than PORN, although both are possibilities.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Final Diagnostic Refinement (Optional, but good clinical practice): Although not strictly necessary for the requested output format, differentiating between ARN and PORN could be considered based on the clinical course and progression, but the definitive etiological diagnosis is VZV retinitis. The key is the identification of VZV as the causative agent, which is established by the PCR result.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "- Initial misdiagnosis of VKH disease based on retinal fluid, optic disc hyperfluorescence, and choroidal inflammation; however, absence of systemic symptoms, worsening with corticosteroids, and focal retinal lesions were inconsistent.",
+            "hit": false
+        },
+        {
+            "step": "- Consideration of infectious causes: Acute Retinal Necrosis (ARN) emerged as the most likely diagnosis due to rapid disease progression, choroidal changes, and PCR confirmation of VZV in aqueous humor.",
+            "hit": true
+        },
+        {
+            "step": "- Other infectious causes (CMV retinitis, toxoplasmic retinochoroiditis, syphilis) excluded via negative serologies and lack of consistent clinical features.",
+            "hit": false
+        },
+        {
+            "step": "- Non-infectious causes (Behçet's disease, sarcoidosis, lupus vasculitis) ruled out by absence of systemic symptoms and negative serologies.",
+            "hit": false
+        },
+        {
+            "step": "- Rapid confirmation of VZV via PCR solidified the diagnosis.",
+            "hit": true
+        },
+        {
+            "step": "- Final diagnosis: Atypical Acute Retinal Necrosis (ARN) caused by varicella-zoster virus (VZV), initially misdiagnosed as Vogt-Koyanagi-Harada (VKH) disease.",
+            "hit": true
+        },
+        {
+            "step": "- Characteristics supporting ARN include necrotizing retinitis, ICGA-visualized choroidal involvement, rapid disease progression, and positive PCR for VZV.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.5714285714285714
+}

@@ -1,0 +1,100 @@
+{
+    "raw_case": "\nUnexpected discovery of a thyroid hydatid cyst during pathological examination: a case report\n\n\nBackground\n\nHydatid disease, a parasitic infection caused by the larval form of Echinococcus granulosus, infrequently involves the thyroid gland, whether through direct invasion or hematogenous spread.\n\nCase presentation\n\nWe report the case of a 62-year-old female patient from Morocco who presented with an anterior cervical mass, initially suspected to be a goiter. A histopathological evaluation of the thyroidectomy specimen identified the presence of a hydatid cyst. A comprehensive review of the literature is also included.\n\nConclusion\n\nGiven that Morocco is an endemic region for hydatid disease, clinicians should consider this parasitic infection in the differential diagnosis of thyroid cystic lesions, recognizing the clinical and laboratory indicators of the disease.\n\nIntroduction\n\nHydatid disease is an infection caused by the larval stage of Echinococcus granulosus. It is common in North Africa, parts of the Mediterranean, New Zealand, Australia, and America. It constitutes a significant public health challenge. The prevalence varies, with the Maghreb being a moderately affected area. Hydatid cysts can develop in almost any organ but frequently affect liver (50–77%), lungs (15–47%), spleen (0.5–8%), and kidneys (2–4%) [1]. Less commonly, they can affect the brain, muscles, heart, retroperitoneal organs, pancreas, and thyroid gland. The thyroid gland is rarely involved, even in regions where the disease is common. This disease can affect the thyroid gland either directly or through the blood circulation [2]. Our aim is to report a case of a thyroid hydatid cyst discovered incidentally during a pathological examination, along with a review of literature.\n\nCase report\n\nPatient information: A 62-year-old Moroccan woman with no significant medical history presented with an anterior neck mass and intermittent discomfort with solid food swallowing evolving for months. Clinical finding: Physical examination revealed a goiter. Cervical ultrasound classified the goiter as EU-TIRADS 3, showing cystic and tissue nodules, was isoechoic, and was well limited, with a peripheral capsule often clearly visible and in relation to the perinodular thyroid tissue and without lymphadenopathy. Cytology was not performed because the patient showed signs of compression. No other paraclinical examination was requested. Total thyroidectomy was planned. Diagnosis assessment: Macroscopic examination revealed a thyroid weighing 76 g. The right lobe measured 5.8 cm × 4 cm × 2.3 cm, the left lobe measured 9.5 cm × 4.3 cm × 2.5 cm, and the isthmus measured 3.5 cm × 2 cm. The sectioning showed multiple well-defined nodules of colloid appearance, ranging from 0.3 to 4.3 cm in size, including a 2 cm right cystic nodule with a whitish content. Microscopic examination revealed nodular follicular thyroid disease (Fig. 1) with a lamellar, eosinophilic membrane. This membrane adhered to a thin fibrous layer containing an inflammatory infiltrate (Figs. 2 and 3) and rounded calcified formations resembling a scolex within the 2 cm right lobar cyst (Fig. 4). The pathological diagnosis was a 2 cm right lobar hydatid cyst. Therapeutic intervention: No additional treatment was performed after thyroidectomy. Follow-up and outcomes: The evolution was good with absence of hydatid cysts in other locations.\n\nDiscussion\n\nHydatid cyst disease (cystic echinococcosis) is a significant public health issue in many regions where sheep and cattle farming are prevalent [3, 4]. It remains an endemic in Morocco, affecting all organs, particularly the liver and lungs. After larvae emerge from ruptured eggs in the host’s gastrointestinal system, they penetrate the intestinal wall and enter the portal system, reaching the hepatic sinusoids. Small larvae pass through the liver filtration system to reach the lungs. Those that bypass lung filtration can spread to other organs, including the spleen, kidneys, heart, bones, muscles, pancreas, retroperitoneum, breast, and thyroid gland. The thyroid gland is rarely affected, [5, 6] even in endemic countries such as Morocco [38]. A literature review identified the cases listed in (Table 1).Thyroid hydatid cyst disease can be primary or secondary. Diagnosis relies on clinical and paraclinical analyses, such as ultrasound and cytology results. However, most cases are diagnosed post surgery, and anatomical pathology remains the gold standard for diagnosis, as confirmed in our case [7–9]. Similar to other hydatid cyst locations, thyroid hydatid cysts are primarily treated with surgical excision [10, 11]. The recommended surgical approach involves careful removal of the cyst(s) to avoid rupture. In cases of localized cysts or small cysts within a lobe, subtotal thyroidectomy may be considered [12]. To prevent anaphylactic reactions and cyst dissemination, it is advised to protect the surgical field with hypertonic saline-soaked sponges, minimize cyst manipulation, and administer preoperative medical treatment for diagnosed cysts. Antiparasitic medications such as mebendazole, albendazole, and praziquantel cannot be used for a complete cure but can kill live parasites and prevent contamination during surgery [26]. Our patient underwent surgery alone.\n\nConclusion\n\nMorocco is an endemic country, and physicians should be aware of the clinical and paraclinical presentation of hydatid disease among differential diagnosis of thyroid cystic pathology. A multidisciplinary approach involving radiologists, pathologists, and otorhinolaryngologist surgeons is essential for optimal patient management.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 62-year-old Moroccan woman.\n- **Chief Complaint:** An anterior cervical mass with intermittent discomfort while swallowing solid food for several months.\n- **History of Present Illness:** None.\n- **Past Medical History:** None.\n- **Personal History:** None.\n- **Family History:** None.\n- **Physical Examination:** Presence of goiter; no other findings reported.\n- **Ancillary Tests:** Cervical ultrasound classified goiter as EU-TIRADS 3, showing cystic and tissue nodules that were well-limited, isoechoic with a visible peripheral capsule; no lymphadenopathy; cytology not performed. No other paraclinical examinations conducted.",
+        "differential_diagnosis": "1. **Initial Considerations:**\n   - Thyroid cystic lesions typically include conditions like multinodular goiter, colloid nodules, thyroid adenomas, cystic thyroid carcinomas, or infections (e.g., abscesses, parasitic cysts).\n   - Given the endemic nature of hydatid disease in Morocco, hydatid cyst had to be considered despite the thyroid being an uncommon site of infection.\n\n2. **Evaluation During Surgery:**\n   - Ultrasound findings of nodular thyroid disease with cystic areas initially suggested benign thyroid pathology, such as a colloid nodule.\n   - Cytology was not performed, and no specific serologic or imaging tests were conducted to evaluate for hydatid disease preoperatively.\n\n3. **Histopathological Confirmation:**\n   - Macroscopic examination revealed a right cystic nodule with whitish content.\n   - Microscopic examination identified a lamellar eosinophilic membrane, a fibrous inflammatory layer, and calcified formations resembling a scolex, confirming a hydatid cyst.\n   - Pathology diagnosed the lesion as a 2 cm right lobar hydatid cyst.\n\n4. **Exclusion of Other Diagnoses:**\n   - Multinodular goiter and colloid nodules were ruled out due to the specific microscopic findings of lamellar membranes and scolex, which are pathognomonic for hydatid disease.\n   - Cystic thyroid carcinoma was excluded as there were no malignant cytological or pathological features.\n   - Other causes of infectious cysts, such as bacterial abscesses, were excluded due to the lack of supportive clinical symptoms (e.g., fever, systemic infection).\n\n5. **Final Diagnosis Selection:**\n   - The diagnosis of a thyroid hydatid cyst was made based on histopathological findings, which are definitive for echinococcal infection.",
+        "final_diagnosis": "Thyroid hydatid cyst.",
+        "diagnosis_results": "Thyroid hydatid cyst."
+    },
+    "body_category": [
+        "Endocrine System"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-7-11",
+    "checked_rare_disease": [
+        "Cystic echinococcosis"
+    ],
+    "id": "PMC11590343",
+    "results": {
+        "content": "### Resoning:\n<step 1> Analyze the patient's chief complaint and history. The patient is a 62-year-old Moroccan woman presenting with an anterior cervical mass and intermittent dysphagia to solid food for several months. This points towards a potential issue in the anterior neck region, likely involving the thyroid gland given the description of an anterior cervical mass. The dysphagia suggests possible compression of the esophagus by the mass.\n\n<step 2> Evaluate the physical examination findings. The physical examination revealed the presence of a goiter. This confirms that the anterior cervical mass is indeed a goiter, which is an enlargement of the thyroid gland. No other findings were reported, suggesting no other immediately apparent abnormalities in the physical exam.\n\n<step 3> Interpret the ancillary test results. A cervical ultrasound was performed, classifying the goiter as EU-TIRADS 3. EU-TIRADS (European Thyroid Imaging Reporting and Data System) is a risk stratification system for thyroid nodules based on ultrasound features. EU-TIRADS 3 indicates a \"low risk\" of malignancy (estimated 1.7-5%). The ultrasound description further details the nodules as cystic and tissue, well-limited, isoechoic with a visible peripheral capsule. These features are generally less concerning for malignancy compared to features associated with higher EU-TIRADS categories. Importantly, no lymphadenopathy was noted, which is also a reassuring sign against advanced malignancy. Cytology (fine-needle aspiration biopsy) was not performed, which is a limitation in definitively characterizing the nodules.\n\n<step 4> Synthesize the findings to formulate a diagnosis. Based on the clinical presentation (anterior cervical mass, goiter, dysphagia), physical exam (goiter), and ultrasound findings (EU-TIRADS 3 nodules with benign-appearing features, no lymphadenopathy), the most likely diagnosis is benign thyroid nodular disease, specifically multinodular goiter. The EU-TIRADS 3 classification suggests a low probability of malignancy, but it does not completely rule it out.  The dysphagia is likely due to the physical size of the goiter causing compression.  Without cytology, a definitive diagnosis of benignity cannot be confirmed. However, based on the available data, especially the EU-TIRADS 3 classification, a benign etiology is the most probable.\n\n<step 5> Determine the final diagnosis result based on the available data. Considering the EU-TIRADS 3 classification indicating low risk and the ultrasound characteristics described, the most appropriate final diagnosis result, within the constraints of the provided information, is \"Thyroid Nodular Disease, EU-TIRADS 3\". This diagnosis reflects the presence of thyroid nodules as identified by ultrasound and incorporates the risk stratification based on EU-TIRADS. While further investigation with cytology would be clinically recommended to definitively exclude malignancy,  based solely on the provided summary, this is the most accurate and informative diagnostic result.\n\n### Answer:\nThyroid Nodular Disease, EU-TIRADS 3"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Analyze the patient's chief complaint and history. The patient is a 62-year-old Moroccan woman presenting with an anterior cervical mass and intermittent dysphagia to solid food for several months. This points towards a potential issue in the anterior neck region, likely involving the thyroid gland given the description of an anterior cervical mass. The dysphagia suggests possible compression of the esophagus by the mass.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Evaluate the physical examination findings. The physical examination revealed the presence of a goiter. This confirms that the anterior cervical mass is indeed a goiter, which is an enlargement of the thyroid gland. No other findings were reported, suggesting no other immediately apparent abnormalities in the physical exam.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Interpret the ancillary test results. A cervical ultrasound was performed, classifying the goiter as EU-TIRADS 3. EU-TIRADS (European Thyroid Imaging Reporting and Data System) is a risk stratification system for thyroid nodules based on ultrasound features. EU-TIRADS 3 indicates a \"low risk\" of malignancy (estimated 1.7-5%). The ultrasound description further details the nodules as cystic and tissue, well-limited, isoechoic with a visible peripheral capsule. These features are generally less concerning for malignancy compared to features associated with higher EU-TIRADS categories. Importantly, no lymphadenopathy was noted, which is also a reassuring sign against advanced malignancy. Cytology (fine-needle aspiration biopsy) was not performed, which is a limitation in definitively characterizing the nodules.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Synthesize the findings to formulate a diagnosis. Based on the clinical presentation (anterior cervical mass, goiter, dysphagia), physical exam (goiter), and ultrasound findings (EU-TIRADS 3 nodules with benign-appearing features, no lymphadenopathy), the most likely diagnosis is benign thyroid nodular disease, specifically multinodular goiter. The EU-TIRADS 3 classification suggests a low probability of malignancy, but it does not completely rule it out.  The dysphagia is likely due to the physical size of the goiter causing compression.  Without cytology, a definitive diagnosis of benignity cannot be confirmed. However, based on the available data, especially the EU-TIRADS 3 classification, a benign etiology is the most probable.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Determine the final diagnosis result based on the available data. Considering the EU-TIRADS 3 classification indicating low risk and the ultrasound characteristics described, the most appropriate final diagnosis result, within the constraints of the provided information, is \"Thyroid Nodular Disease, EU-TIRADS 3\". This diagnosis reflects the presence of thyroid nodules as identified by ultrasound and incorporates the risk stratification based on EU-TIRADS. While further investigation with cytology would be clinically recommended to definitively exclude malignancy,  based solely on the provided summary, this is the most accurate and informative diagnostic result.",
+            "efficiency": "Redundancy",
+            "factulity": null,
+            "judgment_path": []
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Thyroid cystic lesions may include multinodular goiter, colloid nodules, thyroid adenomas, cystic thyroid carcinomas, or infections such as abscesses or parasitic cysts; considering endemic hydatid disease in Morocco, hydatid cyst must be evaluated.",
+            "hit": false
+        },
+        {
+            "step": "<Step 2> Preoperative ultrasound suggested a benign thyroid condition with cystic areas, but no cytology, serologic, or imaging tests were done to rule out hydatid disease.",
+            "hit": false
+        },
+        {
+            "step": "<Step 3> Macroscopic examination showed a right cystic nodule with whitish content, and microscopic examination revealed a lamellar eosinophilic membrane, fibrous inflammatory layer, and calcified formations resembling a scolex, confirming a hydatid cyst.",
+            "hit": false
+        },
+        {
+            "step": "<Step 4> Multinodular goiter and colloid nodules were excluded by microscopic findings of lamellar membranes and scolex; cystic thyroid carcinoma was ruled out due to absence of malignant features; other infectious cysts were excluded due to lack of supportive symptoms.",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> The definitive diagnosis of a thyroid hydatid cyst was made based on histopathological findings characteristic of echinococcal infection.",
+            "hit": false
+        }
+    ],
+    "efficiency": 0.8,
+    "factulity": 1.0,
+    "recall": 0.0
+}

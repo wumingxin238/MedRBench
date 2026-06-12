@@ -1,0 +1,162 @@
+{
+    "raw_case": "\nA Rare Cause of Pancytopenia From Lepromatous Leprosy Diagnosed in Bone Marrow Aspiration: A Bolt From the Blue\nHansen’s disease is caused by Mycobacterium leprae. The clinical presentation of lepromatous leprosy is broad, affecting patients with reduced T-cell immune response and causing anergy. Usually, the patient presents with numerous red to brown nodules over the face and auricles and is diagnosed by skin biopsy. We hereby report an unusual case of a 40-year-old man who presented with altered sensorium and fever. Lepromatous leprosy was diagnosed initially in the bone marrow aspiration without any clinical suspicion or previous skin biopsy confirmation. Bone marrow infiltration by lepra bacilli is very rare, with only a few cases reported in the literature so far.\n\nIntroduction\n\nLeprosy, better termed Hansen’s disease, is a chronic infectious disease caused by a bacterial organism, Mycobacterium leprae [1]. It is an obligatory intracellular bacillus that is acid-fast, gram-positive, and shows tropism for Schwann cells in peripheral nerves and phagocytes in the skin [2]. Leprosy can appear in a variety of ways in clinical settings, depending on the host immune system. It typically affects the skin and peripheral nervous system, though occasionally it also affects mucous membranes [3]. Rarely can leprosy manifest as bone marrow infiltration; the literature has only a small number of case reports that describe leprosy diagnosed through bone marrow aspiration or biopsy.\n\nCase presentation\n\nA 40-year-old man was brought to casualty with altered sensorium, fever with chills and rigor for six days, along with multiple episodes of vomiting and seizures. He was a known case of epilepsy since childhood and was on carbamazepine. The initial laboratory investigations revealed pancytopenia (Table 1).Bone marrow aspiration was performed, suspecting carbamazepine-induced pancytopenia, which showed suppressed erythropoiesis, increased myelopoiesis with dysmyelopoietic features, and megakaryocytosis. The reticuloendothelial activity was markedly increased, with sheets of large histiocytes (Figure 1). With the suspicion of leprosy, a Fite-Faraco stain was performed, which showed strong positivity (4+) for lepra bacilli, consistent with lepromatous leprosy (Figure 2).After the bone marrow diagnosis, a detailed clinical examination was recommended, which revealed a few hypopigmented scaly lesions and nodules over the scalp, ears, hands, bilateral knees, and foot (Figures 3-4), followed by a slit skin smear examination revealing strong positivity for lepra bacilli, suggestive of multibacillary borderline lepromatous leprosy (Table 2).The patient was started on treatment with a supervised monthly dose of rifampin (600 mg), along with ofloxacin (400 mg), minocycline (100 mg), and an unsupervised daily dose of minocycline (100 mg) and ofloxacin (400 mg). The patient is on monthly follow-up at the outpatient clinic, with good compliance with the suggested therapy. No new skin lesions or sensory loss developed following therapy. Improvement in cytopenia and reduction in the size of existing lesions were noted after six months of initiation of treatment.\n\nDiscussion\n\nLeprosy is a chronic granulomatous disease, more common in equatorial as well as semitropical parts of the world, while it is present worldwide [4]. M. leprae, the obligatory intracellular pathogen that causes leprosy, grows slowly, with a doubling time of 10-14 days and can live for up to 45 days outside of its human host [5,6].This bacterium is typically present in macrophages, keratinocytes, and histiocytes in infected persons, as well as in the Schwann cells of peripheral nerves, leading to demyelination, axonal malfunction, and dermatological lesions [7,8].The World Health Organization categorizes leprosy based on symptoms, including visible lesions and bacilli in skin smears [8,9]. A \"paucibacillary\" infection is defined as one that results in one to five patches over the skin and no bacilli in smears taken from the skin. A person is considered \"multibacillary\" if they have five or more patches over the skin and the presence of bacilli in the smears taken from the skin [8]. Depending on the immune response of the individual to the infectious agent, the disease is classified as tuberculoid (TT), borderline tuberculoid (BT), borderline borderline (BB), borderline lepromatous (BL), and lepromatous (LL). Lepromatous leprosy is extremely dreadful, resulting in significant nerve damage and physical disability.One feature noted in the cells infected with bacilli is the presence of lipid droplets, accumulation of cholesterol, oxidized phospholipids, and fatty acids that results in the formation of \"foamy cells\" [10].M. leprae is found in nearly every bodily system in leprosy patients, but it is particularly prevalent in the reticuloendothelial system, which includes the bone marrow. The live organisms that persist in the bone marrow could be a possible explanation for the high relapse rate [11]. Bacilli persisting in the lymphovascular system deposit in the spleen, liver, lymph nodes, and bone marrow, which are the cause of the high concentration of M. leprae [12]. The bacterial burden in lepromatous leprosy is estimated to be 10^5 organisms/mL of blood, resulting from the inability of the immune system to fend off the infectious disease [13].Traditionally, lepromatous leprosy involving the bone marrow is associated with the growth of foamy histiocytes, or \"Virchow cells,\" which carry lepra bacilli [14]. When there are foamy histiocytes in the bone marrow, the differential diagnosis is quite wide. In several storage diseases, such as Gaucher disease, Niemann-Pick disease, and Wolman disease, foamy histiocytes are noteworthy. Diseases like leishmaniasis, brucellosis, listeriosis, tularemia, mycoses, and various bacterial diseases can also cause foamy histiocytes and loose granulomas [15]. Moreover, common infective etiologies of pancytopenia include leishmaniasis, disseminated tuberculosis, malaria, and enteric fever, among others [16].In leprosy patients, fever and cytopenias are common, particularly in those receiving multidrug therapy. Fever is frequently attributed to an immunological reaction, and cytopenias are often caused by medication. M. leprae involvement in the bone marrow is extremely rare and rarely documented in the literature, and is frequently not suspected [14,17,18]. Pancytopenia may result from the presence of M. leprae as well as microgranulomas made up of plasma cells, lymphocytes, and foamy macrophages that obstruct the bone marrow's normal development.It is important to note that aspirate smears should be stained with a modified Ziehl-Neelsen stain for an accurate diagnosis because conventional staining techniques, like this one, are frequently applied to trephine biopsy and may not always detect M. leprae due to chemical alterations caused by the decalcification process [19]. A thorough clinical evaluation for skin patches, nodules, and TB-PCR (Mycobacterium tuberculosis-polymerase chain reaction) from the node or marrow could aid in accurate diagnosis when lepra bacilli are detected in the bone marrow [20].The increased incidence of recurrence after treatment completion may be explained by the presence of live bacilli in the marrow of M. leprae cases. For these patients, marrow evaluation using the Fite-Faraco stain to detect acid-fast bacilli is recommended in order to assess the involvement of the marrow, as well as the efficacy of the treatment [21].\n\nConclusions\n\nThis case illustrates the importance of keeping leprosy as a differential diagnosis when a patient presents with fever and peripheral pancytopenia. Performing a Fite-Faraco stain is essential when there is the presence of aggregates of large granular histiocytes in the bone marrow, even though there is an absence of clinical suspicion or previous skin biopsy confirmation.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 40-year-old male.\n- **Chief Complaint:** Altered sensorium, fever with chills and rigor for six days, vomiting, and seizures.\n- **History of Present Illness:** Presented with systemic symptoms consisting of altered sensorium, fever, vomiting, and seizures. Pancytopenia was noted on initial evaluations.\n- **Past Medical History:** Known epilepsy since childhood, managed with carbamazepine.\n- **Personal History:** Not described.\n- **Family History:** Not described.\n- **Physical Examination:** Post bone marrow diagnosis, hypopigmented scaly lesions and nodules were identified over the scalp, ears, hands, knees, and feet.\n- **Ancillary Tests:**\n  - Initial laboratory findings: Pancytopenia.\n  - Bone marrow aspiration: Suppressed erythropoiesis, increased myelopoiesis with dysmyelopoietic features, megakaryocytosis, and numerous large histiocytes (foamy cells).\n  - Fite-Faraco staining of bone marrow: Strong positivity (4+) for lepra bacilli, confirming lepromatous leprosy.\n  - Slit skin smear: Strong positivity for lepra bacilli, consistent with multibacillary borderline lepromatous leprosy.",
+        "differential_diagnosis": "1. **Initial considerations for pancytopenia with fever:**\n   - **Carbamazepine-induced pancytopenia:** Commonly associated with medications like carbamazepine. Excluded based on bone marrow findings showing infection rather than drug-induced suppression.\n   - **Infectious causes:** Differential included disseminated tuberculosis, leishmaniasis, septicemia, and malaria. Considered due to systemic symptoms and pancytopenia.\n   - **Storage diseases (e.g., Gaucher, Niemann-Pick):** Considered due to foamy histiocytes but excluded because of lack of other clinical features of storage disorders and confirmed evidence of lepra bacilli.\n\n2. **Bone marrow findings:**\n   - Bone marrow involvement suggested the possibility of infections like disseminated tuberculosis, leishmaniasis, and mycobacterial infections. Fite-Faraco stain confirmed the presence of lepra bacilli, ruling out alternative infectious or storage-related conditions.\n\n3. **Clinical findings:**\n   - Retrospective clinical examination revealed hypopigmented scaly lesions and nodules. Slit skin smear further supported the diagnosis of multibacillary lepromatous leprosy.\n\n4. **Exclusion of other diagnoses:** \n   - Lack of bacterial or parasitic evidence (e.g., negative TB-PCR and absence of clinical signs of leishmaniasis) helped exclude other potential infections.\n   - No supporting evidence for drug-induced marrow suppression or systemic storage disorders.",
+        "final_diagnosis": "Multibacillary borderline lepromatous leprosy with bone marrow involvement, presenting as pancytopenia and systemic symptoms.",
+        "diagnosis_results": "Multibacillary borderline lepromatous leprosy with bone marrow involvement."
+    },
+    "body_category": [
+        "Blood, Heart and Circulation"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-8-13",
+    "checked_rare_disease": [
+        "Leprosy"
+    ],
+    "id": "PMC11470822",
+    "results": {
+        "content": "### Reasoning:\n\nStep 1: Interpreting the Chief Complaint and History of Present Illness\n\nThe patient is a 40-year-old male presenting with altered sensorium, fever with chills and rigor for six days, vomiting, and seizures. He has a known history of epilepsy since childhood, managed with carbamazepine. Initial evaluations revealed pancytopenia.\n\nFirst, I need to consider whether the current symptoms are related to his known epilepsy or if there's another underlying issue causing these systemic symptoms.\n\nStep 2: Considering Epilepsy and Medication Side Effects\n\nGiven his history of epilepsy and the use of carbamazepine, it's essential to consider whether the current symptoms could be due to side effects of the medication or poor control of his epilepsy.\n\nCarbamazepine can cause hematological side effects, including pancytopenia, but typically this would be noted earlier in the course of treatment. Since he has been on the medication since childhood, it's less likely to be a new side effect unless there has been a change in dose or compliance.\n\nMoreover, altered sensorium, fever, vomiting, and seizures could be signs of a seizure disorder that is not well-controlled, but the presence of pancytopenia suggests an underlying hematological issue.\n\nStep 3: Evaluating Pancytopenia\n\nPancytopenia indicates a decrease in red blood cells, white blood cells, and platelets. This can be due to various causes, including bone marrow disorders, viral infections, autoimmune conditions, or medications.\n\nGiven the patient's symptoms and the bone marrow aspiration results, it's crucial to consider bone marrow involvement in the disease process.\n\nStep 4: Analyzing Bone Marrow Aspiration Findings\n\nThe bone marrow aspiration showed suppressed erythropoiesis, increased myelopoiesis with dysmyelopoietic features, megakaryocytosis, and numerous large histiocytes (foamy cells). Fite-Faraco staining was strongly positive for lepra bacilli, confirming lepromatous leprosy.\n\nThis is a significant finding, as leprosy can affect multiple systems, including the skin and peripheral nerves, and in severe cases, can involve other organs.\n\nStep 5: Understanding Lepromatous Leprosy\n\nLepromatous leprosy is a severe form of leprosy characterized by a high bacterial load and widespread involvement of skin, nerves, and other organs. It is associated with a weak cell-mediated immune response to Mycobacterium leprae.\n\nSymptoms can include skin lesions, nerve damage leading to sensory and motor deficits, and systemic symptoms like fever and malaise.\n\nStep 6: Relating Symptoms to Leprosy\n\nThe patient's hypopigmented scaly lesions and nodules over the scalp, ears, hands, knees, and feet, along with the positive Fite-Faraco staining and slit skin smear for lepra bacilli, confirm the diagnosis of multibacillary borderline lepromatous leprosy.\n\nThe systemic symptoms like fever, altered sensorium, vomiting, and seizures could be due to the widespread involvement of leprosy, possibly including cranial nerves or meningeal involvement.\n\nStep 7: Considering Differential Diagnoses\n\nWhile leprosy is confirmed by the bone marrow and slit skin smear findings, it's essential to consider other causes of pancytopenia and neurological symptoms, such as infectious diseases (e.g., sepsis, meningitis), hematological malignancies, or other autoimmune conditions.\n\nHowever, given the specific findings of lepra bacilli in the bone marrow and skin, leprosy remains the primary diagnosis.\n\nStep 8: Formulating the Final Diagnosis\n\nGiven the clinical presentation, laboratory findings, and microbiological confirmation, the final diagnosis is multibacillary borderline lepromatous leprosy with systemic involvement, manifesting as altered sensorium, fever, vomiting, and seizures, along with pancytopenia.\n\nIt's important to note that the patient's known epilepsy and use of carbamazepine may complicate the clinical picture, but the predominant diagnosis is leprosy with its systemic manifestations.\n\n### Answer:\n\nMultibacillary borderline lepromatous leprosy with systemic involvement, including neurological symptoms and pancytopenia."
+    },
+    "reasoning_eval": [
+        {
+            "step": "Step 1: Interpreting the Chief Complaint and History of Present Illness",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "The patient is a 40-year-old male presenting with altered sensorium, fever with chills and rigor for six days, vomiting, and seizures. He has a known history of epilepsy since childhood, managed with carbamazepine. Initial evaluations revealed pancytopenia.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "First, I need to consider whether the current symptoms are related to his known epilepsy or if there's another underlying issue causing these systemic symptoms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 2: Considering Epilepsy and Medication Side Effects",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Given his history of epilepsy and the use of carbamazepine, it's essential to consider whether the current symptoms could be due to side effects of the medication or poor control of his epilepsy.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Carbamazepine can cause hematological side effects, including pancytopenia, but typically this would be noted earlier in the course of treatment. Since he has been on the medication since childhood, it's less likely to be a new side effect unless there has been a change in dose or compliance.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Moreover, altered sensorium, fever, vomiting, and seizures could be signs of a seizure disorder that is not well-controlled, but the presence of pancytopenia suggests an underlying hematological issue.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 3: Evaluating Pancytopenia",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Pancytopenia indicates a decrease in red blood cells, white blood cells, and platelets. This can be due to various causes, including bone marrow disorders, viral infections, autoimmune conditions, or medications.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Given the patient's symptoms and the bone marrow aspiration results, it's crucial to consider bone marrow involvement in the disease process.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Carbamazepine-induced pancytopenia was excluded based on bone marrow findings showing infection rather than drug-induced suppression.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Infectious causes such as disseminated tuberculosis, leishmaniasis, septicemia, and malaria were considered due to systemic symptoms and pancytopenia.",
+            "hit": false
+        },
+        {
+            "step": "<Step 3> Storage diseases like Gaucher and Niemann-Pick were considered due to foamy histiocytes but excluded because of the lack of other clinical features of storage disorders and confirmed evidence of lepra bacilli.",
+            "hit": false
+        },
+        {
+            "step": "<Step 4> Bone marrow findings suggested infections like disseminated tuberculosis, leishmaniasis, and mycobacterial infections, but Fite-Faraco stain confirmed the presence of lepra bacilli, ruling out alternative infectious or storage-related conditions.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Retrospective clinical examination revealed hypopigmented scaly lesions and nodules, and slit skin smear supported the diagnosis of multibacillary lepromatous leprosy.",
+            "hit": false
+        },
+        {
+            "step": "<Step 6> Negative TB-PCR and absence of clinical signs of leishmaniasis helped exclude other potential infections.",
+            "hit": true
+        },
+        {
+            "step": "<Step 7> No evidence was found to support drug-induced marrow suppression or systemic storage disorders.",
+            "hit": true
+        },
+        {
+            "step": "<Step 8> The final diagnosis was multibacillary borderline lepromatous leprosy with bone marrow involvement, presenting as pancytopenia and systemic symptoms.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.8,
+    "factulity": 1.0,
+    "recall": 0.625
+}

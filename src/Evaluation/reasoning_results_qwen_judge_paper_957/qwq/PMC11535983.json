@@ -1,0 +1,153 @@
+{
+    "raw_case": "\nAn uncommon localization of deep benign fibrous histiocytoma in the thigh: A case report\nBenign fibrous histiocytoma (BFH) is a rare mesenchymal tumor, with its deep variant (DBFH) accounting for only 1%-2% of cases. DBFH typically arises in the limbs, head, and neck, and usually measures under 12 cm. MRI can suggest the diagnosis by detailing the tumor's location and internal features. However, histopathological examination remains essential for definitive diagnosis, supported by immunohistochemical staining. The treatment is always surgical, involving complete resection of the tumor with clean excision margins.\n\nIntroduction\n\nBenign fibrous histiocytoma (BFH) is a soft tissue tumor which is defined histologically as a mesenchymal tumor characterized by the presence of fibroblasts and histiocytes [1]. Two types have been described, the cutaneous form, which is the most common, and the deep form, which is the subject of our paper and constitutes a very rare entity (around 1% to 2% of all HFBs) [2]. Deep benign fibrous histiocytoma (DBHF) affects the limbs, head and neck, and often measures less than 12 cm. We report the case of a 16 cm HFBP discovered in the thigh of a young patient, describing its clinical features, imaging evaluation, histopathological and immunophenotypic characteristics, and management.\n\nCase report\n\nWe report the case of a 55-year-old patient with no significant medical history who presented to our facility with a progressively enlarging mass in the thigh that had been evolving over the past 6 months. There were no associated symptoms, such as fever or signs of inflammation, and the patient's general condition remained well preserved. Clinical examination revealed a palpable, nonvisible mass on the anteromedial aspect of the left thigh, which was firm, tissue-like in consistency, nonfluctuant, and nontender (Fig. 1). The remainder of the examination showed no associated lymphadenopathy, pulmonary, or digestive symptoms, and hip mobility was preserved. We performed magnetic resonance imaging (MRI), which revealed an iso-intense T1 and hyper-intense T2 lesion that enhanced heterogeneously after contrast injection, measuring 16 cm in its largest dimension. The mass was deeply situated between the sartorius and adductor longus muscles, with surrounding infiltration extending to the level of the neurovascular bundle within the femoral triangle (Figs. 2 and 3).Given this radiological description, we admitted the patient to the operating room. Under spinal anesthesia and in the dorsal decubitus position, we approached the mass through an anteromedial incision of the thigh. Intraoperatively, we discovered a well-circumscribed, encapsulated tissue mass that did not infiltrate the skin or adjacent muscles (Fig. 4). We completely excised the mass with a 1 cm margin of resection and sent it for histopathological examination (Fig. 5).Macroscopically, the tumor was soft, well-circumscribed, and encapsulated, with a red-brown cut surface. Microscopic examination revealed a benign proliferation of spindle-shaped cells with oval, wavy nuclei, lacking cytological atypia and mitoses. The cytoplasm was sparse, and the stroma was rich in collagen bundles. Immunohistochemical analysis showed strong, diffuse positive staining for CD34 in the tumor cells, focal positive staining for Desmin, and negative staining for β-catenin, ruling out a desmoid tumor. Additionally, the tumor was negative for H-caldesmon and AML, excluding smooth muscle tumors; S100 and SOX10, excluding nerve tumors; MDM2 and CDK4, excluding liposarcoma; CD31 and HHV8, excluding vascular tumors; STAl6, excluding solitary fibrous tumors; and Myogenin, excluding striated muscle tumors what was in favor of a deep benign fibrous histiocytoma.The patient was discharged the day after the operation. No additional therapeutic investigations were required, and the 2-year follow-up showed a favorable outcome with no signs of recurrence.\n\nDiscussion\n\nDeep benign fibrous histiocytoma (DBFH) unlike the cutaneous type, is a rare form [1]. Diagnosing DBFH relies heavily on histopathological analysis of the removed mass because its clinical and MRI features can closely resemble those of other benign and malignant tumors, such as schwannomas, leiomyosarcomas, solitary fibrous tumors (SFT), dermatofibrosarcoma protuberans (DFSP), and malignant peripheral nerve sheath tumors (MPNST). When DBFH is detected on MRI, its deep location, size, and enhancement patterns can raise concerns about the possibility of malignancy, making accurate diagnosis challenging [3].Radiologically, conventional radiography reveals a superficial, radiodense soft tissue mass in the proximal medial thigh, displaying no signs of mineralization or femoral involvement, providing nonspecific findings. Magnetic Resonance Imaging (MRI) typically demonstrates these tumors with a T2 hyperintense signal, suggesting a composition rich in water or cellular content. Although predominantly homogeneous, the mass may exhibit areas of internal necrosis and hemorrhage accompanied by central vascularity. Benign fibrous histiocytomas usually do not display T2-hyperintense peritumoral edema, which can aid in their differential diagnosis from more aggressive tumors [4].The treatment of choice for deep FBH is complete surgical resection. It is crucial to perform resection with healthy margins of around 1 to 2 cm around the tumor to minimize the risk of local recurrence [5]. The need for chemotherapy or radiotherapy is rare and typically reserved for atypical cases or situations where the tumor is malignant or has shown transformative features. Radiotherapy may be considered for unresectable tumors, or to complement treatment if healthy margins cannot be obtained, but this is the exception rather than the norm [5].Regular follow-up is essential after surgery to monitor any possible recurrence. Follow-up examinations may include periodic clinical consultations and imaging, such as ultrasound or MRI, to assess the absence of recurrence or the presence of new lesions [3].\n\nConclusion\n\nDeep benign fibrous histiocytoma (DBFH) is a type of soft tissue tumor characterized histologically by fibroblasts and histiocytes. While benign, its deep tissue occurrence complicates diagnosis and treatment, as it can be easily confused with other soft tissue tumors.\n\nPatient consent\n\nConsent was obtained from the patient for publication of this case report and accompanying images.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 55-year-old patient  \n- **Chief Complaint:** A progressively enlarging mass in the left thigh  \n- **History of Present Illness:** Mass in the anteromedial thigh gradually increasing in size for 6 months. No associated symptoms such as fever, inflammation, or systemic symptoms. Preserved general condition.  \n- **Past Medical History:** None  \n- **Personal History:** None  \n- **Family History:** None  \n- **Physical Examination:** Palpable, firm, nonfluctuant, nontender mass located on the anteromedial aspect of the left thigh. No lymphadenopathy, no pulmonary or digestive symptoms, and normal hip mobility.  \n- **Ancillary Tests:**  \n  - **MRI:** Iso-intense T1 and hyper-intense T2 lesion with heterogenous contrast enhancement, measuring 16 cm, located between the sartorius and adductor longus muscles, with infiltration towards the neurovascular bundle in the femoral triangle.  \n  - **Histopathology:** Encapsulated tumor showing benign spindle-shaped cells with no cytological atypia or mitoses, sparsely cytoplasmic stroma, and collagen-rich bundles.  \n  - **Immunohistochemistry:** Positive for CD34 and Desmin; Negative for markers ruling out desmoid tumor, smooth muscle tumors, nerve tumors, liposarcoma, vascular tumors, solitary fibrous tumor, and striated muscle tumors.",
+        "differential_diagnosis": "1. **Initial Considerations:** Based on the location, size, and heterogenous enhancement on MRI, potential diagnoses included benign and malignant tumors such as schwannomas, leiomyosarcomas, solitary fibrous tumors, dermatofibrosarcoma protuberans (DFSP), and malignant peripheral nerve sheath tumors (MPNST).  \n2. **Exclusion of Malignant Tumors:** Histology showed the absence of cytological atypia, mitoses, and necrosis, and immunohistochemistry ruled out malignancies like liposarcoma (negative for MDM2 and CDK4), vascular tumors (negative for CD31 and HHV8), and other aggressive entities such as MPNST.  \n3. **Exclusion of Other Benign Tumors:** Immunohistochemistry helped differentiate the lesion from other benign entities like desmoid tumors (negative for β-catenin), smooth muscle tumors (negative for H-caldesmon and AML), and nerve tumors (negative for S100 and SOX10).  \n4. **Confirmation of DBFH:** The combination of CD34 positivity, histologic features (spindle cells, collagen-rich stroma, and encapsulated nature), and lack of markers for other conditions established the diagnosis of deep benign fibrous histiocytoma (DBFH).",
+        "final_diagnosis": "Deep Benign Fibrous Histiocytoma (DBFH) in the left thigh. The diagnosis was confirmed by clinical examination, imaging, histopathology, and immunohistochemistry.",
+        "diagnosis_results": "Deep benign fibrous histiocytoma (DBFH)."
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-8-26",
+    "checked_rare_disease": [],
+    "id": "PMC11535983",
+    "results": {
+        "content": "### Resoning:\n\n**Step 1:** Start by reviewing the patient's chief complaint and history of present illness. The patient is a 55-year-old with a progressively enlarging mass in the left thigh over 6 months, without associated symptoms like fever or inflammation, and with a preserved general condition. This suggests a benign process, but we need to consider all possibilities.\n\n**Step 2:** Examine the physical examination findings. The mass is palpable, firm, nonfluctuant, and nontender, located on the anteromedial aspect of the left thigh, between the sartorius and adductor longus muscles. There's no lymphadenopathy, and hip mobility is normal. This localization is important for considering the type of tumors that can occur in this anatomical region.\n\n**Step 3:** Review the ancillary tests starting with the MRI findings. The lesion is iso-intense on T1 and hyper-intense on T2, with heterogeneous contrast enhancement, measuring 16 cm, located between the sartorius and adductor longus muscles, with infiltration towards the neurovascular bundle in the femoral triangle. This suggests a soft tissue tumor with possible extension into adjacent structures.\n\n**Step 4:** Consider the histopathology report. The tumor is encapsulated, composed of benign spindle-shaped cells with no cytological atypia or mitoses, sparsely cytoplasmic stroma, and collagen-rich bundles. This description points towards a benign mesenchymal tumor.\n\n**Step 5:** Examine the immunohistochemistry results. The tumor is positive for CD34 and Desmin, which are markers for different cell lineages. CD34 is typically associated with vascular or hematopoietic cells, while Desmin is a marker for muscle cells, including smooth muscle and skeletal muscle.\n\n**Step 6:** Consider the differential diagnosis based on the location, histology, and immunohistochemistry. Given the location in the thigh and the muscle involvement, potential diagnoses include benign and malignant soft tissue tumors such as lipomas, leiomyomas, rhabdomyosarcomas, etc.\n\n**Step 7:** Note that the immunohistochemistry is negative for markers that would suggest desmoid tumor, smooth muscle tumors, nerve tumors, liposarcoma, vascular tumors, solitary fibrous tumor, and striated muscle tumors. This process of elimination is crucial in narrowing down the possible diagnoses.\n\n**Step 8:** Given the positivity for both CD34 and Desmin, consider the possibility of a tumor that has dual differentiation or expresses markers not typically associated with its primary cell type. This could be unusual and may require considering less common tumor types.\n\n**Step 9:** Recall that in soft tissue tumors, CD34 is often associated with vascular tumors or hematopoietic cells, while Desmin is associated with muscle cells. The co-expression of these markers could suggest a tumor arising from a cell with dual potential or a tumor with mixed differentiation.\n\n**Step 10:** Consider the possibility of a schwanoma or a neurofibroma, but these typically have different immunohistochemical profiles. Additionally, the infiltration towards the neurovascular bundle might suggest involvement of nerve structures, but the absence of nerve tumor markers makes this less likely.\n\n**Step 11:** Think about inflammatory myofibroblastic tumors, which can express CD34, but usually have other features like inflammatory cell infiltration, which isn't mentioned here.\n\n**Step 12:** Given the benign appearance histologically and the immunoprofile, consider a type of fibromatosis or a deep fibromatous lesion, but the negative markers for desmoid tumors make this less likely.\n\n**Step 13:** Consider a type of fibrosarcoma, but the absence of cytological atypia and mitoses makes this less probable.\n\n**Step 14:** Think about a solitary fibrous tumor, but it's negative for the relevant markers.\n\n**Step 15:** Given the location and the muscle involvement, consider a type of leiomyoma or leiomyosarcoma, but these are negative for CD34 and positive for smooth muscle markers, which are negative here.\n\n**Step 16:** Consider a vascular tumor like a hemangiopericytoma, which can express CD34, but typically have different histological features.\n\n**Step 17:** Perhaps consider a perivascular epithelioid cell tumor (PEComa), which can express both muscle and vascular markers, but these are typically positive for other markers like HMB-45 and Melan-A.\n\n**Step 18:** Given the progressive enlargement over 6 months and the absence of symptoms, and the benign histology, consider a benign peripheral nerve sheath tumor, but the negative nerve tumor markers make this less likely.\n\n**Step 19:** Think about a type of fibroma or deep fibrous tumor, but these typically don't express Desmin.\n\n**Step 20:** Given the confusion in markers and the location, perhaps consider a type of abnormal reaction or a lesion with mixed features.\n\n**Step 21:** Consider the possibility of a mistake in immunohistochemistry, but assuming the lab results are accurate, we need to find a diagnosis that fits all the positive and negative markers.\n\n**Step 22:** Perhaps consider a tumor arising from a structure that normally expresses both CD34 and Desmin, such as a structure involving both vascular and muscular components.\n\n**Step 23:** Recall that vascular smooth muscle cells can express Desmin, but typically vascular tumors don't express Desmin strongly.\n\n**Step 24:** Consider that Desmin can be expressed in some types of fibrous tumors, but this is uncommon.\n\n**Step 25:** Perhaps consider a type of aggressive angiomyxoma, which can express CD34 and Desmin, but these are typically found in the pelvis of young women, which doesn't fit this patient's demographics.\n\n**Step 26:** Think about a type of low-grade fibromyxoid sarcoma, but these are usually negative for CD34 and Desmin.\n\n**Step 27:** Consider a mammary-type myofibroblastoma, which can express CD34 and Desmin, but these are typically found in the breast.\n\n**Step 28:** Given the perplexing combination of markers and the location, perhaps consider a type of tumor that is misclassified or a unusual presentation of a known entity.\n\n**Step 29:** Perhaps this is a case of a benign peripheral nerve sheath tumor with atypical immunophenotype, or a tumor with reactive changes leading to unusual marker expression.\n\n**Step 30:** Alternatively, consider that the tumor could be a type of fibrohistiocytic tumor, but these don't typically express Desmin.\n\n**Step 31:** Given the infiltration towards the neurovascular bundle, perhaps consider a tumor arising from the vascular structures in the femoral triangle, but the expression of Desmin is confusing.\n\n**Step 32:** Consider consulting specialized literature or databases for tumors that express both CD34 and Desmin in the thigh region.\n\n**Step 33:** Alternatively, consider that this could be a type of solitary fibrous tumor that is positively expressing Desmin aberrantly, but this is unusual.\n\n**Step 34:** Think about vascular malformations, but these are usually not encapsulated and have different histological features.\n\n**Step 35:** Perhaps consider a type of inflammatory pseudotumor, but again, the markers don't align perfectly.\n\n**Step 36:** Given the progressive enlargement and the benign histology, perhaps this is a type of fibromatosis that is not typical desmoid tumor.\n\n**Step 37:** Alternatively, consider that this is a type of lipoma with atypical immunophenotype, but lipomas don't express Desmin.\n\n**Step 38:** Perhaps consider a type of adipofibromatous tumor, but again, liposarcoma was ruled out.\n\n**Step 39:** Think about a type of solitary myofibroblastoma, which can express CD34 and Desmin, but these are rare and typically small.\n\n**Step 40:** Given the size and location, perhaps consider a type of myxofibrosarcoma, but these are typically malignant with atypia and mitoses, which are not present here.\n\n**Step 41:** Consider that this could be a type of benign soft tissue tumor with unusual marker expression, and the diagnosis should be based primarily on histology, with immunohistochemistry as supportive evidence.\n\n**Step 42:** Perhaps the best approach is to classify this as a benign fibrous tumor with abnormal immunophenotype, given the lack of malignant features.\n\n**Step 43:** Alternatively, consider that the tumor could be of undefined origin, given the unusual combination of markers.\n\n**Step 44:** Given the extensive negative markers for various tumor types, it seems that this is a benign tumor that doesn't fit neatly into any of the well-defined categories.\n\n**Step 45:** Perhaps the final diagnosis should reflect the uncertainty in classification, acknowledging the benign histology and the unusual immunophenotype.\n\n**Step 46:** Consider that further molecular testing or genetic analysis might be needed to classify this tumor more accurately, but given the constraints, a histological diagnosis is necessary.\n\n**Step 47:** In summary, despite the confusing immunohistochemical markers, the benign histology suggests a benign fibrous tumor, possibly with unusual marker expression.\n\n**Step 48:** It's important to communicate the uncertainty in the diagnosis due to the atypical immunophenotype, and consider follow-up imaging to monitor for any changes in the mass.\n\n### Answer:\n\nBenign Fibrous Tumor with Atypical Immunophenotype (positive for CD34 and Desmin)\n"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Step 1:** Start by reviewing the patient's chief complaint and history of present illness. The patient is a 55-year-old with a progressively enlarging mass in the left thigh over 6 months, without associated symptoms like fever or inflammation, and with a preserved general condition. This suggests a benign process, but we need to consider all possibilities.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Step 2:** Examine the physical examination findings. The mass is palpable, firm, nonfluctuant, and nontender, located on the anteromedial aspect of the left thigh, between the sartorius and adductor longus muscles. There's no lymphadenopathy, and hip mobility is normal. This localization is important for considering the type of tumors that can occur in this anatomical region.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 3:** Review the ancillary tests starting with the MRI findings. The lesion is iso-intense on T1 and hyper-intense on T2, with heterogeneous contrast enhancement, measuring 16 cm, located between the sartorius and adductor longus muscles, with infiltration towards the neurovascular bundle in the femoral triangle. This suggests a soft tissue tumor with possible extension into adjacent structures.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 4:** Consider the histopathology report. The tumor is encapsulated, composed of benign spindle-shaped cells with no cytological atypia or mitoses, sparsely cytoplasmic stroma, and collagen-rich bundles. This description points towards a benign mesenchymal tumor.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 5:** Examine the immunohistochemistry results. The tumor is positive for CD34 and Desmin, which are markers for different cell lineages. CD34 is typically associated with vascular or hematopoietic cells, while Desmin is a marker for muscle cells, including smooth muscle and skeletal muscle.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 6:** Consider the differential diagnosis based on the location, histology, and immunohistochemistry. Given the location in the thigh and the muscle involvement, potential diagnoses include benign and malignant soft tissue tumors such as lipomas, leiomyomas, rhabdomyosarcomas, etc.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 7:** Note that the immunohistochemistry is negative for markers that would suggest desmoid tumor, smooth muscle tumors, nerve tumors, liposarcoma, vascular tumors, solitary fibrous tumor, and striated muscle tumors. This process of elimination is crucial in narrowing down the possible diagnoses.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 8:** Given the positivity for both CD34 and Desmin, consider the possibility of a tumor that has dual differentiation or expresses markers not typically associated with its primary cell type. This could be unusual and may require considering less common tumor types.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 9:** Recall that in soft tissue tumors, CD34 is often associated with vascular tumors or hematopoietic cells, while Desmin is associated with muscle cells. The co-expression of these markers could suggest a tumor arising from a cell with dual potential or a tumor with mixed differentiation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 10:** Consider the possibility of a schwanoma or a neurofibroma, but these typically have different immunohistochemical profiles. Additionally, the infiltration towards the neurovascular bundle might suggest involvement of nerve structures, but the absence of nerve tumor markers makes this less likely.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Potential diagnoses based on MRI findings included benign and malignant tumors such as schwannomas, leiomyosarcomas, solitary fibrous tumors, dermatofibrosarcoma protuberans (DFSP), and malignant peripheral nerve sheath tumors (MPNST).",
+            "hit": false
+        },
+        {
+            "step": "<Step 2> Histology showed the absence of cytological atypia, mitoses, and necrosis, and immunohistochemistry ruled out malignancies like liposarcoma, vascular tumors, and other aggressive entities such as MPNST.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Immunohistochemistry excluded other benign tumors such as desmoid tumors, smooth muscle tumors, and nerve tumors based on negative markers for β-catenin, H-caldesmon, AML, S100, and SOX10.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> The lesion was confirmed as deep benign fibrous histiocytoma (DBFH) due to CD34 positivity, histologic features including spindle cells, collagen-rich stroma, and encapsulated nature, and the absence of markers for other conditions.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> The final diagnosis of deep benign fibrous histiocytoma (DBFH) in the left thigh was confirmed through clinical examination, imaging, histopathology, and immunohistochemistry.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.9,
+    "factulity": 0.8888888888888888,
+    "recall": 0.8
+}

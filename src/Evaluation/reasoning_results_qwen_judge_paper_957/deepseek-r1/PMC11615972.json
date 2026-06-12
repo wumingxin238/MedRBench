@@ -1,0 +1,90 @@
+{
+    "raw_case": "\nMyeloid leukemia cutis in the absence of systemic leukemia: A case report\nLeukemia cutis (LC) is an uncommon cutaneous manifestation of leukemia that involves the leukocytic infiltration of the skin. LC typically presents after a diagnosis of leukemia has been made but may rarely appear before confirmation of the disease. In this report, we describe the case of an 86-year-old male presenting with LC prior to a clear diagnosis of leukemia in the blood. This case highlights the importance of early recognition of LC lesions, to ensure earlier detection of the neoplasm, particularly when they present as the first sign of disease.\n\nIntroduction\n\nLeukemia cutis (LC) describes the leukemic infiltration of the layers of the skin, typically presenting with erythematous to violaceus papules or nodules.1,2 These lesions may also manifest as plaques, ecchymosis, palpable purpura, or erythroderma.3,4 Patients with leukemia who go on to develop LC survive an average of 3–30 months after the appearance of lesions.\n5\n Very rarely, however, as in this case report and 2%–3% of overall cases, LC can present before the actual diagnosis of systemic leukemia is confirmed, in which case it is termed “aleukemic cutis.”2,6,7 This can occur months to years before the disease is detected in bone marrow or peripheral blood,\n2\n making it essential for dermatologists to recognize the various cutaneous manifestations of LC.\n\nCase report\n\nAn 86-year-old male presented to dermatology with a 4-week history of skin lesions located on the abdomen and lower back. On exam, the patient exhibited numerous erythematous papules and nodules that were irregular, irritated, and moderate in severity (Figure 1). The patient also reported experiencing blurry vision and joint aches but denied any unintentional weight loss, chills, abdominal pain, problems with bleeding, healing, or scarring. In addition, the patient reported a 20 pack-year history of cigarette smoking but had quit nearly 50 years ago. He has no history of skin cancer and no other significant medical history.Complete blood count results in 1 month prior to his visit revealed leukopenia (1,900/μL), anemia (3.24 million RBC/μL), mild thrombocytopenia (128,000/μL), and moderate neutropenia (766/μL). He also had elevated levels of C-reactive protein (19.5 mg/L) and alkaline phosphatase (249 U/L). His panel for sexually transmitted infections (STIs) was negative. A biopsy of the papules was conducted by shave method,\n8\n and microscopic analysis of the dermis revealed a dense infiltrate of monotonous neoplastic cells with dispersed chromatin and a high nuclear-to-cytoplasmic ratio (Figure 2). An immunohistochemical study was performed, and the neoplastic cells were found to be positive for CD15, CD33, CD43, CD56, and CD68 antigens and negative for Tdt, CD3, CD20, CD34, and CD117 antigens, confirming a diagnosis of myeloid LC (Figure 3).Flow cytometry of a peripheral blood sample showed that 10.4% of lymphocytes and 6.1% of all cells analyzed were B cells. This B cell population appeared to show a slight excess of kappa light chain expression, with a kappa/lambda light chain ratio of about 4.1:1, but there were otherwise no signs of leukemia in the blood. Additionally, no aberrant expression of CD5 or CD10 was detected, and there was no immunophenotypic evidence of a T-cell lymphoproliferative disorder, acute leukemia, or an increase in circulating blasts. The patient was started on topical triamcinolone acetonide and referred to oncology, where peripheral blood studies were found to be unchanged from his last examination, and a bone marrow biopsy revealed no signs of leukemia.\n\nDiscussion\n\nLC is usually a sign of a more advanced leukemia, associating the malignancy with a poor prognosis.\n2\n LC is present in 2% to 30% of leukemias, with the highest rates reported in acute myeloid leukemia and chronic lymphocytic leukemia.\n2\n Some of the differential diagnoses of LC include erythema exudativum multiforme, panniculitis, or other inflammatory and infectious agents.2,9 When LC presents on the trunk as in this case, it should be differentiated from basal cell carcinoma, squamous cell carcinoma, syphilitic papules, and pityriasis rosea.\n9\n Leukemia is also associated with other cutaneous manifestations that do not involve leukocytic infiltration, such as purpura, leukocytoclastic vasculitis, Sweet syndrome, and pyoderma gangrenosum.2,10The pathogenesis of LC is poorly understood but is believed to involve increased leukocyte homing through chemokines and adhesion receptors.2,10 LC lesions have no predilection for a specific region of the body; however, they occur less frequently in the oral mucosa and palmoplantar surfaces.\n9\n Some lesions may also be associated with sites of previous surgeries, inflammation, or trauma.2,10LC is diagnosed primarily by biopsy of the lesions, with histopathological analysis typically revealing a diffuse infiltrative pattern of the subcutis, superficial, or deep dermis.5,9,10 These infiltrates may also involve invasion of the vascular and adnexal structures.\n5\n Immunophenotyping of tumor cells through flow cytometry, along with clinical signs, helps confirm a diagnosis of LC and leukemia (Table 1).5,10 CD43 is a reliable marker that can be used to confirm the presence of myeloid cells in the skin, with CD56 providing further confirmation.\n5\n LC is also associated with a higher level of lactate dehydrogenase and B2 microglobulin.\n10\n Treatment of LC is dependent on therapy of underlying leukemia, with some local treatments such as gilteritinib showing positive results.2,11 Local radiotherapy can also be used in cases that do not remit with standard treatment.\n2\n\n\nConclusion\n\nLC is an uncommon cutaneous manifestation of leukemia. The presence of neoplastic, leukocytic cells in the skin without evidence of leukemia in the blood, as described in this report, is a very rare presentation. Recognition of these lesions may allow for earlier detection of leukemia prior to other signs of the disease.",
+    "generate_case": {
+        "case_summary": "- Patient Information: 86-year-old male.\n- Chief Complaint: Skin lesions on the abdomen and lower back of 4 weeks' duration.\n- History of Present Illness: Numerous erythematous papules and nodules on the abdomen and lower back; associated blurry vision and joint aches; denied weight loss, chills, abdominal pain, or bleeding.\n- Past Medical History: None significant.\n- Personal History: Former smoker with a 20 pack-year history, quit 50 years ago.\n- Family History: None provided.\n- Physical Examination: Erythematous papules and nodules, irregular, irritated, and moderate in severity.\n- Ancillary Tests: \n  - Bloodwork: Leukopenia (1,900/μL), anemia (3.24 million RBC/μL), mild thrombocytopenia (128,000/μL), moderate neutropenia (766/μL), elevated CRP (19.5 mg/L) and alkaline phosphatase (249 U/L).\n  - Lesion biopsy with immunohistochemistry: Dense infiltrate of monotonous neoplastic cells positive for CD15, CD33, CD43, CD56, CD68; negative for Tdt, CD3, CD20, CD34, and CD117, confirming myeloid leukemia cutis.\n  - Flow cytometry: 10.4% lymphocytes and 6.1% B cells with slight kappa light chain excess but no leukemia evidence in peripheral blood.\n  - Bone marrow biopsy: No evidence of leukemia.",
+        "differential_diagnosis": "- Initial Consideration: Based on the patient's skin lesions, erythematous papules, and nodules, inflammatory and neoplastic skin conditions were considered. Possible diagnoses included myeloid leukemia cutis (LC), erythema multiforme, panniculitis, basal cell carcinoma, squamous cell carcinoma, syphilitic papules, or pityriasis rosea.\n- Exclusion of Inflammatory/Infectious Conditions: Lack of systemic signs of infection, negative STI panel, and biopsy results ruled out infectious causes like syphilitic papules or inflammatory dermatoses like erythema multiforme or panniculitis.\n- Consideration of Malignancies: The biopsy revealed a dense infiltrate of leukemic cells with specific immunohistochemical markers (CD15, CD33, CD43, CD56, and CD68), supporting the diagnosis of myeloid LC. Other skin malignancies like basal cell carcinoma or squamous cell carcinoma were excluded based on histopathologic features.\n- Systemic Leukemia Investigation: Flow cytometry, CBC, and bone marrow biopsy showed no evidence of systemic leukemia, confirming \"aleukemic leukemia cutis.\"",
+        "final_diagnosis": "Myeloid leukemia cutis (aleukemic cutis), characterized by leukemic infiltration of the skin without systemic leukemia involvement, was diagnosed based on biopsy findings, immunohistochemistry, and the absence of leukemia in peripheral blood and bone marrow.",
+        "diagnosis_results": "Myeloid leukemia cutis (aleukemic cutis)"
+    },
+    "body_category": [
+        "Skin, Hair and Nails"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-7-12",
+    "checked_rare_disease": [
+        "Acute myeloid leukemia"
+    ],
+    "id": "PMC11615972",
+    "results": {
+        "thinking_process": "Okay, let's try to work through this case. The patient is an 86-year-old male with skin lesions on the abdomen and lower back for four weeks. He also has blurry vision and joint aches. No weight loss, chills, abdominal pain, or bleeding. \n\nFirst, looking at the skin lesions: erythematous papules and nodules. The biopsy shows a dense infiltrate of neoplastic cells. The immunohistochemistry markers are positive for CD15, CD33, CD43, CD56, CD68. These markers are often associated with myeloid lineage. CD15 is seen in granulocytes and monocytes, CD33 is a myeloid marker, CD43 can be positive in some leukemias, CD56 is associated with natural killer cells but also seen in myeloid neoplasms, and CD68 is a marker for histiocytes/macrophages. Negative for Tdt, CD3, CD20, CD34, CD117. So, Tdt negative suggests it's not a lymphoblastic leukemia. CD3 and CD20 negative rules out T-cell or B-cell lymphomas. CD34 and CD117 negative might argue against some types of AML, but CD33 and CD15 are more myeloid.\n\nThe flow cytometry shows 10.4% lymphocytes and 6.1% B cells with slight kappa excess. But no leukemia in peripheral blood. Bone marrow biopsy also negative for leukemia. So, the primary site isn't bone marrow or blood. But the skin biopsy shows myeloid leukemia cutis. Leukemia cutis is when leukemic cells infiltrate the skin, usually in the context of AML or other myeloid neoplasms. However, sometimes it can occur without bone marrow involvement, which is called aleukemic leukemia cutis. \n\nLooking at the bloodwork: leukopenia, anemia, thrombocytopenia, neutropenia. Elevated CRP and alkaline phosphatase. The pancytopenia could be due to bone marrow suppression, but the bone marrow biopsy didn't show leukemia. Maybe myelodysplasia? But the biopsy of the skin confirmed myeloid leukemia cutis. So perhaps the patient has a myeloid neoplasm primarily presenting in the skin without bone marrow involvement yet. The flow cytometry didn't find leukemia in blood, so maybe it's isolated to the skin. But leukemia cutis is often a sign of systemic disease. However, in some cases, especially in elderly patients, it might present as an isolated extramedullary manifestation. \n\nThe other symptoms: blurry vision and joint aches. Blurry vision could be due to leukemic infiltration in the eyes, or maybe unrelated (like cataracts, but given the context, possible leukemic involvement). Joint aches might be from the leukemia or another inflammatory process. CRP is elevated, which could indicate inflammation from the leukemia cutis or another infection, but the patient denied infections symptoms. \n\nPast medical history is non-significant. He's a former smoker, but quit 50 years ago, so less likely related now. \n\nSo putting it all together: The skin biopsy confirms myeloid leukemia cutis. Even though bone marrow and peripheral blood don't show leukemia, the presence of neoplastic myeloid cells in the skin with those markers points to this diagnosis. The blood abnormalities (cytopenias) might be due to the body's response to the leukemia cutis or early marrow involvement not detected yet. The final diagnosis would be Myeloid Leukemia Cutis, possibly aleukemic type since there's no evidence in blood or marrow. However, sometimes this can be a precursor to systemic disease. But given the data, that's the most accurate diagnosis here.",
+        "content": "```\n### Resoning:\n<step 1> The patient presents with erythematous skin nodules and papules, confirmed via biopsy to be myeloid leukemia cutis (LC) based on immunohistochemistry markers (CD15, CD33, CD43, CD56, CD68 positivity) and exclusion of lymphoid lineage (CD3, CD20, Tdt negativity).  \n<step 2> Peripheral blood flow cytometry and bone marrow biopsy show no overt leukemia, suggesting isolated extramedullary involvement (aleukemic LC) or early-stage disease not yet detectable systemically.  \n<step 3> Cytopenias (leukopenia, anemia, thrombocytopenia) and elevated CRP/alkaline phosphatase align with LC-associated systemic inflammation or marrow suppression from occult myeloid neoplasia.  \n<step 4> Blurred vision and joint aches may reflect extramedullary leukemic infiltration or paraneoplastic effects. The absence of marrow involvement does not exclude LC, which can precede systemic leukemia.  \n\n### Answer:\nMyeloid leukemia cutis"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient presents with erythematous skin nodules and papules, confirmed via biopsy to be myeloid leukemia cutis (LC) based on immunohistochemistry markers (CD15, CD33, CD43, CD56, CD68 positivity) and exclusion of lymphoid lineage (CD3, CD20, Tdt negativity).",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Peripheral blood flow cytometry and bone marrow biopsy show no overt leukemia, suggesting isolated extramedullary involvement (aleukemic LC) or early-stage disease not yet detectable systemically.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Cytopenias (leukopenia, anemia, thrombocytopenia) and elevated CRP/alkaline phosphatase align with LC-associated systemic inflammation or marrow suppression from occult myeloid neoplasia.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Blurred vision and joint aches may reflect extramedullary leukemic infiltration or paraneoplastic effects. The absence of marrow involvement does not exclude LC, which can precede systemic leukemia.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Initial Consideration: Based on the patient's skin lesions, erythematous papules, and nodules, inflammatory and neoplastic skin conditions were considered. Possible diagnoses included myeloid leukemia cutis (LC), erythema multiforme, panniculitis, basal cell carcinoma, squamous cell carcinoma, syphilitic papules, or pityriasis rosea.",
+            "hit": false
+        },
+        {
+            "step": "Exclusion of Inflammatory/Infectious Conditions: Lack of systemic signs of infection, negative STI panel, and biopsy results ruled out infectious causes like syphilitic papules or inflammatory dermatoses like erythema multiforme or panniculitis.",
+            "hit": false
+        },
+        {
+            "step": "Consideration of Malignancies: The biopsy revealed a dense infiltrate of leukemic cells with specific immunohistochemical markers (CD15, CD33, CD43, CD56, and CD68), supporting the diagnosis of myeloid LC. Other skin malignancies like basal cell carcinoma or squamous cell carcinoma were excluded based on histopathologic features.",
+            "hit": true
+        },
+        {
+            "step": "Systemic Leukemia Investigation: Flow cytometry, CBC, and bone marrow biopsy showed no evidence of systemic leukemia, confirming \"aleukemic leukemia cutis.\"",
+            "hit": true
+        },
+        {
+            "step": "Final Diagnosis: Myeloid leukemia cutis (aleukemic cutis), characterized by leukemic infiltration of the skin without systemic leukemia involvement, was diagnosed based on biopsy findings, immunohistochemistry, and the absence of leukemia in peripheral blood and bone marrow.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.75,
+    "factulity": 1.0,
+    "recall": 0.6
+}

@@ -1,0 +1,151 @@
+{
+    "raw_case": "\nMycetoma Leading to Effusive Constrictive Pericarditis in an Immunocompetent Individual: A Rare Encounter\nNocardial infections are rare but serious, often leading to systemic and cardiopulmonary complications. This is the first reported case of Nocardia beijingensis causing constrictive pericarditis in an immunocompetent individual. We present a 37-year-old Caucasian female patient with no significant medical history who developed pericarditis symptoms after handling crates from China. Despite initial treatment for presumed viral pericarditis, her condition worsened. Further investigation identified Nocardia beijingensis as the cause of effusive constrictive pericarditis. The patient underwent a pericardiectomy, which resolved her symptoms. This case demonstrates the need to consider rare pathogens in cases of refractory pericarditis, regardless of the patient's immune status. Clinicians should maintain a high level of suspicion for uncommon infections in progressively worsening cases and adopt a multidisciplinary diagnostic approach for timely intervention.\n\nIntroduction\n\nPericarditis can be attributed to inflammatory conditions, immune-mediated factors [1,2], and infectious agents, including viruses, bacteria, fungi, and parasites. Constrictive pericarditis, a rare complication, is most commonly associated with tuberculous [3] or viral infections. The diagnosis involves a combination of clinical symptoms, cardiac auscultation, and electrocardiographic and echocardiographic findings [4-7]. Pericardial disease secondary to Nocardia beijingensis has been documented in immunocompromised patients [8]; however, to our knowledge, no cases have been reported in immunocompetent individuals. This case details the challenging diagnostic process and emphasizes the need to consider rare pathogens even in immunocompetent patients.\n\nCase presentation\n\nA 37-year-old Caucasian female patient, with no significant past medical history, presented to the emergency department with a one-month history of pleuritic substernal chest pain radiating to the upper back and dyspnea on mild activities. She also reported intermittent fevers and night sweats during this period. She works in a hot warehouse with a large fan for ventilation, opening crates and assembling parts from China. On physical examination, no significant murmurs or rubs were appreciated on auscultation. The electrocardiogram showed sinus tachycardia at 130 beats per minute (bpm) (Figure 1). The initial echocardiography demonstrated a left ventricular ejection fraction of 55-60% and a small-to-moderate pericardial effusion. The initial laboratory analysis revealed leukocytosis with significant neutrophil shift, elevated inflammatory markers, and thrombocytosis. The patient was managed with ibuprofen and colchicine with a presumptive diagnosis of viral pericarditis and was discharged with instructions for outpatient follow-up.Twelve days post-discharge, the patient was reevaluated in the outpatient cardiology clinic and subsequently readmitted with tachycardia, worsening pleuritic chest pain radiating to the shoulders, progressive dyspnea, fatigue, and tiredness. On physical examination, she was noted to be pale, ill-appearing, and tachycardic. Auscultation was unremarkable. An electrocardiogram once again revealed sinus tachycardia at 128 bpm (Figure 2). White blood cells remained elevated with a left shift. Follow-up echocardiograms revealed a moderate-to-large pericardial effusion with early tamponade. Persistent symptoms necessitated a pericardial window procedure with biopsy and drain placement, resulting in clinical improvement. Three hundred fifty milliliters of murky pericardial fluid was retrieved. The cytology indicated severe acute inflammation without malignancy. Cultures ultimately identified Nocardia beijingensis. The patient was treated with meropenem and trimethoprim-sulfamethoxazole. Extensive testing for autoimmune diseases, connective tissue disorders, blood cultures, and viral, bacterial, and fungal pathogens was unremarkable. CD4 count was recorded at 1,798 cells/mcL. The patient was discharged with instructions for outpatient follow-up.Three days post-discharge, the patient returned to the emergency department for a third time with worsening dyspnea. The physical examination revealed elevated jugular venous pressure with Kussmaul's sign, significant bilateral lower extremity edema, and abdominal distention. Computed tomography (CT) of the abdomen with contrast demonstrated congestive hepatomegaly and a distended inferior vena cava (Figure 3), indicative of elevated right heart pressures. Repeat echocardiography showed persistent pericardial effusion despite the prior pericardial window procedure (Video 1). Cardiac magnetic resonance imaging (MRI) revealed a pericardial thickness of 6 mm (Figure 4). Right and left heart catheterization showed no coronary artery disease, diastolic pressure equalization (approximately 25 mmHg), elevated right atrial pressure with prominent \"x\" and \"y\" descends (Figure 5), dissociation of intracardiac and intrathoracic pressures, and discordance of left ventricular and right ventricular systolic area indices (Figure 6), consistent with constrictive pericarditis. The patient subsequently underwent anterior and diaphragmatic pericardiectomy, and the histopathological examination confirmed extensive acute and chronic inflammation and a fibrinous pericardium consistent with mycetoma (Figure 7). Pre-procedure (Figure 8, Video 2) and post-procedure (Figure 9, Video 3) transesophageal echocardiograms were obtained, the latter revealing significant right ventricular expansion. \n\nDiscussion\n\nNocardial pericarditis is a rare but life-threatening condition. Nocardia species are aerobic actinomycetes that typically cause systemic infections in immunocompromised individuals [9]. However, this patient had no history of autoimmune disease or immune system compromise, making the diagnosis more challenging and underscoring the need for a high index of suspicion in atypical presentations. Nocardia species are fastidious, known for their slow growth [10], and can be easily overlooked if not specifically sought in culture.The diagnosis of pericarditis generally involves ruling out common causes such as viral infections and autoimmune conditions and is primarily based on clinical assessments. In this case, the patient's lack of response to standard anti-inflammatory treatment and the rapid progression to pericardial tamponade necessitated a comprehensive evaluation for less common etiologies, ultimately leading to a pericardial window. The identification of Nocardia beijingensis in the pericardial fluid was unexpected but crucial for guiding appropriate therapeutic management.She developed rapidly progressive effusive constrictive pericarditis as evidenced by an echocardiogram and right and left heart catheterization. The effusive constrictive pericarditis was secondary to the nocardial infection, which caused persistent inflammation and fibrosis with mycetoma of the pericardium. The timely identification of Nocardia beijingensis in the pericardial fluid allowed for targeted antimicrobial therapy, initially improving the patient’s condition. However, the delayed presentation, diagnosis, and treatment likely contributed to the progression of constrictive pericarditis.\n\nConclusions\n\nThis case emphasizes the need for a thorough evaluation of persistent pericarditis, including pericardiocentesis and fluid analysis. Although rare, Nocardia beijingensis pericarditis should be considered, especially in patients who do not respond to standard treatments. Assessing immune competence and screening for autoimmune conditions are also important. Prompt recognition and initiation of antimicrobial therapy are vital. A multidisciplinary approach involving cardiologists, infectious disease specialists, and microbiologists is key for accurate diagnosis and effective treatment.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 37-year-old Caucasian female.\n- **Chief Complaint:** Pleuritic substernal chest pain radiating to the upper back, dyspnea on mild activities.\n- **History of Present Illness:** One-month history of pleuritic chest pain, intermittent fevers, night sweats, and progressive dyspnea. Symptoms worsened despite initial treatment for presumed viral pericarditis.\n- **Past Medical History:** None.\n- **Personal History:** Works in a hot warehouse, handling crates and assembling parts from China.\n- **Family History:** None.\n- **Physical Examination:** Initial and subsequent exams: tachycardia (sinus tachycardia 130 bpm and 128 bpm), pale and ill-appearing on later evaluation, no murmurs or rubs, positive Kussmaul's sign, elevated jugular venous pressure, significant bilateral lower extremity edema, and abdominal distention on third admission.\n- **Ancillary Tests:**\n  - Initial echocardiography: Small-to-moderate pericardial effusion, normal left ventricular ejection fraction of 55-60%.\n  - Laboratory tests: Leukocytosis with left shift, elevated inflammatory markers, thrombocytosis, negative autoimmune, viral, bacterial, and fungal test results, CD4 count of 1,798 cells/mcL.\n  - Follow-up echocardiograms: Moderate-to-large pericardial effusion, early tamponade.\n  - Cardiac MRI: Pericardial thickening of 6 mm.\n  - Right and left heart catheterization: Diastolic pressure equalization, elevated right atrial pressure (\"x\" and \"y\" descends), dissociation of intracardiac and intrathoracic pressures, and ventricular systolic area index discordance.\n  - Fluid analysis: Pericardial fluid cytology revealed severe acute inflammation. Culture identified *Nocardia beijingensis*.\n  - Histopathological examination post-pericardiectomy: Extensive acute and chronic inflammation with fibrinous pericardium consistent with mycetoma.",
+        "differential_diagnosis": "1. **Initial considerations:**\n   - Based on pleuritic chest pain, pericardial effusion, and elevated inflammatory markers, viral pericarditis was the initial presumptive diagnosis. This was supported by the patient’s acute presentation and lack of immunocompromise or significant medical history.\n   - Excluded based on persistent symptoms, progression to tamponade, and failure of NSAID and colchicine therapy.\n\n2. **Evaluation for alternative causative infections:**\n   - Tests for viral, bacterial, and fungal pathogens, autoimmune and connective tissue diseases were negative, ruling out common causes of pericarditis.\n\n3. **Identification of *Nocardia beijingensis* pericarditis:**\n   - Pericardial fluid culture identified *Nocardia beijingensis*. Though rare, its presence was significant due to its known ability to cause systemic infections, necessitating targeted antibiotic therapy.\n   - Inclusion was justified by the patient's exposure history to crates from China and the identification of this organism.\n\n4. **Development of constrictive pericarditis:**\n   - Despite antimicrobial treatment and prior pericardial window procedure, disease progression suggested effusive constrictive pericarditis, as evidenced by diastolic pressure equalization, Kussmaul's sign, MRI-proven pericardial thickening, and persistent symptoms.\n   - The diagnosis was confirmed through echocardiography, cardiac catheterization, and histopathology after pericardiectomy.",
+        "final_diagnosis": "Effusive constrictive pericarditis secondary to *Nocardia beijingensis* mycetoma in an immunocompetent individual.",
+        "diagnosis_results": "Effusive constrictive pericarditis due to *Nocardia beijingensis*."
+    },
+    "body_category": [],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-10-6",
+    "checked_rare_disease": [
+        "Mycetoma",
+        "Nocardiosis"
+    ],
+    "id": "PMC11626487",
+    "results": {
+        "content": "### Reasoning:\n\nIn this case, we have a 37-year-old Caucasian female presenting with pleuritic substernal chest pain radiating to the upper back, along with dyspnea on mild activities. The symptoms have been present for one month and have worsened despite initial treatment for presumed viral pericarditis.\n\n**Step 1:** Let's start by understanding the initial presentation. The patient has chest pain that is pleuritic in nature, meaning it worsens with breathing, and it radiates to the upper back. Additionally, she experiences dyspnea on mild exertion, which suggests some impairment in cardiac function.\n\n**Step 2:** The patient's history includes intermittent fevers and night sweats, which could indicate an infectious process or possibly an inflammatory condition.\n\n**Step 3:** The patient's past medical history is unremarkable, which suggests that this is likely a new onset condition.\n\n**Step 4:** Her personal history mentions working in a hot warehouse, handling crates and assembling parts from China. This occupational exposure could be relevant, especially if there is potential exposure to certain organisms or substances.\n\n**Step 5:** Moving on to the physical examination findings: initially, there is tachycardia (sinus tachycardia at 130 bpm and 128 bpm), and the patient appears pale and ill on later evaluations. There are no murmurs or rubs noted, which is unusual in pericarditis, but there is a positive Kussmaul's sign, elevated jugular venous pressure, significant bilateral lower extremity edema, and abdominal distention on the third admission.\n\n**Step 6:** Ancillary tests show an initial echocardiography revealing a small-to-moderate pericardial effusion and a normal left ventricular ejection fraction of 55-60%. Follow-up echocardiograms show a moderate-to-large pericardial effusion with early tamponade.\n\n**Step 7:** Laboratory tests reveal leukocytosis with a left shift, elevated inflammatory markers, thrombocytosis, and negative results for autoimmune, viral, bacterial, and fungal tests. The CD4 count is 1,798 cells/mcL, which is within the normal range.\n\n**Step 8:** Cardiac MRI shows pericardial thickening of 6 mm, which suggests chronic inflammation or fibrosis.\n\n**Step 9:** Right and left heart catheterization findings include diastolic pressure equalization, elevated right atrial pressure, dissociation of intracardiac and intrathoracic pressures, and ventricular systolic area index discordance, all of which are consistent with pericardial constriction.\n\n**Step 10:** Pericardial fluid analysis shows severe acute inflammation, and culture identifies *Nocardia beijingensis*.\n\n**Step 11:** Histopathological examination post-pericardiectomy reveals extensive acute and chronic inflammation with fibrinous pericardium consistent with mycetoma.\n\n**Step 12:** Considering the initial presentation of pleuritic chest pain and dyspnea, along with the presence of pericardial effusion and tamponade, the differential diagnosis initially considered viral pericarditis. However, the worsening symptoms despite treatment and the identification of *Nocardia beijingensis* in the pericardial fluid suggest an infectious etiology, specifically nocardial pericarditis.\n\n**Step 13:** Nocardiosis is a rare infection caused by aerobic actinomycetes, primarily affecting the lungs but can also involve the brain, skin, and other organs. In this case, it has affected the pericardium, leading to pericarditis and subsequent pericardial constriction.\n\n**Step 14:** The patient's occupational exposure in a hot warehouse handling crates from China might have increased her risk of exposure to *Nocardia* species, as these organisms are commonly found in soil and decaying vegetation.\n\n**Step 15:** The progression to pericardial constriction, as evidenced by the hemodynamic findings and the need for pericardiectomy, indicates a severe and complications of the infection.\n\n**Step 16:** The histopathological findings of extensive acute and chronic inflammation with fibrinous pericardium consistent with mycetoma further support the diagnosis of an infectious process, likely due to the identified *Nocardia beijingensis*.\n\n**Step 17:** It's important to consider that *Nocardia* species can be difficult to culture, and initial tests may be negative, which could explain the initial negative results for bacterial, fungal, and other infections.\n\n**Step 18:** Given the patient's normal immune status (CD4 count within normal range), it's likely that the infection was able to take hold due to the specific pathogen involved and possibly the route of exposure.\n\n**Step 19:** Treatment for nocardial infections typically involves long-term antibiotic therapy, often with sulfonamides as first-line treatment, possibly combined with other antibiotics depending on the species and sensitivity patterns.\n\n**Step 20:** In this case, given the severity of the infection leading to pericardial constriction, surgical intervention in the form of pericardiectomy was necessary in addition to antimicrobial therapy.\n\n**Final Step:** Based on the clinical presentation, ancillary test results, and the identification of *Nocardia beijingensis* in the pericardial fluid, the final diagnosis is **Nocardial pericarditis leading to constrictive pericarditis**.\n\n### Answer:\n\nNocardial pericarditis leading to constrictive pericarditis"
+    },
+    "reasoning_eval": [
+        {
+            "step": "In this case, we have a 37-year-old Caucasian female presenting with pleuritic substernal chest pain radiating to the upper back, along with dyspnea on mild activities. The symptoms have been present for one month and have worsened despite initial treatment for presumed viral pericarditis.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Step 1:** Let's start by understanding the initial presentation. The patient has chest pain that is pleuritic in nature, meaning it worsens with breathing, and it radiates to the upper back. Additionally, she experiences dyspnea on mild exertion, which suggests some impairment in cardiac function.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Step 2:** The patient's history includes intermittent fevers and night sweats, which could indicate an infectious process or possibly an inflammatory condition.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 3:** The patient's past medical history is unremarkable, which suggests that this is likely a new onset condition.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 4:** Her personal history mentions working in a hot warehouse, handling crates and assembling parts from China. This occupational exposure could be relevant, especially if there is potential exposure to certain organisms or substances.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 5:** Moving on to the physical examination findings: initially, there is tachycardia (sinus tachycardia at 130 bpm and 128 bpm), and the patient appears pale and ill on later evaluations. There are no murmurs or rubs noted, which is unusual in pericarditis, but there is a positive Kussmaul's sign, elevated jugular venous pressure, significant bilateral lower extremity edema, and abdominal distention on the third admission.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 6:** Ancillary tests show an initial echocardiography revealing a small-to-moderate pericardial effusion and a normal left ventricular ejection fraction of 55-60%. Follow-up echocardiograms show a moderate-to-large pericardial effusion with early tamponade.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Step 7:** Laboratory tests reveal leukocytosis with a left shift, elevated inflammatory markers, thrombocytosis, and negative results for autoimmune, viral, bacterial, and fungal tests. The CD4 count is 1,798 cells/mcL, which is within the normal range.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Step 8:** Cardiac MRI shows pericardial thickening of 6 mm, which suggests chronic inflammation or fibrosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 9:** Right and left heart catheterization findings include diastolic pressure equalization, elevated right atrial pressure, dissociation of intracardiac and intrathoracic pressures, and ventricular systolic area index discordance, all of which are consistent with pericardial constriction.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> The initial presumptive diagnosis was viral pericarditis based on pleuritic chest pain, pericardial effusion, elevated inflammatory markers, acute presentation, and the absence of immunocompromise or significant medical history.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Viral pericarditis was excluded due to persistent symptoms, progression to tamponade, and failure of NSAID and colchicine therapy.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Tests for viral, bacterial, and fungal pathogens, as well as autoimmune and connective tissue diseases, were negative, ruling out common causes of pericarditis.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Pericardial fluid culture identified *Nocardia beijingensis*, a rare pathogen known to cause systemic infections, necessitating targeted antibiotic therapy.",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> The identification of *Nocardia beijingensis* was supported by the patient’s exposure history to crates from China and the confirmed presence of the organism.",
+            "hit": false
+        },
+        {
+            "step": "<Step 6> Despite antimicrobial treatment and a prior pericardial window procedure, disease progression suggested effusive constrictive pericarditis, evidenced by diastolic pressure equalization, Kussmaul's sign, MRI-proven pericardial thickening, and persistent symptoms.",
+            "hit": true
+        },
+        {
+            "step": "<Step 7> The diagnosis of effusive constrictive pericarditis was confirmed through echocardiography, cardiac catheterization, and histopathology after pericardiectomy.",
+            "hit": true
+        },
+        {
+            "step": "<Step 8> The final diagnosis was effusive constrictive pericarditis secondary to *Nocardia beijingensis* mycetoma in an immunocompetent individual.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.6,
+    "factulity": 1.0,
+    "recall": 0.75
+}

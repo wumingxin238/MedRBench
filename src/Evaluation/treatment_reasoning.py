@@ -32,7 +32,7 @@ def evaluate_case(data, save_root, model_name):
     
     try:
         case_info = data['generate_case']['case_summary']
-        gt_answer = data['parsed']['treatment_plan_results']
+        gt_answer = data['generate_case']['treatment_plan_results']
         gt_reasoning = data['generate_case']["treatment_planning_analysis"] + "\n Treatment plan results:\n" + data['generate_case']["treatment_plan_results"]
                 
         # Extract reasoning steps based on model type

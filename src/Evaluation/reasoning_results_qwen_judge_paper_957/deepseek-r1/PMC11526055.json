@@ -1,0 +1,93 @@
+{
+    "raw_case": "\nDyspnea and hemoptysis revealing Behçet's syndrome: Pulmonary artery aneurysms in a case report\nBehçet's disease is a systemic vasculitis that primarily affects young adults. Arterial involvement in Behçet's disease is rare and associated with a poor prognosis. This manifestation is rarely the initial presentation, often leading to a delayed diagnosis. We present the case of a 27-year-old man who arrived at the emergency department with dyspnea and hemoptysis. An initial chest X-ray revealed bilateral opacities, and subsequent thoracic CT angiography confirmed the presence of pulmonary artery aneurysms. Pulmonary artery involvement, though rare, is a serious condition that manifests as hemoptysis (airway bleeding) caused by pulmonary aneurysms. These aneurysms, often challenging to diagnose, can result in severe hemorrhages and carry a low 2-year survival rate. CT pulmonary angiography is the most effective imaging method for identifying thoracic manifestations of Behçet's disease. Treatment includes early immunosuppression, surgery, or embolization in severe cases, such as those involving massive hemoptysis.\n\nIntroduction\n\nBehçet's disease is a chronic multisystemic vasculitis affecting vessels of various sizes in different organs, with thoracic manifestations involving multiple chest structures. Pulmonary artery involvement is a typical and significant contributor to mortality in these patients [1]. Pulmonary artery aneurysms, which can cause life-threatening hemoptysis due to bronchial rupture, require early diagnosis and treatment. Given the risks associated with invasive imaging, CT is recommended for diagnosing vascular involvement in Behçet's disease [2].This study reviews the imaging findings of pulmonary artery aneurysms in Behçet's disease.\n\nCase report\n\nWe present the case of a 27-year-old male with no notable medical history, who presented to the emergency department with progressively worsening dyspnea and mild hemoptysis.A chest X-ray (Fig. 1) was performed, revealing 2 bilateral rounded opacities in the lower lobes, with a water-density tone and well-defined borders. A thoracic CT angiography (Figs. 2-3) was then requested, showing 2 bilateral aneurysmal formations in the branches of the pulmonary arteries, rounded, with well-defined contours and partially thrombosed, located in the medial lobe (measuring 62 × 22 mm) and the left posterior-basal segment (measuring 44 × 42 mm).The diagnosis of pulmonary artery aneurysms was confirmed, and Behçet's syndrome was suspected. Upon further questioning, it was noted that the patient had a history of recurrent oral and genital aphthosis. He was then transferred to the internal medicine department for further management.A comprehensive clinical examination revealed scars from genital aphthosis, and the pathergy test was positive. The patient was started on cyclophosphamide and prednisone, with ongoing monitoring of the pulmonary artery aneurysms.\n\nDiscussion\n\nBehçet's disease is a chronic autoimmune inflammatory condition affecting multiple systems, Behçet's disease is a chronic autoimmune inflammatory condition affecting multiple systems, first described by Hulusi Behçet in 1924. It typically affects the eyes, mouth, and genitals [3,4]. This condition is most commonly observed in countries within the Mediterranean region, the Middle East, and the Far East. It typically affects young adults, with males often experiencing more severe symptoms [5].Vascular complications, also known as “vascular-Behçet's disease,” impact 25% of patients and are the leading cause of death among individuals with Behçet's disease [6]. Pulmonary artery involvement is a rare occurrence in Behçet's disease, affecting fewer than 5% of patients [7]. It usually occurs 3-4 years after disease onset [8].The primary symptom is hemoptysis, which can vary in severity and is typically caused by either the rupture of an aneurysm into a bronchus or thrombosis in the pulmonary vessels. These aneurysms can lead to severe bleeding and have a poor prognosis, with a 2-year survival rate under 50% [6]. In Behçet's disease, hemoptysis might be incorrectly diagnosed as pulmonary thromboembolism (PTE). Misattributing this condition to PTE and administering inappropriate anticoagulation could be life-threatening [9].The pathophysiological process behind pulmonary artery aneurysms (PAAs) involves inflammation of the vasa vasorum in the tunica media. This inflammation damages the elastic fibers in the media, leading to dilation of the arterial lumen [1].Early detection of aneurysms in Behçet's disease is essential, but invasive imaging techniques like angiography and aortography are rarely used due to their complications. Procedures involving venous puncture or contrast injections can exacerbate thrombosis, and aneurysms may form at arterial puncture sites [2].CT pulmonary angiography (CTPA) is the most effective imaging method for detecting thoracic manifestations of Behçet's disease, surpassing older techniques like conventional angiography, CT angiography and MR angiography [1]. CTPA provides accurate visualization of arterial aneurysms through multiplanar vascular reconstruction. It can identify all major features of Behçet's disease, particularly aneurysms, by showing their relationship with surrounding structures and offering valuable information for surgical planning.Although MRI is less sensitive than CTPA for detecting small pulmonary vascular aneurysms, it has advantages for patients with allergies or renal failure. MRI can enhance blood flow visualization using specific sequences without the need for contrast material injection [10].Pulmonary artery aneurysms can occur as single or multiple entities, may affect one or both sides of the body, and can be either fusiform or saccular in shape [1]. PAAs are usually found in the right lower lobe pulmonary artery, followed by the right and left main pulmonary arteries. Focal enlargement of the pulmonary artery can be an early radiologic sign of a pulmonary aneurysm [6]. These lesions may be completely or partially blocked by a thrombus. Thrombosed aneurysms can lead to ischemia or infarction in the pulmonary tissue [9].Pulmonary aneurysms on CTPA are classified into 6 patterns:1.Enhanced aneurysmal wall.2.Stable pulmonary artery aneurysms or bronchial artery aneurysms with localized thrombosis.3.Unstable PAAs with leakage.4.Stable or unstable pulmonary artery pseudoaneurysms (PAPs) with blurred wall definition, prone to rupture.5.Right ventricular strain.6.Right ventricular strain with or without intra-cardiac thrombosis [10].It is essential to differentiate between in situ thrombosis in true PAAs and marginal extraluminal thrombosis in PAPs, the latter of which suggests a chronic leak and higher rupture risk. CT imaging should also reveal any connections between PAAs and nearby bronchi [10]. Therapeutic options for managing PAAs in Behçet's disease include medical treatment, surgical repair, and transcatheter embolization [6]. Early immunosuppressive therapy is most effective for progressive aneurysm regression, ideally before irreversible damage occurs. Treatment response and duration vary. Medical treatment is preferred for multiple or recurrent PAAs, except in cases of massive hemoptysis, where surgical resection may be necessary [6].\n\nConclusion\n\nIn Behçet disease, vascular system involvement is the main cause of mortality.Pulmonary artery aneurysm is typical for Behçet disease and is a significant sign of a poor prognosis. CT is a valuable imaging technique in the diagnostic work-up of Behçet disease [11].\n\nPatient consent\n\nWritten informed consent was obtained from the patient for the publication of this case report.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 27-year-old male\n- **Chief Complaint:** Progressively worsening dyspnea and mild hemoptysis\n- **History of Present Illness:** Notable history of recurrent oral and genital aphthosis\n- **Past Medical History:** None\n- **Personal History:** None\n- **Family History:** None\n- **Physical Examination:** Genital aphthosis scars; positive pathergy test\n- **Ancillary Tests:**\n  - Chest X-ray: Bilateral rounded opacities in lower lobes with water-density tone and well-defined borders.\n  - Thoracic CT angiography: Two bilateral pulmonary artery aneurysms—the medial lobe (62 × 22 mm) and the left posterior-basal segment (44 × 42 mm), with well-defined contours, partially thrombosed.",
+        "differential_diagnosis": "- **Dyspnea and Hemoptysis Consideration:**\n  - **Pulmonary thromboembolism (PTE):** Hemoptysis and dyspnea are common in PTE, but pulmonary artery aneurysms were observed, and no signs of embolism were found. Excluded as anticoagulation might exacerbate hemorrhage.\n  - **Tuberculosis or Lung Infection:** Typically presents with systemic signs like fever, weight loss, or infectious etiology, none of which were observed. Excluded.\n  - **Vasculitis-related pulmonary process (Behçet's disease):** Pulmonary artery aneurysms and recurrent oral/genital aphthosis strongly indicated Behçet's disease. Further supported by genital scars and positive pathergy test.\n  - **Other causes of pulmonary artery aneurysms (e.g., congenital, autoimmune, or infectious):** Behçet's disease recognized as the specific autoimmune vasculitis associated with this presentation, particularly in a young male.\n\n- **Rationale:** The pulmonary artery aneurysm findings, in conjunction with the history of oral and genital aphthosis and positive pathergy test, were specific to Behçet's disease. Other diagnoses were systematically excluded based on missing supportive clinical evidence.",
+        "final_diagnosis": "**Pulmonary artery aneurysms secondary to Behçet's disease.** The diagnosis was confirmed through imaging studies and clinical history revealing recurrent aphthosis and vasculitis features. Early immunosuppressive therapy (cyclophosphamide and prednisone) was initiated appropriately due to the severity associated with pulmonary artery involvement.",
+        "diagnosis_results": "Pulmonary artery aneurysms secondary to Behçet's disease"
+    },
+    "body_category": [
+        "Lungs and Breathing"
+    ],
+    "disorder_category": [],
+    "receive_time": "2024-8-31",
+    "checked_rare_disease": [
+        "Vasculitis",
+        "Behçet disease"
+    ],
+    "id": "PMC11526055",
+    "results": {
+        "thinking_process": "Okay, let me try to work through this case. The patient is a 27-year-old male with progressively worsening shortness of breath and mild hemoptysis. His history includes recurrent oral and genital aphthous ulcers. The physical exam shows scars from genital aphthosis and a positive pathergy test. The imaging shows pulmonary artery aneurysms.\n\nFirst, I remember that recurrent oral and genital ulcers are classic signs of Behçet's disease. Behçet's is a systemic vasculitis that can affect both small and large vessels. The pathergy test being positive is another clue because that's a common finding in Behçet's. The pathergy phenomenon is where minor trauma leads to pustule formation, which aligns with the positive test here.\n\nNext, the hemoptysis and dyspnea could be due to pulmonary issues. The chest X-ray and CT angiography showing bilateral pulmonary artery aneurysms are significant. Pulmonary artery aneurysms are rare but strongly associated with Behçet's disease. The fact that they are partially thrombosed fits with the vascular inflammation leading to aneurysm formation and thrombosis.\n\nOther possibilities? Maybe other vasculitides like granulomatosis with polyangiitis (GPA), but GPA usually presents with necrotizing granulomas in the respiratory tract and kidney involvement, which isn't mentioned here. Also, the presence of oral and genital ulcers isn't typical for GPA. The patient doesn't have a history of sinus issues or renal problems, which are more common in GPA.\n\nAnother thought: Could this be a thromboembolic disease? But the presence of aneurysms and the clinical history of aphthosis points more towards a systemic vasculitis. Also, the pathergy test isn't typically positive in thromboembolic conditions.\n\nThe combination of recurrent oral/genital ulcers, positive pathergy, and pulmonary artery aneurysms seems to fit Behçet's perfectly. The diagnostic criteria for Behçet's often include recurrent oral ulcers plus two of the following: genital ulcers, eye lesions, skin lesions, or a positive pathergy test. This patient has genital ulcers and positive pathergy, meeting the criteria. The pulmonary artery involvement, while rare, is a known severe complication of Behçet's.\n\nSo putting it all together: the patient's symptoms, history, physical findings, and imaging all align with Behçet's disease complicated by pulmonary artery aneurysms. There's no other condition in the differential that explains all these findings as cohesively as Behçet's does. Therefore, the final diagnosis should be Behçet's disease with pulmonary artery aneurysms.",
+        "content": "### Resoning:\n<step 1> The patient is a young male with progressive dyspnea, hemoptysis, and a history of recurrent oral/genital aphthosis—classic features of Behçet’s disease, a systemic vasculitis.  \n<step 2> Genital aphthosis scars and a positive pathergy test further support Behçet’s, as pathergy is a hallmark of the disease.  \n<step 3> Chest imaging reveals bilateral pulmonary artery aneurysms, a rare but pathognomonic complication of Behçet’s-associated large-vessel vasculitis.  \n<step 4> Other vasculitides (e.g., granulomatosis with polyangiitis) or thromboembolic diseases lack the combination of mucocutaneous ulcers and aneurysms, making Behçet’s the most definitive diagnosis.  \n\n### Answer:\nBehçet’s disease with pulmonary artery aneurysms"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient is a young male with progressive dyspnea, hemoptysis, and a history of recurrent oral/genital aphthosis—classic features of Behçet’s disease, a systemic vasculitis.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Genital aphthosis scars and a positive pathergy test further support Behçet’s, as pathergy is a hallmark of the disease.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Chest imaging reveals bilateral pulmonary artery aneurysms, a rare but pathognomonic complication of Behçet’s-associated large-vessel vasculitis.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Other vasculitides (e.g., granulomatosis with polyangiitis) or thromboembolic diseases lack the combination of mucocutaneous ulcers and aneurysms, making Behçet’s the most definitive diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "- Dyspnea and hemoptysis suggest pulmonary thromboembolism (PTE), but pulmonary artery aneurysms were observed without signs of embolism; thus, PTE is excluded due to risk of anticoagulation-induced hemorrhage.",
+            "hit": false
+        },
+        {
+            "step": "- Tuberculosis or lung infection is ruled out as there are no systemic signs such as fever or weight loss.",
+            "hit": false
+        },
+        {
+            "step": "- Behçet's disease is indicated by pulmonary artery aneurysms, recurrent oral and genital aphthosis, and positive pathergy test.",
+            "hit": true
+        },
+        {
+            "step": "- Other causes of pulmonary artery aneurysms, including congenital, autoimmune, or infectious conditions, are excluded as Behçet's disease is the specific autoimmune vasculitis matching the clinical presentation.",
+            "hit": true
+        },
+        {
+            "step": "- The diagnosis of pulmonary artery aneurysms secondary to Behçet's disease is confirmed by imaging and clinical history showing recurrent aphthosis and vasculitis features.",
+            "hit": true
+        },
+        {
+            "step": "- Early immunosuppressive therapy (cyclophosphamide and prednisone) is initiated due to the severity of pulmonary artery involvement.",
+            "hit": false
+        }
+    ],
+    "efficiency": 0.75,
+    "factulity": 0.6666666666666666,
+    "recall": 0.5
+}

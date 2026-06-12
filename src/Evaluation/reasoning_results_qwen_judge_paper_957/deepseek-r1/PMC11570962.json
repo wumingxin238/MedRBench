@@ -1,0 +1,99 @@
+{
+    "raw_case": "\nHydronephrosis secondary to isolated renal tuberculosis in an immunocompetent adolescent: “A case report”\nIsolated renal tuberculosis is a rare form of extrapulmonary TB, especially in immunocompetent individuals. This case report details the diagnosis and management of a 14-year-old male who presented with massive hydronephrosis of unknown cause. Initial investigations, including urine cultures, were inconclusive. However, percutaneous nephrostomy provided a key diagnostic opportunity. This case highlights the importance of considering TB in the differential diagnosis of patients with unexplained urinary tract abnormalities, even in immunocompetent patients.1\n\nIntroduction\n\nTB is a granulomatous disease caused by Mycobacterium tuberculosis.1 It is still a major global health concern. According to WHO data, Ten million new cases are reported worldwide each year. Asia and Africa have the most cases (46 % and 23 %, respectively), followed by the Western Pacific (18 %), Eastern Mediterranean (8.1 %), Americas (3.1 %) and Europe (2.2 %).2 Although pulmonary TB is the most prevalent type, 15-20 % of cases are extrapulmonary TB. One recognized extrapulmonary site for tuberculosis is the genitourinary system3The pathogenesis of genitourinary tuberculosis is divided into two forms Disseminated infection and localized genitourinary disease. In both cases, the lesions are primarily determined by the individual's immune system, pathogen virulence, and infection site.The disseminated form of Mycobacterium tuberculosis occurs when bacteria spread from the lungs to other parts of the body via the bloodstream or lymphatic system. This condition typically affects multiple organs, such as the kidneys, liver, spleen, bone marrow, and central nervous system. Individual with compromised immune systems, such as those living with HIV or other underlying medical conditions, are more vulnerable to this form4The bacilli in localized renal disease are pulmonary in origin, but lung disease is rarely found during renal TB diagnosis. Localized renal disease seems to be a consequence of a previous pulmonary primary infection.4This case report presents a rare instance of isolated renal TB in an immunocompetent adolescent and discusses the challenge of early diagnosis and management.2\n\nCase report\n\nA 14-year-old patient presented to the emergency ward with left-sided flank pain, urinary retention, hematuria and dysuria. Physical examination revealed bulging in the suprapubic region and tenderness on the left flank.The initial ultrasound imaging revealed massive hydronephrosis on the left side and cystitis but the cause was not immediately determined.Laboratory tests showed elevated blood urea nitrogen (BUN) at 24 mg/dL, creatinine at 1.8 mg/dL, hematuria and pyuria, but urine cultures were negative for typical pathogens. Urine was not cultured for mycobacterium tuberculosis because the patient's history did not suggest prior tuberculosis exposure, and there were no respiratory symptoms, abnormal chest x-ray, or CT scan.Non-contrast abdominal CT scan revealed massive hydronephrosis likely due to ureteral stricture or obstruction (Fig. 1).Based on the clinical situation, patient was considered a candidate for percutaneous nephrostomy to Immediately relieve hydronephrosis and prevent further damage.During the nephrostomy procedure, the left renal capsule was thicker than normal, the calyces were dilated and a yellowish substance coated mucosal surface of the calyces (Fig. 2). Antegrade pyelography revealed no obstruction or stricture. Raising suspicion to caseous necrosis a calyceal aspirate was obtained and sent for analysis (Fig. 3). Subsequent AFB staining and PCR tests confirmed the diagnosis of Renal tuberculosis.Following diagnosis, the patient was started on the standard anti-tuberculosis regimen: HRZE (isoniazid, rifampicin, pyrazinamide, and ethambutol) for a total of nine months. The nephrostomy tube remained in place for 10 days to manage the hydronephrosis.The patient's treatment proceeded without major complications, and at the 12-month follow-up, his condition was satisfactory, with normal renal structure and function (Fig. 4), no residual signs of cystitis and no recurrence of symptoms.3\n\nDiscussion\n\nIsolated renal tuberculosis (renal tuberculosis without concurrent pulmonary or other forms of extrapulmonary tuberculosis) is a rare form of TB and is frequently misdiagnosed until advanced stages due to its non-specific presentation. In this case, normal immunity and no history of TB exposure makes diagnosis even more challenging. The patient's initial diagnosis of massive hydronephrosis and cystitis mimicked other more common conditions, leading to delayed identification of the underlying cause.This case emphasizes the importance of raising clinical suspicion in patients with unexplained urinary tract symptoms, especially in areas where tuberculosis is prevalent. While urine cultures are the standard diagnostic test for urinary infections, they are frequently negative in renal tuberculosis cases due to the inconsistent shedding of bacilli in urine.5 In this case, percutaneous nephrostomy and histological examination of necrotic material provided a more definitive diagnostic pathway.In comparison to the literature, isolated renal tuberculosis in immunocompetent adolescents is uncommon, with most cases occurring in immunocompromised individuals.6 This case highlights the importance of early intervention, as untreated renal TB can lead to irreversible kidney damage and other severe complications.1The standard TB treatment regimen was effective in this case, with a favorable outcome after twelve months of follow-up.4\n\nConclusion\n\nThis case underscores the importance of considering TB in the differential diagnosis of patients with unexplained urinary tract symptoms, even in immunocompetent individuals. Early diagnosis through appropriate diagnostic methods, such as Imaging (ultrasound and CT scan), histological examination and PCR is essential for preventing long-term complications. Prompt initiation of anti-tuberculosis therapy resulted in a favorable outcome in this case, highlighting the efficacy of the standard HRZE regimen.“This manuscript was prepared following the CARE guidelines (https://www.carestatement.org)\"\n\nCRediT authorship contribution statement\n\nZamari Noori: Writing – review & editing, Writing – original draft. Mohammad Jawid Nazari: Writing – review & editing, Writing – original draft.\n\nPatient consent\n\nConsent to publish the case report was not obtained because this report does not contain any personal information that could lead to the identification of the patient.\n\nAuthorship\n\nAll authors attest that they meet the current ICMJE criteria for authorship.\n\nFunding\n\nNo funding or grant support\n\nDeclaration of competing interest\n\nThe authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+    "generate_case": {
+        "case_summary": "- Patient Information: 14-year-old male\n- Chief Complaint: Left-sided flank pain, urinary retention, hematuria, and dysuria\n- History of Present Illness: None provided\n- Past Medical History: None indicated \n- Personal History: No history of tuberculosis exposure\n- Family History: Not mentioned\n- Physical Examination: Suprapubic region bulging and tenderness on the left flank\n- Ancillary Tests:\n  - Laboratory tests: Elevated blood urea nitrogen (BUN) 24 mg/dL, creatinine 1.8 mg/dL, hematuria, pyuria; negative urine culture for common pathogens.\n  - Imaging: Ultrasound revealed massive hydronephrosis of the left kidney and cystitis, further confirmed by non-contrast CT showing likely ureteral stricture or obstruction.\n  - Nephrostomy findings: Thickened renal capsule, dilated calyces, and yellowish caseous material in the calyces.\n  - Microbiological analysis: Acid-fast bacilli (AFB) staining and PCR confirmed Mycobacterium tuberculosis.",
+        "differential_diagnosis": "- The initial symptoms (flank pain, hematuria, and hydronephrosis) raised suspicion for common conditions such as urinary obstruction, urolithiasis, or infection, leading to imaging and nephrostomy.\n- Negative urine cultures and lack of typical respiratory symptoms initially excluded urinary tract infections and pulmonary tuberculosis, making the diagnosis challenging.\n- Persistent findings like hydronephrosis without obstruction and the discovery of a yellowish, caseous material during nephrostomy suggested renal tuberculosis, prompting further specific testing (AFB staining and PCR).\n- Differential diagnoses, like malignancy or congenital anomalies, were excluded due to the absence of suggestive imaging findings or clinical signs.\n- Final confirmation of renal tuberculosis was based on microbiological testing of nephrostomy aspirate.",
+        "final_diagnosis": "Isolated renal tuberculosis (extrapulmonary) leading to massive hydronephrosis was diagnosed in this immunocompetent adolescent. The confirmation was based on AFB staining and PCR from nephrostomy aspirates.",
+        "diagnosis_results": "Isolated renal tuberculosis"
+    },
+    "body_category": [
+        "Kidneys and Urinary System"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-10-6",
+    "checked_rare_disease": [
+        "Tuberculosis"
+    ],
+    "id": "PMC11570962",
+    "results": {
+        "thinking_process": "Okay, let's tackle this case. So, the patient is a 14-year-old male with left flank pain, urinary retention, hematuria, and dysuria. The physical exam shows suprapubic bulging and left flank tenderness. Let's start breaking this down.\n\nFirst, the flank pain and urinary symptoms like hematuria and dysuria often point towards issues in the urinary tract. The suprapubic bulging suggests possible urinary retention, which can happen if there's an obstruction. The elevated BUN and creatinine indicate some level of kidney dysfunction, maybe acute kidney injury. The ultrasound and CT showed massive hydronephrosis on the left side and cystitis. Hydronephrosis usually means there's a blockage in the ureter, leading to kidney swelling. The imaging also mentions a likely ureteral stricture or obstruction. So, obstruction is a key point here.\n\nNow, the nephrostomy findings: thickened renal capsule, dilated calyces, and caseous material. Caseous necrosis is a classic sign of tuberculosis. The microbiological analysis confirmed AFB staining and PCR positive for Mycobacterium tuberculosis. AFB is typically associated with TB, but other mycobacteria could be considered. However, PCR specifically for M. tuberculosis makes the diagnosis more definitive.\n\nWait, but the urine culture was negative for common pathogens. That's important because typical UTIs caused by E. coli or other bacteria would show positive cultures. Negative culture with pyuria (pus in urine) suggests something else, like TB or other atypical infections. The presence of AFB and PCR confirmation really seal the deal here. \n\nPutting it all together: the patient has genitourinary tuberculosis. The TB infection led to ureteral stricture causing obstruction, resulting in hydronephrosis and subsequent kidney dysfunction. The caseous material in the calyces is from the granulomatous inflammation typical of TB. Even though there's no history of TB exposure, sometimes latent infections can reactivate, especially in areas where TB is endemic. The negative culture for common pathogens aligns with TB being the culprit here. \n\nSo the final diagnosis should be renal tuberculosis with ureteral stricture leading to obstructive uropathy. The caseous material and positive TB tests confirm that.",
+        "content": "```\n### Resoning:\n<step 1> The patient presents with urinary retention, flank pain, hematuria, dysuria, and elevated BUN/creatinine, suggesting urinary tract obstruction and renal dysfunction. Imaging confirms left hydronephrosis and ureteral stricture, which aligns with obstructive uropathy.  \n<step 2> Nephrostomy findings of caseous material and thickened renal capsule are highly suggestive of granulomatous inflammation. Caseous necrosis is pathognomonic for tuberculosis (TB), though other granulomatous diseases (e.g., fungal infections) must be considered.  \n<step 3> Negative urine culture for common pathogens, despite pyuria and hematuria, indicates a non-bacterial or atypical pathogen. Acid-fast bacilli (AFB) staining and PCR confirmation of Mycobacterium tuberculosis directly confirm TB infection.  \n<step 4> The combination of hydronephrosis, ureteral stricture, caseous material, and microbiological evidence supports genitourinary tuberculosis (GUTB). TB-induced ureteral stricture caused obstructive uropathy, leading to hydronephrosis and renal dysfunction.  \n\n### Answer:\nRenal Tuberculosis with Obstructive Uropathy Secondary to Ureteral Stricture"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient presents with urinary retention, flank pain, hematuria, dysuria, and elevated BUN/creatinine, suggesting urinary tract obstruction and renal dysfunction. Imaging confirms left hydronephrosis and ureteral stricture, which aligns with obstructive uropathy.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Nephrostomy findings of caseous material and thickened renal capsule are highly suggestive of granulomatous inflammation. Caseous necrosis is pathognomonic for tuberculosis (TB), though other granulomatous diseases (e.g., fungal infections) must be considered.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Negative urine culture for common pathogens, despite pyuria and hematuria, indicates a non-bacterial or atypical pathogen. Acid-fast bacilli (AFB) staining and PCR confirmation of Mycobacterium tuberculosis directly confirm TB infection.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The combination of hydronephrosis, ureteral stricture, caseous material, and microbiological evidence supports genitourinary tuberculosis (GUTB). TB-induced ureteral stricture caused obstructive uropathy, leading to hydronephrosis and renal dysfunction.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Initial symptoms (flank pain, hematuria, and hydronephrosis) raised suspicion for urinary obstruction, urolithiasis, or infection, leading to imaging and nephrostomy.",
+            "hit": false
+        },
+        {
+            "step": "Step 2: Negative urine cultures and lack of typical respiratory symptoms initially excluded urinary tract infections and pulmonary tuberculosis.",
+            "hit": false
+        },
+        {
+            "step": "Step 3: Persistent findings like hydronephrosis without obstruction and the discovery of a yellowish, caseous material during nephrostomy suggested renal tuberculosis, prompting further specific testing (AFB staining and PCR).",
+            "hit": true
+        },
+        {
+            "step": "Step 4: Differential diagnoses like malignancy or congenital anomalies were excluded due to the absence of suggestive imaging findings or clinical signs.",
+            "hit": false
+        },
+        {
+            "step": "Step 5: Final confirmation of renal tuberculosis was based on microbiological testing of nephrostomy aspirate.",
+            "hit": false
+        },
+        {
+            "step": "Step 6: The final diagnosis was isolated renal tuberculosis (extrapulmonary) leading to massive hydronephrosis in an immunocompetent adolescent.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.16666666666666666
+}

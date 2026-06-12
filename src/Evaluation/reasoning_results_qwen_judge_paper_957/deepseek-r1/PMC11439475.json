@@ -1,0 +1,104 @@
+{
+    "raw_case": "\nTubular Ectasia of the Epididymis: A Case Report and Literature Review\nTubular ectasia of the epididymis is a rare benign disorder that, when present, is usually seen in patients post-vasectomy. It can also be seen in patients with a prior history of trauma or local infection. Patients typically present with a palpable scrotal mass and dull-aching pain. It is important to differentiate this disease from other common disorders such as varicocele, hydrocele, spermatocele, or even testicular malignancy. We report a rare case of tubular ectasia of the epididymis in a 55-year-old patient with palpable scrotal swelling with no prior operative history of vasectomy nor any history of trauma. We share this patient's ultrasonography findings along with a literature review of this uncommon disease.\n\nIntroduction\n\nThe testes are the male reproductive and endocrine organs responsible for spermatogenesis and production of testosterone. The spermatozoa produced by the testis exit through a series of ductal structures that emerge into the rete testis, efferent ductules, epididymis, and vas deferens. The epididymis, located posteriorly and slightly lateral to the testis, serves as an area for the maturation of sperm before reaching the vas deferens and the ejaculatory duct [1]. An obstruction in the vas deferens due to various causes may lead to slow, progressive accumulation of sperms, leading to an increase in tenuous tubular pressure of the epididymis, thereby causing dilatation and cystic changes of the epididymis, which is referred to as tubular ectasia. Only 5% of intratesticular tumors, such as tubular ectasia, are benign, so they hold significant importance in clinical practice, particularly because one of the primary differential diagnoses is often a testicular neoplasm. This rare disorder is identified using ultrasonography and color Doppler imaging [2]. We report a case of tubular ectasia of epididymis and analyze their clinical presentation and investigations leading to diagnosis and subsequent management.\n\nCase presentation\n\nA 55-year-old male came to our outpatient department with complaints of left-sided hemi-scrotal swelling, occasionally accompanied by pain for the past three months. The pain was of a vague \"dragging\" type (rated 1 to 2 on the numerical pain scale), which was non-radiating and subsided on its own. There was no history of altering the size of the swelling or aggravation of pain while standing, lying down, walking, or engaging in strenuous activities. The patient had no history of trauma, subfertility, malaise, weight loss, or chronic infections such as filariasis or tuberculosis. He also reported no urinary complaints, such as a \"burning\" sensation during micturition, an increase in frequency, nocturia, urgency, or a poor stream during micturition. Additionally, he had no previous surgical interventions, such as vasectomy, in the past. He had no known comorbidities. On clinical examination, we could see a 4 x 4 cm swelling, which was confined to the scrotum. No expansile impulse was noted on a cough. The skin over the swelling was normal, with no skin changes or signs of inflammation. On palpation, the swelling was soft, cystic, and non-tender. The spermatic cord was also felt, which was non-tender and normal. Left-sided testis was also separately felt, which was normal. The contralateral testis and genitalia were also normal. There was no evidence of any mass or lymph nodes in the abdomen or supraclavicular region.A routine urine microscopy was done, which was normal, showing no signs of infection or other issues. We then recommended that the patient undergo an inguinoscrotal ultrasound with color Doppler. The report indicated that the left epididymis was enlarged (4.5 x 4.5 cm), with multiple cystic tubular structures that lacked vascularity on Doppler (Figures 1, 2). Bilateral testes were normal in size, shape, and echotexture and demonstrated normal vascularity on Doppler. The final impression was tubular ectasia of the left epididymis.Due to the condition's small size and relatively asymptomatic nature, we have chosen a conservative, \"wait and watch\" approach. The patient was started on an intravenous followed by an oral prophylactic course of β-lactam antibiotics and analgesics given as needed (SOS). After three days, he was discharged with instructions to follow up in one month.\n\nDiscussion\n\nTubular ectasia typically occurs in those with a prior operative history of vasectomy or excision of an epididymal cyst due to chronic accumulation of sperms in the tubules of the epididymis. However, it can also be seen with other causes of obstruction of the vas deferens, such as infection (urinary tract infections or sexually transmitted diseases) or trauma [3]. Cysts and cystic dilatation of epididymis and rete testis constitute the most common paratesticular cystic lesions, frequently in men > 55 years old and seen in up to 30% of asymptomatic patients at ultrasound [4]. This disorder can be identified using ultrasonography, where a characteristic speckled appearance is noted due to multiple fluid-filled interfaces between the tubules of the epididymis [5]. Another feature that can be seen is \"dancing megasperm,\" where tiny echogenic foci are seen continuously oscillating within the dilated tubules of the epididymis [6]. Cystic dysplasia of the rete testis is rare, generally unilateral, most often seen in children (mean presentation of 5 years old), and associated with urinary tract malformations. In contrast, tubular ectasia of the epididymis is seen commonly in patients in the sixth decade of life [7].Some common benign differentials of tubular ectasia are varicocele, epididymal cyst, or spermatocele. A varicocele can be differentiated by clinical examination (classical presentation of \"bag of worms\" either on normal palpation or on cough impulse) or color Doppler imaging, which shows no flow in case of tubular ectasia [8]. Epididymal cysts are often bilateral, usually posterior to, but separate from the testis. Spermatoceles are unilocular retention cysts located in the epididymal head above and behind the upper pole of the testis. Diagnosis for either of these cysts can be easily made using ultrasonography.Another significant feature of this disorder is that it must be differentiated from a testicular malignancy as the clinical presentation is very similar. However, in ultrasonography, the malignant neoplasms may appear as solid lesions, while benign tubular ectasia appears as cystic. Further confirmation by magnetic resonance imaging (MRI) helps diagnose doubtful cases [9].Management of tubular ectasia usually involves symptomatic treatment using broad-spectrum antibiotics and analgesics with surgical excision of an associated epididymal cyst or spermatocele or even epididymectomy is to be considered as a last resort if the problem continues to persist [10].\n\nConclusions\n\nTubular ectasia of the epididymis is a benign lesion caused by obstruction at the tubules of the epididymis due to post-vasectomy, post-traumatic, or post-infectious causes. Diagnosis can be made using a thorough clinical history and examination, supplemented with radiological investigations such as ultrasonography with color Doppler to note the vascularity of these cystic lesions and differentiate them from other neoplastic or non-neoplastic lesions. Accurate diagnosis of this rare disease is crucial, as patients often present with minimal symptoms, allowing us to avoid unnecessary surgical interventions and manage this disease conservatively.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 55-year-old male\n- **Chief Complaint:** Left-sided hemi-scrotal swelling with occasional dull-aching pain for the past 3 months.\n- **History of Present Illness:** Gradual onset of soft, cystic, non-tender swelling confined to the scrotum, accompanied by intermittent, non-radiating pain rated 1 to 2 on a numerical pain scale. No alteration in size or pain due to positional changes or physical activity. No history of trauma, surgery (e.g., vasectomy), subfertility, weight loss, malaise, or infection.\n- **Past Medical History:** None. \n- **Personal History:** No urinary symptoms such as burning sensation, urgency, frequency, nocturia, or poor stream.\n- **Family History:** None.\n- **Physical Examination:** 4x4 cm left scrotal swelling with normal overlying skin. Swelling was soft, cystic, non-tender. Normal findings for left-sided spermatic cord, testis, contralateral testis, and genitalia. No abdominal or supraclavicular lymphadenopathy.\n- **Ancillary Tests:** Routine urine microscopy was normal with no signs of infection. Ultrasound showed an enlarged left epididymis (4.5x4.5 cm) with multiple cystic tubular structures lacking vascularity on Doppler. Bilateral testes were normal in size, shape, echotexture, and vascularity.",
+        "differential_diagnosis": "1. **Initial differential diagnoses:** Varicocele, epididymal cyst, spermatocele, testicular malignancy, and tubular ectasia of the epididymis were considered based on the presentation of scrotal swelling.\n   \n2. **Rationale for excluding varicocele:** Clinical examination revealed no \"bag of worms\" or impulsive characteristics on coughing. Doppler imaging showed no vascular flow, ruling it out.\n\n3. **Rationale for excluding epididymal cyst/spermatocele:** Anatomically, epididymal cysts are usually posterior and bilateral, while spermatoceles are unilocular near the upper pole of the testis. Ultrasound findings of multiple cystic tubular structures ruled out these entities.\n\n4. **Rationale for excluding testicular malignancy:** Ultrasonography revealed cystic structures without solid components, and there was no vascularity on Doppler, features inconsistent with typical malignant neoplasms.\n\n5. **Confirmation of tubular ectasia of the epididymis:** Based on the patient’s advanced age (over 50), tubular cystic dilation of the epididymis on imaging, and clinical presentation in the absence of trauma, infection, or vasectomy history, the diagnosis was consistent with tubular ectasia of the epididymis.",
+        "final_diagnosis": "Tubular ectasia of the left epididymis, a rare benign condition confirmed by clinical and ultrasound findings.",
+        "diagnosis_results": "Tubular ectasia of the epididymis"
+    },
+    "body_category": [
+        "Male Reproductive System"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-8-8",
+    "checked_rare_disease": [],
+    "id": "PMC11439475",
+    "results": {
+        "thinking_process": "Okay, let's start by looking at the patient's information. He's a 55-year-old male presenting with left-sided scrotal swelling and occasional dull pain for three months. The swelling is soft, cystic, and non-tender. The pain is mild, not related to position or activity. No trauma or other symptoms like urinary issues, weight loss, or infections.\n\nFirst, I need to consider common causes of scrotal swelling. The main differentials here might include hydrocele, varicocele, epididymal cyst, or perhaps a hernia. But since the swelling is confined to the scrotum and there's no mention of reducibility, hernia seems less likely. Also, the ultrasound didn't show any herniation.\n\nNext, the ultrasound results are key. The left epididymis is enlarged with multiple cystic tubular structures without vascularity on Doppler. Normal testes bilaterally. Hydrocele typically presents as fluid around the testis, but here the issue is in the epididymis. Epididymal cysts are usually smooth, fluid-filled, and non-tender. The description here of cystic tubular structures makes me think of something like a spermatocele, which is a type of epididymal cyst filled with fluid and sperm.\n\nVaricoceles are more about dilated veins, which would show vascularity on Doppler. But the ultrasound here says no vascularity, so that probably rules out varicocele. Also, varicoceles are more common on the left side and can cause a \"bag of worms\" feel, but the imaging here points away from that.\n\nThe fact that the swelling is cystic and in the epididymis, with no vascularity, supports the idea of a spermatocele. Spermatoceles are generally asymptomatic but can cause mild discomfort. They are non-tender and don't change size with position. The patient's symptoms fit this well. \n\nAnother possibility could be an epididymal cyst, but the term spermatocele is often used when the cyst contains sperm. Since the ultrasound mentions cystic tubular structures, which are typical for spermatoceles, this seems more accurate. \n\nI should also consider tumors, but the lack of vascularity, normal testicular ultrasound, and absence of systemic symptoms make malignancy less likely. Plus, the patient has no weight loss or other concerning signs. \n\nInfectious causes like epididymitis would present with more pain, tenderness, and possibly fever or urinary symptoms, which he doesn't have. The urine test was normal, so infection is unlikely. \n\nPutting it all together: left-sided epididymal swelling with cystic, non-vascular structures on ultrasound. The most probable diagnosis is a spermatocele. The clinical presentation and imaging findings align perfectly with this condition. No other differentials fit as well once we eliminate the possibilities based on the provided data.",
+        "content": "```\n### Reasoning:\n<step 1> The patient presents with a painless, cystic left scrotal swelling localized to the epididymis on ultrasound. The absence of vascularity on Doppler rules out hypervascular pathologies like varicocele or neoplasms.  \n<step 2> The cystic, tubular structures in the epididymis with normal testicular architecture and no inflammation/infection markers suggest a non-inflammatory, fluid-filled lesion.  \n<step 3> Epididymal cysts and spermatoceles are common cystic lesions. The distinction lies in content: spermatoceles contain sperm, while epididymal cysts do not. The ultrasound description of \"cystic tubular structures\" aligns more closely with a spermatocele.  \n<step 4> Lack of tenderness, positional variation, systemic symptoms, or testicular involvement further supports a benign cystic lesion rather than infectious (epididymitis), traumatic, or malignant etiologies.  \n<step 5> The absence of urinary symptoms and normal urine microscopy excludes urinary tract infections or obstructive causes.  \n\n### Answer:\nLeft epididymal spermatocele"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient presents with a painless, cystic left scrotal swelling localized to the epididymis on ultrasound. The absence of vascularity on Doppler rules out hypervascular pathologies like varicocele or neoplasms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The cystic, tubular structures in the epididymis with normal testicular architecture and no inflammation/infection markers suggest a non-inflammatory, fluid-filled lesion.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Epididymal cysts and spermatoceles are common cystic lesions. The distinction lies in content: spermatoceles contain sperm, while epididymal cysts do not. The ultrasound description of \"cystic tubular structures\" aligns more closely with a spermatocele.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Lack of tenderness, positional variation, systemic symptoms, or testicular involvement further supports a benign cystic lesion rather than infectious (epididymitis), traumatic, or malignant etiologies.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The absence of urinary symptoms and normal urine microscopy excludes urinary tract infections or obstructive causes.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Initial differential diagnoses included varicocele, epididymal cyst, spermatocele, testicular malignancy, and tubular ectasia of the epididymis based on scrotal swelling presentation.",
+            "hit": false
+        },
+        {
+            "step": "Step 2: Varicocele was excluded due to lack of \"bag of worms\" or impulse on coughing and no vascular flow on Doppler imaging.",
+            "hit": false
+        },
+        {
+            "step": "Step 3: Epididymal cyst and spermatocele were ruled out as ultrasound showed multiple cystic tubular structures, which are anatomically distinct from these conditions.",
+            "hit": true
+        },
+        {
+            "step": "Step 4: Testicular malignancy was excluded by ultrasonography showing cystic structures without solid components and no vascularity on Doppler, inconsistent with malignant neoplasms.",
+            "hit": false
+        },
+        {
+            "step": "Step 5: Tubular ectasia of the epididymis was confirmed in an elderly patient with imaging showing tubular cystic dilation, and no history of trauma, infection, or vasectomy, consistent with the diagnosis.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.2
+}

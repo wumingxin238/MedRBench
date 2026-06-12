@@ -1,0 +1,90 @@
+{
+    "raw_case": "\nVertebral Arteria Lusoria and Five Vessel Aortic Arch: A Rare Aortic Arch Branching Anomaly\nVertebral artery (VA) lusoria is an unusual variation of the VA origin and course, characterised by the direct origin of the right VA (RVA) from the aortic arch (AoA) instead of the right subclavian artery (RSCA). Generally, this condition remains asymptomatic and is diagnosed during computed tomography angiography (CTA) or catheter angiography performed for evaluation of other cardiac or extracardiac pathology. The surgeon and physician must be aware of this VA-origin anomaly before undergoing surgery or angiography, as injury to this vessel can be catastrophic and lead to torrential haemorrhage or brain stem infarction. This anomaly can occur in association with other branching anomalies, like the left VA originating from the arch and the bovine arch. We are reporting an unusual case of aberrant RVA in a five-vessel aortic arch We aim to highlight the importance of CTA in detecting these anomalies of origin and course and their clinical implications.\n\nIntroduction\n\nThe vertebral arteria lusoria is one of the few congenital aberrations of the vertebral artery (VA), where it arises directly from the aortic arch (AoA) instead of the right subclavian artery (RSCA). Hyrtl first described this anomaly in 1859, where he found VA took its anomalous origin from the AoA and coursed behind the oesophagus and trachea before entering the cervical transverse foramen [1]. We represent a case of vertebral arteria lusoria coexisting with the direct origin of left VA (LVA) in a five-vessel aortic arch in a patient with tetralogy of Fallot (ToF), deciphered on computed tomography angiography (CTA).\n\nCase presentation\n\nA one-year-old child presented with bluish discolouration of the skin and failure to thrive since birth. Transthoracic echocardiography revealed the findings of ToF. A CTA was done for further evaluation of cardiac and extracardiac anatomy. The CTA validated the echocardiography findings. In addition, the patient had an AoA branching abnormality. The AoA was left-sided, with five vessels branching out. The innominate artery (IA) and left common carotid artery (LCCA) had a close origin from AoA (Figure 1A). The LVA originated directly from AoA between LCCA and left subclavian artery (LSCA) (yellow asterisk, Figure 1A-1D). The right VA (RVA) originated abnormally on the right posterolateral side of the descending thoracic aorta, just distal to the LSCA origin (black asterisk in Figure 1A, 1B, 1D). Before entering the transverse foramina of the C6 vertebra (black asterisk, Figure 1B, 1D), the RVA went backwards and forwards across the oesophagus between the upper thoracic spine and the oesophagus. It then went ventrally towards the right haemithorax (vertebral arteria lusoria).\n\nDiscussion\n\nAnomalous origin of VA occurs most frequently when they originate directly from the arch or aorta, with a prevalence ranging from 2.4% to 5.8% [2]. However, we can classify the extremely rare occurrence of aberrant origins of the RVA into three distinct categories: those directly originating from the aorta, those originating from the brachiocephalic or carotid arteries, and those with duplicated origins [3]. The VA is typically formed from the anastomoses of the seven cervical intersegmental arteries (ISAs). Except for the seventh internal thoracic artery (ITA), which is a component of the subclavian artery and serves as the source of VAs, all other ISAs gradually diminish in size. Moreover, in individuals with excellent health, the embryological right dorsal aorta typically undergoes natural regression. The close portion of the right fourth arch remains incorporated into the right SCA, whereas the distal half undergoes regression. As stated in the prior literature [2,4], the normal development of the cervical ISA's longitudinal anastomosis, the continued existence of the right dorsal aorta, and the degeneration of the right 4th AoA can all contribute to the presence of \"vertebral arteria lusoria\" in this case. The positioning and timing of these connections determine the final structure of the arch and the growth of its branches. Anomalous connection at any stage of the arch's embryonic development leads to the atypical creation of these vertebral arteries.Documenting these unexpected abnormalities in the origin of VA, discovered incidentally due to an aberrant course, is crucial as they may raise the risk of dissection or aneurysms. Understanding these anatomical differences is crucial in preventing unintentional harm from medical interventions, which can result in a lack of blood supply to the brainstem during procedures like catheter angiography or cardiothoracic surgery.\n\nConclusions\n\nThis case report illustrates an uncommon origin anomaly in the RVA. Its purpose is to emphasise the significance of CTA in identifying such rare anomalies and understanding their clinical implications.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** One-year-old child.\n- **Chief Complaint:** Bluish discoloration of the skin and failure to thrive since birth.\n- **History of Present Illness:** None.\n- **Past Medical History:** None provided.\n- **Personal History:** None.\n- **Family History:** None provided.\n- **Physical Examination:** Bluish skin; detailed findings not specified.\n- **Ancillary Tests:** \n  - Transthoracic echocardiography revealed tetralogy of Fallot (ToF).\n  - Computed tomography angiography (CTA) showed:\n    - Left-sided aortic arch with five-vessel branching.\n    - Vertebral arteria lusoria: right vertebral artery (RVA) arising aberrantly from the descending thoracic aorta, coursing across the esophagus.\n    - Left vertebral artery (LVA) originating directly from the aortic arch.",
+        "differential_diagnosis": "1. **Tetralogy of Fallot (ToF):**\n   - Suspected due to cyanosis and growth failure since birth.\n   - Confirmed by echocardiography and CTA.\n\n2. **Aortic Arch and Branching Anomalies:**\n   - Multiple branching anomalies suggested by CTA findings.\n   - RVA and LVA unusually originating directly from the aortic arch; RVA courses aberrantly (vertebral arteria lusoria).\n   - This configuration aligns with an embryonic vascular anomaly.\n\n3. **Other Vascular and Embryological Anomalies:**\n   - Excluded based on the specific patterns described in the CTA, focusing on the unique aberrant course and origins of the arteries.",
+        "final_diagnosis": "1. Tetralogy of Fallot (ToF).\n2. Five-vessel aortic arch with vertebral arteria lusoria (anomalous right vertebral artery origin).",
+        "diagnosis_results": "Tetralogy of Fallot (ToF) with a five-vessel aortic arch and vertebral arteria lusoria."
+    },
+    "body_category": [
+        "Blood, Heart and Circulation"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-8-12",
+    "checked_rare_disease": [],
+    "id": "PMC11427962",
+    "results": {
+        "thinking_process": "Okay, let's start by looking at the patient information. The child is one year old, presenting with bluish discoloration (cyanosis) and failure to thrive since birth. Those are classic signs of a congenital heart defect. The main issue here is the cyanosis from birth, which makes me think of conditions that cause decreased oxygenation, like right-to-left shunts.\n\nThe history doesn't mention any other illnesses, and family history isn't provided. But the physical exam confirms cyanosis. The key here is the ancillary tests. The echocardiogram already shows tetralogy of Fallot (ToF). ToF includes four defects: VSD, overriding aorta, pulmonary stenosis, and right ventricular hypertrophy. That explains the cyanosis because blood is shunting right to left, leading to low oxygen levels.\n\nNow, the CTA findings are interesting. The aortic arch is left-sided with five vessels. Normally, there are three branches (brachiocephalic, left common carotid, left subclavian). Five branches might indicate some vascular anomalies. Then there's the right vertebral artery arising from the descending aorta, crossing the esophagus—that's called an aberrant right subclavian artery (arteria lusoria), which can sometimes cause dysphagia but is often asymptomatic. The left vertebral artery coming directly from the aortic arch is another variation.\n\nBut how does this relate to the diagnosis? The main issue here is the ToF, which is already confirmed. The vascular anomalies are additional findings. Arteria lusoria is a common variant, part of the spectrum of congenital vascular abnormalities. However, in the context of ToF, these vascular variations might be part of a broader genetic syndrome, like DiGeorge syndrome (22q11.2 deletion), which is associated with conotruncal heart defects and vascular anomalies. But the case summary doesn't mention other features like hypocalcemia or immune issues, so maybe it's isolated.\n\nThe primary diagnosis here is definitely tetralogy of Fallot. The other vascular findings are incidental but important for surgical planning, especially if there's a need for interventions involving the aorta or surrounding vessels. However, the question asks for the final diagnosis based on the provided information. Since the echocardiogram already confirms ToF, that's the main answer. The CTA findings are additional anatomical details but don't change the primary diagnosis.",
+        "content": "### Resoning:\n<step 1> The patient is a one-year-old child with bluish skin (cyanosis) and failure to thrive since birth. These symptoms strongly suggest a congenital condition affecting oxygenation, such as a cyanotic congenital heart defect.  \n<step 2> Transthoracic echocardiography confirms tetralogy of Fallot (ToF), a congenital heart defect characterized by four structural abnormalities: ventricular septal defect, overriding aorta, pulmonary stenosis, and right ventricular hypertrophy. This diagnosis directly explains the cyanosis and failure to thrive.  \n<step 3> The CTA findings describe vascular anomalies, including a left-sided aortic arch with five-vessel branching and vertebral artery aberrations (right vertebral artery arising from the descending aorta, left vertebral artery originating directly from the aortic arch). These are anatomical variants but do not alter the primary diagnosis of ToF.  \n<step 4> While vascular anomalies like arteria lusoria may coexist with congenital heart defects, they are secondary findings here. The definitive diagnostic evidence remains the echocardiographic confirmation of ToF.  \n\n### Answer:\nTetralogy of Fallot (ToF)"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient is a one-year-old child with bluish skin (cyanosis) and failure to thrive since birth. These symptoms strongly suggest a congenital condition affecting oxygenation, such as a cyanotic congenital heart defect.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Transthoracic echocardiography confirms tetralogy of Fallot (ToF), a congenital heart defect characterized by four structural abnormalities: ventricular septal defect, overriding aorta, pulmonary stenosis, and right ventricular hypertrophy. This diagnosis directly explains the cyanosis and failure to thrive.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "The CTA findings describe vascular anomalies, including a left-sided aortic arch with five-vessel branching and vertebral artery aberrations (right vertebral artery arising from the descending aorta, left vertebral artery originating directly from the aortic arch). These are anatomical variants but do not alter the primary diagnosis of ToF.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "While vascular anomalies like arteria lusoria may coexist with congenital heart defects, they are secondary findings here. The definitive diagnostic evidence remains the echocardiographic confirmation of ToF.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Tetralogy of Fallot (ToF) suspected due to cyanosis and growth failure since birth, confirmed by echocardiography and CTA.",
+            "hit": true
+        },
+        {
+            "step": "Step 2: Aortic arch and branching anomalies identified via CTA, including multiple anomalies.",
+            "hit": true
+        },
+        {
+            "step": "Step 3: Right ventricular artery (RVA) and left ventricular artery (LVA) originate directly from the aortic arch, with the RVA coursing aberrantly (vertebral arteria lusoria).",
+            "hit": false
+        },
+        {
+            "step": "Step 4: This unique arterial configuration aligns with an embryonic vascular anomaly.",
+            "hit": false
+        },
+        {
+            "step": "Step 5: Other vascular and embryological anomalies excluded based on specific CTA findings, focusing on the unique arterial course and origins.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis:",
+            "hit": false
+        },
+        {
+            "step": "Step 6: Tetralogy of Fallot (ToF).",
+            "hit": true
+        },
+        {
+            "step": "Step 7: Five-vessel aortic arch with vertebral arteria lusoria (anomalous right vertebral artery origin).",
+            "hit": false
+        }
+    ],
+    "efficiency": 0.25,
+    "factulity": 1.0,
+    "recall": 0.375
+}

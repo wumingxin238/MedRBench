@@ -1,3 +1,4 @@
+import os
 import re
 import json
 import time
@@ -10,22 +11,34 @@ from openai import OpenAI
 
 # Configuration Constants
 # Change these to your own API keys and model URLs
-QWQ_URL = 'https://api.siliconflow.cn/v1/'
-QWQ_API_KEY = 'YOUR_API_KEY'
+OPENAI_COMPAT_BASE_URL = 'https://xiaoai.plus/v1'
+OPENAI_COMPAT_API_KEY = 'sk-0KdA7qGS7hq6k2ET6PFDKiIecav56NHlY5lPwfnrtC3WdeHk'
 
-GEMINI_URL = 'https://aigptapi.com/v1/'
-GEMINI_API_KEY = 'YOUR_API_KEY'
+QWQ_URL = OPENAI_COMPAT_BASE_URL
+QWQ_API_KEY = OPENAI_COMPAT_API_KEY
 
-DEEPSEEK_R1_URL = "http://10.17.3.65:1025/v1/chat/completions"
+GEMINI_URL = OPENAI_COMPAT_BASE_URL
+GEMINI_API_KEY = OPENAI_COMPAT_API_KEY
+
+# Full URL only for raw requests.post (not for OpenAI client)
+DEEPSEEK_R1_URL = f'{OPENAI_COMPAT_BASE_URL}/chat/completions'
+DEEPSEEK_R1_API_KEY = OPENAI_COMPAT_API_KEY
 
 O1_API_KEY_LIST = [
-    "sk-oJTcF42OtAkjkA2MCFVXjVLGJLghrCPJ8a9XIJ1JE0NoYVmb",
-    'YOUR_API_KEY'
+    'sk-0KdA7qGS7hq6k2ET6PFDKiIecav56NHlY5lPwfnrtC3WdeHk'
 ]
 
 DEFAULT_SYSTEM_PROMPT = "You are a professional doctor"
-DATA_PATH = '../../data/MedRBench/diagnosis_957_cases_with_rare_disease_491.json'
-PROMPT_TEMPLATE_PATH = './oracle_diagnose.txt'
+DATA_PATH = '../../data/MedRBench/test_cases.json'
+PROMPT_TEMPLATE_PATH = './instructions/oracle_diagnose.txt'
+
+# Local Qwen3 via vLLM (override with env vars on the server)
+QWEN3_URL = os.environ.get('QWEN3_URL', 'http://127.0.0.1:8000/v1')
+QWEN3_API_KEY = os.environ.get('QWEN3_API_KEY', 'EMPTY')
+QWEN3_MODEL = os.environ.get('QWEN3_MODEL', 'Qwen/Qwen3-8B-Instruct')
+QWEN3_MODEL_KEY = os.environ.get('QWEN3_MODEL_KEY', 'qwen3-8b')
+# transformers (P100 / no vLLM) or vllm (OpenAI API on port 8000)
+QWEN3_BACKEND = os.environ.get('QWEN3_BACKEND', 'transformers')
 
 # =====================
 # MODEL API INTERFACES
@@ -97,7 +110,7 @@ def query_deepseek_r1_model(input_text, system_prompt=DEFAULT_SYSTEM_PROMPT):
         "Content-Type": "application/json"
     }
     data = {
-        "model": "DeepSeek-R1",
+        "model": "deepseek-r1",
         "messages": [
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": input_text}
@@ -150,6 +163,27 @@ def query_o1_model(input_text, system_prompt=DEFAULT_SYSTEM_PROMPT):
                 return "Error."
             time.sleep(5)
 
+def query_qwen3_model(input_text, system_prompt=DEFAULT_SYSTEM_PROMPT):
+    """Query local Qwen3 model via vLLM OpenAI-compatible API."""
+    client = OpenAI(base_url=QWEN3_URL, api_key=QWEN3_API_KEY)
+    max_retry = 3
+    for attempt in range(max_retry):
+        try:
+            response = client.chat.completions.create(
+                model=QWEN3_MODEL,
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": input_text},
+                ],
+                max_tokens=4096,
+                temperature=0.6,
+            )
+            return response.choices[0].message.content
+        except Exception as e:
+            print(f"Error querying Qwen3 model (attempt {attempt + 1}/{max_retry}): {e}")
+            time.sleep(5)
+    return None
+
 def query_gemini_model(input_text, system_prompt=DEFAULT_SYSTEM_PROMPT):
     """Query the Gemini model and handle rate limits"""
     client = OpenAI(
@@ -159,7 +193,7 @@ def query_gemini_model(input_text, system_prompt=DEFAULT_SYSTEM_PROMPT):
     while True:
         try:
             response = client.chat.completions.create(
-                model="gemini-2.0-flash-thinking-exp-01-21",
+                model="gemini-2.5-flash-thinking",
                 messages=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": input_text}
@@ -297,6 +331,22 @@ def process_o1_data(data_id, data, prompt_template):
         print(f"Error processing O1 data {data_id}: {e}")
         return data_id, None
 
+def process_qwen3_data(data_id, data, prompt_template):
+    """Process a single data item with local Qwen3 model."""
+    try:
+        result = {}
+        patient_case = data['generate_case']['case_summary']
+        prompt = prompt_template.format(case=patient_case)
+        result['input'] = prompt
+
+        response = query_qwen3_model(prompt)
+        result['content'] = response
+
+        return data_id, result
+    except Exception as e:
+        print(f"Error processing Qwen3 data {data_id}: {e}")
+        return data_id, None
+
 def process_gemini_data(data_id, data, prompt_template):
     """Process a single data item with Gemini model"""
        
@@ -377,6 +427,45 @@ def inference_gemini():
         max_workers=8
     )
 
+def inference_qwen3():
+    """Run inference with local Qwen3 model (vLLM). Use max_workers=1 for single GPU."""
+    run_inference_with_model(
+        process_qwen3_data,
+        QWEN3_MODEL_KEY,
+        "oracle_diagnosis_qwen3.json",
+        max_workers=1,
+    )
+
+def inference_qwen3_transformers():
+    """Run Qwen3 with HuggingFace transformers (for P100 / servers without vLLM)."""
+    from transformers import AutoModelForCausalLM, AutoTokenizer
+    import torch
+
+    print(f"Running inference with Qwen3 (transformers): {QWEN3_MODEL}")
+    prompt_template = load_instruction(PROMPT_TEMPLATE_PATH)
+    data = load_data(DATA_PATH)
+
+    tokenizer = AutoTokenizer.from_pretrained(QWEN3_MODEL, trust_remote_code=True)
+    model = AutoModelForCausalLM.from_pretrained(
+        QWEN3_MODEL,
+        device_map='auto',
+        trust_remote_code=True,
+        torch_dtype=torch.float16,
+    )
+
+    for data_id in tqdm(data.keys(), desc=f"Processing with {QWEN3_MODEL_KEY}"):
+        patient_case = data[data_id]['generate_case']['case_summary']
+        prompt = prompt_template.format(case=patient_case)
+
+        response = query_baichuan_model(prompt, model, tokenizer)
+        if response:
+            data[data_id][QWEN3_MODEL_KEY] = {
+                'input': prompt,
+                'content': response,
+            }
+
+    save_results(data, "oracle_diagnosis_qwen3.json")
+
 def inference_baichuan():
     """Run inference with Baichuan model directly (not using concurrency)"""
     from transformers import AutoModelForCausalLM, AutoTokenizer
@@ -408,10 +497,18 @@ def inference_baichuan():
     save_results(data, "oracle_diagnosis_baichuan.json")
 
 if __name__ == "__main__":
-    # Run inference with all models
-    inference_qwq()
-    inference_deepseek_r1()
-    inference_o1()
-    inference_gemini()
-    # Only run this if you have the Baichuan model and CUDA support
-    inference_baichuan()
+    import sys
+
+    cmd = sys.argv[1] if len(sys.argv) > 1 else ""
+    if cmd == "gemini":
+        inference_gemini()
+    elif cmd == "qwen3":
+        if QWEN3_BACKEND == "vllm":
+            inference_qwen3()
+        else:
+            inference_qwen3_transformers()
+    elif cmd:
+        print(f"Unknown command: {cmd}. Use: gemini | qwen3")
+    else:
+        print("Usage: python oracle_diagnose.py gemini")
+        print("  Or:  python scripts/inference/run_gemini_oracle_35.py [--force]")

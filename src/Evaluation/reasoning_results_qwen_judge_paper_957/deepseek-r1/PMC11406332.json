@@ -1,0 +1,107 @@
+{
+    "raw_case": "\nZinner syndrome: A rare congenital cause of infertility\nZinner syndrome is a rare congenital malformation characterized by cystic seminal vesicles and ejaculatory duct obstruction in association with ipsilateral renal agenesis. It appears to be frequently linked to infertility. However, recent advances in imaging, notably MRI, have led to an increase in the diagnosis of this pathology. We describe the case of a 39-year-old patient receiving examination for primary infertility who was identified with Zinner syndrome using ultrasound, CT, and MRI; the patient did not report hemospermia, lower urinary tract symptoms, or perineal pain. Examining the abdomen and external genitalia revealed no abnormalities, and examining the rectal area revealed none at all. Zinner syndrome is a rare congenital condition; we report this case to highlight the etiopathogenesis of this seminal anomaly, its relationship with renal dysgenesis, and to illustrate the imaging of this condition through various diagnostic methods\n\nIntroduction\n\nAbout 214 cases of Zinner syndrome, a rare congenital abnormality of the seminal vesicles and ipsilateral upper urinary tract, have been published in the literature between 1999 and 2020 [2]. Dr. Zinner initially characterized Zinner syndrome in 1914 [1]. Although it is usually discovered in the third or fourth decade of life, early detection is possible because of the growing applications of magnetic resonance imaging (MRI) and computed tomography [3]. Infertility affects up to 45% of people with Zinner Syndrome [4]. In the course of evaluating a 39-year-old patient for primary infertility, we report a case of Zinner syndrome, using ultrasound, CT, and MRI to illustrate the imaging of this particular condition.\n\nCase presentation\n\nWe report the case of a 39-year-old patient, married and without children, with no notable medical history, who was referred to the radiology department for pelvic ultrasound as part of a primary infertility assessment. He did not report perineal pain, hemospermia or lower urinary tract symptom. Abdominal and external genital examination were unremarkable and rectal examination had no detectable abnormality. Pelvic ultrasound revealed a cyst in the left seminal vesicle measuring 70 × 39 mm. The cyst had a thin wall, regular contours and anechoic contents (Fig. 1). The scrotal ultrasound performed also revealed bilateral testicular hypoplasia. The abdominal-pelvic CT scan performed (Fig. 2) showed, in addition to the left seminal cyst, agenesis of the left kidney. The complement by pelvic MRI allowed a better analysis of the seminal cyst (Fig. 3). The association of seminal vesicle cyst with ipsilateral renal agenesis led to the conclusion of Zinner syndrome. The patient was referred to the urology department, where treatment by trans-urethral resection of the seminal bladder cyst was proposed given the size of the cyst.\n\nDiscussion\n\nSince the ureteric buds and seminal vesicles come from the mesonephric (Wolffian) duct, congenital anomalies of these structures are frequently linked to abnormalities of the ipsilateral upper urinary tract. This duct is essential to the development of the human embryo. Under the influence of testosterone and anti-Müllerian hormone, it gives birth to the hemitrigone, bladder neck, urethra, seminal vesicle, vas deferens, epididymis, and epididymal heads in males. Thus, every anomaly that occurs in the first trimester may have simultaneous effects on the kidney, ureter, seminal vesicle, and vas deferens development [5]. The syndrome typically becomes apparent in the second and third decades of life, particularly with the initiation of sexual activity. After analyzing 214 patients with Zinner syndrome, Tianzhu Liu found that the most common symptoms were: frequency (24.3%), dysuria (23.1%), perineal pain (20.2%) [2]. Zinner syndrome was only accidentally discovered in our case, even though the cyst grew to a size of 7 centimeters. Infertility (13.9%) and other abnormalities of reproductive function were also noted [2]. Because the contralateral ejaculatory duct is intact in these people, the pathophysiology of infertility in these patients is poorly known. Nevertheless, it has been proposed that autoantibodies against sperm may develop as a result of unilateral blockage [6]. Transrectal ultrasonography, MRI, CT scan, and cystoscopy are examples of diagnostic instruments.Imaging is crucial in the diagnosis of Zinner syndrome. Abdominopelvic ultrasonography, for example, shows the absence of an ipsilateral kidney and verifies the mass's cystic nature while also identifying its location and size. Transrectal ultrasonography reveals a cystic pelvic lesion with anechoic content, barring superinfection, and gives additional information on the cyst wall and its contents. It also aids in directing the surgeon in the case that the cyst needs to be removed transrectally. The ipsilateral ureter and kidney are confirmed to be absent by a CT urogram, yet the origin of the cyst is typically not confirmed. The most efficient diagnostic procedure is magnetic resonance imaging (MRI) [2]. This technique helps with surgical decision-making and approach in addition to definitively diagnosing the cystic component, which is characterized by low signal intensity on T1-weighted images and high signal intensity on T2-weighted images. Additionally, MRI enables a more thorough examination of the glands and can verify ejaculatory duct blockage [7]. Other cystic pelvic lesions such as abscesses, ectopic ureterocele, diverticulosis of the vas deferens, and laterally situated prostatic cysts should be included in the differential diagnosis [8]. An incomplete trigone with a sizable cyst of the seminal vesicle in charge of extrinsic compression can be seen via cystoscopy [9].For asymptomatic patients basic observation is advised. Treatment for symptomatic patients includes transurethral excision of the seminal vesicle cyst and ejaculatory duct, as well as ultrasound-guided aspiration [10]. For seminal vesicle cysts, laparoscopic surgery seems to be the best suitable surgical procedure at the moment. Compared to open surgery, it provides superb depth imaging and direct access to the seminal vesicle. Furthermore, it permits the seminal vesicle to be separated from the peritoneum surrounding the prostate and bladder without injuring the bladder or the lower intestines [11].\n\nConclusion\n\nA rare urological anomaly is seminal vesicle cysts linked to ipsilateral renal agenesis or hypoplasia. This case illustrates the incidental discovery of this malformation in adulthood. A clinical examination and several imaging procedures, such as transpubic ultrasound, CT scan, and MRI, were part of the diagnosis process.\n\nPatient consent\n\nRegarding the manuscript titled ``Zinner syndrome, a rare congenital cause of infertility''. I would like to confirm, on behalf of my co-authors and myself, that we have obtained all the consents required by the current legislation for the publication of personal data or images of patients, subjects of investigation, or other individuals depicted in the materials submitted to your Journal.",
+    "generate_case": {
+        "case_summary": "- Patient Information: 39-year-old male, married, presenting for primary infertility assessment.\n- Chief Complaint: Primary infertility.\n- History of Present Illness: Patient did not report perineal pain, hemospermia, or lower urinary tract symptoms.\n- Past Medical History: None noted.\n- Personal History: Married with no children.\n- Family History: None provided.\n- Physical Examination: Abdominal and external genital examination unremarkable; no abnormalities on rectal examination.\n- Ancillary Tests: Pelvic ultrasound revealed a 70 × 39 mm cyst in the left seminal vesicle with regular, thin walls and anechoic content. Scrotal ultrasound showed bilateral testicular hypoplasia. Abdominal-pelvic CT scan showed left seminal vesicle cyst and left kidney agenesis. MRI confirmed the findings and detailed seminal cyst structure.",
+        "differential_diagnosis": "1. **Initial Consideration of Zinner Syndrome:**\n   - The combination of seminal vesicle cyst and ipsilateral renal agenesis was highly suggestive of Zinner syndrome. This is consistent with the embryological link between mesonephric duct anomalies and the genitourinary tract.\n   - Imaging findings and absence of other urinary tract symptoms strongly supported this diagnosis.\n\n2. **Exclusion of Other Pelvic Cystic Lesions:**\n   - Abscess: Excluded as there were no signs of infection or inflammatory markers, and imaging showed no irregularities in the cyst wall or contents.\n   - Ectopic ureterocele: Ruled out since there was no evidence of an ectopic ureter on imaging studies.\n   - Diverticulosis of the vas deferens or prostatic cysts: Excluded based on the cyst’s location, its size, and imaging-specific characteristics.\n\n3. Additional findings like bilateral testicular hypoplasia may be related to reproductive system anomalies but did not alter the primary diagnosis.",
+        "final_diagnosis": "Zinner Syndrome, characterized by left seminal vesicle cyst and left renal agenesis, was the confirmed diagnosis. This aligns with the imaging findings, patient symptoms (infertility), and clinical presentation, ruling out other potential differential diagnoses.",
+        "diagnosis_results": "Zinner Syndrome"
+    },
+    "body_category": [
+        "Male Reproductive System"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-7-22",
+    "checked_rare_disease": [
+        "Renal agenesis",
+        "Renal agenesis, bilateral",
+        "Renal agenesis, unilateral"
+    ],
+    "id": "PMC11406332",
+    "results": {
+        "thinking_process": "Okay, let's start by looking at the patient's main issue: primary infertility. He's a 39-year-old male, married, and they haven't been able to conceive. The first thing that comes to mind is that male infertility can be due to various factors like low sperm count, blockages, hormonal issues, or structural abnormalities.\n\nLooking at his history, he doesn't have symptoms like pain, hemospermia, or urinary issues. So, maybe the problem isn't inflammatory or infectious. His physical exams were normal, which might rule out obvious structural issues in the external genitalia or abdomen. But the imaging tests show some significant findings.\n\nThe pelvic ultrasound found a large cyst in the left seminal vesicle. Seminal vesicles are involved in producing seminal fluid, so a cyst there could affect semen quality or volume. Then there's the scrotal ultrasound showing bilateral testicular hypoplasia. Hypoplastic testes are smaller than usual, which can lead to reduced sperm production. That's a big red flag for infertility.\n\nThe CT scan adds another piece: left kidney agenesis. Missing a kidney at birth is sometimes associated with congenital anomalies in the reproductive system. I remember that there's a condition called Zinner syndrome, which is a triad of ipsilateral renal agenesis, seminal vesicle cyst, and ejaculatory duct obstruction. This patient has two out of three—left kidney agenesis and a left seminal vesicle cyst. Ejaculatory duct issues might be present but not mentioned here, but the cyst itself could be causing obstruction.\n\nThe MRI confirmed the cyst's structure. Since all imaging points to these congenital issues, Zinner syndrome seems likely. The testicular hypoplasia might be a separate issue contributing to infertility, but the combination of kidney absence and seminal vesicle cyst is classic for Zinner. \n\nPutting it all together: congenital abnormalities affecting both the urinary and reproductive systems. The left kidney agenesis and seminal vesicle cyst with testicular hypoplasia point towards Zinner syndrome as the underlying cause of his infertility.",
+        "content": "```\n### Resoning:\n<step 1> The patient presents with primary infertility. Key findings include a left seminal vesicle cyst, bilateral testicular hypoplasia, and left kidney agenesis.  \n<step 2> Seminal vesicle cysts associated with ipsilateral renal agenesis are pathognomonic for Zinner syndrome, a congenital malformation of the mesonephric duct.  \n<step 3> Bilateral testicular hypoplasia further supports impaired reproductive anatomy, contributing to infertility via reduced sperm production or quality.  \n<step 4> The absence of symptoms like hemospermia or pain aligns with the typically asymptomatic nature of Zinner syndrome until fertility issues arise.  \n<step 5> Imaging (ultrasound, CT, MRI) confirms the triad of seminal vesicle cyst, renal agenesis, and potential ejaculatory duct obstruction, solidifying the diagnosis.  \n\n### Answer:\nZinner syndrome (congenital seminal vesicle cyst with ipsilateral renal agenesis) and bilateral testicular hypoplasia."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient presents with primary infertility. Key findings include a left seminal vesicle cyst, bilateral testicular hypoplasia, and left kidney agenesis.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Seminal vesicle cysts associated with ipsilateral renal agenesis are pathognomonic for Zinner syndrome, a congenital malformation of the mesonephric duct.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Bilateral testicular hypoplasia further supports impaired reproductive anatomy, contributing to infertility via reduced sperm production or quality.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The absence of symptoms like hemospermia or pain aligns with the typically asymptomatic nature of Zinner syndrome until fertility issues arise.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Imaging (ultrasound, CT, MRI) confirms the triad of seminal vesicle cyst, renal agenesis, and potential ejaculatory duct obstruction, solidifying the diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: The combination of a seminal vesicle cyst and ipsilateral renal agenesis, along with the absence of other urinary tract symptoms, strongly suggested Zinner syndrome, which is consistent with the embryological link between mesonephric duct anomalies and the genitourinary tract.",
+            "hit": true
+        },
+        {
+            "step": "Step 2: Abscess was excluded due to the absence of signs of infection or inflammatory markers, and the imaging showing no irregularities in the cyst wall or contents.",
+            "hit": false
+        },
+        {
+            "step": "Step 3: Ectopic ureterocele was ruled out as there was no evidence of an ectopic ureter on imaging studies.",
+            "hit": false
+        },
+        {
+            "step": "Step 4: Diverticulosis of the vas deferens or prostatic cysts was excluded based on the cyst's location, size, and imaging-specific characteristics.",
+            "hit": false
+        },
+        {
+            "step": "Step 5: Bilateral testicular hypoplasia, while related to reproductive system anomalies, did not alter the primary diagnosis of Zinner Syndrome.",
+            "hit": true
+        },
+        {
+            "step": "Step 6: The final diagnosis of Zinner Syndrome, characterized by a left seminal vesicle cyst and left renal agenesis, was confirmed based on imaging findings, patient symptoms (infertility), and clinical presentation.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.8,
+    "factulity": 0.5,
+    "recall": 0.5
+}

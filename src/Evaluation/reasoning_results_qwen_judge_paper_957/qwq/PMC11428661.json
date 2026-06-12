@@ -1,0 +1,147 @@
+{
+    "raw_case": "\nAbsence of Right Coronary Ostium with Single Coronary Artery: A Rare Anomaly\nCoronary arteries normally originate from two separate cusps from the aorta, and various anomalies can occur. One such anomaly is the single coronary artery (SCA), where the coronary arteries originate from a single ostium due to the absence of the contralateral ostia. In a rare case we encountered while evaluating a patient with atypical chest pain, computed tomography angiography revealed that the right ostia was absent, and the right coronary artery originated from the left circumflex artery. This subtype of SCA has been exceedingly rare, with only a few cases reported in the literature.\n\nCase Presentation\n\nA 26-year-old male patient with a smoking history of 12 pack years presented to the emergency department with atypical chest pain. He had exertional chest pain and dyspnea for the past 2 years. No effort-related syncope or palpitations were reported, no significant medical issues or regular medication use were reported, and there was no family history of cardiovascular disease. He works as a merchandiser and engages in regular physical activities.Physical examination, including his vital signs, were unremarkable. The initial evaluation aimed to rule out acute coronary syndrome by performing an electrocardiogram and serial cardiac troponin levels, which were negative. Following this, 2-dimensional transthoracic echocardiography was performed, showing normal structure and function of all four cardiac chambers and valves.Subsequent computed tomography angiography revealed a complete absence of the right coronary artery (RCA) at the level of the right coronary ostium (Figure 1). The heart exhibits a single coronary artery (SCA) as the RCA arises from the distal left circumflex artery (LCx) (Figures 2, 3; Video 1). No evidence of stenosis or atherosclerosis was observed in any of the coronary arteries.We offered the patient cardiac nuclear testing to evaluate microvascular ischemia and myocardial blood flow reserve. However, he was reluctant due to concern about radiation exposure. Our management strategy was conservative, emphasizing strict lifestyle modifications including smoking cessation, regular lipid profile evaluations, and the avoidance of strenuous exercise.\n\nDiscussion\n\nAccording to the classification proposed by Lipton-Yamanaka et al., the described case is an LI type: (L) indicates that an SCA arises from the left cusp, giving off the left anterior descending and LCx, with the RCA originating from the LCx; (I) indicates that all the mentioned arteries follow their normal courses.1 Patients with SCA can present with cardiomyopathy or acute coronary syndromes, but this particular anomaly was reported to have a benign course, with negative cardiac work-up in the majority of cases unless there is significant atherosclerosis.2 Some case reports attributed exertional chest pain to abnormally slow blood flow to the RCA. This reasoning was supported by the patient’s excellent response to medical management with calcium channel blockers and nitrates and the absence of significant atherosclerosis on work-up.3 True right myocardial ischemia that required primary coronary intervention was reported in a case as well,4 while another case was incidentally found while working up pulmonary embolism.5 In conclusion, the presentation for this anomaly is highly variable, and treatment strategy is tailored to a case-by-case basis. Percutaneous coronary intervention providers should carefully review primary team imaging to facilitate easier manipulation and reduce contrast usage, thereby enhancing patient care.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 26-year-old male, merchandiser, with 12 pack-year smoking history.\n- **Chief Complaint:** Atypical chest pain.\n- **History of Present Illness:** Exertional chest pain and dyspnea for the past 2 years. No effort-related syncope or palpitations.\n- **Past Medical History:** None.\n- **Personal History:** Smoker, physically active.\n- **Family History:** None.\n- **Physical Examination:** Unremarkable, including vital signs.\n- **Ancillary Tests:** \n  - Electrocardiogram and serial cardiac troponin levels: Negative.\n  - 2D transthoracic echocardiography: Normal cardiac structure and function.\n  - Computed tomography angiography: Absence of the right coronary artery (RCA) ostium, with RCA arising from the distal left circumflex artery (LCx).\n  - No evidence of coronary artery stenosis or atherosclerosis.\n  - Cardiac nuclear testing to evaluate ischemia was declined by the patient.",
+        "differential_diagnosis": "- **Initial Consideration:** The patient’s atypical chest pain and dyspnea prompted evaluation for possible cardiac ischemia, coronary artery disease (CAD), or structural heart abnormalities.\n  - **Acute Coronary Syndrome (ACS):** Ruled out based on negative troponin and EKG findings.\n  - **Structural Heart Disease:** Echocardiography showed normal structure and function, excluding significant structural abnormalities.\n  - **Coronary Artery Anomaly:** Suspected due to atypical presentation, confirmed via CT angiography showing absence of RCA ostium and an SCA anomaly (RCA arising from LCx).\n  - **Microvascular Ischemia:** Considered but not confirmed as the patient declined nuclear testing; no evidence supporting its presence in this case.",
+        "final_diagnosis": "The patient was diagnosed with a **single coronary artery (SCA)** anomaly, specifically Lipton-Yamanaka subtype LI (SCA arising from the left coronary cusp, with RCA originating from distal LCx with normal courses). This anomaly was determined to have a benign course in the absence of atherosclerosis or significant blood flow abnormalities.",
+        "diagnosis_results": "Single Coronary Artery (SCA) - Lipton-Yamanaka LI subtype."
+    },
+    "body_category": [
+        "Blood, Heart and Circulation"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-8-02",
+    "checked_rare_disease": [],
+    "id": "PMC11428661",
+    "results": {
+        "content": "### Resoning:\n\n**Step 1: Understanding the Patient's Presentation**\n\nThe patient is a 26-year-old male merchandiser presenting with atypical chest pain, specifically exertional chest pain and dyspnea that has been ongoing for the past 2 years. He denies any effort-related syncope or palpitations. Given his age and the chronic nature of his symptoms, it's important to consider a wide differential diagnosis, but we should also keep in mind that his symptoms might not necessarily be cardiac in origin.\n\n**Step 2: Reviewing the Patient's History and Lifestyle**\n\nThe patient has a 12 pack-year smoking history and reports being physically active. Smoking is a significant risk factor for various cardiovascular diseases, including atherosclerosis and coronary artery anomalies. His physical activity level could indicate that his symptoms are not severely limiting, but exertional dyspnea and chest pain are concerning.\n\n**Step 3: Evaluating the Physical Examination**\n\nThe physical examination is unremarkable, including normal vital signs. This lack of abnormal findings doesn't rule out serious conditions but suggests that there isn't an acute process at play.\n\n**Step 4: Interpreting the Ancillary Tests**\n\n- **Electrocardiogram (ECG):** Negative, which reduces the likelihood of acute coronary syndrome or other immediate cardiac issues.\n- **Serial cardiac troponin levels:** Negative, further supporting no acute myocardial injury.\n- **2D Transthoracic Echocardiography:** Normal cardiac structure and function, suggesting no overt structural heart disease or systolic/diastolic dysfunction.\n\n**Step 5: Assessing the Computed Tomography Angiography Findings**\n\nThe CT angiography reveals an absence of the right coronary artery (RCA) ostium, with the RCA arising from the distal left circumflex artery (LCx). This is an anatomical variant known as an anomalous origin of the RCA. Additionally, there is no evidence of coronary artery stenosis or atherosclerosis, which is reassuring but doesn't explain the patient's symptoms entirely.\n\n**Step 6: Considering the Declined Cardiac Nuclear Testing**\n\nThe patient declined cardiac nuclear testing, which could have helped evaluate for myocardial ischemia. However, given his young age, lack of significant risk factors beyond smoking, and normal initial cardiac tests, the pretest probability for ischemic heart disease is low.\n\n**Step 7: Considering Other Differential Diagnoses**\n\nGiven the negative cardiac tests and the presence of an anomalous coronary artery, we need to consider whether the symptoms could be related to the coronary anomaly or if there are other causes.\n\n- **Coronary Artery Anomaly:** While most anomalous origins of the RCA are benign, some can be associated with symptoms or even sudden cardiac death, particularly if there is compromise of blood flow due to compression or other mechanical factors.\n- **Microvascular Angina:** Although more common in women, it can occur in men and might present with atypical symptoms.\n- **Non-cardiac Causes:** Gastroesophageal reflux disease (GERD), musculoskeletal pain, anxiety, or other pulmonary issues could also present with chest pain and dyspnea.\n\n**Step 8: Synthesizing the Information**\n\nThe patient has atypical chest pain and dyspnea on exertion, a smoking history, and an anomalous origin of the RCA. The cardiac tests are otherwise normal, and he declined further testing. Given this information, it's plausible that the symptoms could be related to the coronary anomaly, but other causes cannot be entirely excluded without further evaluation.\n\n**Step 9: Making a Decision on Diagnosis**\n\nGiven the information available and the patient's decision to decline further testing, the most appropriate diagnosis would be to consider the symptoms as possibly related to the coronary anomaly, but to also consider other potential causes. However, in the context of the patient's age, normal cardiac structure and function, and negative cardiac biomarkers, it's less likely that his symptoms are due to a cardiac cause.\n\n**Step 10: Formulating a Plan**\n\nGiven that the patient declined further testing, it would be reasonable to consider a diagnosis of atypical chest pain with an anomalous coronary artery, and to recommend smoking cessation, observation, and possible referral to a cardiologist for further evaluation if symptoms persist or worsen.\n\n### Answer:\n\nAnomalous origin of the right coronary artery from the left circumflex artery with atypical chest pain; possible consideration of myocardial bridging or other coronary anomalies as a cause of symptoms."
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Step 1: Understanding the Patient's Presentation**",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "The patient is a 26-year-old male merchandiser presenting with atypical chest pain, specifically exertional chest pain and dyspnea that has been ongoing for the past 2 years. He denies any effort-related syncope or palpitations. Given his age and the chronic nature of his symptoms, it's important to consider a wide differential diagnosis, but we should also keep in mind that his symptoms might not necessarily be cardiac in origin.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 2: Reviewing the Patient's History and Lifestyle**",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "The patient has a 12 pack-year smoking history and reports being physically active. Smoking is a significant risk factor for various cardiovascular diseases, including atherosclerosis and coronary artery anomalies. His physical activity level could indicate that his symptoms are not severely limiting, but exertional dyspnea and chest pain are concerning.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 3: Evaluating the Physical Examination**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The physical examination is unremarkable, including normal vital signs. This lack of abnormal findings doesn't rule out serious conditions but suggests that there isn't an acute process at play.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 4: Interpreting the Ancillary Tests**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "- **Electrocardiogram (ECG):** Negative, which reduces the likelihood of acute coronary syndrome or other immediate cardiac issues.\n- **Serial cardiac troponin levels:** Negative, further supporting no acute myocardial injury.\n- **2D Transthoracic Echocardiography:** Normal cardiac structure and function, suggesting no overt structural heart disease or systolic/diastolic dysfunction.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Step 5: Assessing the Computed Tomography Angiography Findings**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The CT angiography reveals an absence of the right coronary artery (RCA) ostium, with the RCA arising from the distal left circumflex artery (LCx). This is an anatomical variant known as an anomalous origin of the RCA. Additionally, there is no evidence of coronary artery stenosis or atherosclerosis, which is reassuring but doesn't explain the patient's symptoms entirely.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Initial Consideration: The patient's atypical chest pain and dyspnea prompted evaluation for possible cardiac ischemia, coronary artery disease (CAD), or structural heart abnormalities.",
+            "hit": true
+        },
+        {
+            "step": "Acute Coronary Syndrome (ACS) Ruled Out: Based on negative troponin and EKG findings.",
+            "hit": true
+        },
+        {
+            "step": "Structural Heart Disease Excluded: Echocardiography showed normal structure and function, excluding significant structural abnormalities.",
+            "hit": false
+        },
+        {
+            "step": "Coronary Artery Anomaly Confirmed: Suspected due to atypical presentation, confirmed via CT angiography showing absence of RCA ostium and an SCA anomaly (RCA arising from LCx).",
+            "hit": false
+        },
+        {
+            "step": "Microvascular Ischemia Not Confirmed: Considered but not confirmed as the patient declined nuclear testing; no evidence supporting its presence.",
+            "hit": false
+        },
+        {
+            "step": "Final Diagnosis: The patient was diagnosed with a single coronary artery (SCA) anomaly, specifically Lipton-Yamanaka subtype LI (SCA arising from the left coronary cusp, with RCA originating from distal LCx with normal courses). This anomaly was determined to have a benign course in the absence of atherosclerosis or significant blood flow abnormalities.",
+            "hit": false
+        }
+    ],
+    "efficiency": 0.7,
+    "factulity": 1.0,
+    "recall": 0.3333333333333333
+}

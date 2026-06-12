@@ -1,0 +1,159 @@
+{
+    "raw_case": "\nFibrodysplasia ossificans progressiva associated with osteochondromatosis: A case report\nFibrodysplasia ossificans progressiva is a rare and severely debilitating genetic disorder affecting approximately 1 in 2 million people. It is characterized by progressive heterotopic ossification of soft tissues, leading to the formation of ectopic bone in extraskeletal areas, as well as congenital malformations of the great toes. FOP can also be considered a disorder of osteochondrogenesis, with most musculoskeletal abnormalities related to dysregulated chondrogenesis, such as heterotopic endochondral ossification, abnormal cartilage formation, growth plate dysplasia, osteochondroma formation, and early arthropathy. The frequent lack of awareness of this disease often results in diagnostic errors, delays in diagnosis, and unnecessary interventions, sometimes with irreversible consequences. We report the case of a 2-year-old girl with no significant medical or family history, presenting with bilateral hallux valgus and firm subcutaneous nodules on the back and lower limbs. A thoracoabdominal and lower limb computed tomography scan revealed muscular ossifications and osteochondromatosis, confirming the diagnosis of fibrodysplasia ossificans progressiva.\n\nIntroduction\n\nFibrodysplasia ossificans progressiva (FOP) is an extremely rare autosomal dominant disorder, with a prevalence estimated at approximately 1 in 1.5 to 2 million people [1]. It occurs without ethnic, racial, sexual, or geographic predisposition. Although most cases are due to sporadic de novo mutations, autosomal dominant inheritance with complete penetrance and variable expression has been confirmed [2]. Initially described by Guy Patin in 1648, the condition was later named \"Munchmeyer's disease\" after Munchmeyer's report of the first series of cases in 1869 [3]. FOP is characterized by progressive postnatal ossification of skeletal muscles, tendons, ligaments, aponeuroses, and fascia [3,4], along with congenital malformations of the great toes [4]. Ossification episodes follow a characteristic pattern, initially affecting the dorsal, axial, cranial, and proximal parts of the body, before progressing to the ventral, appendicular, caudal, and distal areas [4]. While there is currently no curative treatment for FOP, early diagnosis and prevention of flare-ups can improve patient quality of life. Promising therapeutic approaches are under investigation [5].\n\nCase report\n\nA 2-year-old girl with no notable medical or family history presents with subcutaneous nodules in the scapular, paravertebral, and lower limb regions that have been present for 5 months. Physical examination reveals bilateral hallux valgus, hard, immobile subcutaneous swellings without inflammatory signs. The remainder of the physical examination is unremarkable, and calcium-phosphorus levels are normal. A thoraco-abdominal and lower limb CT scan was performed, revealing ossifications in the subscapular, axillary, and paravertebral muscles (Figs. 1 and 3) as well as sessile bone exostoses at the right lesser trochanters and bilateral femoral regions, with a pedunculated exostosis in the mid-diaphysis of the left femur and left tibia (Figs. 2 and 3). Based on these findings, a diagnosis of FOP was made.\n\nDiscussion\n\nFOP, also known as progressive myositis ossificans, is an extremely rare autosomal dominant genetic disorder with an incidence of approximately 1 in 2 million births, with no ethnic, racial, sexual, or geographic predispositions [5]. FOP is characterized by progressive heterotopic ossification, where skeletal muscles and connective tissues, such as tendons, ligaments, and aponeuroses, progressively ossify [3]. Most cases are sporadic, with the exception of some hereditary familial cases [5].FOP is caused by heterozygous mutations in the Activin A type I receptor (also known as Activin-like kinase 2), which abnormally activates bone morphogenetic protein (BMP) signaling, leading to heterotopic bone formation and other osseous abnormalities, including osteochondromatosis [1,6].Clinically, the most common signs include a congenital malformation of hallux valgus, often bilateral, and recurrent episodes of heterotopic ossification in response to trauma or occurring spontaneously [7]. These ossifications may be preceded by painful soft tissue swellings. In infants, scalp nodules can be an early indicative sign of the disease [7].Although children with FOP appear normal at birth, a congenital malformation of the big toes is consistently present in those with the classic form of the disease [4]. In addition to these malformations, other common abnormalities include medial proximal tibial osteochondromas (present in about 90% of patients), fusion of the posterior elements of the cervical spine (approximately 80%), short and wide femoral necks, and conductive hearing loss. Smooth muscles, cardiac muscles, extraocular muscles, as well as the tongue and diaphragm, are spared [2,3], along with thumb and femur malformations [2,8]. Classic FOP is characterized by the presence of big toe malformations and progressive heterotopic ossifications, while \"FOP plus\" includes atypical manifestations such as infantile glaucoma or Marfan syndrome [2]. Scoliosis is also common due to asymmetrical heterotopic ossifications connecting the trunk to the pelvis [2]. Additionally, fusion of the middle ear ossicles often results in conductive hearing loss, a common feature of FOP [2].Approximately 87% of FOP patients experience diagnostic delays despite the presence of recurrent painful masses in typical anatomical areas and big toe malformations, which should facilitate a quicker diagnosis [3]. Biopsy is strongly contraindicated in FOP due to the risk of exacerbating bone formation. Flares can be triggered by surgical interventions or iatrogenic trauma, highlighting the need for noninvasive diagnostic procedures [4].Cardiopulmonary complications, such as pulmonary restriction due to ossification around the thoracic cage, are frequent and a major cause of mortality, often due to pneumonia or thoracic insufficiency syndrome [1].Although no curative treatment is currently available [8], future advances in identifying the signaling pathways involved in FOP, particularly those regulated by the ACVR1 gene, could facilitate the development of targeted treatments, such as BMP signaling inhibitors [3]. Current strategies primarily focus on managing flares with anti-inflammatory drugs and corticosteroids. Therapies targeting the inhibition of the hyperactive ACVR1 receptor appear promising for the future [4]. However, due to the rarity and complexity of FOP, no controlled clinical trials have yet demonstrated the efficacy of any specific therapy [3].\n\nConclusion\n\nFOP is a rare and debilitating condition, often diagnosed late despite distinct clinical signs such as toe malformations and heterotopic ossifications. Early diagnosis and appropriate care can significantly mitigate the impact of FOP on patients' quality of life. It is essential to raise awareness among clinicians to avoid unnecessary and potentially harmful interventions. Ongoing research is crucial to developing effective treatments and improving the management of this complex disease.\n\nPatient consent\n\nWritten informed consent was obtained from the patient for their anonymized information to be published in this article.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 2-year-old girl, no significant medical or family history.\n- **Chief Complaint:** Subcutaneous nodules in the scapular, paravertebral, and lower limb regions present for 5 months.\n- **History of Present Illness:** 5-month history of firm, immobile subcutaneous swellings without signs of inflammation.\n- **Past Medical History:** None.\n- **Personal History:** None.\n- **Family History:** None.\n- **Physical Examination:** Bilateral hallux valgus; firm, immobile subcutaneous nodules observed in the scapular, paravertebral, and lower limb regions; otherwise unremarkable.\n- **Ancillary Tests:** Normal calcium-phosphorus levels; thoraco-abdominal and lower limb CT scan shows muscular ossifications in subscapular, axillary, and paravertebral muscles, as well as multiple bone exostoses in the femoral and tibial regions.",
+        "differential_diagnosis": "- An initial differential diagnosis included conditions associated with soft tissue masses, heterotopic ossification, and skeletal abnormalities. Potential causes such as malignancies (soft tissue sarcomas or osteosarcomas) and metabolic disorders (hyperparathyroidism or fibrous dysplasia) were considered.\n- Fibrodysplasia ossificans progressiva (FOP) was strongly suspected due to hallmark features observed: bilateral hallux valgus, subcutaneous nodules, and CT-confirmed heterotopic ossifications and osteochondromatosis. \n- Malignancies were excluded due to the non-inflammatory, immobile nature of the nodules and absence of other systemic features.\n- Metabolic causes were unlikely as calcium-phosphorus levels were normal, and the patient lacked metabolic derangements or bone density changes typically associated with such conditions.\n- Other genetic or congenital disorders with heterotopic ossification were ruled out based on the presence of the classic hallux valgus deformity and radiological findings consistent with FOP.",
+        "final_diagnosis": "The diagnosis of fibrodysplasia ossificans progressiva (FOP) was confirmed based on the clinical presentation, congenital bilateral hallux valgus deformities, and characteristic findings of heterotopic ossification and osteochondromatosis on imaging.",
+        "diagnosis_results": "Fibrodysplasia ossificans progressiva (FOP)."
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-9-6",
+    "checked_rare_disease": [
+        "Fibrodysplasia ossificans progressiva"
+    ],
+    "id": "PMC11546151",
+    "results": {
+        "content": "### Reasoning:\n\nFirst, I need to carefully consider the patient's presentation and the information provided. The patient is a 2-year-old girl with a 5-month history of subcutaneous nodules in the scapular, paravertebral, and lower limb regions. These nodules are described as firm, immobile, and without signs of inflammation. There's no significant medical or family history, and physical examination reveals bilateral hallux valgus along with these nodules. Ancillary tests show normal calcium and phosphorus levels, and CT scans reveal muscular ossifications in certain areas and multiple bone exostoses in the femur and tibia.\n\nStarting with the subcutaneous nodules, their firmness and immobility suggest they are deep-seated and possibly fibrotic or osseous in nature. The lack of inflammation indicates they are not infectious or inflammatory processes like abscesses or granulomas. The distribution in the scapular, paravertebral, and lower limb regions might suggest a systemic process affecting connective tissue or musculoskeletal system.\n\nThe presence of hallux valgus, a deformity of the big toe, could be coincidental, but it might also hint at a generalized connective tissue disorder or skeletal dysplasia. Hallux valgus is often seen in conditions affecting bone and joint development.\n\nThe normal calcium and phosphorus levels help rule out metabolic bone diseases that might affect mineral homeostasis, such as hypocalcemia or hyperparathyroidism, which could lead to abnormal bone formation.\n\nThe CT findings are crucial here. Muscular ossifications in the subscapular, axillary, and paravertebral muscles suggest that there is ectopic bone formation within the muscles. Additionally, multiple bone exostoses in the femur and tibia indicate the presence of bony outgrowths from the skeletal bones.\n\nI need to consider conditions that can cause both muscular ossifications and bone exostoses. One condition that comes to mind is fibrodysplasia ossificans progressiva (FOP), but FOP typically presents with episodes of swelling and inflammation followed by heterotopic ossification, which is not described here. Moreover, FOP usually has characteristic great toe and thumb malformations present at birth, and the patient only has hallux valgus.\n\nAnother condition to consider is myositis ossificans, which is the formation of bone within muscle tissue. It can be focal or generalized. In children, it might be part of a developmental disorder. However, myositis ossificans is usually secondary to trauma or is associated with neuromuscular diseases, which doesn't seem to fit here given the lack of history of trauma.\n\nGiven the presence of both muscular ossifications and multiple bone exostoses, I should consider conditions that affect both muscle and bone development. One such condition is大理石骨症 (marble bone disease), also known as osteopetrosis, but this is characterized by dense, brittle bones and often has hematologic manifestations, which are not mentioned here.\n\nAnother possibility is a hereditary disorder of connective tissue, such as Ehlers-Danlos syndrome, but these conditions typically present with hypermobility and skin hyperextensibility, not with ossifications.\n\nSince the patient is 2 years old and the symptoms have been present for 5 months, this seems to be a developmental issue rather than an acquired condition.\n\nLooking back at the CT findings, the muscular ossifications and bone exostoses suggest a problem with normal bone and muscle development, possibly a dysplasia or a genetic condition affecting skeletogenesis.\n\nI recall that certain skeletal dysplasias can present with abnormal bone formation and exostoses. For example, multiple hereditary exostoses (MHE), also known as hereditary multiple exostoses (HME), is a condition characterized by the growth of multiple osteochondromas, which are benign bone tumors that develop at the growth plates.\n\nHowever, MHE typically presents with bony lumps or exostoses, often causing pain and deformation, but the presence of muscular ossifications makes this less likely, as MHE primarily affects the bones.\n\nAnother condition to consider is fibrous dysplasia, which can cause abnormal bone growth and may affect multiple bones, but it doesn't typically cause muscular ossifications.\n\nGiven the combination of muscular ossifications and bone exostoses, I need to think of a condition that affects both muscle and bone development concurrently.\n\nOne rare condition that comes to mind is muscle聘用骨瘤病(musculoskeletal pseudarthrosis with ossifying lesions), but I'm not very familiar with this term and need to verify if such a condition exists.\n\nAlternatively, it could be a variant of a known genetic syndrome that affects both muscle and bone.\n\nConsidering the patient's age and the chronic nature of the nodules, acute inflammatory or infectious causes are less likely.\n\nI should also consider if there is any environmental exposure or nutritional deficiency that could cause such symptoms, but given the lack of relevant history, this seems unlikely.\n\nPerhaps consulting a pediatric rheumatologist or a geneticist would be beneficial for this patient, given the potential for a genetic or systemic connective tissue disorder.\n\nIn summary, the key features are:\n\n- Subcutaneous nodules that are firm, immobile, and non-inflammatory\n\n- Bilateral hallux valgus\n\n- Normal calcium and phosphorus levels\n\n- CT showing muscular ossifications and multiple bone exostoses\n\nGiven these features, the differential diagnosis should include conditions that affect both muscle and bone development, possibly of genetic origin.\n\n### Answer:\n\nThe patient likely has a condition called大理石骨症 (marble bone disease), also known as osteopetrosis."
+    },
+    "reasoning_eval": [
+        {
+            "step": "First, I need to carefully consider the patient's presentation and the information provided. The patient is a 2-year-old girl with a 5-month history of subcutaneous nodules in the scapular, paravertebral, and lower limb regions. These nodules are described as firm, immobile, and without signs of inflammation. There's no significant medical or family history, and physical examination reveals bilateral hallux valgus along with these nodules. Ancillary tests show normal calcium and phosphorus levels, and CT scans reveal muscular ossifications in certain areas and multiple bone exostoses in the femur and tibia.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Starting with the subcutaneous nodules, their firmness and immobility suggest they are deep-seated and possibly fibrotic or osseous in nature. The lack of inflammation indicates they are not infectious or inflammatory processes like abscesses or granulomas. The distribution in the scapular, paravertebral, and lower limb regions might suggest a systemic process affecting connective tissue or musculoskeletal system.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The presence of hallux valgus, a deformity of the big toe, could be coincidental, but it might also hint at a generalized connective tissue disorder or skeletal dysplasia. Hallux valgus is often seen in conditions affecting bone and joint development.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The normal calcium and phosphorus levels help rule out metabolic bone diseases that might affect mineral homeostasis, such as hypocalcemia or hyperparathyroidism, which could lead to abnormal bone formation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The CT findings are crucial here. Muscular ossifications in the subscapular, axillary, and paravertebral muscles suggest that there is ectopic bone formation within the muscles. Additionally, multiple bone exostoses in the femur and tibia indicate the presence of bony outgrowths from the skeletal bones.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "I need to consider conditions that can cause both muscular ossifications and bone exostoses. One condition that comes to mind is fibrodysplasia ossificans progressiva (FOP), but FOP typically presents with episodes of swelling and inflammation followed by heterotopic ossification, which is not described here. Moreover, FOP usually has characteristic great toe and thumb malformations present at birth, and the patient only has hallux valgus.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Another condition to consider is myositis ossificans, which is the formation of bone within muscle tissue. It can be focal or generalized. In children, it might be part of a developmental disorder. However, myositis ossificans is usually secondary to trauma or is associated with neuromuscular diseases, which doesn't seem to fit here given the lack of history of trauma.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Given the presence of both muscular ossifications and multiple bone exostoses, I should consider conditions that affect both muscle and bone development. One such condition is大理石骨症 (marble bone disease), also known as osteopetrosis, but this is characterized by dense, brittle bones and often has hematologic manifestations, which are not mentioned here.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Another possibility is a hereditary disorder of connective tissue, such as Ehlers-Danlos syndrome, but these conditions typically present with hypermobility and skin hyperextensibility, not with ossifications.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Since the patient is 2 years old and the symptoms have been present for 5 months, this seems to be a developmental issue rather than an acquired condition.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> An initial differential diagnosis included conditions associated with soft tissue masses, heterotopic ossification, and skeletal abnormalities, considering potential causes such as malignancies (soft tissue sarcomas or osteosarcomas) and metabolic disorders (hyperparathyroidism or fibrous dysplasia).",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Fibrodysplasia ossificans progressiva (FOP) was strongly suspected due to hallmark features observed: bilateral hallux valgus, subcutaneous nodules, and CT-confirmed heterotopic ossifications and osteochondromatosis.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Malignancies were excluded due to the non-inflammatory, immobile nature of the nodules and absence of other systemic features.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Metabolic causes were deemed unlikely as calcium-phosphorus levels were normal, and the patient lacked metabolic derangements or bone density changes typically associated with such conditions.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Other genetic or congenital disorders with heterotopic ossification were ruled out based on the presence of the classic hallux valgus deformity and radiological findings consistent with FOP.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> The diagnosis of fibrodysplasia ossificans progressiva (FOP) was confirmed based on the clinical presentation, congenital bilateral hallux valgus deformities, and characteristic findings of heterotopic ossification and osteochondromatosis on imaging.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.9,
+    "factulity": 0.8888888888888888,
+    "recall": 1.0
+}

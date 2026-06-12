@@ -1,0 +1,111 @@
+{
+    "raw_case": "\nUnusual location of metastatic lymph nodes of hepatocellular carcinoma in the mediastinum: Case report\nHepatocellular carcinoma is an aggressive tumor that typically metastasizes to the lungs, abdominal lymph nodes, and bones. The presence of mediastinal lymph node metastases is a rare and unusual clinical situation, associated with a poor prognosis. We report the case of a patient with cirrhosis secondary to treated hepatitis C, in whom hepatocellular carcinoma was discovered without extrahepatic spread, except for the presence of mediastinal lymphadenopathy. Biopsy of these nodes, performed via endoscopic ultrasound-guided fine needle biopsy through the oesophagus, confirmed that they were indeed metastatic mediastinal lymph node metastases from HCC. This finding shifted the therapeutic approach from curative treatment to systemic therapy.\n\nIntroduction\n\nHepatocellular carcinoma (HCC) is one of the major cancers in the world [1]. Lymph nodes, commonly regional lymph nodes, are the second most common sites of extra hepatic HCC spread. Mediastinal lymph node metastasis from HCC is a rare distant extra hepatic spread, occurs in approximately 4% to 5% of patients and represents poor prognosis [1,2].\n\nCase report\n\nWe report the case of a 55-year-old male patient with no significant medical history. The patient presented 18 months ago for the management of hepatitis C virus (HCV) infection in the context of compensated advanced chronic liver disease, with elastography measuring 16 kPa. Management involved a 12-week course of sofosbuvir-velpatasvir treatment, resulting in a negative HCV PCR 12 weeks post-treatment. Follow-up included biannual surveillance with screening ultrasounds and alpha-fetoprotein (AFP) monitoring, along with carvedilol due to clinically significant portal hypertension (elastography: 16 kPa + platelets: 48,000/mm³).Eighteen months later, the patient reported a 7 kg weight loss over 2 months. Clinical examination revealed a patient in good general condition, with an ECOG performance status of 0 and a BMI of 19 kg/m². AFP levels were elevated at 90 ng/mL, and the screening ultrasound revealed a hypoechoic nodule in segment IV measuring 30 mm at its largest dimension. Hepatic angio-CT revealed 2 liver lesions, one in segment IV measuring 35 mm × 27 mm and another in segment III measuring 10 mm × 8.5 mm, both with vascular characteristics typical of HCC (Fig. 1), and no signs of vascular invasion or portal vein thrombosis. The staging workup revealed heterogeneous necrotic mediastinal lymph nodes in stations 4R, 7, and 8, with the largest node in station 7 measuring 19 mm in its short axis (Fig. 2).Given the unusual presentation of metastatic mediastinal lymphadenopathy from HCC, the prevalence of tuberculosis in our country, and the increased risk of lymphoma associated with HCV, a transesophageal endoscopic ultrasound (EUS) was performed. This confirmed the findings of the staging workup, and a fine-needle biopsy was performed on the subcarinal lymph node (Fig. 3). Histology revealed a poorly differentiated carcinomatous process with solid architecture, composed of large polygonal cells with round or oval nuclei, dense and heterogeneous chromatin, nucleoli, and abundant eosinophilic cytoplasm. There was no evidence of vascular emboli or perineural involvement. Immunohistochemistry showed focal positivity for anti-CK7 antibodies (clone OV-TL12/30, DAKO), confirming a diagnosis of a metastatic lymph node from moderately differentiated HCC (Fig. 4).Based on these findings, the HCC was classified as advanced stage, corresponding to BCLC stage C. The multidisciplinary team decided to initiate systemic therapy with sorafenib.\n\nDiscussion\n\nHCC is among the most aggressive cancers, with extrahepatic metastases frequently present at the time of initial diagnosis [3]. The most common sites of extrahepatic metastases from HCC are the lungs, abdominal lymph nodes, and bones [4]. Multiple clinical investigations, along with an autopsy study, have reported the incidence rates of metastases in HCC. These studies indicate that metastases commonly occur in the lungs (55%), lymph nodes (53%), bones (38%), and adrenal glands (15.4%) among patients with extrahepatic metastases [3]. Furthermore, HCC patients with lymph node metastasis exhibit a significantly poor prognosis, which is closely due to reduced survival rates and an elevated risk of tumor recurrence [3,5].Patients with HCC who develop lymph node metastases generally have a poor prognosis. The overall survival rates at 1, 3, and 5 years are reported to be 65%, 32%, and 21%, respectively [6]. According to Katyal et al. [7] the occurrence of HCC metastasis to the mediastinal lymph nodes is approximately 4.7%, with a specific rate of 0.7% for paratracheal lymph nodes. Delayed diagnosis of mediastinal lymph node involvement can lead to severe complications, as hypervascular HCC has the potential to invade significant blood vessels or airways in the mediastinum, which may result in life-threatening hemorrhage or suffocation [8].Lymph node metastases from HCC are believed to spread to the mediastinum through 3 pathways. The first pathway leads from the left side of the liver to parasternal or subcarinal lymph nodes via the anterior phrenic lymph nodes. The second pathway extends to parasternal or paratracheal lymph nodes through the hepatic falciform ligament. The third pathway runs from the right side of the liver to paratracheal lymph nodes via the right triangular ligament [9]. In our case the second pathway is the most likely situation given the location of the HCC in the segment IV.When evaluating lymphadenopathy, it's crucial to keep in mind that patients with HCC frequently have hepatitis and/or cirrhosis, conditions often linked to reactive lymphadenopathy. Features such as increased vascularity, heterogeneity, and central necrosis should prompt suspicion of malignancy. [2] In our case we performed a histological study of mediastinal lymph node after EUS guided FNB to confirm the histological features.The presence of mediastinal lymph nodes is considered an extrahepatic spread, defining an advanced stage of HCC (BCLC-C) in patients with preserved liver function. These patients should be evaluated for systemic therapy [10].\n\nConclusion\n\nIn conclusion our case reports a rare situation of mediastinal lymph node metastasis from HCC proven by histological sampling guided by endoscopic ultrasound occurring in patient with good general condition and preserved liver function, which changed the prognosis for our patient from curative treatment to palliative care.\n\nPatient consent\n\nWritten informed consent for the publication of this case report was obtained from the patient.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 55-year-old male.\n- **Chief Complaint:** Progressive 7 kg weight loss over 2 months.\n- **History of Present Illness:** History of treated hepatitis C virus (HCV) infection in the context of compensated advanced chronic liver disease. Prior treatment with sofosbuvir-velpatasvir resulted in sustained virological response. Surveillance showed elevated alpha-fetoprotein (AFP) at 90 ng/mL and a hypoechoic liver nodule on ultrasound. Further imaging confirmed two liver lesions with characteristics of HCC and mediastinal lymphadenopathy.\n- **Past Medical History:** Treated HCV infection; clinically significant portal hypertension.\n- **Personal History:** None recorded.\n- **Family History:** None recorded.\n- **Physical Examination:** Patient in good general condition (ECOG 0); BMI of 19 kg/m².\n- **Ancillary Tests:**\n  - Hepatic angio-CT: Liver lesions with typical imaging characteristics of hepatocellular carcinoma; no vascular invasion or portal vein thrombosis.\n  - Staging workup: Mediastinal lymphadenopathy in stations 4R, 7, and 8 with the largest node measuring 19 mm.\n  - EUS-guided fine-needle biopsy: Histology confirmed poorly differentiated metastatic HCC in mediastinal lymph nodes, with immunohistochemistry supporting the diagnosis.",
+        "differential_diagnosis": "1. **Initial Considerations:**\n   - The imaging findings and elevated AFP suggested hepatocellular carcinoma as the primary diagnosis.\n   - However, unusual mediastinal lymphadenopathy warranted broad differential considerations to rule out other conditions like lymphoma and tuberculosis, especially given the regional prevalence of tuberculosis and HCV-associated lymphoma risks.\n   \n2. **Diagnostic Steps:**\n   - EUS-guided fine-needle aspiration was performed to investigate the lymphadenopathy. Histopathology confirmed it was a metastasis from HCC, excluding other potential diagnoses.\n   \n3. **Exclusion Process:**\n   - Tuberculosis was excluded due to absence of infection markers or granulomatous inflammation on histology.\n   - Lymphoma was ruled out based on histological findings consistent with carcinoma rather than lymphoid origin.",
+        "final_diagnosis": "The patient was diagnosed with advanced hepatocellular carcinoma (BCLC stage C) with rare mediastinal lymph node metastases. The unique metastatic pattern was confirmed by histological examination of the lymph nodes, which identified poorly differentiated HCC.",
+        "diagnosis_results": "Hepatocellular carcinoma (BCLC stage C) with mediastinal lymph node metastases."
+    },
+    "body_category": [
+        "Lungs and Breathing"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-9-29",
+    "checked_rare_disease": [
+        "Adult hepatocellular carcinoma",
+        "Hepatocellular carcinoma"
+    ],
+    "id": "PMC11546455",
+    "results": {
+        "thinking_process": "Okay, let's tackle this case. The patient is a 55-year-old male with a history of treated HCV and advanced chronic liver disease. He's lost 7 kg in two months, which is significant. Weight loss in someone with liver disease makes me think about possible malignancy, especially since he had an elevated AFP of 90 ng/mL. High AFP is a marker for hepatocellular carcinoma (HCC), so that's a red flag.\n\nThe ultrasound found a hypoechoic liver nodule, and the angio-CT confirmed two liver lesions typical for HCC. The CT didn't show vascular invasion or portal vein thrombosis, which is good, but the mediastinal lymphadenopathy is concerning. The lymph nodes in stations 4R, 7, and 8 are involved, with the largest being 19 mm. The EUS-guided biopsy of these nodes showed poorly differentiated metastatic HCC.\n\nSo, putting it all together: he has HCC in the liver, and it's spread to the mediastinal lymph nodes. Even though the primary liver lesions don't have vascular invasion, the metastasis to distant lymph nodes means this is an advanced stage. The weight loss is likely due to the cancer. His HCV was treated and he achieved SVR, but the existing liver damage from chronic disease still puts him at risk for HCC. The portal hypertension from his liver disease adds to the clinical picture, but the key here is the confirmed metastasis. Therefore, the final diagnosis is metastatic HCC with lymph node involvement.",
+        "content": "```\n### Resoning:\n<step 1> The patient has a history of treated HCV with advanced chronic liver disease and portal hypertension, which are major risk factors for hepatocellular carcinoma (HCC). Sustained virological response post-treatment does not eliminate HCC risk in advanced fibrosis/cirrhosis.  \n<step 2> Elevated AFP (90 ng/mL) and imaging findings (hypoechoic nodule on ultrasound, CT-confirmed liver lesions with HCC characteristics) strongly support HCC diagnosis.  \n<step 3> Mediastinal lymphadenopathy detected on staging workup raises suspicion for metastasis. EUS-guided biopsy confirmed metastatic HCC in lymph nodes, establishing extrahepatic spread.  \n<step 4> Poorly differentiated histology and nodal metastasis (stations 4R, 7, 8) indicate advanced HCC. Absence of vascular invasion or portal thrombosis does not preclude metastatic disease.  \n<step 5> Progressive weight loss aligns with advanced malignancy. The combination of primary HCC lesions and confirmed nodal metastasis fulfills criteria for stage IV HCC under most staging systems.  \n\n### Answer:\nMetastatic hepatocellular carcinoma with mediastinal lymph node involvement (stage IV)."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient has a history of treated HCV with advanced chronic liver disease and portal hypertension, which are major risk factors for hepatocellular carcinoma (HCC). Sustained virological response post-treatment does not eliminate HCC risk in advanced fibrosis/cirrhosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Elevated AFP (90 ng/mL) and imaging findings (hypoechoic nodule on ultrasound, CT-confirmed liver lesions with HCC characteristics) strongly support HCC diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Mediastinal lymphadenopathy detected on staging workup raises suspicion for metastasis. EUS-guided biopsy confirmed metastatic HCC in lymph nodes, establishing extrahepatic spread.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Poorly differentiated histology and nodal metastasis (stations 4R, 7, 8) indicate advanced HCC. Absence of vascular invasion or portal thrombosis does not preclude metastatic disease.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Progressive weight loss aligns with advanced malignancy. The combination of primary HCC lesions and confirmed nodal metastasis fulfills criteria for stage IV HCC under most staging systems.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> The imaging findings and elevated AFP suggested hepatocellular carcinoma (HCC) as the primary diagnosis, but unusual mediastinal lymphadenopathy required further investigation to rule out other conditions such as lymphoma and tuberculosis, considering the regional prevalence of these diseases.",
+            "hit": false
+        },
+        {
+            "step": "<Step 2> EUS-guided fine-needle aspiration was performed to investigate the lymphadenopathy, and histopathology confirmed it was a metastasis from HCC, excluding other potential diagnoses.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Tuberculosis was excluded due to the absence of infection markers or granulomatous inflammation on histology.",
+            "hit": false
+        },
+        {
+            "step": "<Step 4> Lymphoma was ruled out based on histological findings consistent with carcinoma rather than lymphoid origin.",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> The patient was diagnosed with advanced hepatocellular carcinoma (BCLC stage C) with rare mediastinal lymph node metastases.",
+            "hit": false
+        },
+        {
+            "step": "<Step 6> The unique metastatic pattern was confirmed by histological examination of the lymph nodes, which identified poorly differentiated HCC.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.3333333333333333
+}

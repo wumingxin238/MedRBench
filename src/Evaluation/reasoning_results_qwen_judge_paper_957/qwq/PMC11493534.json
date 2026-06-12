@@ -1,0 +1,168 @@
+{
+    "raw_case": "\nCase report: Thoracic schwannoma as a diagnostic pitfall in both 18F-Choline PET/CT and 18F-FDG PET/CT\nWe report increased 18F-FDG uptake in the right posterior mediastinal region in a 70-year-old woman following the discovery of a mass in the aftermath of a bronchitis episode. We also report increased 18F-Choline uptake in the right posterior mediastinal region in a 66-year-old man with newly discovered prostate cancer, which may indicate the presence of mediastinal metastases. Both patients had a thoracic MRI showing an intense gadolinium enhancement in the same region, consistent with thoracic schwannomas, which were subsequently proven histologically. This case highlights that schwannoma is a diagnostic pitfall in both 18F-FDG and 18F-Choline PET/CT.\n\nIntroduction\n\nA schwannoma is a generally benign soft tissue tumor that arises from Schwann cell myelin in the peripheral nervous system. It can be difficult to distinguish from malignant soft tissue tumours. The number of malignant peripheral nerve sheath tumors is relatively small, and the incidence rate is 3-10% of soft tissue sarcomas (1). Thoracic schwannomas are usually located in the posterior mediastinum (2, 3) and are often large in size (4), but rarely intrapulmonary (5, 6). On imaging, schwannomas appear in the path of a nerve, are well limited, often oval and single. MRI shows low to intermediate signal intensity on T1-weighted images, high signal intensity on T2-weighted images and intense enhancement of solid components on gadolinium-enhanced imaging. Regions of very high T2-weighted signal intensity correspond to cystic degeneration and may show only peripheral enhancement or no enhancement associated with very high signal intensity. Overall, the larger the schwannoma, the more heterogeneous it appears on all sequences (including gadolinium-enhanced images) due to cystic degeneration, hemorrhage or both (3). The metabolic characteristics of schwannomas on 18F-FDG PET-CT are not well described in the literature to differentiate benign or malignant forms. There is no association between SUV and benign or malignant schwannomas (7, 8) moreover lesions with heterogeneous FDG activity had higher SUVmax and more frequent internal non-enhancement on MRI (9). Radiolabeled choline is becoming a promising tracer in the diagnosis of glial tumors due to its low distribution rate in normal white and gray matter, leading to a high background signal-to-noise ratio compared with 18F-FDG PET/CT (10). Thus, patients with suspected recurrent glial tumors have been shown to have a more clearly defined abnormal accumulation on 18F-Choline PET/CT (11).\n\nCase description\n\nWe first present a 70-year-old woman with no significant past medical history other than 15 pack-years of smoking. Following severe bronchitis, a right paravertebral mass measuring 62 x 49 mm was seen on chest radiography. This corresponded to a hypermetabolic lesion (SUVmax 6.7) on 18F-FDG PET, without locoregional extension. \nFigures 1A–C\n.We then present the case of a 66-year-old man with a particular history of Gleason 8 prostatic adenocarcinoma. 18F-Choline PET/CT for disease extension revealed a right posterobasal lung mass almost 5 cm long with moderate uptake (SUVmax 6.4) at the posterior pleural contact. \nFigures 2A’-C’\n.Complementary MRI was performed for both two lesions (panel of different MRI sequence both two cases). It showed same characteristics: heterogeneous T2 hypersignal with some microcystic areas, T1 isosignal to muscle and moderate diffusion restriction; gadolinium injection resulted in early, intense and relatively homogeneous enhancement outside cystic (or myxoid) areas. \nFigures 1D–F\n and \nFigures 2D’-F’\n.Both patients (\nFigure 1G\n’ and \nFigure 2G\n’) were operated on with complete excision in favor of a benign schwannomatous nerve lesion, with a tumor proliferation rate (Ki-67 index) of 3% for both lesions. (\nFigure 1G\n: In the pleura, tumor characterised by spindle cells intermingled in bundles. Absence of cytonuclear atypia. Magnification x20. \nFigure 2G’\n: High magnification image (x40) of the tumor expressing the positive S100 protein in immunochemistry with strongly and diffusely signal over the entire lesion).\n\nDiscussion\n\n\n18F-FDG PET/CT is used to differentiate between benign and malignant tumors (12). However, false-positive and false-negative results with 18F-FDG PET/CT are relatively common. 18F-FDG uptake in benign schwannomas varies considerably, and benign schwannomas with high FDG uptake can easily be misdiagnosed as malignant. Indeed, even with low levels of Ki-67, the lesion may be avid for 18F-FDG, as there is no correlation between Ki-67 expression and 18F-FDG uptake in schwannomas (13), and this avidity for 18F-FDG could be due to overexpression of GLUT1 or GLUT3, although this is not certain as studies give different results (14, 15).However, 18F-Choline avidity is less controversial in suspected schwannomas as it is a precursor of phosphatidylcholine, one of the main components of the cell membrane. Its specific pathophysiological pathway allows it to be used as a marker of cell proliferation in PET, helping to detect tumors that synthesize a lot of cell wall, such as prostate cancer (16). Schwannomas are composed of myelin, the precursor of which is phosphatidylcholine (17), which explains their detection on 18F-Choline PET/CT. Although it remains difficult to distinguish between a metastasis and a schwannoma in the case of 18F-Choline uptake, the unusual location of this uptake in the context of a prostate cancer metastasis could more easily point to another etiology, such as a benign tumor.\n\nConclusion\n\nIt seems difficult to conclude a diagnosis of schwannoma on the basis of PET-CT SUV characteristics alone, as their SUVmax seems to vary enormously. There are also several other causes of false positives, such as infectious and inflammatory processes.Although promising, 18F-Choline PET/CT cannot play a role in the management of newly diagnosed glial lesions, as it is a non-tumor-specific tracer. Biopsy remains the gold standard for accurate diagnosis.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** Two patients: a 70-year-old woman and a 66-year-old man.\n- **Chief Complaint:** \n  - 70-year-old woman: Incidental discovery of a mass following severe bronchitis.\n  - 66-year-old man: Incidental discovery of a lung mass during evaluation for prostate cancer metastasis.\n- **History of Present Illness:**\n  - 70-year-old woman: Right paravertebral mass (62 x 49 mm) identified on imaging.\n  - 66-year-old man: Right posterobasal lung mass (~5 cm) identified during prostate cancer workup.\n- **Past Medical History:** \n  - 70-year-old woman: History of smoking (15 pack-years).\n  - 66-year-old man: Gleason 8 prostate adenocarcinoma.\n- **Personal History:** Not mentioned.\n- **Family History:** Not mentioned.\n- **Physical Examination:** None mentioned.\n- **Ancillary Tests:**\n  - PET/CT: Both lesions showed increased metabolic activity (SUVmax ~6.4–6.7) on 18F-FDG and 18F-Choline PET/CT.\n  - Thoracic MRI: Both lesions demonstrated heterogeneous T2 hypersignal, T1 isosignal, and gadolinium-enhancing solid components.\n  - Histology and Immunohistochemistry: Biopsy and complete excision confirmed benign schwannomas (spindle cells with positive S100 protein staining; Ki-67 index 3%).",
+        "differential_diagnosis": "1. **Initial Findings:**\n   - The discovery of posterior mediastinal/lung masses with increased uptake on 18F-FDG and 18F-Choline PET/CT raised concerns for malignancy, particularly in contexts of bronchitis (infectious/inflammatory process) and a history of prostate cancer (metastasis).\n2. **Considerations for Malignancy:**\n   - The metabolic activity and SUVmax values were equivocal and could suggest malignancy, especially due to the Gleason 8 prostate adenocarcinoma in the 66-year-old man. However, the SUVmax correlation is unreliable in schwannomas.\n3. **Role of MRI:**\n   - Thoracic MRI findings of heterogeneous T2 hypersignal with gadolinium enhancement provided critical clues, as these features are consistent with benign schwannomas.\n   - The absence of significant locoregional extension suggested a benign process.\n4. **Histological Confirmation:**\n   - Biopsy and surgical excision of both lesions confirmed the diagnosis of benign schwannomas based on spindle cell morphology, S100 positivity, and low proliferation index (Ki-67 of 3%).\n5. **Ruling Out Other Diagnoses:**\n   - Prostate cancer metastasis was excluded due to the unusual location of the lesion and histological findings incompatible with metastatic prostate adenocarcinoma.\n   - Infectious or inflammatory processes were not supported by histology or clinical context.",
+        "final_diagnosis": "The final diagnosis for both patients was benign thoracic schwannoma, confirmed by histological analysis. Key factors supporting the diagnosis included the MRI findings, S100 protein positivity, low Ki-67 proliferation index, and exclusion of malignant or metastatic processes.",
+        "diagnosis_results": "Benign thoracic schwannoma."
+    },
+    "body_category": [
+        "Brain and Nerves"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-7-19",
+    "checked_rare_disease": [
+        "Benign schwannoma"
+    ],
+    "id": "PMC11493534",
+    "results": {
+        "content": "### Reasoning:\n\nThis case presents two patients with incidental findings of lung masses, one in a 70-year-old woman and the other in a 66-year-old man. The approach to diagnosing these masses involves considering various possibilities based on the clinical context, imaging characteristics, and最终的组织学和免疫组化结果。\n\n首先，对于70岁的女性患者，她在严重支气管炎后偶然发现了一个右副椎旁的肿块，大小为62 x 49毫米。她有15包年的吸烟史，这是一个重要的风险因素，因为吸烟与多种肺部疾病相关，包括肺癌。然而，她的主要症状是支气管炎，而不是直接与肿块相关的症状，这可能是为什么肿块是偶然发现的。\n\n其次，66岁的男性患者，在评估前列腺癌转移时偶然发现右后基底的肺肿块，大小约为5厘米。他患有Gleason评分8的前列腺腺癌，这表明他的前列腺癌具有较高的 aggressiveness。在评估前列腺癌患者时，检查是否有转移是非常重要的，因为前列腺癌常转移到骨骼、淋巴结和肺部。\n\n在两种情况下，正电子发射断层扫描/计算机断层扫描（PET/CT）显示病变有增加的代谢活性，SUVmax值约为6.4-6.7，使用的是18F-FDG和18F-Choline。这两种放射性示踪剂在不同类型的肿瘤中摄取不同，18F-FDG通常用于检测高代谢活性的病变，如许多类型的癌症，而18F-Choline特别用于前列腺癌的成像，因为前列腺癌细胞表达胆碱转运蛋白。\n\n磁共振成像（MRI）显示两种病变都有T2高信号，T1等信号，并有含钆增强的实性成分。这种影像学表现可以与多种病变一致，包括良性肿瘤和恶性肿瘤。\n\n然而，最终的诊断是通过活检和完全切除后的组织学和免疫组化分析确定的，结果显示为良性的施万瘤（schwannoma），表现为纺锤形细胞，S100蛋白染色阳性，Ki-67指数为3%。施万瘤是起源于施万细胞的良性肿瘤，通常发生在神经鞘上，可以发生在身体的任何有神经的地方，包括肺部，尽管这相对少见。\n\n在肺部发现施万瘤是比较罕见的，因为肺部的神经分布较少。然而，肺部的施万瘤可以是良性的，但也可能与神经纤维瘤病等遗传性疾病相关。在这个案例中，没有提到患者的家族史或是否有其他神经纤维瘤病的迹象，所以可能这些肿块是孤立的病例。\n\n对于这两个患者，尽管他们的主要病情不同（一个是支气管炎背景下的肿块，另一个是前列腺癌患者检查转移时发现的肿块），但最终的病理诊断都是施万瘤，这是一种良性肿瘤。这强调了即使在有恶性疾病风险的患者中，也有可能发现良性的病变。\n\n此外，Ki-67指数为3%表明肿瘤细胞的增殖活性较低，进一步支持了良性病变的诊断。在恶性肿瘤中，Ki-67指数通常更高，尽管在某些低级别或特殊类型的癌症中也可能较低。\n\n总的来说，这个案例强调了在面对肺部肿块时，需要综合临床病史、影像学特征以及最重要的是组织学和免疫组化结果来做出准确的诊断。即使在有癌症风险的患者中，也应考虑良性病变的可能性。\n\n### Answer:\n\nBenign schwannoma"
+    },
+    "reasoning_eval": [
+        {
+            "step": "This case presents two patients with incidental findings of lung masses, one in a 70-year-old woman and the other in a 66-year-old man. The approach to diagnosing these masses involves considering various possibilities based on the clinical context, imaging characteristics, and最终的组织学和免疫组化结果。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "首先，对于70岁的女性患者，她在严重支气管炎后偶然发现了一个右副椎旁的肿块，大小为62 x 49毫米。她有15包年的吸烟史，这是一个重要的风险因素，因为吸烟与多种肺部疾病相关，包括肺癌。然而，她的主要症状是支气管炎，而不是直接与肿块相关的症状，这可能是为什么肿块是偶然发现的。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "其次，66岁的男性患者，在评估前列腺癌转移时偶然发现右后基底的肺肿块，大小约为5厘米。他患有Gleason评分8的前列腺腺癌，这表明他的前列腺癌具有较高的 aggressiveness。在评估前列腺癌患者时，检查是否有转移是非常重要的，因为前列腺癌常转移到骨骼、淋巴结和肺部。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "在两种情况下，正电子发射断层扫描/计算机断层扫描（PET/CT）显示病变有增加的代谢活性，SUVmax值约为6.4-6.7，使用的是18F-FDG和18F-Choline。这两种放射性示踪剂在不同类型的肿瘤中摄取不同，18F-FDG通常用于检测高代谢活性的病变，如许多类型的癌症，而18F-Choline特别用于前列腺癌的成像，因为前列腺癌细胞表达胆碱转运蛋白。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "磁共振成像（MRI）显示两种病变都有T2高信号，T1等信号，并有含钆增强的实性成分。这种影像学表现可以与多种病变一致，包括良性肿瘤和恶性肿瘤。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "然而，最终的诊断是通过活检和完全切除后的组织学和免疫组化分析确定的，结果显示为良性的施万瘤（schwannoma），表现为纺锤形细胞，S100蛋白染色阳性，Ki-67指数为3%。施万瘤是起源于施万细胞的良性肿瘤，通常发生在神经鞘上，可以发生在身体的任何有神经的地方，包括肺部，尽管这相对少见。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "在肺部发现施万瘤是比较罕见的，因为肺部的神经分布较少。然而，肺部的施万瘤可以是良性的，但也可能与神经纤维瘤病等遗传性疾病相关。在这个案例中，没有提到患者的家族史或是否有其他神经纤维瘤病的迹象，所以可能这些肿块是孤立的病例。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "对于这两个患者，尽管他们的主要病情不同（一个是支气管炎背景下的肿块，另一个是前列腺癌患者检查转移时发现的肿块），但最终的病理诊断都是施万瘤，这是一种良性肿瘤。这强调了即使在有恶性疾病风险的患者中，也有可能发现良性的病变。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "此外，Ki-67指数为3%表明肿瘤细胞的增殖活性较低，进一步支持了良性病变的诊断。在恶性肿瘤中，Ki-67指数通常更高，尽管在某些低级别或特殊类型的癌症中也可能较低。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "总的来说，这个案例强调了在面对肺部肿块时，需要综合临床病史、影像学特征以及最重要的是组织学和免疫组化结果来做出准确的诊断。即使在有癌症风险的患者中，也应考虑良性病变的可能性。",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> The discovery of posterior mediastinal/lung masses with increased uptake on 18F-FDG and 18F-Choline PET/CT raised concerns for malignancy, particularly in the context of bronchitis and a history of prostate cancer.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> The metabolic activity and SUVmax values were equivocal and could suggest malignancy, especially given the patient's history of Gleason 8 prostate adenocarcinoma, but SUVmax correlation is unreliable in schwannomas.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Thoracic MRI findings of heterogeneous T2 hypersignal with gadolinium enhancement were consistent with benign schwannomas, and the absence of significant locoregional extension further suggested a benign process.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Biopsy and surgical excision of both lesions confirmed the diagnosis of benign schwannomas based on spindle cell morphology, S100 positivity, and a low proliferation index (Ki-67 of 3%).",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Prostate cancer metastasis was excluded due to the unusual location of the lesion and histological findings incompatible with metastatic prostate adenocarcinoma.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> Infectious or inflammatory processes were ruled out based on histological findings and the clinical context.",
+            "hit": true
+        },
+        {
+            "step": "<Step 7> The final diagnosis for both patients was benign thoracic schwannoma, confirmed by histological analysis, with supporting factors including MRI findings, S100 protein positivity, low Ki-67 proliferation index, and exclusion of malignant or metastatic processes.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 1.0
+}

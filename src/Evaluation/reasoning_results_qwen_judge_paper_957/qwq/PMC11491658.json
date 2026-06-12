@@ -1,0 +1,168 @@
+{
+    "raw_case": "\nA rare finding of pulmonary nodules in a middle ear neuroendocrine tumor: a case report and review of the literature\n\n\nAbstract\n\nNeuroendocrine tumors (NETs) are usually found in the gastrointestinal tract and pancreas; however, they are rare in the middle ear. The presentation of vague symptoms, such as tinnitus and conductive hearing loss, complicates the diagnosis. We present a 46-year-old male with a history of right ear discharge and a previous canal wall-down mastoidectomy, suspected to have cholesteatoma recurrence. Imaging and surgery demonstrated a well-differentiated G1 NET in the middle ear. Postoperative metastatic workup revealed few pulmonary nodules needing ongoing observation. Middle-ear NETs are difficult to diagnose due to their rarity. This case underscores the importance of histological and immunohistochemical evaluation and the need for systemic assessment to rule out metastasis due to pulmonary nodules. We contribute to the limited literature highlighting the need to include NETs in the differential of middle ear masses and the usefulness of interdisciplinary teamwork.\n\nIntroduction\n\nNeuroendocrine tumors (NETs) are neoplasms originating from neuroendocrine cells and may develop throughout the body. Despite being common in the gastrointestinal system and pancreas, they are relatively rare in the middle ear [1]. Middle ear NETs are challenging to identify due to their rarity, vague symptoms, and the complex anatomy of temporal bones [2].They often present with conductive hearing loss (CHL), tinnitus, and occasionally, otalgia or otorrhea, which can be mistaken for more prevalent otologic diseases [3, 4]. Their rarity delays diagnosing and understanding their development, behavior, and therapeutic strategies [4].Middle ear NETs lack definitive radiological characteristics that differentiate them from other soft tissue neoplasms in the middle ear. CT scans may reveal a non-specific mass, while MRI may provide extra soft tissue information but lack pathognomonic characteristics [5]. Thus, histopathologic and immunohistochemical investigation of the surgical specimen is necessary for diagnosis [4].Management involves total surgical excision, with a focus on preserving the delicate anatomy of the temporal bone and adjacent structures [4]. Long-term follow-up is required due to the possibility of local recurrence and, rarely, distant metastases [4].This case report aims to shed light on the clinical, radiologic, and pathological aspects of middle ear NETs and highlight their consideration in the differential diagnosis of middle ear masses. We hope to contribute valuable insights to the limited literature on this rare condition by discussing the diagnostic work-up, surgical management, and follow-up.\n\nCase presentation\n\nA 46-year-old male presented with a chief complaint of right ear discharge that persisted for 2 years. He had a significant otologic history of chronic otitis media, which had led to cholesteatoma formation and subsequent canal wall down mastoidectomy in 2014. Examination showed a large mass with a smooth surface extending from the middle ear into the external auditory canal, partially concealing the tympanic membrane. Audiometric evaluation revealed severe CHL in the right ear, accompanied by type B tympanometry.A CT scan of the temporal bones revealed a lesion suggestive of recurrent cholesteatoma (Fig. 1). However, evaluation with preoperative MRI demonstrated a hypervascular lesion in the middle ear extending into the EAC and involving the right epitympanum, making recurrent cholesteatoma less likely (Fig. 2).The patient underwent surgical excision of the lesion, which included cartilage tympanoplasty, meatoplasty, and mastoid reconstruction. The excised mass was round, measuring ~20 mm (Fig. 3).Microscopic examination confirmed a well-differentiated neuroendocrine neoplasm, graded as G1, with minimal mitotic activity (<1 mitosis/2 mm2). Immunohistochemical staining was positive for neuroendocrine markers CD56, synaptophysin, and chromogranin; no necrosis existed (Fig. 4).To exclude the possibility of distant metastasis, CT of the chest, abdomen, and pelvis (CAP) was performed. The scan showed a few small pulmonary nodules, the largest measuring 0.4 cm. The patient was referred to the pulmonology department for further evaluation. The patient will repeat imaging in four months to monitor the nodule (Fig. 5).\n\nDiscussion\n\nThe presence of a NET in the middle ear is an uncommon and complex diagnosis. NETs originate from neuroendocrine cells, which are distributed throughout the body and can potentially develop in various sites, including the middle ear. The diagnosis of NETs in this specific site is made more challenging due to their clinical and radiological mimicry of various common middle ear conditions.The differential diagnosis for a middle ear mass includes benign lesions like cholesteatoma and glomus tumors, as well as malignant neoplasms, such as squamous cell carcinoma, adenomas, and sarcomas. In our case, the MRI revealed a hypervascular appearance of the lesion, which was unusual for cholesteatomas. This finding led us to explore the possibility of neoplastic growth. The diagnosis could only be made following histological and immunohistochemical examination, highlighting the significance of tissue biopsy in unusual cases [5].Saliba and Evrard [6] proposed to classify middle ear gland tumors into three types, namely the Saliba classification: type I is middle ear neuroendocrine adenoma, accounting for 76% of tumors, positive immunohistochemistry, without metastasis; type II is middle ear adenoma, accounting for 20%, immunohistochemical expression is negative, no metastasis; type III tumor only accounts for 4%, is a middle ear carcinoid, with positive immunohistochemical expression and metastatic or carcinoid syndrome.A review of previous published studies provides valuable insights into the treatment approaches and outcomes for middle ear NETs. Marinelli et al. [5] conducted a significant multi-institutional study involving 32 cases of adenomatous NETs of the middle ear. This study, along with others, consistently identifies surgical resection as the primary treatment modality, with the extent of surgery tailored to the tumor’s stage and location [3–5]. The overall prognosis for NETs remains generally favorable, with most cases demonstrating low-grade malignant potential.In our case, the concurrent pulmonary nodules added complexity. Systemic manifestations from middle-ear NETs have rarely been documented. The small size of the nodules raised a diagnostic dilemma—whether they represent metastatic deposits, a synchronous primary malignancy, or a benign entity.Due to the indeterminate size and non-specific characteristics of the pulmonary nodules, it was concluded that radiological surveillance was a suitable course of action. The Fleischner Society guidelines endorse this cautious approach for managing small pulmonary nodules discovered incidentally on CT scans [7]. Follow-up CT scans within a specific time frame aid in assessing any change in the nodules, which might indicate a serious condition.The prognosis and management of middle-ear NETs remain subjects of continuous research because of their rarity. Although total surgical excision is the primary therapeutic approach, the roles of radiation and chemotherapy need to be better defined and evaluated individually for more aggressive characteristics or metastatic disease [3].Long-term surveillance is crucial in managing these patients to observe for local recurrence and identify any potential distant metastasis. This case stresses the importance of attentiveness while evaluating persistent ear complaints, particularly in individuals who have previously experienced middle ear issues.The clinical importance of our findings is that they serve as a reminder that even when dealing with a common diagnosis like cholesteatoma, the possibility of rare neoplastic diseases should be considered. Furthermore, identifying unanticipated findings, such as the pulmonary nodules, should encourage extensive investigation to exclude metastatic disease and guide further actions.\n\nConclusion\n\nThis case report adds to the limited understanding of middle ear NETs and emphasizes the significance of evaluating this diagnosis when encountering unusual manifestations of middle ear masses. It also highlights the importance of interdisciplinary teamwork in handling the intricacies of such circumstances. Additional research is required to have a more comprehensive understanding of the natural progression of middle-ear NETs.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 46-year-old male\n- **Chief Complaint:** Persistent right ear discharge for 2 years\n- **History of Present Illness:** Persistent right ear discharge and a history of chronic otitis media with a previous canal wall-down mastoidectomy in 2014.\n- **Past Medical History:** Chronic otitis media and cholesteatoma\n- **Personal History:** Not provided\n- **Family History:** Not provided\n- **Physical Examination:** Large mass with a smooth surface in the middle ear, extending into the external auditory canal, partially concealing the tympanic membrane.\n- **Ancillary Tests:**\n  - Audiometry: Severe conductive hearing loss in the right ear and type B tympanometry.\n  - CT scan of temporal bone: Suggested recurrent cholesteatoma.\n  - MRI: Hypervascular lesion in the middle ear extending into the external auditory canal, inconsistent with cholesteatoma.\n  - Histopathology: Well-differentiated G1 neuroendocrine tumor (NET) with minimal mitotic activity (<1 mitosis/2 mm²), positive for CD56, synaptophysin, and chromogranin, with no necrosis.\n  - CT of chest, abdomen, and pelvis: A few small pulmonary nodules, the largest measuring 0.4 cm.",
+        "differential_diagnosis": "1. **Initial Considerations:** The initial suspected diagnosis, based on imaging and clinical presentation, was recurrent cholesteatoma. However, the hypervascular lesion observed on MRI was atypical for cholesteatoma, prompting consideration of alternative diagnoses including benign and malignant neoplasms.\n2. **Ruling out Cholesteatoma:** MRI findings did not support cholesteatoma due to the hypervascular characteristics, leading to a focus on neoplastic conditions.\n3. **Considering Middle Ear NET:** Histopathologic examination confirmed a well-differentiated G1 NET through its neuroendocrine marker positivity. This ruled out other potential causes of middle ear masses such as glomus tumors, adenomas, squamous cell carcinoma, and sarcomas.\n4. **Systemic Evaluation for Metastasis:** Given the neuroendocrine tumor diagnosis, a metastatic workup was performed. The discovery of small pulmonary nodules raised a differential of metastatic deposits, a synchronous primary malignancy, or benign lesions.\n5. **Pulmonary Nodule Management:** Given the nodules' indeterminate size and nonspecific nature, routine surveillance (per Fleischner Society guidelines) was deemed most appropriate.",
+        "final_diagnosis": "The patient was diagnosed with a well-differentiated G1 neuroendocrine tumor (NET) of the middle ear. The pulmonary nodules are of uncertain significance, requiring radiological monitoring to evaluate potential metastasis or other pathology.",
+        "diagnosis_results": "Well-differentiated G1 neuroendocrine tumor (NET) of the middle ear with indeterminate pulmonary nodules."
+    },
+    "body_category": [
+        "Ear, Nose and Throat"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-7-27",
+    "checked_rare_disease": [
+        "Neuroendocrine neoplasm"
+    ],
+    "id": "PMC11491658",
+    "results": {
+        "content": "### Reasoning:\n\nStep 1: The patient is a 46-year-old male with a chief complaint of persistent right ear discharge for 2 years. He has a history of chronic otitis media and has undergone a canal wall-down mastoidectomy in 2014. This suggests that he has had longstanding issues with his right ear, specifically related to chronic infection and possibly complications such as cholesteatoma.\n\nStep 2: The physical examination reveals a large mass with a smooth surface in the middle ear, extending into the external auditory canal, partially concealing the tympanic membrane. This finding is concerning and suggests a growth or lesion in the middle ear area.\n\nStep 3: Audiometry shows severe conductive hearing loss in the right ear and type B tympanometry, which indicates a lack of mobility in the middle ear system, consistent with chronic ear pathology.\n\nStep 4: A CT scan of the temporal bone suggests recurrent cholesteatoma, which is a known complication in patients with a history of chronic otitis media and previous surgery for mastoidectomy.\n\nStep 5: However, an MRI shows a hypervascular lesion in the middle ear extending into the external auditory canal, which is inconsistent with cholesteatoma. Cholesteatomas are typically avascular and appear different on MRI.\n\nStep 6: Given the discrepancy between the CT and MRI findings, further investigation is warranted. The presence of a hypervascular lesion suggests a vascular tumor or some other type of neoplasm.\n\nStep 7: Histopathology of the mass reveals a well-differentiated G1 neuroendocrine tumor (NET) with minimal mitotic activity (<1 mitosis/2 mm²), positive for CD56, synaptophysin, and chromogranin, with no necrosis. These markers are characteristic of neuroendocrine tumors.\n\nStep 8: It's important to note that neuroendocrine tumors in the ear are extremely rare. Most NETs occur in the lungs, gastrointestinal tract, and other organs. The presence of a NET in the middle ear is unusual and may require consultation with specialists in ear pathology and endocrine oncology.\n\nStep 9: Additionally, a CT scan of the chest, abdomen, and pelvis reveals a few small pulmonary nodules, the largest measuring 0.4 cm. This could suggest possible metastatic disease, although given the size and number, it may also represent benign nodules.\n\nStep 10: Considering the patient's history, physical examination, imaging studies, and histopathology, the primary diagnosis appears to be a well-differentiated neuroendocrine tumor (NET) in the middle ear, possibly with pulmonary metastases.\n\nStep 11: However, given the rarity of NETs in the middle ear, it is crucial to consider other differential diagnoses, such as paragangliomas, which are also neuroendocrine tumors that can occur in the head and neck region, including the middle ear.\n\nStep 12: Paragangliomas are typically slow-growing, hypervascular tumors that can present with symptoms similar to those of a NET, including a mass in the middle ear and possible hearing loss.\n\nStep 13: Histopathologically, paragangliomas also express neuroendocrine markers such as chromogranin, synaptophysin, and CD56. Therefore, distinguishing between a NET and a paraganglioma may require additional immunohistochemical staining and clinical correlation.\n\nStep 14: Another consideration is that some paragangliomas can secrete peptides, leading to paraneoplastic syndromes, although this is less common in head and neck paragangliomas compared to those in the adrenal glands.\n\nStep 15: Given the patient's history of chronic otitis media and previous surgery, it is possible that the tumor has developed in the setting of chronic inflammation, although a direct causal relationship is not well established.\n\nStep 16: Management of a middle ear NET would likely involve surgical excision, given the location and the need to preserve hearing and facial nerve function. Adjuvant therapy, such as chemotherapy or radiation, may be considered based on the tumor's behavior and the presence of metastases.\n\nStep 17: The pulmonary nodules detected on CT scan need to be evaluated for possible metastases. Given their small size, surveillance with repeat imaging in 3-6 months may be appropriate, depending on the patient's overall condition and the tumor's characteristics.\n\nStep 18: Additionally, given that NETs can secrete hormones or bioactive substances, the patient should be evaluated for any systemic symptoms that may suggest hormonal excess, although in well-differentiated G1 tumors, this is less common.\n\nStep 19: In summary, the patient presents with a rare well-differentiated neuroendocrine tumor in the middle ear, with possible pulmonary metastases. The differential diagnosis includes paraganglioma, and further immunohistochemical analysis may be needed to confirm the tumor type.\n\nStep 20: A multidisciplinary approach, including otolaryngology, endocrinology, and oncology, is recommended for the management of this patient.\n\n### Answer:\n\nWell-differentiated neuroendocrine tumor (NET) of the middle ear with possible pulmonary metastases"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Step 1: The patient is a 46-year-old male with a chief complaint of persistent right ear discharge for 2 years. He has a history of chronic otitis media and has undergone a canal wall-down mastoidectomy in 2014. This suggests that he has had longstanding issues with his right ear, specifically related to chronic infection and possibly complications such as cholesteatoma.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 2: The physical examination reveals a large mass with a smooth surface in the middle ear, extending into the external auditory canal, partially concealing the tympanic membrane. This finding is concerning and suggests a growth or lesion in the middle ear area.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 3: Audiometry shows severe conductive hearing loss in the right ear and type B tympanometry, which indicates a lack of mobility in the middle ear system, consistent with chronic ear pathology.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 4: A CT scan of the temporal bone suggests recurrent cholesteatoma, which is a known complication in patients with a history of chronic otitis media and previous surgery for mastoidectomy.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 5: However, an MRI shows a hypervascular lesion in the middle ear extending into the external auditory canal, which is inconsistent with cholesteatoma. Cholesteatomas are typically avascular and appear different on MRI.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 6: Given the discrepancy between the CT and MRI findings, further investigation is warranted. The presence of a hypervascular lesion suggests a vascular tumor or some other type of neoplasm.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 7: Histopathology of the mass reveals a well-differentiated G1 neuroendocrine tumor (NET) with minimal mitotic activity (<1 mitosis/2 mm²), positive for CD56, synaptophysin, and chromogranin, with no necrosis. These markers are characteristic of neuroendocrine tumors.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 8: It's important to note that neuroendocrine tumors in the ear are extremely rare. Most NETs occur in the lungs, gastrointestinal tract, and other organs. The presence of a NET in the middle ear is unusual and may require consultation with specialists in ear pathology and endocrine oncology.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 9: Additionally, a CT scan of the chest, abdomen, and pelvis reveals a few small pulmonary nodules, the largest measuring 0.4 cm. This could suggest possible metastatic disease, although given the size and number, it may also represent benign nodules.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 10: Considering the patient's history, physical examination, imaging studies, and histopathology, the primary diagnosis appears to be a well-differentiated neuroendocrine tumor (NET) in the middle ear, possibly with pulmonary metastases.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Initial suspected diagnosis was recurrent cholesteatoma based on imaging and clinical presentation, but MRI showed a hypervascular lesion atypical for cholesteatoma, suggesting alternative diagnoses like benign and malignant neoplasms.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> MRI findings excluded cholesteatoma due to hypervascular characteristics, focusing on neoplastic conditions.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Histopathologic examination confirmed a well-differentiated G1 NET through neuroendocrine marker positivity, ruling out glomus tumors, adenomas, squamous cell carcinoma, and sarcomas.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Given the neuroendocrine tumor diagnosis, a metastatic workup was conducted; small pulmonary nodules were identified, raising possibilities of metastatic deposits, synchronous primary malignancy, or benign lesions.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Pulmonary nodules, being indeterminate in size and nonspecific, required routine surveillance according to Fleischner Society guidelines.",
+            "hit": false
+        },
+        {
+            "step": "<Step 6> Final diagnosis: well-differentiated G1 neuroendocrine tumor (NET) of the middle ear.",
+            "hit": true
+        },
+        {
+            "step": "<Step 7> Pulmonary nodules are of uncertain significance, necessitating radiological monitoring to assess potential metastasis or other pathology.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 0.9,
+    "recall": 0.7142857142857143
+}

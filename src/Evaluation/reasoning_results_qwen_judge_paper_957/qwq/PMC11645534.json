@@ -1,0 +1,173 @@
+{
+    "raw_case": "\nCalcific tendinosis of flexor carpi radialis as a cause of wrist pain\n\n\nAbstract\n\nCalcific tendinosis is characterized by the deposition of calcium hydroxyapatite crystals within the substance of the tendon. We present a case of a 52-year-old female who presented with a 6-month history of right wrist pain, along with a palpable and tender lump in the region of the flexor carpi radialis tendon at the level of the distal radius. Radiographs confirmed the presence of calcific tendinosis of the flexor carpi radialis tendon. The patient was referred for hand therapy sessions and was prescribed nonsteroidal anti-inflammatory drugs, which led to a gradual improvement after 4 months. A repeat radiograph confirmed the resolution of the previous calcific focus at the flexor carpi radialis tendon region. This case highlights the importance of considering rare causes of wrist pain such as this case. Various treatment modalities are available, including surgical management, but ultimately, treatment should be within a multidisciplinary team environment.\n\nIntroduction\n\nWrist pain is one of the most common complaints encountered in Orthopedics clinical practice. Calcific tendinosis of flexor carpi radialis represents one of the rarer etiologies of wrist pain [1]. This condition is characterized by the deposition of calcium hydroxyapatite crystals within the tendon, most commonly affecting adults between 30 and 60 years of age [2]. Calcific tendinosis commonly affects joints such as the shoulders, and its occurrence in the wrist is not frequently reported in the literature [1]. This case emphasizes the importance of considering less common pathologies as part of the differential diagnosis for wrist pain and aims to aid the clinician in early recognition and management of this condition.\n\nCase report\n\nThe patient has provided informed consent to participate in this case report. This case concerns a 52-year-old female who presented because of a 6-month history of right wrist pain. The patient denied a history of trauma and noted that pain was worse with activities and was also present at night.The patient had a medical history relevant to hypertension and hyperlipidemia and was allergic to penicillin. Her surgical history was relevant for a left shoulder arthroscopy done in 2018 to remove calcification in the left supraspinatus tendon, causing persistent left shoulder pain. She also had similar symptoms in the right shoulder, which developed in 2021. An X-ray of the right shoulder also confirmed the presence of calcification at the region of the right supraspinatus tendon, but this was not managed surgically.On examination of the right wrist, the patient had a palpable, tender lump in the region of the flexor carpi radialis tendon at the level of the distal radius. There was no associated erythema. Given the pain, the patient had a reduced range of movement during volar flexion of the wrist. There were no abnormalities during a neurovascular examination. Blood investigations were all unremarkable. An X-ray of the right wrist confirmed calcification at the flexor carpi radialis level at the wrist (Fig. 1).The patient was referred for hand therapy sessions and was prescribed non-steroidal anti-inflammatories to alleviate the pain. She was regularly being followed up in the clinic, where her symptoms had drastically improved after 4 months. A repeat X-ray of her right wrist showed that the previous calcific focus at the flexor carpi radialis tendon region had resolved following conservative management (Fig. 2).\n\nDiscussion\n\nCalcific tendinosis of the hand is an uncommon condition, first described by Cohen in 1924 with deposition of calcium at flexor carpi ulnaris insertion following trauma [3]. Thus, the unusual nature of this condition may still lead to underrecognition and misdiagnosis [1].Uhthoff and Loehr [4] have proposed that the progression of calcific tendinopathy consists of three phases: precalcific, calcific, and postcalcific. In the precalcific phase, collagen fibers undergo metaplastic change into fibrocartilage tissue in response to the changes in the metabolic and mechanical conditions of the tendon. The formative, resting, and resorptive stages are different components of the calcific phase. During the formative stage, chondrocytes develop within areas of fibrocartilage formation, resulting in calcified apatite crystals. The calcified area then enters a resting state. However, it commonly progresses to the resorptive stage, characterized by an inflammatory process with the appearance of leukocytes, lymphocytes, and giant cells, which form a “calcium granuloma” [4]. The resorptive stage is the phase that causes most debilitation in patients, as seen typically in the shoulder, where calcium crystals extravasate in the subacromial bursa may cause severe pain and restriction of movement [5]. The calcification then enters the postcalcific phase, where fibroblasts remodel the tendon tissue, and granulation tissue replaces calcium deposits [4, 5]. This cycle is only sometimes followed and may be blocked at any point by different causes. In addition, the relatively poor tendon vascularity may also contribute to the failure of the structure’s self-healing capacity [6].Presentation is typically with chronic pain in the affected joint, but findings may also be incidental. Calcific tendinosis most commonly presents in the shoulder but can also present in areas such as the wrists [1, 7]. Kwiecien et al. [7] reported a case of calcific tendonitis at the proximal myotendinous junction of flexor carpi radialis, diagnosed in a throwing athlete with chronic pain in the forearm. The patient had failed conservative management and underwent surgical excision of the calcified tendon [7]. Kim and Park [8] also reported thirty cases of acute calcium deposition in the hands and wrists, which were all managed with nonsteroidal anti-inflammatories or steroid infiltrations. Thirteen of these patients presented with acute calcific peritendinitis, where flexor carpi ulnaris was affected in 12 cases, and extensor carpi ulnaris was affected in 1 case. The other 17 cases of acute calcific periarthritis mainly affected the metacarpophalangeal and interphalangeal joints. Interestingly, the authors noted that four patients with acute calcific peritendinitis experienced a recurrence of symptoms with the persistence of calcifications on follow-up imaging. In contrast, no patients from the other group experienced further pain [8].Although many cases of calcific tendinosis resolve spontaneously, several remain symptomatic, leading to the theory of halting the natural cycle of resorption of the calcium deposition, as indicated by follow-up imaging showing the persistence of calcification [6]. Several treatment methodologies have been proposed, including conservative management with rest, use of nonsteroidal anti-inflammatory medications, hand therapy, and corticosteroid infiltrations. More invasive options should be considered when conservative management fails to alleviate symptoms. Extracorporeal shock wave therapy has also shown benefits in cases of calcific tendinosis [9]. The proposed mechanism of action is the induction of the early release of angiogenic and proliferating growth factors, which positively influence the neovascularization of the tendon and may aid in reactivating the regeneration potential [10]. Alternatively, surgical excision of the tendon’s calcified section is also proposed [7].In conclusion, this case report sheds light on the rare diagnosis of calcific tendinosis of flexor carpi radialis as a potential cause of wrist pain. Various treatment modalities can be considered, but management should be tailored individually and within a multidisciplinary team comprising the orthopedic surgeon, radiologists, and physical therapist to achieve the best outcome for the patient.\n\nAcknowledgements\n\nWe would like to extend our gratitude to Mater Dei Hospital, Malta, for granting us the opportunity to carry out this case report, enabling us to contribute to medical knowledge while benefiting from the hospital’s facilities, support, and expertise. We have no other disclaimers to declare regarding our article.\n\nConflict of interest statement\n\nNone declared.\n\nFunding\n\nNone declared.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 52-year-old female\n- **Chief Complaint:** 6-month history of right wrist pain\n- **History of Present Illness:** Gradual onset of wrist pain worsening with activities and present at night; associated with a palpable, tender lump over the flexor carpi radialis tendon.\n- **Past Medical History:** Hypertension, hyperlipidemia; history of left shoulder arthroscopy in 2018 for calcific supraspinatus tendonitis; calcification also previously noted in the right supraspinatus tendon (2021) but managed conservatively.\n- **Personal History:** Allergy to penicillin.\n- **Family History:** None.\n- **Physical Examination:** Palpable, tender lump over the flexor carpi radialis tendon at the distal radius; reduced range of motion during volar flexion of the wrist; neurovascular examination normal; no erythema.\n- **Ancillary Tests:** \n  - **Blood tests:** Unremarkable.\n  - **Radiographs:** Calcification detected at the flexor carpi radialis level of the wrist.\n  - **Follow-up Radiographs:** Resolution of calcification after 4 months of conservative management.",
+        "differential_diagnosis": "1. **Initial Differential Diagnosis:**\n   - Given the chronic wrist pain and palpable tender lump, conditions such as tendonitis, tenosynovitis, ganglion cyst, soft tissue tumors, gout, or systemic inflammatory conditions like rheumatoid arthritis were considered.\n   \n2. **Reasons for Excluding Other Diagnoses:**\n   - **Tenosynovitis or tendonitis due to trauma or overuse:** No history of trauma or acute overuse; radiographs specifically showed calcification, differentiating calcific tendinosis from traumatic conditions.\n   - **Ganglion cysts or soft tissue tumors:** Lump consistency and radiographic findings were incompatible with cystic/swelling lesions or masses.\n   - **Gout or systemic inflammatory arthritis:** Blood investigations were unremarkable, ruling out systemic or metabolic causes.\n   - **Septic involvement:** Absence of erythema and systemic signs of infection reduced the likelihood of infectious pathology.\n   \n3. **Confirming Calcific Tendinosis of Flexor Carpi Radialis:**\n   - Radiographs confirmed calcific deposits at the flexor carpi radialis tendon consistent with a diagnosis of calcific tendinosis.\n   - No systemic or infectious signs were present, and the examination findings (localized pain and lump) matched this diagnosis pattern.\n\n4. **Management and Progression:**\n   - Based on the chronic nature of symptoms and prior history of calcification, conservative management with NSAIDs and hand therapy was initiated.\n   - Significant symptom improvement and radiographic resolution of calcification after 4 months confirmed successful conservative treatment.",
+        "final_diagnosis": "Calcific tendinosis of the flexor carpi radialis tendon.",
+        "diagnosis_results": "Calcific tendinosis of the flexor carpi radialis tendon."
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Injuries and Wounds"
+    ],
+    "receive_time": "2024-9-24",
+    "checked_rare_disease": [],
+    "id": "PMC11645534",
+    "results": {
+        "content": "### Reasoning:\nStep 1: **Assessing the Patient's Symptoms**\n\nStart by understanding the chief complaint, which is a 6-month history of right wrist pain that worsens with activities and is present at night. There's also a palpable, tender lump over the flexor carpi radialis tendon. Given the patient's age and the nature of the symptoms, it's essential to consider conditions affecting the tendons and soft tissues around the wrist.\n\nStep 2: **Considering Differential Diagnoses**\n\nGiven the location and characteristics of the lump, possible differential diagnoses include tenosynovitis, ganglion cyst, tumor, or calcific tendinopathy. The patient's history of similar issues in the shoulder suggests a possible pattern of calcific tendinopathy.\n\nStep 3: **Evaluating Past Medical History**\n\nThe patient has a history of hypertension and hyperlipidemia, which are not directly related to the wrist pain but may indicate underlying systemic issues. Additionally, she had left shoulder arthroscopy in 2018 for calcific supraspinatus tendonitis and had calcification in the right supraspinatus tendon in 2021, managed conservatively. This history strongly suggests a propensity for developing calcific tendinopathy in different tendons.\n\nStep 4: **Analyzing the Physical Examination Findings**\n\nThe physical exam reveals a palpable, tender lump over the flexor carpi radialis tendon at the distal radius, with reduced range of motion during volar flexion of the wrist. The neurovascular examination is normal, and there's no erythema, which rules out infection or inflammation.\n\nStep 5: **Interpreting Ancillary Tests**\n\nBlood tests are unremarkable, which is helpful in excluding systemic inflammatory or infectious causes. Radiographs show calcification at the flexor carpi radialis level of the wrist, which correlates with the palpable lump and the patient's symptoms. Follow-up radiographs after 4 months of conservative management show resolution of the calcification, suggesting a natural course of the condition.\n\nStep 6: **Integrating Clinical Presentation and Test Results**\n\nGiven the patient's history of calcific tendonitis in the shoulder and the current presentation of a palpable, painful lump over the flexor carpi radialis tendon with associated calcification on radiographs that resolved over time, the most likely diagnosis is calcific tendinopathy of the flexor carpi radialis tendon.\n\nStep 7: **Considering Alternative Diagnoses**\n\nWhile ganglion cysts are common around the wrist and can present as palpable lumps, they typically do not show calcification on radiographs. Tenosynovitis could cause pain and swelling but usually doesn't present with calcification. Tumors are less likely given the benign course and resolution of the calcification.\n\n### Answer:\n\nCalcific tendinopathy of the flexor carpi radialis tendon"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Step 1: **Assessing the Patient's Symptoms**",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Start by understanding the chief complaint, which is a 6-month history of right wrist pain that worsens with activities and is present at night. There's also a palpable, tender lump over the flexor carpi radialis tendon. Given the patient's age and the nature of the symptoms, it's essential to consider conditions affecting the tendons and soft tissues around the wrist.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 2: **Considering Differential Diagnoses**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Given the location and characteristics of the lump, possible differential diagnoses include tenosynovitis, ganglion cyst, tumor, or calcific tendinopathy. The patient's history of similar issues in the shoulder suggests a possible pattern of calcific tendinopathy.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 3: **Evaluating Past Medical History**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The patient has a history of hypertension and hyperlipidemia, which are not directly related to the wrist pain but may indicate underlying systemic issues. Additionally, she had left shoulder arthroscopy in 2018 for calcific supraspinatus tendonitis and had calcification in the right supraspinatus tendon in 2021, managed conservatively. This history strongly suggests a propensity for developing calcific tendinopathy in different tendons.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 4: **Analyzing the Physical Examination Findings**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The physical exam reveals a palpable, tender lump over the flexor carpi radialis tendon at the distal radius, with reduced range of motion during volar flexion of the wrist. The neurovascular examination is normal, and there's no erythema, which rules out infection or inflammation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 5: **Interpreting Ancillary Tests**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Blood tests are unremarkable, which is helpful in excluding systemic inflammatory or infectious causes. Radiographs show calcification at the flexor carpi radialis level of the wrist, which correlates with the palpable lump and the patient's symptoms. Follow-up radiographs after 4 months of conservative management show resolution of the calcification, suggesting a natural course of the condition.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1 Given chronic wrist pain and a palpable tender lump, conditions such as tendonitis, tenosynovitis, ganglion cyst, soft tissue tumors, gout, or systemic inflammatory conditions like rheumatoid arthritis were considered.",
+            "hit": true
+        },
+        {
+            "step": "Step 2 Tenosynovitis or tendonitis due to trauma or overuse were excluded as there was no history of trauma or acute overuse, and radiographs showed calcification, differentiating calcific tendinosis from traumatic conditions.",
+            "hit": false
+        },
+        {
+            "step": "Step 3 Ganglion cysts or soft tissue tumors were ruled out based on the lump's consistency and radiographic findings incompatible with cystic or swelling lesions.",
+            "hit": false
+        },
+        {
+            "step": "Step 4 Gout or systemic inflammatory arthritis were excluded by unremarkable blood investigations, ruling out systemic or metabolic causes.",
+            "hit": false
+        },
+        {
+            "step": "Step 5 Septic involvement was unlikely given the absence of erythema and systemic signs of infection.",
+            "hit": false
+        },
+        {
+            "step": "Step 6 Radiographs confirmed calcific deposits at the flexor carpi radialis tendon, consistent with a diagnosis of calcific tendinosis.",
+            "hit": false
+        },
+        {
+            "step": "Step 7 No systemic or infectious signs were present, and examination findings (localized pain and lump) matched this diagnosis pattern.",
+            "hit": false
+        },
+        {
+            "step": "Step 8 Conservative management with NSAIDs and hand therapy was initiated due to the chronic nature of symptoms and prior history of calcification.",
+            "hit": false
+        },
+        {
+            "step": "Step 9 Significant symptom improvement and radiographic resolution of calcification after 4 months confirmed successful conservative treatment.",
+            "hit": false
+        },
+        {
+            "step": "Step 10 Final diagnosis: Calcific tendinosis of the flexor carpi radialis tendon.",
+            "hit": false
+        }
+    ],
+    "efficiency": 0.9,
+    "factulity": 1.0,
+    "recall": 0.1
+}

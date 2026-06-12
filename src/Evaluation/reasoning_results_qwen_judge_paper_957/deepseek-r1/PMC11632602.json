@@ -1,0 +1,97 @@
+{
+    "raw_case": "\nA case of peripartum cardiomyopathy in dichorionic diamniotic twin pregnancy\n\n\nABSTRACT\n\nPeripartum cardiomyopathy (PPCM) is an uncommon life-threatening condition that is characterized by heart failure with reduced ejection fraction during late pregnancy or within 5 months of postpartum in the absence of other causes of heart failure. Despite advances in managing PPCM, the pathophysiology of it is still poorly understood. This article reviews the diagnostic challenges and management of PPCM, specifically highlighting a rare presentation of PPCM characterized by oxygen desaturation alone.\n\nINTRODUCTION\n\nCardiac disease is the leading indirect cause of maternal death in the UK and peripartum cardiomyopathy (PPCM) accounts for about 4.9% of it [1]. The mortality rate of PPCM is as high as 50% [2], yet diagnosis is frequently delayed because the symptoms closely mirror those typically experienced during pregnancy and the postpartum period. Early diagnosis and initial treatment are vital to reduce mortality rate and to increase the chance of full recovery.\n\nCASE PRESENTATION\n\nA 23-year-old Caucasian woman, third gravida, nulliparous, at 36 weeks of dichorionic diamniotic twin pregnancy, presented with preterm prolabor rupture of membrane (PPROM). On admission, she was newly diagnosed with pre-eclampsia, sFLT-1/PIGF ratio of 77 (reference range: <38). During antenatal period, her babies' growth was satisfactory. She has no cardiovascular risk factors. An emergency caesarean section was performed due to fetal distress following labor induction, resulting in the delivery of healthy twin infants. Post-operatively, her oxygen saturation decreased to 90-91% on air, however, she denied dyspnea, cough, orthopnea, fever, chest pain and hemoptysis. Clinical examination revealed bilateral basal crackles in the lungs. Serial electrocardiograms (ECG) showed sinus rhythm. Chest X-ray (CXR) revealed pulmonary edema and cardiomegaly. CT pulmonary angiogram ruled out pulmonary embolism. Blood tests conducted the following day revealed troponin levels of 47 ng/L (reference range: <13ng/L) and a B-type natriuretic peptide level of 6965 pg/mL (reference range: <100 pg/mL). The cardiologist advised an urgent echocardiography which showed an ejection fraction of 41% (Figure 1), fractional shortening of 19% and impaired left ventricular diastolic function. Following the diagnosis of PPCM, she was managed by a multidisciplinary team in the cardiac monitoring unit. She was treated with Furosemide 40mg twice daily, Bromocriptine 2.5mg once daily, Ramipril 1.25mg once daily and Spironolactone 12.5mg once daily. A repeated CXR, ECG and echocardiogram reported that patient had improved to baseline. She was counselled about the high recurrence rate of PPCM in subsequent pregnancies and provided long-acting reversible contraception on discharge. Her 4-week follow-up echocardiogram was normal.\n\nDISCUSSION\n\nTypically, women with PPCM exhibit symptoms of congestion such as dyspnea on exertion, orthopnea, paroxysmal nocturnal dyspnea, and lower extremity edema [2]. However, in this case, the diagnosis was made based solely on the presence of oxygen desaturation.PPCM is a dilated cardiomyopathy defined as systolic cardiac failure with left ventricular ejection fraction (LVEF) <45% or fractional shortening <30%, or both in the last month of pregnancy or within five months of delivery. The true incidence is uncertain in the UK and the etiology remains unknown. The mortality rate of PPCM is as high as 50%. The main risk factor is being of black African origin, other risks include pre-eclampsia, advanced maternal age (35+), and multiple pregnancies.The etiology of PPCM is not fully understood, but it has been suggested that factors like dilated cardiomyopathy, cardiovascular stress during pregnancy, and myocarditis may contribute to its development [3]. The recent hypothesis proposes that pregnancy-related vascular stress may trigger heart damage in women with a genetic or biological predisposition, as evidenced by familial clustering of PPCM cases and shared genetic mutations with dilated cardiomyopathy. Additionally, elevated levels of anti-angiogenic “vasoinhibin” prolactin fragments, driven by oxidative stress in the heart, are believed to cause endothelial and cardiomyocyte damage; inhibition of prolactin has shown promise in reducing these effects e.g. Bromocriptine. The anti-angiogenic protein sFlt-1, associated with hypertensive pregnancy disorders, may further contribute to PPCM by compromising vascular integrity and increasing myocardial stress, especially postpartum. Autoantibodies against cardiac proteins are also observed in some PPCM cases, though their direct role in the disease remains uncertain [1].The management of PPCM usually involves conventional treatment for congestive heart failure. Fluid restriction is the mainstay of treatment whilst loop diuretics can be considered to relief symptoms of congestion. The ESC guidelines have also advised anticoagulation in patients with PPCM and LVEF ≤35% and in those who have received Bromocriptine as thromboembolism is a common complication of PPCM. There have been reports of the use of Levosimedan in unresponsive patients [3]. Levosimendan is a calcium sensitizing agent rather than a catecholamine and may thus lead to superior outcomes when used for inotropic support in PPCM.50% of women eventually recover with the normalization of their ejection fraction. Patients would usually be warned about the high risk of relapse in subsequent pregnancies, which persisted long term in 20-50% of women [2].\n\nCONCLUSION\n\nTo reduce mortality and morbidity rates, clinicians should include peripartum cardiomyopathy as a differential diagnosis in peripartum patients presenting with oxygen desaturation, ensuring timely medical intervention.\n\nSource of funding\n\nNil.\n\nConflict of Interest\n\nNone to declare.\n\nWritten Informed Consent\n\nWritten informed consent was obtained from the patient for the publication of this case report.",
+    "generate_case": {
+        "case_summary": "- **Patient Information**: 23-year-old Caucasian woman, third gravida, nulliparous, 36 weeks pregnant with dichorionic diamniotic twins.\n- **Chief Complaint**: Oxygen desaturation (post-operative finding), without respiratory or cardiovascular symptoms.\n- **History of Present Illness**: New diagnosis of pre-eclampsia with a sFlt-1/PIGF ratio of 77 upon admission for preterm prolabor rupture of membranes (PPROM). Underwent emergency caesarean section for fetal distress.\n- **Past Medical History**: None mentioned.\n- **Personal History**: None mentioned.\n- **Family History**: None mentioned.\n- **Physical Examination**: Bilateral basal crackles in the lungs post-operatively.\n- **Ancillary Tests**: \n  - **Electrocardiograms (ECG)**: Sinus rhythm.\n  - **Chest X-Ray (CXR)**: Pulmonary edema and cardiomegaly.\n  - **CT Pulmonary Angiogram**: Ruled out pulmonary embolism.\n  - **Troponin Levels**: Mildly elevated at 47 ng/L (normal <13 ng/L).\n  - **B-type Natriuretic Peptide**: Elevated at 6965 pg/mL (normal <100 pg/mL).\n  - **Echocardiography**: Ejection fraction (EF) of 41%, fractional shortening of 19%, impaired left ventricular diastolic function.",
+        "differential_diagnosis": "1. **Pre-eclampsia Complications**: Pre-eclampsia is a known risk factor for PPCM due to vascular stress. The oxygen desaturation and abnormal imaging findings prompted investigation beyond pre-eclampsia. Elevated sFlt-1 and proteinuria without other causes of acute heart failure increased the possibility of PPCM.\n2. **Pulmonary Embolism (PE)**: PE was considered given oxygen desaturation and pregnancy-associated hypercoagulability. It was ruled out via CT pulmonary angiogram.\n3. **Primary Pulmonary Causes**: Pulmonary conditions like pneumonia or acute respiratory distress syndrome (ARDS) did not align with the clinical presentation (e.g., oxygen desaturation in isolation without fever, cough, or significant symptoms).\n4. **Peripartum Cardiomyopathy (PPCM)**: PPCM became the primary consideration due to the findings of reduced EF (41%), abnormal biomarkers (e.g., elevated BNP, troponin), and compatible imaging (pulmonary edema and cardiomegaly). This diagnosis fits the criteria of heart failure with reduced EF presenting late in pregnancy or postpartum without pre-existing cardiac conditions.\n\nClinical reasoning confirmed PPCM based on a combination of echocardiographic findings (EF < 45%), clinical symptoms (oxygen desaturation), and exclusion of other potential causes of heart failure.",
+        "final_diagnosis": "Peripartum Cardiomyopathy (PPCM) in the setting of dichorionic diamniotic twin pregnancy and pre-eclampsia.",
+        "diagnosis_results": "Peripartum Cardiomyopathy (PPCM)."
+    },
+    "body_category": [],
+    "disorder_category": [
+        "Pregnancy and Reproduction"
+    ],
+    "receive_time": "2024-11",
+    "checked_rare_disease": [
+        "Peripartum cardiomyopathy"
+    ],
+    "id": "PMC11632602",
+    "results": {
+        "thinking_process": "Okay, let's start with this case. The patient is a 23-year-old woman who is 36 weeks pregnant with twins. She had a cesarean section due to fetal distress after being admitted for PPROM and pre-eclampsia. Post-operatively, she's having oxygen desaturation, which was found after surgery. No respiratory or cardiovascular symptoms reported, but on physical exam, there are bilateral basal crackles. Let's look at the tests.\n\nFirst, the elevated sFlt-1/PlGF ratio points to pre-eclampsia. Pre-eclampsia can lead to complications like pulmonary edema, especially postpartum. Then, after the C-section, she has pulmonary edema confirmed by CXR. The CXR also shows cardiomegaly. The CT pulmonary angiogram ruled out PE, so that's out. \n\nHer BNP is super high at 6965, way above normal. High BNP usually indicates heart failure. The troponin is mildly elevated, which could suggest some myocardial injury. The echo shows reduced EF (41%) and impaired diastolic function. All these point towards heart failure.\n\nNow, considering she's postpartum and had pre-eclampsia, peripartum cardiomyopathy (PPCM) comes to mind. PPCM is a form of heart failure that occurs in the last month of pregnancy or shortly after delivery. The reduced ejection fraction, elevated BNP, and pulmonary edema fit with PPCM. Also, multiple pregnancies (twins) are a risk factor for PPCM. \n\nOther possibilities? Pre-eclampsia can cause pulmonary edema due to fluid overload or endothelial damage, but the combination of cardiomegaly, reduced EF, and elevated BNP makes me think more of a cardiomyopathy. The absence of PE on CTPA helps exclude that. Acute heart failure from PPCM seems likely here. The timing (postpartum), echo findings, and BNP levels all align. So the final diagnosis is probably peripartum cardiomyopathy.",
+        "content": "```\n### Resoning:\n<step 1> The patient is a pregnant woman with pre-eclampsia (supported by elevated sFlt-1/PlGF ratio) and underwent emergency cesarean section. Post-operatively, she developed oxygen desaturation and bilateral crackles, suggesting pulmonary congestion.  \n<step 2> Elevated BNP (6965 pg/mL) and troponin (47 ng/L) indicate cardiac strain or myocardial injury. Echocardiography findings (EF 41%, diastolic dysfunction) confirm impaired systolic and diastolic function, consistent with heart failure.  \n<step 3> Pulmonary edema on CXR and absence of pulmonary embolism on CT angiogram exclude thromboembolic causes. Cardiomegaly and elevated BNP further support a cardiac etiology.  \n<step 4> Pre-eclampsia increases the risk of peripartum complications, but the combination of reduced ejection fraction, elevated cardiac biomarkers, and postpartum timing strongly suggests peripartum cardiomyopathy (PPCM). Twin pregnancy is a known risk factor for PPCM.  \n\n### Answer:\nPeripartum cardiomyopathy"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient is a pregnant woman with pre-eclampsia (supported by elevated sFlt-1/PlGF ratio) and underwent emergency cesarean section. Post-operatively, she developed oxygen desaturation and bilateral crackles, suggesting pulmonary congestion.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Elevated BNP (6965 pg/mL) and troponin (47 ng/L) indicate cardiac strain or myocardial injury. Echocardiography findings (EF 41%, diastolic dysfunction) confirm impaired systolic and diastolic function, consistent with heart failure.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Pulmonary edema on CXR and absence of pulmonary embolism on CT angiogram exclude thromboembolic causes. Cardiomegaly and elevated BNP further support a cardiac etiology.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Pre-eclampsia increases the risk of peripartum complications, but the combination of reduced ejection fraction, elevated cardiac biomarkers, and postpartum timing strongly suggests peripartum cardiomyopathy (PPCM). Twin pregnancy is a known risk factor for PPCM.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Pre-eclampsia is a known risk factor for PPCM due to vascular stress; oxygen desaturation and abnormal imaging findings prompted further investigation. Elevated sFlt-1 and proteinuria without other causes of acute heart failure increased the possibility of PPCM.",
+            "hit": false
+        },
+        {
+            "step": "Step 2: PE was considered given oxygen desaturation and pregnancy-associated hypercoagulability, but was ruled out via CT pulmonary angiogram.",
+            "hit": false
+        },
+        {
+            "step": "Step 3: Pulmonary conditions like pneumonia or ARDS did not align with the clinical presentation (e.g., isolated oxygen desaturation without fever, cough, or significant symptoms).",
+            "hit": false
+        },
+        {
+            "step": "Step 4: PPCM became the primary consideration due to reduced EF (41%), elevated BNP and troponin, and compatible imaging (pulmonary edema and cardiomegaly); this diagnosis fits the criteria of heart failure with reduced EF presenting late in pregnancy or postpartum without pre-existing cardiac conditions.",
+            "hit": true
+        },
+        {
+            "step": "Step 5: Clinical reasoning confirmed PPCM based on echocardiographic findings (EF < 45%), clinical symptoms (oxygen desaturation), and exclusion of other potential causes of heart failure.",
+            "hit": true
+        },
+        {
+            "step": "Final Diagnosis: Peripartum Cardiomyopathy (PPCM) in the setting of dichorionic diamniotic twin pregnancy and pre-eclampsia.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.5
+}

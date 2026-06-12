@@ -1,0 +1,106 @@
+{
+    "raw_case": "\nParadoxical Tuberculosis Immune Reconstitution Inflammatory Syndrome Complicated by Large Bilateral Psoas Abscess: A Case Report\nImmune reconstitution inflammatory syndrome is a common manifestation in human immunodeficiency virus (HIV)-positive patients infected with tuberculosis (TB). One of the unusual complications of this condition is the development of psoas abscess. We describe a case of immune reconstitution inflammatory syndrome (IRIS) in a patient with disseminated TB under treatment, HIV-positive with a low CD4 cell count, complicated by bilateral psoas abscess. Our patient presented with fever, abdominal pain, and lymphadenopathy, typical symptoms of TB-IRIS. Diagnosis was confirmed by surgical drainage of the abscess of the right iliac psoas muscle with detection of acid-fast bacteria on Ziehl-Neelsen staining and negative culture of purulent discharge. Treatment with prednisone was started in addition to continuation of antituberculosis therapy and antiretroviral therapy.\n\nIntroduction\n\nParadoxical immune reconstitution inflammatory syndrome associated with tuberculosis (Paradoxical TB-IRIS) consists of worsening TB symptoms and signs despite a favorable response to antituberculosis therapy (ATT) prior to antiretroviral therapy (ART). Paradoxical TB-IRIS usually presents in the first 1 to 8 weeks after ART initiation; however, in this case, we see a late presentation after 3 months.1-4 Development of bilateral psoas abscess in our patient is a rare manifestation of paradoxical TB-IRIS with few reported cases.\n5\n\n\nCase Presentation\n\nA 33-year-old male on ATT and antiretroviral therapy presented to the emergency department at Hospital Nacional Dos de Mayo, in Peru, with a 2 week history of nonradiating stabbing pain, in the right hip greater than the left, that limited walking, after a low-impact bicycle accident; and fever.Four months prior to admission, he presented with respiratory symptoms and was found to have a CD4 count of 96 cells/mm3 and HIV viral load of 2.878.385 million copies/mL of plasma. He was diagnosed with sensitive disseminated tuberculosis (positive Ogawa culture for Mycobacterium tuberculosis in feces and sputum samples with rifampicin and isoniazid sensitivity on the line probe assay Genotype MTBDRplus). He started ATT with rifampin, isoniazid, ethambutol, and pyrazinamide; and received cotrimoxazole for prophylaxis. Four weeks later he started ART with tenofovir disoproxil fumarate (TDF), emtricitabine, and efavirenz. ART was changed to TDF, emtricitabine, lopinavir, and ritonavir; and the dose of lopinavir/ritonavir was doubled 2 months prior to admission. At that time, HIV viral load had dropped to 1 million.On physical examination, the abdomen was distended with diffuse dullness to percussion and intense pain with abduction and extension of the right leg; and decreased muscle strength. Laboratory test results are shown in Table 1. The clinical presentation, and the medical history of the patient, raised suspicion of an infectious process.The patient initiated treatment with vancomycin and ceftriaxone. Blood cultures and image studies were requested. One week after admission, the requested contrast-enhanced abdominal computed tomography showed multiple enlarged nodes in the gastric, mesenteric, and periaortic regions with hypodense centers and collections were observed over both psoas muscles (Figure 1).The patient received vancomycin and ceftriaxone for 10 days. However, as the pain and fever continued, combined with abdominal pain in the right iliac region, it was decided to change antibiotics to metronidazole and ceftriaxone to cover an intra-abdominal infection. Corticoids were also administrated.The patient underwent surgical drainage of the abscess of the right iliac psoas muscle, 350 cc of purulent secretion was obtained (Figure 2) and a Jackson-Pratt drain was placed. In the Gram stain of the purulent material, no microorganisms were detected. Bacilloscopy and culture on Ogawa medium were performed to verify the presence of M. tuberculosis. The bacilloscopy samples were positive for acid-fast bacteria on Ziehl-Neelsen stain (Table 1).Jackson-Pratt drain and antibiotics metronidazole and ceftriaxone were removed 5 days after surgery. Some days later, the patient was discharged due to clinical improvement, and continued ATT and ART with prednisone. HIV viral load was undetectable and CD4 count was 531 cell/mm3 1 month after the current disease. The abdominal abscess culture on Ogawa medium for tuberculosis was negative after 2 months (Table 1).\n\nDiscussion\n\nThe main risk factors for paradoxical TB-IRIS are low CD4 cell count at ART initiation (<100 cells/mm3), high HIV viral load prior to ART (>100,000 copies/mL) and disseminated or extra-pulmonary TB before ART1-7; all present in our patient. The incidence of paradoxical TB-IRIS in adult HIV-positive patients is 18% and the mortality attributable to paradoxical TB-IRIS is 2%.\n5\n In severe paradoxical TB-IRIS, the first-line treatment is the use of corticosteroids, and it is the only therapeutic intervention so far supported by a randomized clinical trial.\n8\n The patient was prescribed prednisone.Antiretroviral therapy should not be interrupted in patients with IRIS; except in life-threatening cases.1,4 Additionally, the risks of discontinuing ART include the acquisition of new opportunistic infections, recurrence of IRIS when treatment is restarted later, and the emergence of ART resistance.3,4Our patient had disseminated tuberculosis under treatment. Positive smears for acid-fast bacteria on Ziehl-Neelsen stain, negative culture on Ogawa medium and improvement of the patient without the need for change of TB treatment regimen or treatment for other mycobacteria suggests the presence of nonviable M. tuberculosis in the smears and efficacy of anti-TB treatment. Also, it is important to remember that despite the severe inflammation typical of TB-IRIS, the paucity or absence of viable M. tuberculosis is characteristic of this presentation.3,7 This explains the cause of the bilateral psoas abscess in our patient.On the other hand, psoas muscle is very prone to primary and secondary infections due to its large blood and lymphatic supply and its proximity to retroperitoneal structures. Treatment of psoas abscesses includes intravenous antibiotics and percutaneous or open surgical drainage, depending on the patient's condition and available materials.\n9\n In this case, surgical drainage was performed due to the retroperitoneal location of the right psoas abscess.The presence of an inflammatory condition after recent initiation of antiretroviral therapy and worsening of previously diagnosed and on treatment TB (psoas abscess with acid-fast bacteria); the lack of another infectious process or undiagnosed multidrug-resistant TB, proven by negative blood cultures and negative culture on Ogawa medium; and the absence of conditions that reduce the efficacy of anti-TB drugs in the patient (poor compliance, drug malabsorption, and drugs side effects) confirm the diagnosis of paradoxical TB-IRIS.1-7\n\nConclusion\n\nWe describe the first reported case of psoas abscess as a complication of TB-IRIS in Peru. The case described demonstrates the need for careful management and ongoing assessment of patients receiving ART, especially if an opportunistic infection such as M. tuberculosis is also present. This case reinforces the use of corticosteroids as first-line treatment for severe TB-IRIS.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 33-year-old male.  \n- **Chief Complaint:** Fever and abdominal pain with hip pain.  \n- **History of Present Illness:** The patient presented with a 2-week history of nonradiating stabbing pain in the right hip greater than the left, fever, and abdominal pain. Four months prior, he was diagnosed with sensitive disseminated tuberculosis and HIV with a CD4 count of 96 cells/mm³ and high viral load. Antituberculosis therapy (ATT) and antiretroviral therapy (ART) were initiated. A low-impact bicycle accident occurred before his current complaints.  \n- **Past Medical History:** HIV diagnosed with a CD4 count of 96 cells/mm³ and viral load of 2.878.385 million copies/mL. Sensitive disseminated tuberculosis diagnosed with positive feces and sputum cultures. Treated with ATT and ART.  \n- **Personal History:** None provided.  \n- **Family History:** None provided.  \n- **Physical Examination:** Distended abdomen with diffuse dullness, intense pain with right leg abduction and extension, decreased muscle strength.  \n- **Ancillary Tests:**  \n  - Gram stain of surgical drainage negative for microorganisms but Ziehl-Neelsen stain positive for acid-fast bacteria.  \n  - Abdominal CT: Enlarged nodes and bilateral collections over psoas muscles.  \n  - Culture of abscess fluid on Ogawa medium negative for tuberculosis.  \n  - Blood cultures: Negative.",
+        "differential_diagnosis": "- **Initial Steps:** The patient presented with ongoing symptoms of fever, abdominal pain, and hip pain. These raised suspicions of an infectious complication, particularly tuberculosis (given his medical history of TB and low CD4 count). Differential diagnoses included psoas abscess secondary to TB-IRIS, drug-resistant TB, or another concurrent infection.  \n- **Rationale and Exclusions:**  \n  - **Multidrug-resistant TB:** Considered, but negative results from culture on Ogawa medium and absence of other resistance markers ruled this out.  \n  - **Secondary Infections (e.g., bacterial abscess):** Blood cultures and fluid Gram stain were negative, and no other focus identified. Excluded.  \n  - **Paradoxical TB-IRIS with Psoas Abscess:** Confirmed by the temporal association with ART initiation, deteriorating symptoms in treated TB, presence of acid-fast bacilli in smear (representing nonviable M. tuberculosis), and exclusion of other causes of abscess.",
+        "final_diagnosis": "Paradoxical tuberculosis immune reconstitution inflammatory syndrome (TB-IRIS) complicated by large bilateral psoas abscesses. This was determined based on worsening TB-related symptoms post-ART initiation, presence of acid-fast bacteria without viable M. tuberculosis, CT findings of abscesses, and exclusion of other infectious or drug-resistant conditions.",
+        "diagnosis_results": "Paradoxical tuberculosis immune reconstitution inflammatory syndrome (TB-IRIS) with bilateral psoas abscess."
+    },
+    "body_category": [
+        "Immune System"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-7-6",
+    "checked_rare_disease": [
+        "Tuberculosis"
+    ],
+    "id": "PMC11520005",
+    "results": {
+        "thinking_process": "Okay, let's start by looking at the patient's background. He's a 33-year-old male with HIV and disseminated tuberculosis. His CD4 count is 96, which is pretty low, so his immune system is compromised. That makes him susceptible to opportunistic infections.\n\nHe's been on both antiretroviral therapy (ART) and antituberculosis therapy (ATT) for four months. Now he's presenting with a 2-week history of fever, abdominal pain, and hip pain that's worse on the right. There's also a history of a low-impact bicycle accident before these symptoms started. \n\nThe hip pain is stabbing and non-radiating. Physical exam shows a distended abdomen with diffuse dullness, which might suggest ascites or some intra-abdominal fluid collection. He has intense pain with right leg abduction and extension, which makes me think about psoas involvement. Decreased muscle strength could be due to pain or nerve compression.\n\nLooking at the tests: the abdominal CT shows enlarged nodes and bilateral psoas muscle collections. The Gram stain was negative, but Ziehl-Neelsen stain was positive for acid-fast bacilli (AFB). However, the culture on Ogawa medium was negative for TB. Blood cultures are also negative. \n\nWait, the AFB stain is positive but the culture is negative. That's a bit confusing. But considering he's been on ATT for four months, maybe the treatment has reduced the viability of the TB bacteria, making them not grow in culture. So the AFB seen could still be Mycobacterium tuberculosis despite the negative culture. \n\nHe had a bike accident, which might have caused trauma leading to a hematoma or muscle injury, but given his immunocompromised state and existing TB, it's more likely related to an infection. The psoas abscesses are a classic sign of tuberculosis, especially in HIV patients. The bilateral collections over the psoas muscles on CT align with disseminated TB. \n\nOther possibilities could include pyogenic abscesses, but the negative Gram stain and cultures don't support that. The positive AFB stain points towards mycobacteria. Even though the culture was negative, the clinical context and imaging findings make TB the most likely culprit. \n\nHis disseminated TB was already diagnosed, so this might be a progression or complications despite ATT. Maybe there's drug resistance? But the TB was labeled as sensitive. However, treatment failure could occur in immunocompromised patients. Alternatively, the accident might have caused some disruption, allowing the TB to form abscesses. \n\nIn HIV patients with low CD4, extrapulmonary TB is common. Psoas abscesses and abdominal involvement fit here. The fever and abdominal pain are consistent with ongoing TB infection. The negative blood cultures and other cultures (except AFB stain) might be due to prior antibiotics or the nature of the infection. \n\nSo putting it all together: the patient has a history of disseminated TB, now presenting with psoas abscesses confirmed by imaging, AFB positive drainage, and clinical signs. Despite negative cultures, the most probable diagnosis is tuberculous psoas abscesses complicating his existing disseminated TB. The HIV and low CD4 count further support this as an opportunistic infection.\n",
+        "content": "\n\n```\n### Resoning:\n<step 1> The patient is immunocompromised (HIV with CD4 96 cells/mm³) and has a history of disseminated tuberculosis, increasing his risk for opportunistic infections or complications of existing TB.  \n<step 2> Fever, abdominal pain, and hip pain with imaging showing bilateral psoas collections suggest an infectious process. Psoas abscesses are classically associated with tuberculosis in endemic regions or immunocompromised hosts.  \n<step 3> Surgical drainage fluid was negative on Gram stain but positive for acid-fast bacteria (AFB) via Ziehl-Neelsen stain. This strongly supports mycobacterial infection, likely Mycobacterium tuberculosis, despite the negative Ogawa culture (possibly due to prior ATT reducing bacterial viability).  \n<step 4> Abdominal CT findings of enlarged nodes and psoas collections align with disseminated TB. The absence of growth in blood cultures and lack of response to non-TB antibiotics further narrows the diagnosis.  \n<step 5> The recent bicycle accident may have caused minor trauma, but the clinical and laboratory evidence overwhelmingly points to a TB-related complication rather than a traumatic injury or bacterial abscess.  \n\n### Answer:\nTuberculous psoas abscess complicating disseminated tuberculosis."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient is immunocompromised (HIV with CD4 96 cells/mm³) and has a history of disseminated tuberculosis, increasing his risk for opportunistic infections or complications of existing TB.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Fever, abdominal pain, and hip pain with imaging showing bilateral psoas collections suggest an infectious process. Psoas abscesses are classically associated with tuberculosis in endemic regions or immunocompromised hosts.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Surgical drainage fluid was negative on Gram stain but positive for acid-fast bacteria (AFB) via Ziehl-Neelsen stain. This strongly supports mycobacterial infection, likely Mycobacterium tuberculosis, despite the negative Ogawa culture (possibly due to prior ATT reducing bacterial viability).",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Abdominal CT findings of enlarged nodes and psoas collections align with disseminated TB. The absence of growth in blood cultures and lack of response to non-TB antibiotics further narrows the diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The recent bicycle accident may have caused minor trauma, but the clinical and laboratory evidence overwhelmingly points to a TB-related complication rather than a traumatic injury or bacterial abscess.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "The patient presented with ongoing symptoms of fever, abdominal pain, and hip pain, raising suspicion of an infectious complication, particularly tuberculosis given his medical history and low CD4 count. Differential diagnoses included psoas abscess secondary to TB-IRIS, drug-resistant TB, or another concurrent infection.",
+            "hit": true
+        },
+        {
+            "step": "Multidrug-resistant TB was considered but ruled out due to negative culture results on Ogawa medium and absence of other resistance markers.",
+            "hit": false
+        },
+        {
+            "step": "Secondary infections such as bacterial abscess were excluded based on negative blood cultures, fluid Gram stain, and lack of other foci.",
+            "hit": false
+        },
+        {
+            "step": "Paradoxical TB-IRIS with psoas abscess was confirmed by the temporal association with ART initiation, worsening TB-related symptoms, presence of acid-fast bacilli in smear (indicating nonviable M. tuberculosis), and exclusion of other causes of abscess.",
+            "hit": true
+        },
+        {
+            "step": "Final diagnosis: Paradoxical tuberculosis immune reconstitution inflammatory syndrome (TB-IRIS) complicated by large bilateral psoas abscesses.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 0.8,
+    "recall": 0.6
+}

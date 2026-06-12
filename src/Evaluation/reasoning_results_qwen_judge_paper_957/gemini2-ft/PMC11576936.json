@@ -1,0 +1,114 @@
+{
+    "raw_case": "\nThe subtle scaphoid fracture in childhood: A case report with literature insights\nWe describe a 9-year-old male who suffered a linear, non-displaced scaphoid fracture following a pedestrian motor vehicle accident. Initially, X-ray imaging failed to detect the fracture, but MRI confirmed the diagnosis, highlighting the challenges in identifying scaphoid fractures in pediatric patients due to the bone's cartilaginous nature in this age group. The patient was treated with immobilization using a Plaster of Paris cast, consistent with standard management for non-displaced fractures in children. He experienced pain improvement and achieved bone union after eight weeks, returning to normal activities without complications. The discussion emphasizes the rarity of scaphoid fractures in children under 10 and underscores the increasing incidence of such injuries in pediatric populations due to sports participation. A comparative analysis of similar cases in children of different ages is included, demonstrating variations in fracture types, treatment approaches, and outcomes, providing valuableinsights into the management of pediatric scaphoid fractures.\n\nIntroduction\n\nCarpal fractures are more common in adults, with scaphoid fractures being the most well-known. However, due to the early participation of children in high-contact sports, the incidence of scaphoid waist fractures is rising among this younger population [1,2].Scaphoid fractures are very rare fractures in childhood, it makes about 3% of fractures of hand and wrist, and they are more common in male because male engage in high-impact activities and delayed growth and ossification process exposes scaphoid to injury [3,4].Scaphoid waist fractures are most frequently observed in skeletally immature children aged 12 to 15, as this period coincides with the ossification of the scaphoid bone [5]. The unique anatomy and vascular supply of the scaphoid make these fractures particularly challenging to diagnose, even for experts. However, in children under 10 years old, these fractures are rare because the scaphoid bone is primarily cartilaginous at this stage and has not yet fully ossified [6].In this case, a 9-year-old patient was suspected of having a scaphoid fracture based on the clinical presentation, leading to difficulties and delays in diagnosis.\n\nCase presentation\n\nA 9-year-old male was admitted after being struck by a car in a pedestrian motor vehicle accident (MVC). He was hit from the side, causing him to fall and slide on the right side of his body.Upon arrival at the emergency department, the patient was conscious, alert, and oriented with a Glasgow Coma Scale (GCS) score of 15/15. And the patient was stable after primary and secondary survey. The patient was complaining of right wrist pain. Examination of the right wrist showed mild swelling over the lateral aspect of the wrist and tenderness over the anatomical snuffbox, though no deformity was noted. A right wrist X-ray did not reveal any fractures (Fig. 1, Fig. 2).Given the mechanism of injury and the patient's localized wrist pain, further evaluation was warranted. An orthopedic consultation was obtained, and an MRI of the right wrist showed findings consistent with a linear non displaced scaphoid fracture (Fig. 3, Fig. 4). A Plaster of Paris cast was applied for immobilization.During the hospital stay, the patient's vital signs remained stable, and his pain improved following analgesia and application of the cast. He was re-evaluated and was in good condition and discharged home with the cast in place. Follow-up was arranged to monitor the scaphoid fracture.\n\nDiscussion\n\nA scaphoid fracture is one of the most common wrist fractures in the pediatric population [7]. According to a retrospective analysis by Ahmed I et al., the annual incidence of scaphoid fractures is estimated to be 11 per 100,000. The most affected age group is between 12 and 15 years, while boys under 10 years old are rarely affected [5]. However, the incidence of scaphoid fractures in pediatric patients is increasing due to greater participation in sports, demographic shifts, and advancements in diagnostic and treatment methods [8].The ossification of the first metacarpal bone occurs simultaneously with that of the scaphoid, making it a potential marker for scaphoid maturity. The ossification of the scaphoid progresses in a distal-to-proximal direction, beginning around 5 to 6 years of age and completing by approximately 15 years and 3 months in boys, and 13 years and 4 months in girls [9]. During this period, the scaphoid remains largely cartilaginous, which not only reduces the likelihood of fractures but also complicates the diagnostic process in children [6].This makes diagnosis with X-ray very difficult in this pediatric group, explaining the high incidence of missed scaphoid fractures, especially when associated with concurrent wrist or elbow injuries [6]. Hence, MRI is the preferred diagnostic modality in this age group, with a negative predictive value reaching 100% [10]. Although this primarily applies to the 12-15 year age group, as they are the most affected, literature regarding children under 10 years of age remains scarce [6]. This aligns with findings in the current case, where the initial wrist X-ray failed to reveal a fracture, a common occurrence. MRI, being the most sensitive tool for detecting scaphoid fractures, becomes crucial when clinical suspicion persists despite normal X-ray results.The treatment of pediatric scaphoid fractures typically involves immobilization, with surgery being rare and generally reserved for cases of nonunion or displaced fractures [11]. In this case, the patient was treated conservatively with immobilization using a Plaster of Paris cast, which is consistent with standard treatment protocols for nondisplaced scaphoid fractures in children. Studies show that pediatric patients generally have a good prognosis with conservative management due to their high healing potential, and complications such as nonunion or avascular necrosis are uncommon [7,11].We conducted a comprehensive review of multiple pediatric scaphoid fracture cases, presented in a comparative table that highlights variations in fracture types, treatment approaches, and clinical outcomes. This detailed comparison provides a deeper understanding of the effectiveness of different treatment modalities and the potential complications associated with scaphoid fractures in children. The table serves as a valuable reference, offering insights into the diverse presentations and management strategies for this injury in the pediatric population (see Table 1).\n\nPatient consent\n\n\n(1)Ethics approval Our institution does not require ethical approval for reporting individual cases or case series.(2)Written informed consent was obtained from the patient Parents for their anonymized information to be published in this article\n",
+    "generate_case": {
+        "case_summary": "- **Patient Information**: 9-year-old male.\n- **Chief Complaint**: Right wrist pain.\n- **History of Present Illness**: The patient presented after being struck by a car in a pedestrian motor vehicle accident. He fell and slid on the right side of his body, leading to localized wrist pain.\n- **Past Medical History**: None.\n- **Personal History**: None provided.\n- **Family History**: None provided.\n- **Physical Examination**: Mild swelling over the lateral aspect of the right wrist and tenderness over the anatomical snuffbox. No deformity observed.\n- **Ancillary Tests**: Initial X-rays of the right wrist were unremarkable for fractures. MRI revealed a linear, non-displaced scaphoid fracture.",
+        "differential_diagnosis": "1. **Initial Consideration**: The patient’s chief complaint of wrist pain, combined with the localized tenderness over the anatomical snuffbox and history of trauma (fall after motor vehicle accident), raised suspicion of a scaphoid fracture.\n2. **Rule Out Other Potential Diagnoses**:\n   - **Wrist Sprain**: Excluded based on MRI findings, which confirmed a scaphoid fracture.\n   - **Other Carpal Bone Fractures**: No evidence of fractures in other wrist bones was identified on MRI.\n   - **Distal Radial Fracture**: Excluded based on the absence of findings on imaging.\n3. **Diagnostic Confirmation**: MRI was critical in confirming a scaphoid fracture, as the patient’s symptoms and physical exam findings were highly suggestive despite an initial negative X-ray. This aligns with the known limitations of X-rays in identifying scaphoid fractures, particularly in pediatric patients under 10 with cartilaginous bone.",
+        "final_diagnosis": "Linear, non-displaced scaphoid fracture in the right wrist.",
+        "diagnosis_results": "Non-displaced scaphoid fracture."
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Injuries and Wounds"
+    ],
+    "receive_time": "2024-9-25",
+    "checked_rare_disease": [],
+    "id": "PMC11576936",
+    "results": {
+        "content": "### Resoning:\n<step 1> **Patient Demographics and Chief Complaint Review**: The patient is a 9-year-old male presenting with right wrist pain. This age group is active and prone to injuries, and wrist pain following trauma is a common presentation in pediatric orthopedics.\n\n<step 2> **Mechanism of Injury Analysis**: The patient was struck by a car and fell, landing on his right side. This is a significant mechanism of injury, capable of causing various musculoskeletal injuries, including wrist fractures. The fall and slide on the right side directly correlate with the localized right wrist pain.\n\n<step 3> **Physical Examination Findings Interpretation**:  The physical exam reveals mild swelling and tenderness over the anatomical snuffbox. Tenderness in the anatomical snuffbox is a highly specific clinical sign suggestive of a scaphoid fracture. The absence of deformity initially may suggest a non-displaced fracture or a less severe injury, but tenderness in this area is a strong indicator to investigate further for scaphoid pathology.\n\n<step 4> **Initial X-ray Result Consideration**: The initial X-rays being unremarkable for fractures is not uncommon in scaphoid fractures, especially in non-displaced or hairline fractures, particularly in the acute setting. Scaphoid fractures can be difficult to visualize on initial radiographs, and sometimes repeat X-rays or advanced imaging are needed. A negative X-ray does not rule out a scaphoid fracture, especially with the clinical presentation.\n\n<step 5> **MRI Result as Definitive Diagnostic Evidence**: The MRI revealed a linear, non-displaced scaphoid fracture. MRI is highly sensitive for detecting bone marrow edema and fractures, including occult fractures not visible on initial radiographs. The MRI finding definitively confirms the diagnosis of a scaphoid fracture and specifies it as linear and non-displaced.\n\n<step 6> **Final Diagnosis Consolidation**: Combining the history of trauma, physical examination findings (anatomical snuffbox tenderness), and the definitive MRI result, the final diagnosis is a non-displaced scaphoid fracture of the right wrist. The initial negative X-ray is explained by the subtle nature of non-displaced scaphoid fractures, highlighting the importance of clinical suspicion and advanced imaging when indicated.\n\n### Answer:\nNon-displaced scaphoid fracture of the right wrist"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Patient Demographics and Chief Complaint Review**: The patient is a 9-year-old male presenting with right wrist pain. This age group is active and prone to injuries, and wrist pain following trauma is a common presentation in pediatric orthopedics.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Mechanism of Injury Analysis**: The patient was struck by a car and fell, landing on his right side. This is a significant mechanism of injury, capable of causing various musculoskeletal injuries, including wrist fractures. The fall and slide on the right side directly correlate with the localized right wrist pain.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Physical Examination Findings Interpretation**:  The physical exam reveals mild swelling and tenderness over the anatomical snuffbox. Tenderness in the anatomical snuffbox is a highly specific clinical sign suggestive of a scaphoid fracture. The absence of deformity initially may suggest a non-displaced fracture or a less severe injury, but tenderness in this area is a strong indicator to investigate further for scaphoid pathology.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Initial X-ray Result Consideration**: The initial X-rays being unremarkable for fractures is not uncommon in scaphoid fractures, especially in non-displaced or hairline fractures, particularly in the acute setting. Scaphoid fractures can be difficult to visualize on initial radiographs, and sometimes repeat X-rays or advanced imaging are needed. A negative X-ray does not rule out a scaphoid fracture, especially with the clinical presentation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**MRI Result as Definitive Diagnostic Evidence**: The MRI revealed a linear, non-displaced scaphoid fracture. MRI is highly sensitive for detecting bone marrow edema and fractures, including occult fractures not visible on initial radiographs. The MRI finding definitively confirms the diagnosis of a scaphoid fracture and specifies it as linear and non-displaced.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Final Diagnosis Consolidation**: Combining the history of trauma, physical examination findings (anatomical snuffbox tenderness), and the definitive MRI result, the final diagnosis is a non-displaced scaphoid fracture of the right wrist. The initial negative X-ray is explained by the subtle nature of non-displaced scaphoid fractures, highlighting the importance of clinical suspicion and advanced imaging when indicated.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> The patient's chief complaint of wrist pain, localized tenderness over the anatomical snuffbox, and history of trauma (fall after motor vehicle accident) raised suspicion of a scaphoid fracture.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> MRI confirmed a scaphoid fracture, ruling out wrist sprain, other carpal bone fractures, and distal radial fracture.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> MRI was critical in confirming the scaphoid fracture, as the patient’s symptoms and physical exam findings were highly suggestive despite an initial negative X-ray.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> The limitations of X-rays in identifying scaphoid fractures, especially in pediatric patients under 10 with cartilaginous bone, were considered.",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> Final diagnosis: Linear, non-displaced scaphoid fracture in the right wrist.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.6
+}

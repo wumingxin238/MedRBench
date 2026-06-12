@@ -1,0 +1,121 @@
+{
+    "raw_case": "\nCase report illustrating evolution of an intraosseous lipoma: Radiology findings and differentials\nA 21 year old female patient presented with mild left ankle pain for 2 months. Left ankle radiograph was performed, showing a lucent lesion with narrow zone of transition at anterior body of the calcaneus. Further evaluation with MRI showed T1 hypointense and T2 hyperintense signals within said lesion, with fluid-fluid level. The working diagnosis was aneurysmal bone cyst. Follow-up MRI performed 3 years later showed predominant macroscopic fat within the lesion. This case demonstrates composition change of intraosseous lipoma over time.\n\nIntroduction\n\nCalcaneal lucent lesions with narrow zone of transition are often incidentally encountered. Differential diagnoses include intraosseous lipoma, simple bone cyst, giant cell tumor, and aneurysmal bone cyst. MRI can often narrow down the list of different diagnoses.This case demonstrates an intraosseous lipoma with very different signal characteristics across 2 MRI studies that are 3 years apart.\n\nCase report\n\nA 21 year old female university student presented with mild left ankle pain for 2 months. She had no history of trauma or sprain injury. Clinical examination did not reveal any bruise of hematoma. Range of motion was full.A set of left ankle radiographs were done, lateral film showed a 2.7 × 2.0 cm lucent lesion with narrow zone of transition at the anterior body of calcaneus. There was no pathological fracture or intralesional fallen fragment (Fig. 1).MRI demonstrated an anterior calcaneal lesion with predominant central T2 hyperintense signal with sedimentation and fluid-fluid level, as well as small eccentric T1 hyperintense, mildly T2 hyperintense component over its inferomedial aspect. No significant perilesional marrow edema, cortical destruction or periosteal reaction detected in the calcaneus (Fig. 2). Overall features were in favor of nonaggressive lesion, such as aneurysmal bone cyst. Though the lesion did not appear expansile, the provisional diagnosis of aneurysmal bone cyst was compatible with the patient's age (21 years old), location of the lesion and MRI characteristic of fluid-fluid level. Giant cell tumor was considered less likely as sclerotic rim was present. The possibility of intraosseous lipoma was also considered due to presence of macroscopic fat.MRI findings and differential diagnoses were explained to the patient. Biopsy was offered to the patient but she opted for observation and imaging follow-up.Serial radiographs were subsequently done in 6-month to 1-year intervals. The calcaneal lesion had remained stable in size and appearance (Fig. 3).A follow-up MRI study was performed 3 years after the index MRI study.The lesion's internal composition had changed, this time showing homogenous T1 hyperintense signal, which was completely nulled on fat suppressed sequences, suggestive of macroscopic fat. Two small residual subcentimetre cystic areas were seen. Thin rim of T1 and T2 hypointense signal surrounding the lesion correspond to sclerotic rim seen on radiograph.No fluid-fluid level was seen within the lesion. No significant perilesional marrow edema or extraosseous soft tissue component identified.Overall findings were in favor of an intraosseous lipoma (Fig. 4).Patient had graduated from university and was later keen on having a biopsy to confirm the diagnosis. A CT was performed on the day of the biopsy which showed macroscopic fat within the lesion (Fig. 5).Biopsy was done by orthopedic surgeons and pathology result confirmed the lesion to be an intraosseous lipoma.\n\nDiscussion\n\nLucent lesions within the calcaneus are often incidentally encountered. The list of differential diagnoses is long as evaluation of lesions in the calcaneus is comparable to evaluating lesions in long bones with an epiphysis, metaphysis and diaphysis [1]. The most common differential diagnoses include intraosseous lipoma, simple bone cyst, giant cell tumor and aneurysmal bone cyst among young adults. While infection and metastasis are more common in elderly population.There are several plain film features described in literature that match certain diagnoses. For example, simple bone cysts with pathological fractures often show the “fallen fragment sign”, which describes a dependent bone fracture fragment within the cyst. Presence of central calcification within a lucent lesion would point towards intraosseous lipoma known as the “Cockade sign”. However, these imaging features are often not present and it is often difficult to determine the nature of these lucent calcaneal lesions using radiographs alone. MRI is the appropriate next step of management for lucent calcaneal lesions.Aneurysmal bone cyst, chondroblastoma and giant cell tumor are several disease entities that would immediately come to mind when we see a T2 hyperintense lesion with fluid-fluid level within, in the young adult population, demonstrated in the first set of MRI above (Fig. 2). All these lesions can have perilesional edema, but there are specific MRI features that separate them.Aneurysmal bone cysts are benign osteoclastic giant cell-rich neoplasms and can be markedly expansile, unlike other lesions on this list.Chondroblastomas are benign chondrogenic bone neoplasms arising from the epiphyses. Therefore, cortical involvement is a characteristic. They are also known to have lobular internal architecture.Giant cell tumors are locally aggressive bony neoplasms found at closed growth plate extending into the epiphyses and articulating surfaces. Intralesional solid components may show enhancement on MRI.Intraosseous lipoma is the most frequent calcaneal bone lesion. It is classically described to show homogeneous hyperintense fat signal on T1 and T2 weighted MR images that are suppressed on fat-saturated sequences. However, interosseous lipomas may have different stages of progression, which have been described in literature [2]. They can have T1 hypointense inclusions within that are hyperintense on T2 fat-saturated images. Fluid cavities surrounded by signal-void rims of sclerotic bone have also been described and were observed in the second set of MRI (Fig. 4).In this case report, the intraosseous lipoma demonstrated mimicking features of neoplastic bone lesions such as aneurysmal bone cyst, chondroblastoma and giant cell tumor. It highlights the change in appearance and composition of intraosseous lipomas over time. This publication serves to demonstrate an atypical radiological appearance of calcaneal intraosseous lipoma and contribute to the limited literature.\n\nConclusion\n\nThis case report intends to illustrate the change in appearance and composition of intraosseous lipomas over time.\n\nPatient consent\n\nThe authors confirm appropriate patient consent form has been obtained for medical journal publication and available upon request.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 21-year-old female, university student.\n- **Chief Complaint:** Mild left ankle pain for 2 months.\n- **History of Present Illness:** No history of trauma or sprain injury.\n- **Past Medical History:** None.\n- **Personal History:** None.\n- **Family History:** None.\n- **Physical Examination:** No bruises or hematoma. Full range of motion in the ankle.\n- **Ancillary Tests:** \n  - **Initial Imaging:** \n    - Radiograph: Lucent lesion (2.7 × 2.0 cm) with narrow zone of transition in the anterior body of the calcaneus; no pathological fracture or fallen bone fragment. \n    - MRI: Central T2 hyperintense signal with fluid-fluid level and small eccentric T1 hyperintense component. No perilesional marrow edema, cortical destruction, or periosteal reaction noted.\n  - **Follow-up Imaging (3 years later):**\n    - MRI: Homogeneous T1 hyperintense lesion completely nulled on fat suppression, with residual small cystic areas and a sclerotic rim. No significant edema, fluid-fluid levels, or soft tissue involvement.\n    - CT: Confirmed presence of macroscopic fat within the lesion.\n  - **Biopsy:** Pathology confirmed the lesion as an intraosseous lipoma.",
+        "differential_diagnosis": "- Initially, the differential diagnosis included aneurysmal bone cyst, intraosseous lipoma, giant cell tumor, and chondroblastoma based on patient age, lesion location, and MRI findings:\n  - **Aneurysmal Bone Cyst:** Suggested by T2 hyperintense fluid-fluid levels. However, minor enlargement and lack of expansile features were atypical.\n  - **Giant Cell Tumor:** Less likely as this aggressive lesion typically involves epiphyses and articulating surfaces with perilesional edema, which was absent here.\n  - **Chondroblastoma:** Ruled out due to the lack of epiphyseal involvement or lobular architecture.\n  - **Intraosseous Lipoma:** Considered due to the presence of macroscopic fat on imaging and absence of aggressive features, suggesting a more benign process.\n- Follow-up imaging showed a change in composition with predominant macroscopic fat, further supporting intraosseous lipoma over neoplastic lesions.\n- Biopsy confirmed the diagnosis.",
+        "final_diagnosis": "Intraosseous lipoma of the calcaneus. Diagnosis is supported by imaging findings (macroscopic fat, absence of aggressive features over time) and confirmed by biopsy.",
+        "diagnosis_results": "Intraosseous lipoma of the calcaneus."
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-8-25",
+    "checked_rare_disease": [],
+    "id": "PMC11460249",
+    "results": {
+        "content": "### Resoning:\n<step 1> **Analyze the Chief Complaint and History:** The patient is a young female presenting with mild left ankle pain for 2 months without any history of trauma. This chronicity and lack of injury history suggest a non-acute, potentially underlying condition rather than a simple sprain. The absence of past medical, personal, and family history doesn't provide significant clues but rules out some systemic or hereditary conditions as immediate concerns.\n\n<step 2> **Evaluate the Physical Examination:** The physical exam is largely unremarkable, with no bruises, hematoma, or range of motion restriction. This further diminishes the likelihood of acute trauma or significant functional impairment. However, it doesn't exclude a subtle or early-stage bone lesion causing pain.\n\n<step 3> **Interpret the Initial Imaging (Radiograph):** The radiograph reveals a lucent lesion in the calcaneus. A lucent lesion indicates an area of decreased density compared to normal bone, which could be due to various reasons including cysts, tumors, or fibrous tissue. The narrow zone of transition is an important feature, suggesting a benign or slow-growing lesion rather than an aggressive one. The absence of pathological fracture or fallen bone fragment is reassuring, ruling out acute instability or fracture risk related to the lesion at this stage.\n\n<step 4> **Interpret the Initial Imaging (MRI):** The MRI provides more detailed information. The central T2 hyperintensity with fluid-fluid level suggests a cystic component or fluid content within the lesion. The small eccentric T1 hyperintense component is crucial; T1 hyperintensity can indicate fat, protein, or blood products.  The absence of perilesional marrow edema, cortical destruction, or periosteal reaction is highly significant and strongly favors a benign process. These negative findings argue against aggressive tumors or infections.\n\n<step 5> **Interpret the Follow-up Imaging (3 years later - MRI & CT):** The follow-up MRI shows a homogeneous T1 hyperintense lesion that is completely suppressed on fat suppression sequences. This is highly characteristic of fat.  The presence of residual cystic areas and a sclerotic rim suggests a more mature, stable lesion. The continued absence of edema, fluid-fluid levels, or soft tissue involvement confirms its benign and non-aggressive nature over time. The CT scan definitively confirms the presence of macroscopic fat within the lesion, further supporting the diagnosis of a fatty lesion.\n\n<step 6> **Integrate the Biopsy Result:** The pathology report confirming an intraosseous lipoma is the definitive diagnostic evidence. It aligns perfectly with all the imaging findings, especially the fat-containing nature of the lesion observed on MRI and CT.\n\n<step 7> **Synthesize all Findings to Reach a Final Diagnosis:** Combining the clinical presentation (mild chronic ankle pain), the location in the calcaneus, the radiographic and MRI characteristics suggestive of a fatty lesion, the CT confirmation of macroscopic fat, and the definitive pathological diagnosis from the biopsy, the final diagnosis is unequivocally an intraosseous lipoma of the calcaneus. The mild ankle pain is likely attributable to the presence of this benign lesion within the bone.\n\n### Answer:\nIntraosseous lipoma of the calcaneus"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Analyze the Chief Complaint and History:** The patient is a young female presenting with mild left ankle pain for 2 months without any history of trauma. This chronicity and lack of injury history suggest a non-acute, potentially underlying condition rather than a simple sprain. The absence of past medical, personal, and family history doesn't provide significant clues but rules out some systemic or hereditary conditions as immediate concerns.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Evaluate the Physical Examination:** The physical exam is largely unremarkable, with no bruises, hematoma, or range of motion restriction. This further diminishes the likelihood of acute trauma or significant functional impairment. However, it doesn't exclude a subtle or early-stage bone lesion causing pain.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpret the Initial Imaging (Radiograph):** The radiograph reveals a lucent lesion in the calcaneus. A lucent lesion indicates an area of decreased density compared to normal bone, which could be due to various reasons including cysts, tumors, or fibrous tissue. The narrow zone of transition is an important feature, suggesting a benign or slow-growing lesion rather than an aggressive one. The absence of pathological fracture or fallen bone fragment is reassuring, ruling out acute instability or fracture risk related to the lesion at this stage.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpret the Initial Imaging (MRI):** The MRI provides more detailed information. The central T2 hyperintensity with fluid-fluid level suggests a cystic component or fluid content within the lesion. The small eccentric T1 hyperintense component is crucial; T1 hyperintensity can indicate fat, protein, or blood products.  The absence of perilesional marrow edema, cortical destruction, or periosteal reaction is highly significant and strongly favors a benign process. These negative findings argue against aggressive tumors or infections.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpret the Follow-up Imaging (3 years later - MRI & CT):** The follow-up MRI shows a homogeneous T1 hyperintense lesion that is completely suppressed on fat suppression sequences. This is highly characteristic of fat.  The presence of residual cystic areas and a sclerotic rim suggests a more mature, stable lesion. The continued absence of edema, fluid-fluid levels, or soft tissue involvement confirms its benign and non-aggressive nature over time. The CT scan definitively confirms the presence of macroscopic fat within the lesion, further supporting the diagnosis of a fatty lesion.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Integrate the Biopsy Result:** The pathology report confirming an intraosseous lipoma is the definitive diagnostic evidence. It aligns perfectly with all the imaging findings, especially the fat-containing nature of the lesion observed on MRI and CT.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Synthesize all Findings to Reach a Final Diagnosis:** Combining the clinical presentation (mild chronic ankle pain), the location in the calcaneus, the radiographic and MRI characteristics suggestive of a fatty lesion, the CT confirmation of macroscopic fat, and the definitive pathological diagnosis from the biopsy, the final diagnosis is unequivocally an intraosseous lipoma of the calcaneus. The mild ankle pain is likely attributable to the presence of this benign lesion within the bone.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "- Initially, the differential diagnosis included aneurysmal bone cyst, intraosseous lipoma, giant cell tumor, and chondroblastoma based on patient age, lesion location, and MRI findings: T2 hyperintense fluid-fluid levels suggested aneurysmal bone cyst, but minor enlargement and lack of expansile features were atypical; giant cell tumor was less likely due to absence of epiphyses involvement, perilesional edema, and typical aggressive features; chondroblastoma was ruled out due to lack of epiphyseal involvement or lobular architecture; intraosseous lipoma was considered due to presence of macroscopic fat on imaging and absence of aggressive features.",
+            "hit": false
+        },
+        {
+            "step": "- Follow-up imaging showed a change in composition with predominant macroscopic fat, further supporting intraosseous lipoma over neoplastic lesions.",
+            "hit": true
+        },
+        {
+            "step": "- Biopsy confirmed the diagnosis.",
+            "hit": false
+        },
+        {
+            "step": "- Final diagnosis: Intraosseous lipoma of the calcaneus. Diagnosis is supported by imaging findings (macroscopic fat, absence of aggressive features over time) and confirmed by biopsy.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.25
+}

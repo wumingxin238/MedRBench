@@ -1,0 +1,160 @@
+{
+    "raw_case": "\nAxillary skin lesion: A rare presentation of metastatic male breast cancer\nMale breast cancer is an uncommon condition, accounting for less than 1% of all breast carcinomas and under 1.5% of all malignant tumors in men. Skin lesions can often be the initial reason for consultation. At this advanced stage, diagnosis is typically delayed, leading to a poor prognosis. Herein, we report the case of a 66-year-old man who presented with a dermo-epidermal axillary mass, indicative of cutaneous metastasis from an invasive ductal carcinoma.\n\nIntroduction\n\nBreast cancer in men is a rare disease, accounting for approximately 1% of cancers. Its incidence is too low to warrant systematic screening. In contrast to female breast cancer, male breast cancer often presents with skin lesions that affect the areola, nipple-areolar complex, or the surrounding skin. These cutaneous manifestations can, in some instances, be the primary presenting feature. Breast imaging in men is primarily diagnostic, different techniques such as mammography, ultrasound, and possibly magnetic resonance imaging (MRI) can be used. These methods can help reassure some patients or guide potential biopsy procedures for histological examination [1].We present the case of a 66-year-old man with a dermo-epidermal axillary mass, indicative of cutaneous metastasis from invasive ductal carcinoma. In presenting this case report, we aim to underscore the importance of considering male breast cancer when evaluating skin lesions, in order deliver an accurate diagnosis and provide adequate treatment for patients.\n\nCase report\n\nThis case involves a 66-year-old man with no significant medical history who has been experiencing cutaneous swelling and itching in the left axillary region for the past 4 months. Clinical examination identified a subcutaneous mass in the left axillary region. An ultrasound was performed, revealing a well-circumscribed dermo-epidermal mass with regular contours, which appeared hypoechoic and heterogeneous, oriented perpendicular to the skin, and showed peripheral color Doppler uptake (Fig. 1). Additionally, the axillary lymph nodes exhibited a thick cortex and loss of the fatty hilum (Fig. 2).To achieve better characterization, an MRI of the axillary region was requested. This imaging revealed an oval dermo-epidermal mass with regular contours and intermediate signal intensity on both T1 and T2-weighted images. The mass exhibited homogeneous and intense enhancement following contrast injection. It remained distant from the surrounding muscles, notably the serratus anterior, triceps brachii, and latissimus dorsi. Additionally, suspicious axillary lymph nodes were observed (Fig. 3).Initially, a core needle biopsy was performed on the skin mass; however, it was inconclusive on 2 separate occasions. Consequently, a biopsy of the axillary lymph node was made, it confirmed metastatic breast carcinoma, histologically classified as intracanalicular carcinoma. The tumor was negative for estrogen and progesterone receptors but positive for the HER2 receptor.A CT scan of the chest, abdomen, and pelvis performed, revealing multiple solid nodules of varying size secondary to metastatic breast carcinoma (Fig. 4).The patient's case was presented at a multidisciplinary meeting, and a treatment plan involving a combination of the chemotherapy drugs Paclitaxel and Carboplatin, along with dual HER2 blockade, was decided. The patient remains stable, as indicated by the follow-up CT scan conducted 5 months later.\n\nDiscussion\n\nBreast cancer accounts for less than 1% of all cancers in men [2,3]. The average age at diagnosis ranges from 60 to 70 years, which is 10 years later than in women [3,4]. The prognosis is bleaker than in the female form because the diagnosis is often made late [1]. The risk factors include heredity (BRCA II), reduced testosterone synthesis, and Klinefelter syndrome. As in women, invasive ductal carcinoma is the most common histological type [1].The clinical symptoms are similar to those in women, with a majority of cases presenting as a well-defined, hard, painless mass, primarily located retroareolarly. Serosanguinous discharge or axillary lymphadenopathy are rarely symptomatic [1]. Unlike female breast cancer, male breast cancer is characterized by the frequency of skin lesions affecting the areola, nipple-areolar complex, or the entire skin. These cutaneous manifestations can, in some cases, be the main presenting feature, as in our case [1].Breast imaging in men is predominantly diagnostic, as the low incidence of male breast cancer does not justify routine screening [1]. Different imaging techniques such as mammography, ultrasound, and MRI can reassure some patients or guide potential biopsy sampling for histological examination [1].The use of mammography in men is possible and should be bilateral, even if the symptoms are unilateral. When technically challenging, only an oblique view is obtained [1,5]. In 60% of cases, breast cancer presents as a mass with microlobulated, spiculated, or ill-defined contours, typically located retroareolarly and often eccentric to the nipple [6]. Microcalcifications are rarely a prominent feature due to the low incidence of isolated ductal carcinoma in situ [7]. Associated anomalies classically described in female breast cancer, such as axillary lymphadenopathy, skin retraction, and nipple retraction, are also found. In cases of discharge, exploration via galactography is technically feasible. Cancer is bilateral in 1% to 4% of cases, justifying bilateral mammography even if the symptoms are unilateral [8].On ultrasound, male breast cancer presents as an irregular hypoechoic cavity with variable attenuation associated with a peripheral halo [9]. Posterior acoustic shadowing is inconsistent, as the frequent retroareolar location of the tumor makes this sign nonspecific. Cancer can also manifest as a cystic lesion, with a mural nodule indicative of papillary ductal carcinoma in situ. Additionally, in men, the discovery of a cyst on ultrasound, regardless of its appearance, should prompt cytological and/or histological sampling. Ultrasound is particularly useful for exploring deep masses that may be missed on mammography. Upon axillary exploration, lymphadenopathy is detected in 50% of breast cancers [10].The performance of breast MRI in men is possible, even though there is no clearly established consensus indication. The radiological appearance is that of an irregular mass with intense and early enhancement with secondary washout according to a type 3 curve. The Breast Imaging Reporting And Data System (BIRADS) MRI criteria are applicable to breast cancer in men [11].\n\nConclusion\n\nMale breast cancer is a rare disease, representing about 1% of all cancers. Cutaneous lesions may be the initial reason for consultation, often leading to delayed diagnosis and a poor prognosis. Imaging is essential in managing these patients, guiding biopsy procedures, determining locoregional and distant staging, and monitoring post-treatment progress.\n\nPatient consent\n\nThe authors of this manuscript declare that an informed consent for publication of this case was obtained from the patient.",
+    "generate_case": {
+        "case_summary": "- Patient Information:\n  - Age: 66 years\n  - Gender: Male\n  - Relevant Medical History: None noted\n- Chief Complaint:\n  - Cutaneous swelling and itching in the left axillary region for the past 4 months.\n- History of Present Illness:\n  - Duration: 4 months\n  - Symptoms: Left axillary dermo-epidermal mass coupled with cutaneous swelling and itching.\n- Past Medical History:\n  - None reported.\n- Personal History:\n  - Not specified.\n- Family History:\n  - None reported.\n- Physical Examination:\n  - Subcutaneous mass in the left axillary region.\n- Ancillary Tests:\n  - Ultrasound: Revealed a dermo-epidermal mass with regular contours, hypoechoic and heterogeneous characteristics, peripheral Doppler uptake, and suspicious axillary lymph nodes (thick cortex, loss of fatty hilum).\n  - MRI: Showed an oval dermo-epidermal mass distanced from adjacent muscles and suspicious axillary lymph nodes.\n  - Biopsy:\n    - Initial: Two core needle biopsies of the skin mass were inconclusive.\n    - Axillary lymph node biopsy: Confirmed metastatic breast carcinoma, histologically classified as intracanalicular carcinoma (HER2-positive, estrogen and progesterone receptor-negative).\n  - CT Scan: Identified multiple solid nodules, indicative of metastatic spread, in the chest, abdomen, and pelvis.\n\n---",
+        "differential_diagnosis": "1. **Initial Considerations Based on Presentation**:\n   - The axillary subcutaneous mass raised concerns for malignancy with possible axillary lymph node involvement. Differential diagnoses included:\n     - Primary breast cancer (male or female).\n     - Axillary lymphadenopathy due to lymphoma or other metastatic cancers.\n     - Infectious or inflammatory conditions.\n  \n2. **Ruling Out Potential Diagnoses**:\n   - **Infectious or Inflammatory Process**:\n     - No evidence of systemic symptoms (fever, constitutional signs) or infection present via the patient's history or imaging.\n     - Excluded based on the chronicity of symptoms and imaging findings consistent with malignancy.\n   - **Lymphoma**:\n     - The imaging and biopsy findings were not consistent with lymphoma (no hallmark Reed-Sternberg cells or typical lymphoma characteristics on imaging).\n\n3. **Focus on Breast Cancer**:\n   - Male breast cancer, though rare, was considered due to imaging findings (axillary mass with suspicious lymphadenopathy) and eventual histological confirmation of intracanalicular carcinoma. The HER2-positive profile further supported this diagnosis.\n   - Imaging findings of metastases on CT ruled out a primary localized breast cancer and confirmed advanced metastatic disease.\n\n4. **Confirmation of Final Diagnosis**:\n   - Histological evidence from biopsy coupled with imaging findings led to the final diagnosis of metastatic male breast cancer, specifically invasive ductal carcinoma with cutaneous metastases.\n\n---",
+        "final_diagnosis": "Metastatic male breast cancer (invasive ductal carcinoma with cutaneous metastasis, HER2-positive).\n\n---",
+        "diagnosis_results": "Metastatic male breast cancer (HER2-positive)."
+    },
+    "body_category": [
+        "Skin, Hair and Nails"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-8-10",
+    "checked_rare_disease": [],
+    "id": "PMC11437605",
+    "results": {
+        "content": "## Reasoning:\n\nIn this case, we have a 66-year-old male patient presenting with a 4-month history of cutaneous swelling and itching in the left axillary region. There's no relevant medical history provided, and both personal and family history are not specified, which limits some aspects of the evaluation but focuses our attention on the presented symptoms and findings.\n\nStarting with the chief complaint of cutaneous swelling and itching in the left axillary region, it's important to consider various differential diagnoses that could present in this manner. Common causes might include infections (such as abscesses or cellulitis), inflammatory conditions, cysts, or neoplastic processes. Given the duration of 4 months and the presence of a dermo-epidermal mass, malignancy becomes a significant consideration, especially in the absence of acute inflammatory signs.\n\nThe physical examination reveals a subcutaneous mass in the left axillary region, which is further characterized by ultrasound and MRI. The ultrasound findings describe a hypoechoic, heterogeneous mass with regular contours and peripheral Doppler uptake, suggesting vascular supply. Additionally, there are suspicious axillary lymph nodes noted, characterized by thick cortex and loss of fatty hilum, which are features suggestive of lymphadenopathy, potentially due to metastatic disease.\n\nThe MRI findings confirm an oval dermo-epidermal mass that is distanced from adjacent muscles and also shows suspicious axillary lymph nodes, reinforcing the concern for a neoplastic process.\n\nInitial attempts at diagnosing the mass through two core needle biopsies were inconclusive, which is frustrating but not uncommon in cases where the tissue acquired may not be representative or sufficient for definitive diagnosis. However, a biopsy of the axillary lymph node was performed and confirmed metastatic breast carcinoma, specifically classified as intracanalicular carcinoma, which is another term for ductal carcinoma in situ (DCIS) that has invaded into the ducts but not yet into the surrounding breast stroma. This histological type is further specified as HER2-positive and estrogen and progesterone receptor-negative.\n\nThis finding is particularly significant because it indicates that the primary tumor is likely of breast origin, given that breast carcinoma frequently metastasizes to axillary lymph nodes. The HER2 positivity and hormone receptor negativity provide important prognostic and therapeutic information.\n\nFurthermore, a CT scan was performed, which identified multiple solid nodules in the chest, abdomen, and pelvis, indicative of metastatic spread. This suggests that the disease is at an advanced stage, possibly stage IV, given the presence of distant metastases.\n\nGiven that the lymph node biopsy confirmed metastatic breast carcinoma, and considering the patient is male, it's essential to consider the possibility of gynecomastia or other breast abnormalities that might have been overlooked. Male breast cancer is rare but does occur, and presentations can be similar to female breast cancer, including masses, skin changes, and lymph node involvement.\n\nHowever, in this case, the mass is located in the axillary region rather than the breast itself, which might suggest that the primary tumor is in the axilla, or that it's a case of extramammary primary with metastasis to axillary lymph nodes. But given the histological confirmation of breast carcinoma in the lymph node biopsy, it's more likely that the primary is a breast carcinoma with axillary lymph node metastasis.\n\nIt's also worth considering other malignancies that could metastasize to the axillary lymph nodes, such as lung cancer or melanoma, but the specific histological diagnosis of intracanalicular carcinoma (presumably ductal carcinoma) and the molecular markers (HER2-positive, estrogen and progesterone receptor-negative) strongly point towards breast origin.\n\nTherefore, the working diagnosis is metastatic breast carcinoma in a male patient, presenting with a left axillary mass and metastatic lesions in multiple organs.\n\n## Answer:\n\nMetastatic breast carcinoma, HER2-positive, estrogen and progesterone receptor-negative, in a male patient, stage IV."
+    },
+    "reasoning_eval": [
+        {
+            "step": "## Reasoning:",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "In this case, we have a 66-year-old male patient presenting with a 4-month history of cutaneous swelling and itching in the left axillary region. There's no relevant medical history provided, and both personal and family history are not specified, which limits some aspects of the evaluation but focuses our attention on the presented symptoms and findings.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Starting with the chief complaint of cutaneous swelling and itching in the left axillary region, it's important to consider various differential diagnoses that could present in this manner. Common causes might include infections (such as abscesses or cellulitis), inflammatory conditions, cysts, or neoplastic processes. Given the duration of 4 months and the presence of a dermo-epidermal mass, malignancy becomes a significant consideration, especially in the absence of acute inflammatory signs.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The physical examination reveals a subcutaneous mass in the left axillary region, which is further characterized by ultrasound and MRI. The ultrasound findings describe a hypoechoic, heterogeneous mass with regular contours and peripheral Doppler uptake, suggesting vascular supply. Additionally, there are suspicious axillary lymph nodes noted, characterized by thick cortex and loss of fatty hilum, which are features suggestive of lymphadenopathy, potentially due to metastatic disease.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The MRI findings confirm an oval dermo-epidermal mass that is distanced from adjacent muscles and also shows suspicious axillary lymph nodes, reinforcing the concern for a neoplastic process.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Initial attempts at diagnosing the mass through two core needle biopsies were inconclusive, which is frustrating but not uncommon in cases where the tissue acquired may not be representative or sufficient for definitive diagnosis. However, a biopsy of the axillary lymph node was performed and confirmed metastatic breast carcinoma, specifically classified as intracanalicular carcinoma, which is another term for ductal carcinoma in situ (DCIS) that has invaded into the ducts but not yet into the surrounding breast stroma. This histological type is further specified as HER2-positive and estrogen and progesterone receptor-negative.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "This finding is particularly significant because it indicates that the primary tumor is likely of breast origin, given that breast carcinoma frequently metastasizes to axillary lymph nodes. The HER2 positivity and hormone receptor negativity provide important prognostic and therapeutic information.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Furthermore, a CT scan was performed, which identified multiple solid nodules in the chest, abdomen, and pelvis, indicative of metastatic spread. This suggests that the disease is at an advanced stage, possibly stage IV, given the presence of distant metastases.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Given that the lymph node biopsy confirmed metastatic breast carcinoma, and considering the patient is male, it's essential to consider the possibility of gynecomastia or other breast abnormalities that might have been overlooked. Male breast cancer is rare but does occur, and presentations can be similar to female breast cancer, including masses, skin changes, and lymph node involvement.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "However, in this case, the mass is located in the axillary region rather than the breast itself, which might suggest that the primary tumor is in the axilla, or that it's a case of extramammary primary with metastasis to axillary lymph nodes. But given the histological confirmation of breast carcinoma in the lymph node biopsy, it's more likely that the primary is a breast carcinoma with axillary lymph node metastasis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> The axillary subcutaneous mass raised concerns for malignancy with possible axillary lymph node involvement; differential diagnoses included primary breast cancer (male or female), axillary lymphadenopathy due to lymphoma or other metastatic cancers, and infectious or inflammatory conditions.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> No evidence of an infectious or inflammatory process was found, as there were no systemic symptoms or infection present, and the chronicity of symptoms and imaging findings were more consistent with malignancy.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Lymphoma was excluded based on imaging and biopsy findings, which did not show hallmark Reed-Sternberg cells or typical lymphoma characteristics.",
+            "hit": false
+        },
+        {
+            "step": "<Step 4> Male breast cancer was considered due to imaging findings (axillary mass with suspicious lymphadenopathy) and confirmed by histological evidence of intracanalicular carcinoma. The HER2-positive profile further supported this diagnosis.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Metastatic disease was confirmed by imaging findings showing metastases on CT, ruling out a primary localized breast cancer.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> The final diagnosis was metastatic male breast cancer, specifically invasive ductal carcinoma with cutaneous metastases, confirmed by histological evidence from biopsy and imaging findings.",
+            "hit": false
+        },
+        {
+            "step": "---",
+            "hit": true
+        },
+        {
+            "step": "Final diagnosis: Metastatic male breast cancer (invasive ductal carcinoma with cutaneous metastasis, HER2-positive).",
+            "hit": false
+        }
+    ],
+    "efficiency": 0.8,
+    "factulity": 0.75,
+    "recall": 0.625
+}

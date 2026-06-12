@@ -1,0 +1,169 @@
+{
+    "raw_case": "\nTransposition of the inferior vena cava with hemiazygos continuation: A rare case report\nHemiazygos continuation of a left-sided inferior vena cava (IVC) is an extremely rare developmental anomaly. We present the case of a male patient in whom this condition was incidentally discovered during a thoraco-abdominopelvic CT scan. With the widespread use of contrast-enhanced computed tomography and magnetic resonance angiography, the detection of congenital IVC anomalies has become more accessible. These anomalies are often found incidentally during imaging performed for other clinical reasons. Awareness of this anomaly is crucial before any surgical or endovascular procedures to avoid potential complications.\n\nIntroduction\n\nDevelopmental variations of the inferior vena cava (IVC) are found in the general population, with a prevalence ranging from 0.07% to 8.7% [1]. IVC anomalies can be classified into prerenal anomalies (interrupted IVC), renal anomalies (retroaortic renal vein and circum-aortic venous collar), and postrenal anomalies (duplicated IVC, left-sided IVC, and retrocaval ureter) [2]. Left-sided IVC and azygos or hemiazygos continuation of the IVC have prevalences of 0.2% to 0.5% and 0.6%, respectively, and are typically asymptomatic, incidental findings [3]. The exact prevalence of the combined occurrence of left-sided IVC with hemiazygos continuation is unknown due to the rarity of reported cases. With the advent of advanced imaging techniques such as CT and MRI, it has become imperative to understand the various anatomical variations of the inferior vena cava and the azygos system, as these techniques provide valuable insights into these structures, including the variation described in our case. A thorough understanding of the congenital anomalies of the IVC and the azygos system is essential for radiologists to prevent diagnostic errors and to aid in preoperative planning. We report a rare case of transposition of the inferior vena cava with azygos continuation, associated with polysplenia and a short pancreas.\n\nCase report\n\nThis is a 60-year-old man with no significant medical or surgical history and no notable family history, who presented with epigastric abdominal pain for the past month, which later became diffuse.A blood test was conducted, revealing a lipase level of 60 IU/L and a CRP level of 7 mg/L.An abdominal ultrasound was performed, revealing 2 hepatic lesions that could not be accurately characterized by the ultrasound. A thoraco-abdomino-pelvic CT scan was requested for better characterization and to search for a primary tumor.The contrast-enhanced CT scan incidentally revealed a left-sided inferior vena cava with hemiazygos continuation:•The 2 iliac veins drain into the left-sided inferior vena cava (Fig. 1), which then joins the hemiazygos vein (Fig. 2A) before converging with the azygos vein (Fig. 2B), which drains into the superior vena cava via the azygos arch (Fig. 3).•The hepatic veins drain directly into the right atrium (Fig. 4).•Associated anomalies include polysplenia (Fig. 5) and a short pancreas (Fig. 6).The CT scan confirmed that the hepatic lesions initially observed on the ultrasound were hepatic hemangiomas. No abnormalities were found on the scan to explain the patient's abdominal pain. The patient was treated with symptomatic management, leading to good clinical improvement.In conclusion, there was a fortuitous discovery of a transposition of the inferior vena cava (IVC) with hemiazygos continuation.\n\nDiscussion\n\nThe inferior vena cava (IVC) is a single vein situated to the right of the abdominal aorta. Failure in the process of embryogenesis can lead to congenital anomalies of the IVC [4]. The development of the IVC is a complex process that occurs between the fourth and eighth weeks of gestation. It involves 3 pairs of primitive venous channels: the posterior cardinal veins, the subcardinal veins, and the supracardinal veins [5]. The normal IVC is composed of 4 segments: the hepatic, prerenal, renal, and postrenal segments. It collects blood from the lower limbs, pelvic region, and abdomen [6,7] .Infrahepatic interruption of the IVC with azygos or hemiazygos continuation is a rare condition, most likely resulting from agenesis of an IVC segment or failure of fusion between the adrenal and hepatic segments of the IVC [8]. In such cases, the hepatic veins drain directly into the right atrium (Fig. 3), and venous blood from the lower body is redirected into the azygos or hemiazygos vein. The azygos vein then drains into the superior vena cava, ultimately reaching the right atrium [9]. During early embryogenesis, venous drainage from the left and right sides of the body occurs independently. After the regression of most of the left supracardinal veins and the interconnections between the sacrocardinal veins, the entire venous drainage from the left lower limb shifts to the right side, forming the IVC. Disruptions in this developmental process can result in anatomical variants, such as a left-sided IVC [10]. An isolated left-sided IVC ascends on the left and may drain into the right atrium through various pathways. In the first scenario, the left-sided IVC crosses the midline anterior to the aorta after receiving the renal veins, then continues on the right side to drain into the right atrium. In the second scenario, the IVC crosses the midline but is interrupted and continues as the azygos vein, which then connects to the superior vena cava before draining into the right atrium. Lastly, in less common cases like ours, the left-sided IVC may continue caudally on the left as the hemiazygos vein [11]. Azygos and hemiazygos continuation of the IVC is often associated with complex malformation syndromes, such as congenital heart defects, polysplenia, and situs anomalies [12]. In our case, it is associated with polysplenia and a short pancreas.Noninvasive imaging techniques like contrast-enhanced computed tomography and magnetic resonance imaging are the most reliable methods for identifying these anomalies in asymptomatic patients [8]. Ultrasound is a noninvasive, radiation-free method often used for initial evaluation; however, it is an operator-dependent modality, and the examination of the infrarenal part of the IVC is often limited by gas and adipose tissue [13]. In pediatric patients, ultrasound is generally the first-line modality for cross-sectional imaging. If ultrasound is insufficient due to operator or patient-related factors, magnetic resonance imaging is sensitive for detecting IVC anomalies [14]. CT is commonly used to assess the IVC; its advantages include excellent spatial resolution and the availability of postprocessing techniques such as multiplanar reconstruction of volume-rendered images. Routine imaging is performed between 60 and 70 seconds (portal venous phase) after contrast administration [14]. Another advanced imaging technique for IVC evaluation is magnetic resonance imaging (MRI). MRI, particularly 3-dimensional T1-weighted imaging enhanced with a contrast agent during breath-hold and balanced steady-state free precession techniques [13], offers detailed assessment. Magnetic resonance venography (MRV) is an effective method for identifying developmental anomalies of the IVC. It can be performed with or without contrast agents (gadolinium) [15].IVC anomalies generally do not require treatment but can be significant for planning vascular or surgical interventions [2].\n\nConclusion\n\nLeft-sided IVC with hemiazygos continuation is an extremely rare anomaly. It is crucial to recognize and identify this anatomical variant before planning any vascular or interventional procedures involving the IVC. CT is the imaging modality of choice for detecting this variation. In every abdominal or thoraco-abdominal CT scan, it is essential to analyze the vascular structures, especially veins, and describe any anatomical variations.\n\nPatient consent\n\nWritten informed consent was obtained from the patient for the publication of this case report.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 60-year-old male.\n- **Chief Complaint:** Epigastric abdominal pain lasting for one month, later becoming diffuse.\n- **History of Present Illness:** Persistent abdominal pain for one month.\n- **Past Medical History:** None.\n- **Personal History:** None noted.\n- **Family History:** None.\n- **Physical Examination:** Not described.\n- **Ancillary Tests:**\n  - Blood tests showed lipase level of 60 IU/L and CRP level of 7 mg/L.\n  - Abdominal ultrasound revealed 2 hepatic lesions unable to be characterized.\n  - Thoraco-abdomino-pelvic CT scan found:\n    - Left-sided inferior vena cava (IVC) with hemiazygos continuation.\n    - Hepatic veins draining directly into the right atrium.\n    - Associated anomalies: polysplenia and a short pancreas.\n    - Confirmed hepatic lesions as hemangiomas.\n  - No structural abnormality identified on imaging to explain the abdominal pain.",
+        "differential_diagnosis": "- The patient's diffuse abdominal pain and incidentally identified imaging findings prompted the evaluation. While the primary concern was to investigate potential malignancy suggested by hepatic lesions, CT imaging confirmed these as benign hemangiomas. Pain was likely unrelated to the vascular anomaly. \n- Other differential diagnoses such as pancreatitis or inflammatory/infectious etiologies were considered but effectively ruled out due to normal lipase levels and lack of imaging evidence of pancreatic swelling or peripancreatic fat stranding. Elevated CRP levels were mild and nonspecific. \n- The incidental findings of left-sided IVC with hemiazygos continuation and associated anomalies (polysplenia, short pancreas) were congenital developmental variants, confirmed through imaging. These did not appear to have clinical implications in this case.\n- No acute or chronic vascular issues, venous thromboembolism, or structural malformation syndromes requiring surgical intervention were identified.",
+        "final_diagnosis": "The final diagnosis is congenital left-sided inferior vena cava (IVC) with hemiazygos continuation, incidentally identified during thoraco-abdomino-pelvic CT imaging, and associated with polysplenia and a short pancreas.",
+        "diagnosis_results": "Congenital left-sided IVC with hemiazygos continuation."
+    },
+    "body_category": [
+        "Blood, Heart and Circulation"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-8-21",
+    "checked_rare_disease": [],
+    "id": "PMC11459459",
+    "results": {
+        "content": "### Resoning:\n\nIn this case, we have a 60-year-old male presenting with epigastric abdominal pain that has been ongoing for one month and has since become diffuse. The patient has no past medical history, personal history, or family history noted. Blood tests showed a lipase level of 60 IU/L and CRP of 7 mg/L. An abdominal ultrasound revealed two hepatic lesions that could not be characterized initially, but subsequent thoraco-abdomino-pelvic CT scan confirmed them as hemangiomas. The CT also revealed anatomic anomalies including a left-sided inferior vena cava (IVC) with hemiazygos continuation, hepatic veins draining directly into the right atrium, polysplenia, and a short pancreas. No structural abnormality was identified on imaging to explain the abdominal pain.\n\nFirst, let's consider the patient's age and presentation. At 60 years old, abdominal pain can be due to a variety of causes, ranging from benign conditions like gastritis or peptic ulcers to more serious issues such as pancreatic disease or vascular problems. The fact that the pain started in the epigastrium and has become diffuse suggests that the source may be related to organs in the upper abdomen, such as the stomach, pancreas, or liver.\n\nLooking at the blood tests, the lipase level is 60 IU/L, which is within the normal range, suggesting that acute pancreatitis is unlikely. CRP of 7 mg/L indicates a mild elevation, which could suggest some degree of inflammation, but it's not significantly high, so the inflammation, if present, is mild.\n\nThe abdominal ultrasound showed two hepatic lesions that were later characterized as hemangiomas by CT scan. Hemangiomas are benign tumors of the liver and are usually asymptomatic, especially if small. Unless they are very large or causing compression of surrounding structures, they are unlikely to cause abdominal pain.\n\nThe CT scan also revealed several anatomical anomalies: a left-sided IVC with hemiazygos continuation, hepatic veins draining directly into the right atrium, polysplenia, and a short pancreas. These findings suggest that the patient has an unusual vascular and visceral anatomy, possibly indicative of polysplenia syndrome, also known as splenogonadal dysgenesis or bilateral superior spectrum. Polysplenia syndrome is characterized by abnormalities in visceral situs and vascular arrangements, often including a left-sided IVC, multiple small spleens (polysplenia), and other associated anomalies such as a short pancreas and hepatic vein drainage anomalies.\n\nGiven these anatomical variations, it's possible that the abdominal pain could be related to the short pancreas or other associated gastrointestinal anomalies. However, the CT scan did not identify any structural abnormalities to explain the pain, which makes the diagnosis more challenging.\n\nAnother consideration is visceral pain arising from the abdominal organs due to ischemia or other causes. Given the unusual vascular anatomy, there might be issues with blood flow to certain organs, leading to pain. However, without specific findings on imaging, this remains speculative.\n\nSince the lipase is normal, acute pancreatitis is less likely, but chronic pancreatitis or pancreatic insufficiency could still be possibilities, especially given the short pancreas. However, these conditions typically present with more specific symptoms and laboratory findings.\n\nThe mild elevation in CRP could suggest low-grade inflammation, which might be related to the abdominal pain, but it's nonspecific.\n\nGiven the absence of a clear structural cause on imaging and normal lipase levels, other differential diagnoses should be considered, such as non-organic causes like functional abdominal pain or anxiety, although this would typically present differently.\n\nIn summary, the patient has chronic abdominal pain with an unusual anatomical setup due to polysplenia syndrome. The abdominal pain is not explained by the imaging findings, and laboratory tests do not suggest an acute inflammatory process or pancreatitis. Further evaluation may be needed to uncover the cause of the pain, possibly including endoscopic evaluation, more detailed vascular imaging, or functional testing.\n\n### Answer:\n\nChronic abdominal pain with polysplenia syndrome and anomalous vascular anatomy, etiology to be determined."
+    },
+    "reasoning_eval": [
+        {
+            "step": "In this case, we have a 60-year-old male presenting with epigastric abdominal pain that has been ongoing for one month and has since become diffuse. The patient has no past medical history, personal history, or family history noted. Blood tests showed a lipase level of 60 IU/L and CRP of 7 mg/L. An abdominal ultrasound revealed two hepatic lesions that could not be characterized initially, but subsequent thoraco-abdomino-pelvic CT scan confirmed them as hemangiomas. The CT also revealed anatomic anomalies including a left-sided inferior vena cava (IVC) with hemiazygos continuation, hepatic veins draining directly into the right atrium, polysplenia, and a short pancreas. No structural abnormality was identified on imaging to explain the abdominal pain.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "First, let's consider the patient's age and presentation. At 60 years old, abdominal pain can be due to a variety of causes, ranging from benign conditions like gastritis or peptic ulcers to more serious issues such as pancreatic disease or vascular problems. The fact that the pain started in the epigastrium and has become diffuse suggests that the source may be related to organs in the upper abdomen, such as the stomach, pancreas, or liver.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Looking at the blood tests, the lipase level is 60 IU/L, which is within the normal range, suggesting that acute pancreatitis is unlikely. CRP of 7 mg/L indicates a mild elevation, which could suggest some degree of inflammation, but it's not significantly high, so the inflammation, if present, is mild.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The abdominal ultrasound showed two hepatic lesions that were later characterized as hemangiomas by CT scan. Hemangiomas are benign tumors of the liver and are usually asymptomatic, especially if small. Unless they are very large or causing compression of surrounding structures, they are unlikely to cause abdominal pain.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The CT scan also revealed several anatomical anomalies: a left-sided IVC with hemiazygos continuation, hepatic veins draining directly into the right atrium, polysplenia, and a short pancreas. These findings suggest that the patient has an unusual vascular and visceral anatomy, possibly indicative of polysplenia syndrome, also known as splenogonadal dysgenesis or bilateral superior spectrum. Polysplenia syndrome is characterized by abnormalities in visceral situs and vascular arrangements, often including a left-sided IVC, multiple small spleens (polysplenia), and other associated anomalies such as a short pancreas and hepatic vein drainage anomalies.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Given these anatomical variations, it's possible that the abdominal pain could be related to the short pancreas or other associated gastrointestinal anomalies. However, the CT scan did not identify any structural abnormalities to explain the pain, which makes the diagnosis more challenging.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Another consideration is visceral pain arising from the abdominal organs due to ischemia or other causes. Given the unusual vascular anatomy, there might be issues with blood flow to certain organs, leading to pain. However, without specific findings on imaging, this remains speculative.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Since the lipase is normal, acute pancreatitis is less likely, but chronic pancreatitis or pancreatic insufficiency could still be possibilities, especially given the short pancreas. However, these conditions typically present with more specific symptoms and laboratory findings.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The mild elevation in CRP could suggest low-grade inflammation, which might be related to the abdominal pain, but it's nonspecific.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Given the absence of a clear structural cause on imaging and normal lipase levels, other differential diagnoses should be considered, such as non-organic causes like functional abdominal pain or anxiety, although this would typically present differently.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: The patient's diffuse abdominal pain and imaging findings prompted an evaluation primarily to investigate potential malignancy suggested by hepatic lesions.",
+            "hit": true
+        },
+        {
+            "step": "Step 2: CT imaging confirmed the hepatic lesions as benign hemangiomas, ruling out malignancy as the cause of pain.",
+            "hit": true
+        },
+        {
+            "step": "Step 3: Pain was determined to be unrelated to the vascular anomaly.",
+            "hit": true
+        },
+        {
+            "step": "Step 4: Differential diagnoses such as pancreatitis or inflammatory/infectious causes were considered but ruled out due to normal lipase levels and lack of imaging evidence of pancreatic swelling or peripancreatic fat stranding.",
+            "hit": true
+        },
+        {
+            "step": "Step 5: Mildly elevated CRP levels were nonspecific and did not support an acute or chronic inflammatory/infectious process.",
+            "hit": true
+        },
+        {
+            "step": "Step 6: Incidental findings of a left-sided IVC with hemiazygos continuation and associated congenital anomalies (polysplenia, short pancreas) were identified through imaging.",
+            "hit": true
+        },
+        {
+            "step": "Step 7: These congenital anomalies were confirmed through imaging and were noted to have no clinical implications in this case.",
+            "hit": false
+        },
+        {
+            "step": "Step 8: No acute or chronic vascular issues, venous thromboembolism, or structural malformation syndromes requiring surgical intervention were identified.",
+            "hit": true
+        },
+        {
+            "step": "Step 9: The final diagnosis is congenital left-sided IVC with hemiazygos continuation, incidentally identified during thoraco-abdomino-pelvic CT imaging, and associated with polysplenia and a short pancreas.",
+            "hit": false
+        }
+    ],
+    "efficiency": 0.9,
+    "factulity": 1.0,
+    "recall": 0.7777777777777778
+}

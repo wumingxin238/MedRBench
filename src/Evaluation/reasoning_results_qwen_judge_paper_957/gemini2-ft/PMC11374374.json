@@ -1,0 +1,117 @@
+{
+    "raw_case": "\nRare confounder: benign multicystic peritoneal mesothelioma in a patient with mucinous colon adenocarcinoma\n\n\nAbstract\n\nBenign multicystic peritoneal mesothelioma (BMPM) is a rare condition, in which patients have multiple cystic lesions of the peritoneum. BMPM can mimic mucinous carcinomatosis and can thus create a diagnostic dilemma. We present the case of a 76-year-old woman who was referred for management of ascending colon adenocarcinoma and was noted to have several nonspecific cystic lesions in the abdomen and pelvis on preoperative computed tomography and diagnostic laparoscopy. Frozen section analysis suggested the lesions contained ‘mucin’. Due to concern for metastases, right colectomy was aborted. Final histologic analysis of the laparoscopic biopsies revealed mesothelial cysts, consistent with BMPM, unrelated to her colon adenocarcinoma. Laparoscopic right colectomy was performed 2 weeks later. BMPM can create diagnostic and therapeutic uncertainty in patients with known visceral malignancies when discovered incidentally. Frozen section analysis may not be accurate in differentiating the two, and final histologic confirmation should be sought prior to definitive treatment.\n\nIntroduction\n\nBenign multicystic peritoneal mesothelioma (BMPM) is a rare condition, with fewer than 200 known cases reported in the medical literature [1]. It is characterized by multiple cystic lesions of the peritoneum that carry a low risk of malignancy. It most commonly presents in pre-menopausal women with very few cases reported in post-menopausal women, or in men [2]. Risk factors are thought to include endometriosis, pelvic inflammatory disease, and prior abdominal surgery. The pathogenesis of this condition remains unclear, with some theories suggesting multicystic peritoneal mesothelioma develops in response to chronic irritation or inflammation of the peritoneum [1]. It should be noted that benign multicystic mesothelioma is unrelated to asbestos exposure, in contrast to pulmonary mesothelioma [3].Clinically, patients may present with abdominal discomfort or distention, but most cases are discovered incidentally during abdominal imaging or abdominal exploration for unrelated conditions. BMPM can often mimic other peritoneal conditions, and imaging studies are often unable to differentiate it from other possible lesions. Herein, we report a case where BMPM mimicked mucinous carcinomatosis, creating a diagnostic dilemma in a patient undergoing treatment of mucinous adenocarcinoma of the ascending colon.\n\nCase report\n\nA 76-year-old woman was referred for management of ascending colon adenocarcinoma. Her past surgical history was remarkable for bilateral salpingo-oophorectomy 20 years prior, cesarean section, and a left sided Spigelian hernia repair with intraperitoneal mesh. There was no personal or family history of colon cancer, Lynch syndrome, or polyposis. She reported a history of abdominal ‘cysts’ that were discovered incidentally at hysterectomy although no operative or pathology reports from that operation were available.Preoperative abdominal computed tomography revealed a mass in the ascending colon (Fig. 1) and multiple nonspecific cystic lesions in the peritoneal cavity involving the abdomen and pelvis (Fig. 2). Normally, carcinomatosis would be suspected in a patient with mucinous adenocarcinoma of the colon. However, the radiographic findings were not definitive for carcinomatosis, and the history of abdominal ‘cysts’ 20 years previously further confused the situation. The differential at the time included malignant carcinomatosis, benign endometriotic cysts, and cystic peritoneal reaction to previously placed intraperitoneal hernia mesh. Carcinoembryonic antigen measured 0.8 ng/mL.Diagnostic laparoscopy demonstrated multiple cystic lesions throughout the abdomen and pelvis (Figs 3 and 4). The gross appearance of these cysts was consistent with mucinous carcinomatosis. Laparoscopic excisional biopsy of several lesions was performed. Frozen section analysis revealed mucin but did not reveal evidence of metastatic adenocarcinoma. Colectomy was deferred due to concern for carcinomatosis, as if confirmed, she would likely be treated with neoadjuvant chemotherapy, restaging, followed by cytoreductive surgery (to include synchronous right colectomy) with heated intraperitoneal chemotherapy.However, the frozen section results were not confirmed on final histologic analysis of the excised lesions. Rather, the cystic lesions were found to contain mesothelial cysts, consistent with BMPM, unrelated to the patient’s primary colon adenocarcinoma.The patient underwent laparoscopic-assisted right colectomy with ileocolic anastomosis 2 weeks after initial diagnostic laparoscopy. Her postoperative course was uncomplicated, and she was discharged home on postoperative Day 3. Histologic evaluation of her right colon specimen revealed a pT2N0 (Stage I) mucinous adenocarcinoma with negative margins and no adverse histologic features.The patient provided informed consent for the collection and publication of information related to this case.\n\nDiscussion\n\nAs demonstrated in this case, BMPM may create a diagnostic dilemma, as its gross and radiographic appearance often mimics carcinomatosis. This is especially true in patients being treated for visceral adenocarcinoma. Patients may undergo needless treatments, or have appropriate treatment withheld, because of the mistaken radiographic diagnosis of carcinomatosis [4].The diagnosis is often not considered when patients are being staged prior to initiation of treatment for visceral malignancy, and it is challenging to differentiate BMPM from carcinomatosis radiographically. Thus, surgical excisional biopsy and histologic analysis may be required for definitive diagnosis. Frozen section analysis may not be adequate to make the diagnosis, as illustrated in this case, where BMPM was mistaken for mucinous implants on frozen section.Treatment options for benign multicystic mesothelioma include observation and excision, although recurrence rates of up to 50% after excision have dampened enthusiasm for excision in asymptomatic patients [3, 5]. Given the benign appearance of the lesions histologically, and her remote history of ‘abdominal cysts’ that have not caused her symptoms, we elected to follow her expectantly for this condition.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 76-year-old woman\n- **Chief Complaint:** None noted; presented for management of ascending colon adenocarcinoma.\n- **History of Present Illness:** Diagnosed with ascending colon adenocarcinoma, along with nonspecific cystic lesions observed on imaging.\n- **Past Medical History:** Significant for bilateral salpingo-oophorectomy 20 years prior, cesarean section, Spigelian hernia repair with mesh, and history of abdominal “cysts” noted at hysterectomy (details unavailable). No history of colon cancer, Lynch syndrome, or polyposis.\n- **Personal History:** None noted.\n- **Family History:** None noted.\n- **Physical Examination:** None specific to mention in the report.\n- **Ancillary Tests:** \n  - Preoperative CT scan showed ascending colon mass and multiple nonspecific peritoneal cystic lesions. \n  - Carcinoembryonic antigen: 0.8 ng/mL (low).\n  - Diagnostic laparoscopy revealed cystic lesions consistent grossly with possible mucinous carcinomatosis.\n  - Frozen section analysis of cystic lesion biopsies noted mucin but no metastatic adenocarcinoma.\n  - Final histologic analysis identified the cystic lesions as mesothelial cysts consistent with benign multicystic peritoneal mesothelioma (BMPM), unrelated to colon cancer.",
+        "differential_diagnosis": "1. **Initial Considerations:**\n   - The differential diagnosis included malignant mucinous carcinomatosis (a typical concern in mucinous adenocarcinoma), benign endometriotic cysts, and cystic reaction to prior abdominal mesh.\n\n2. **Evaluation Steps:**\n   - **Imaging:** CT scans were non-definitive for carcinomatosis but raised suspicion due to a mucinous adenocarcinoma and concurrent cystic lesions.\n   - **Frozen Sections:** Conducted during diagnostic laparoscopy, revealing mucin in the cysts but no evidence of metastatic adenocarcinoma, leaving the precise diagnosis unclear and forcing delays in colectomy pending more definitive histology.\n   - **Histology:** Final histologic analysis confirmed mesothelial cysts consistent with BMPM, a separate benign entity unrelated to the mucinous colon adenocarcinoma.\n\n3. **Rationale for Excluding Carcinomatosis:** \n   - Absence of adenocarcinoma cells in frozen section and final histology excluded metastases.\n   - Supporting factors: Absence of elevated carcinoembryonic antigen or symptoms pointing strongly to carcinomatosis.\n\n4. **Rationale for Confirming BMPM:**\n   - Final histology revealed mesothelial cysts, consistent with BMPM. \n   - BMPM's known mimicking of carcinomatosis explains the initial diagnostic dilemma.",
+        "final_diagnosis": "Benign Multicystic Peritoneal Mesothelioma (BMPM), unrelated to the patient's pT2N0 Stage I mucinous adenocarcinoma of the ascending colon. BMPM was confirmed by histologic examination of excised lesions, and colectomy for the colon adenocarcinoma was later performed uneventfully.",
+        "diagnosis_results": "Benign multicystic peritoneal mesothelioma (BMPM)."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-7-07",
+    "checked_rare_disease": [],
+    "id": "PMC11374374",
+    "results": {
+        "content": "### Resoning:\n<step 1> The patient is a 76-year-old woman presenting for management of ascending colon adenocarcinoma. This is the primary and confirmed diagnosis at the outset.\n<step 2> Preoperative imaging revealed nonspecific peritoneal cystic lesions, raising suspicion for potential metastatic disease or other peritoneal pathology associated with the colon cancer or as an independent finding.\n<step 3> Diagnostic laparoscopy was performed to investigate these cystic lesions, with initial gross suspicion for mucinous carcinomatosis, a possible manifestation of metastatic adenocarcinoma.\n<step 4> Frozen section analysis of biopsies from the cystic lesions revealed mucin but no metastatic adenocarcinoma. This finding is crucial in reducing the likelihood of immediate metastatic spread from the colon cancer within these cysts during the surgery.\n<step 5> Final histologic analysis of the cystic lesions definitively identified them as mesothelial cysts consistent with benign multicystic peritoneal mesothelioma (BMPM). This establishes the benign nature of the cystic lesions and importantly clarifies that they are unrelated to the colon adenocarcinoma.\n<step 6> Therefore, the patient has two distinct diagnoses: the primary ascending colon adenocarcinoma, for which she initially presented, and the incidentally discovered benign multicystic peritoneal mesothelioma, which is unrelated to her cancer. Both diagnoses are important to note for a complete understanding of her medical condition.\n\n### Answer:\nAscending colon adenocarcinoma and Benign multicystic peritoneal mesothelioma"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient is a 76-year-old woman presenting for management of ascending colon adenocarcinoma. This is the primary and confirmed diagnosis at the outset.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Preoperative imaging revealed nonspecific peritoneal cystic lesions, raising suspicion for potential metastatic disease or other peritoneal pathology associated with the colon cancer or as an independent finding.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Diagnostic laparoscopy was performed to investigate these cystic lesions, with initial gross suspicion for mucinous carcinomatosis, a possible manifestation of metastatic adenocarcinoma.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Frozen section analysis of biopsies from the cystic lesions revealed mucin but no metastatic adenocarcinoma. This finding is crucial in reducing the likelihood of immediate metastatic spread from the colon cancer within these cysts during the surgery.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Final histologic analysis of the cystic lesions definitively identified them as mesothelial cysts consistent with benign multicystic peritoneal mesothelioma (BMPM). This establishes the benign nature of the cystic lesions and importantly clarifies that they are unrelated to the colon adenocarcinoma.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Therefore, the patient has two distinct diagnoses: the primary ascending colon adenocarcinoma, for which she initially presented, and the incidentally discovered benign multicystic peritoneal mesothelioma, which is unrelated to her cancer. Both diagnoses are important to note for a complete understanding of her medical condition.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Initial considerations included malignant mucinous carcinomatosis, benign endometriotic cysts, and cystic reaction to prior abdominal mesh.",
+            "hit": false
+        },
+        {
+            "step": "CT scans suggested mucinous adenocarcinoma and cystic lesions but were non-definitive for carcinomatosis.",
+            "hit": false
+        },
+        {
+            "step": "Frozen sections during diagnostic laparoscopy showed mucin in cysts without evidence of metastatic adenocarcinoma, delaying colectomy.",
+            "hit": true
+        },
+        {
+            "step": "Final histology confirmed mesothelial cysts consistent with BMPM, unrelated to mucinous colon adenocarcinoma.",
+            "hit": true
+        },
+        {
+            "step": "Absence of adenocarcinoma cells in both frozen sections and final histology excluded metastases.",
+            "hit": true
+        },
+        {
+            "step": "Final diagnosis: Benign Multicystic Peritoneal Mesothelioma (BMPM), unrelated to pT2N0 Stage I mucinous adenocarcinoma of the ascending colon.",
+            "hit": true
+        },
+        {
+            "step": "Colectomy for the colon adenocarcinoma was later performed uneventfully.",
+            "hit": false
+        }
+    ],
+    "efficiency": 0.8333333333333334,
+    "factulity": 0.8,
+    "recall": 0.5714285714285714
+}

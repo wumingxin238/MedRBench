@@ -1,0 +1,120 @@
+{
+    "raw_case": "\nA rare case of extraskeletal Ewing sarcoma\nExtraskeletal Ewing Sarcoma is a rare tumor of the soft tissues. Primary Ewing Sarcoma of the lung is an exceedingly uncommon variant of Extraskeletal Ewing Sarcoma, with only a small number of cases reported in the literature. We present a case of a 43-year-old woman who presented with a locally invasive mass of the right lung, biopsy-proven to be Ewing Sarcoma.\n\nIntroduction\n\nEwing Sarcoma is a neuroectodermal tumor that most commonly arises from the bone in the pediatric patient population. Extraskeletal Ewing Sarcoma (EES) defines the subset of tumors occurring in the soft tissues outside of the axial or appendicular skeleton, comprising approximately 20%-30% of all cases of Ewing Sarcoma [1]. Primary pulmonary Ewing Sarcoma, a variant of EES, is exceedingly rare with only a small number of previously reported cases in the literature [2]. As is the case with Extraskeletal Ewing Sarcoma as a whole, Primary Ewing Sarcoma of the lung portends a poor prognosis, particularly in cases of advanced or metastatic disease.\n\nCase presentation\n\nA 43-year-old woman presented to the emergency department with shortness of breath, cough and right-sided chest pain for 2 months. Approximately one month before she presented to our institution, she was seen at an outside facility for similar symptoms. She was prescribed antibiotics at that time; however, her symptoms failed to improve.On presentation, her blood pressure was 134/75 mmHg. Her heart rate was 95 beats per minute and her respiratory rate was 14 breaths per minute. Her oxygen saturation was 93% on room air. On physical examination, she was alert and oriented to person, place, and time. She had a regular heart rate. She had decreased breath sounds and dullness to percussion over the mid to lower right hemithorax.An anteroposterior chest radiograph was performed. This showed an airspace opacity of the right mid to lower lung with a moderate volume right pleural effusion. A computed tomography (CT) scan of the chest, abdomen and pelvis was then performed (Fig. 1A, Fig. 1B, Fig. 1C, Fig. 1D). This demonstrated a mass of the right lung centered within the right middle lobe, measuring up to 16 cm in greatest dimension. The mass invaded the right hemidiaphragm, extending to involve the subdiaphragmatic space of the right upper quadrant. The mass also minimally invaded the right lateral chest wall, without involvement of the adjacent ribs. There were also several pathologically enlarged mediastinal lymph nodes in addition to a moderate volume pleural effusion.A core needle biopsy was performed. Pathologic analysis demonstrated solid cores of lung tissue with clustered, rounded blue cells with a generally undifferentiated appearance (Fig. 2). Fluorescence in situ hybridization testing was positive for the EWSR1-ERG gene translocation, diagnostic of Ewing Sarcoma.She was initiated on a regimen of chemotherapy, alternating between vincristine, adriamycin and cyclophosphamide with ifosfamide and etoposide, completing a total of 6 cycles. Follow-up fluorodeoxyglucose-positron emission tomography (FDG-PET) after this treatment demonstrated an overall positive radiographic response with decreased tumor bulk within the lung, however some persistent FDG-avid tumor in the right middle and upper lobes as well as within the right diaphragm and subdiaphragmatic space. The patient was subsequently evaluated by cardiothoracic surgery and underwent a right thoracotomy, right middle lobectomy, right upper lobe wedge resection, and diaphragmatic mass resection with diaphragmatic repair and resuspension.She continued chemotherapy following surgery with plans for future radiation therapy. However, a follow-up FDG-PET several months after surgery showed worsening disease burden with increasing right upper quadrant tumor bulk and multifocal metastases involving the pleura and abdominal wall musculature (Fig. 3A, Fig. 3B, Fig. 3C). The patient's clinical status declined over the next several months despite continued treatment and the decision was made to transition to hospice care.\n\nDiscussion\n\nExtraskeletal Ewing Sarcoma can arise from a variety of locations. This includes the paravertebral soft tissues, chest wall (the so-called ‘Askin tumor’), pelvis and lower limbs. The lung is an additional, albeit extraordinarily rare, site of origin with only a small number of cases previously reported in the literature [2].Microscopically, tumor cells of EES appear small, monomorphic and blue, containing large rounded nuclei [3]. Detection of chromosomal translocations involving the EWSR1 gene on chromosome 22 (such as EWSR1-EWS, EWSR1-ERG and EWSR1-FLI-1) within tumor cells is diagnostic of EES [4].The radiologic appearance of EES is nonspecific. Despite this, imaging plays an essential role in the diagnosis, staging, and preoperative evaluation of EES as well as in the assessment of treatment response [5]. On computed tomography, the tumor often appears as a mass with similar density to that of skeletal muscle with regular-appearing margins. Heterogeneous enhancement with intravenous contrast is typical, in part due to areas of necrotic change within the mass. Additionally, calcifications are seen in approximately 10% of cases [5]. On magnetic resonance imaging, the tumors are typically hypointense to isointense on T1, hyperintense on T2 and demonstrate variable, heterogeneous enhancement following intravenous Gadolinium infusion [5]. FDG-PET plays an important role in monitoring response to treatment and in the detection of disease recurrence [6].Surgical excision represents the mainstay of therapy in localized EES [1]. However, surgical therapy alone is often considered insufficient and chemotherapy with or without radiation therapy is also typically administered depending on several factors including tumor location, disease stage, and lesion resectability [7]. In cases where negative resection margins cannot be achieved, postoperative radiotherapy is routinely utilized to achieve greater local disease control [8]. Chemotherapy and radiation are the only treatment options in unresectable disease [9]. The estimated 5-year survival rate in patients with localized disease is 70%-80% [10]. Conversely, in cases of metastatic disease, the 5-year survival is estimated at 32% [10].\n\nConclusion\n\nExtraskeletal Ewing Sarcoma is an uncommon variant of the Ewing Sarcoma family of tumors, arising from the soft tissues outside of the skeleton. Ewing Sarcoma of the lung is exceptionally rare, with only a small number of cases reported in the literature. Surgery is the mainstay of treatment. Chemotherapy and radiation therapy are additional treatment options used in a variety of situations, including locally advanced, unresectable and metastatic disease.\n\nPatient consent\n\nWritten consent for publication was obtained from the patient prior to her death. Approval to publish this manuscript has been given by my institution, its legal representative and an ethics committee. Publication of this document is in accordance with the local legislation.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 43-year-old woman\n- **Chief Complaint:** Shortness of breath, cough, and right-sided chest pain for 2 months\n- **History of Present Illness:** Symptoms persisted despite antibiotic treatment administered at another facility one month earlier.\n- **Past Medical History:** None provided\n- **Personal History:** None provided\n- **Family History:** None provided\n- **Physical Examination:**\n  - Vital signs: BP 134/75 mmHg, HR 95 bpm, RR 14, O2 saturation 93% on room air\n  - Physical exam: Alert and oriented, regular heart rate, decreased breath sounds, and dullness to percussion over the right mid to lower hemithorax\n- **Ancillary Tests:**\n  - **Chest Radiograph:** Airspace opacity in the right mid to lower lung and moderate pleural effusion.\n  - **Chest CT Scan:** 16 cm right lung mass (right middle lobe), invading the diaphragm and subdiaphragmatic space, with mediastinal lymphadenopathy and pleural effusion.\n  - **Core Needle Biopsy:** Clustered blue cells with EWSR1-ERG gene translocation, diagnostic of Ewing Sarcoma.\n  - **Follow-up FDG-PET after initial chemotherapy:** Partial response but persistent FDG-avid tumor in the lung, diaphragm, and subdiaphragmatic space.\n  - **Subsequent FDG-PET after surgery and additional chemotherapy:** Worsened disease burden with increasing tumor bulk and metastases to the pleura and abdominal wall musculature.",
+        "differential_diagnosis": "- **Initial Considerations:**\n  - Differential diagnoses for a lung mass in an adult include primary lung carcinoma (e.g., adenocarcinoma, squamous cell carcinoma, small cell lung cancer), metastatic neoplasms, lymphoma, and rare primary tumors such as sarcomas.\n- **Exclusion of Other Diagnoses:**\n  - Lung carcinoma was less likely due to lack of imaging patterns or biopsy findings typical for adenocarcinoma, squamous cell carcinoma, or small cell lung cancer.\n  - Lymphoma was unlikely due to the absence of clinical features such as systemic B symptoms or lymph node patterns typical of lymphoma, as well as the specific histopathologic findings.\n  - Metastatic disease was unlikely given no identified primary malignancy and the absence of features suggestive of common metastatic tumors.\n- **Confirmation of Diagnosis:**\n  - Core needle biopsy findings of small, rounded, undifferentiated blue cells, combined with fluorescence in situ hybridization demonstrating EWSR1-ERG gene translocation, confirmed the diagnosis of Extraskeletal Ewing Sarcoma of the lung.",
+        "final_diagnosis": "Primary Extraskeletal Ewing Sarcoma of the lung, an exceedingly rare subtype characterized by the presence of an invasive right lung mass, supported by biopsy findings, genetic testing, and clinical presentation.",
+        "diagnosis_results": "Primary Extraskeletal Ewing Sarcoma of the lung."
+    },
+    "body_category": [
+        "Lungs and Breathing"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-7-6",
+    "checked_rare_disease": [
+        "Extraskeletal Ewing sarcoma"
+    ],
+    "id": "PMC11461951",
+    "results": {
+        "content": "### Resoning:\n<step 1> Initial assessment based on chief complaint and history: The patient presents with respiratory symptoms (shortness of breath, cough) and chest pain for 2 months. The persistence of symptoms despite antibiotic treatment suggests a non-infectious etiology or antibiotic resistance, prompting consideration of other causes such as malignancy, inflammation, or non-infectious respiratory conditions.\n\n<step 2> Analysis of physical examination findings:  Vital signs indicate mild tachycardia and slightly reduced oxygen saturation, suggesting some degree of respiratory compromise. The physical exam findings of decreased breath sounds and dullness to percussion over the right mid to lower hemithorax are highly suggestive of a pleural effusion and/or consolidation in the right lung.\n\n<step 3> Interpretation of chest radiograph and CT scan: The chest radiograph confirms airspace opacity and pleural effusion in the right mid to lower lung, corroborating the physical exam findings. The chest CT scan further elucidates the extent of the pathology, revealing a large (16 cm) right lung mass in the middle lobe with invasion into the diaphragm and subdiaphragmatic space.  The presence of mediastinal lymphadenopathy is indicative of potential regional spread. These findings strongly suggest a malignant process.\n\n<step 4> Diagnostic confirmation from core needle biopsy: The core needle biopsy result is crucial and provides a definitive diagnosis. The finding of \"clustered blue cells with EWSR1-ERG gene translocation\" is pathognomonic for Ewing Sarcoma. This confirms the malignancy as Ewing Sarcoma, a type of sarcoma that, while classically associated with bone, can occur in soft tissues and, rarely, as a primary lung tumor.\n\n<step 5> Evaluation of treatment response based on follow-up PET scans: The follow-up FDG-PET scan after initial chemotherapy shows a partial response, indicating some tumor shrinkage, but persistent FDG avidity in the lung, diaphragm, and subdiaphragmatic space suggests residual active tumor. The subsequent PET scan after surgery and additional chemotherapy reveals worsened disease burden with increased tumor bulk and development of metastases to the pleura and abdominal wall musculature. This signifies disease progression despite treatment and indicates metastatic disease.\n\n<step 6> Synthesis of all findings to determine final diagnosis:  Integrating all the clinical, radiological, pathological, and follow-up imaging information, the patient is diagnosed with Ewing Sarcoma of the lung.  The disease initially presented as a large primary lung mass, showed initial partial response to chemotherapy, but subsequently progressed with local recurrence and distant metastases to the pleura and abdominal wall musculature.  The final diagnosis should reflect the current, advanced stage of the disease.\n\n### Answer:\nEwing Sarcoma of the lung with pleural and abdominal wall metastases"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Initial assessment based on chief complaint and history: The patient presents with respiratory symptoms (shortness of breath, cough) and chest pain for 2 months. The persistence of symptoms despite antibiotic treatment suggests a non-infectious etiology or antibiotic resistance, prompting consideration of other causes such as malignancy, inflammation, or non-infectious respiratory conditions.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Analysis of physical examination findings:  Vital signs indicate mild tachycardia and slightly reduced oxygen saturation, suggesting some degree of respiratory compromise. The physical exam findings of decreased breath sounds and dullness to percussion over the right mid to lower hemithorax are highly suggestive of a pleural effusion and/or consolidation in the right lung.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Interpretation of chest radiograph and CT scan: The chest radiograph confirms airspace opacity and pleural effusion in the right mid to lower lung, corroborating the physical exam findings. The chest CT scan further elucidates the extent of the pathology, revealing a large (16 cm) right lung mass in the middle lobe with invasion into the diaphragm and subdiaphragmatic space.  The presence of mediastinal lymphadenopathy is indicative of potential regional spread. These findings strongly suggest a malignant process.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Diagnostic confirmation from core needle biopsy: The core needle biopsy result is crucial and provides a definitive diagnosis. The finding of \"clustered blue cells with EWSR1-ERG gene translocation\" is pathognomonic for Ewing Sarcoma. This confirms the malignancy as Ewing Sarcoma, a type of sarcoma that, while classically associated with bone, can occur in soft tissues and, rarely, as a primary lung tumor.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Evaluation of treatment response based on follow-up PET scans: The follow-up FDG-PET scan after initial chemotherapy shows a partial response, indicating some tumor shrinkage, but persistent FDG avidity in the lung, diaphragm, and subdiaphragmatic space suggests residual active tumor. The subsequent PET scan after surgery and additional chemotherapy reveals worsened disease burden with increased tumor bulk and development of metastases to the pleura and abdominal wall musculature. This signifies disease progression despite treatment and indicates metastatic disease.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Synthesis of all findings to determine final diagnosis:  Integrating all the clinical, radiological, pathological, and follow-up imaging information, the patient is diagnosed with Ewing Sarcoma of the lung.  The disease initially presented as a large primary lung mass, showed initial partial response to chemotherapy, but subsequently progressed with local recurrence and distant metastases to the pleura and abdominal wall musculature.  The final diagnosis should reflect the current, advanced stage of the disease.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Initial differential diagnoses for a lung mass in an adult include primary lung carcinoma (adenocarcinoma, squamous cell carcinoma, small cell lung cancer), metastatic neoplasms, lymphoma, and rare primary tumors like sarcomas.",
+            "hit": false
+        },
+        {
+            "step": "Lung carcinoma was less likely due to the absence of typical imaging or biopsy findings for adenocarcinoma, squamous cell carcinoma, or small cell lung cancer.",
+            "hit": false
+        },
+        {
+            "step": "Lymphoma was unlikely given the absence of clinical features such as systemic B symptoms or lymph node patterns typical of lymphoma, along with specific histopathologic findings.",
+            "hit": false
+        },
+        {
+            "step": "Metastatic disease was improbable due to the lack of an identified primary malignancy and the absence of features suggestive of common metastatic tumors.",
+            "hit": false
+        },
+        {
+            "step": "Core needle biopsy findings of small, rounded, undifferentiated blue cells, combined with fluorescence in situ hybridization demonstrating EWSR1-ERG gene translocation, confirmed the diagnosis of Extraskeletal Ewing Sarcoma of the lung.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Primary Extraskeletal Ewing Sarcoma of the lung, an exceedingly rare subtype characterized by an invasive right lung mass, supported by biopsy findings, genetic testing, and clinical presentation.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.0
+}

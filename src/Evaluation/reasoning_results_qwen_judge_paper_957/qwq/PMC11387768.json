@@ -1,0 +1,144 @@
+{
+    "raw_case": "\nAppendiceal intussusception due to endometriosis presenting as acute right lower quadrant pain\n\n\nAbstract\n\nAppendiceal intussusception is a rare condition characterized by the telescoping or invagination of a portion or the entire appendix into the caecum or within the appendix itself. Diagnosing appendiceal intussusception can be challenging due to its rarity, non-specific symptoms, and lack of awareness among physicians. We present a case report of appendiceal intussusception caused by endometriosis presenting with recurrent abdominal pain in a young female that was initially missed on CT scan and laparoscopy and eventually diagnosed on CT enterography.\n\nIntroduction\n\nAppendiceal intussusception is a rare condition characterized by the telescoping or invagination of a portion or the entire appendix into the caecum or within the appendix itself. The reported incidence of appendiceal intussusception in surgical specimens is remarkably low, estimated at 0.01%.1 This condition tends to affect adults more than children, with adult females twice as likely to be affected compared to males. The clinical presentation is often non-specific and can be variable. The symptoms can include acute abdominal pain, features of bowel obstruction, bleeding per rectum, or can even be asymptomatic. We present a case report of appendiceal intussusception presenting with recurrent abdominal pain in a young female.\n\nCase presentation\n\nA 21-year-old female presented to the emergency department with 12-h of sudden-onset right lower quadrant pain and nausea. The physical examination showed tenderness in her right lower quadrant without signs of rebound or guarding, and no tenderness at McBurney’s point or the umbilicus. Her laboratory tests were normal, except for mildly elevated leukocytes. An initial ultrasound of the abdomen and pelvis did not reveal significant abnormalities except for a 3 cm right ovarian cyst with low-level internal echoes, indicative of an endometrioma. A contrast-enhanced CT (CECT) of the abdomen and pelvis was subsequently performed. An axial CECT image demonstrated mesenteric fat telescoping into a bowel segment in the right lower quadrant, although the specific involved structures were not clearly identified (Figure 1). Due to persistent pain and indeterminate CT findings, she underwent a diagnostic laparoscopy, which was unrevealing. The patient was managed conservatively and discharged from the hospital upon symptomatic improvement. Over the next month, she experienced additional episodes of acute abdominal pain, leading to a follow-up CT enterography in an outpatient setting. Coronal and axial CT enterography images demonstrated a tubular structure within the caecum (Figure 2). The small bowel loops were normal. The tubular structure observed within the caecum was identified as the intussuscepted appendix. The ileocecal junction was distinctly visualized separate from the intussusception. The appendix was dilated along with mural thickening and hyperenhancement, suggestive of acute appendicitis. The CT scan did not reveal any discernible “lead point” associated with the intussusception.\n\nDiscussion\n\nThe findings were consistent with complete appendiceal intussusception into the caecum with acute appendicitis. The differential diagnoses that can be considered on CT include inverted colonic diverticulum, caecal polyp, and ileocolic intussusception. However, the appendix should typically be seen separately in each of these conditions, unless a history of appendectomy is present.Following the CT findings, the patient underwent an open appendectomy, confirming the diagnosis of appendiceal intussusception (Figure 3). The appendix could not be reduced intraoperatively, requiring a partial cecectomy for complete removal. The laparotomy also confirmed the presence of an endometrioma in the right ovary and showed numerous endometriotic deposits on the pelvic peritoneum. Histopathological examination revealed acute appendicitis with microscopic intramural endometriotic implants within the appendix (Figure 4).Endometriosis is the most common lead point in adults, accounting for approximately 33% of cases, as in the current case. Other lead points include mucocele (19%), adenoma (11%), carcinoid (7%), and adenocarcinoma (6%).2 Additionally, there is a noted association with ulcerative colitis as another contributing condition.3 In paediatric population, appendiceal intussusception is frequently caused due to appendicitis, foreign body, and lymphoid hyperplasia, and endometriosis.Diagnosing appendiceal intussusception is challenging, with literature suggesting that only 58% of cases are diagnosed presurgically.2 It may be missed on ultrasound due to artefacts from gas and faecal material in the caecum. When seen, ultrasound may demonstrate the concentric “target” or “donut” appearance of intussusception in the caecum, with concentric hyperechoic and hypoechoic layers of the bowel wall. Rarely, “lead points” such as endometrial implants may be seen on ultrasound as a hypoechoic nodule with posterior shadowing. Diagnosing appendiceal intussusception on CT can be challenging in cases with scant intraperitoneal fat and non-distended bowel loops. The appendix within the caecal lumen may be obscured by faecal material or may simply appear like caecal wall thickening. The typical CT appearance of appendiceal intussusception is a “sausage-shaped” blind-ending structure resembling an “inverted glove.” Associated telescoping of periappendiceal fat and ileocolic vessels may give a clue to the diagnosis. A lead point may be better demonstrated on CT in certain cases. Barium enema can demonstrate a “coiled-spring” appearance within the caecum from the contrast surrounding the unopacified appendix. However, it is rarely performed in adults for suspected intussusception. Endoscopy can be used but poses a risk of perforation or incomplete resection if biopsy or excision is attempted, as the appendix may resemble a polyp.4McSwain’s classification categorizes appendiceal intussusception into 5 types based on the region of the appendix that undergoes intussusception5:Type I: The tip of the appendix intussuscepts into the proximal appendix.Type II: Any part of the appendix intussuscepts into its adjacent part.Type III: The distal part of the appendix, at the junction with the caecum, intussuscepts into the caecum (not fully invaginated).Type IV: Any part of the appendix intussuscepts backwards towards its distal part.Type V: The entire appendix intussuscepts into the caecum.\n\nConclusion\n\nOur patient had McSwain Type V intussusception. The definitive management of appendiceal intussusception is appendectomy, often with caecal cuff resection.6 Appendiceal intussusception may be missed on laparoscopy if the appendix is completely invaginated. Our patient had a complete resolution of abdominal pain following the surgery.\n\nLearning points\n\nDiagnosing appendiceal intussusception can be challenging due to its non-specific presentation and low index of suspicion due to lack of awareness among clinicians.Endometriosis is the most common cause of appendiceal intussusception in adults.Definitive management requires open appendectomy with caecal cuff resection.\n\nAuthors contributions\n\nAll authors participated in patient care relevant to the case report and take responsibility for the drafting, and critical revision of the manuscript for important intellectual content.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 21-year-old female.\n- **Chief Complaint:** Sudden-onset right lower quadrant pain for 12 hours with associated nausea.\n- **History of Present Illness:** Recurrent abdominal pain with acute exacerbations over a span of one month.\n- **Past Medical History:** None reported.\n- **Personal History:** None reported.\n- **Family History:** None reported.\n- **Physical Examination:** Right lower quadrant tenderness; no rebound, guarding, or McBurney's point/umbilical tenderness.\n- **Ancillary Tests:** \n  - Initial blood tests showed mildly elevated leukocytes. \n  - Ultrasound: 3 cm right ovarian cyst (endometrioma), no abnormal findings in the appendix.\n  - Initial contrast-enhanced CT (CECT): Inconclusive findings with mesenteric fat telescoping into the bowel in the right lower quadrant.\n  - Follow-up CT enterography: Tubular structure (intussuscepted appendix) identified within the caecum, dilated appendix with mural thickening and hyperenhancement, suggestive of acute appendicitis. No discernible \"lead point\" identified.\n  - Intraoperative findings: Appendiceal intussusception into the caecum, endometrioma in right ovary, and pelvic peritoneal endometriotic deposits.\n  - Histopathology: Acute appendicitis and intramural endometriotic implants within the appendix.",
+        "differential_diagnosis": "1. **Initial consideration of acute abdominal pain etiologies:**\n   - Appendicitis was considered due to the location of pain, leukocytosis, and right lower quadrant tenderness. However, imaging was initially inconclusive.\n   - Ovarian pathology (e.g., ruptured cyst, endometrioma) was considered based on ultrasound findings.\n   - Other causes of right lower quadrant pain (e.g., ileocolic intussusception, colonic polyp, inverted diverticulum) were considered but less likely given inconclusive findings.\n\n2. **Reevaluation after recurring symptoms and follow-up imaging:**\n   - CT enterography specifically demonstrated appendiceal intussusception with signs of acute appendicitis (dilation, mural thickening, hyperenhancement). The appendix was telescoped into the caecum with no separate structure seen.\n   - Differential diagnoses at this step included:\n     - **Appendiceal intussusception:** Supported by CT findings showing a tubular structure with a \"sausage-shaped\" appearance in the caecum. Confirmed intraoperatively.\n     - **Inverted colonic diverticulum:** Excluded because the appendix was identified as part of the intussuscepted segment.\n     - **Caecal polyp:** Excluded based on imaging demonstrating the full invagination of the appendix.\n     - **Ileocolic intussusception:** Excluded due to separate visualization of the ileocecal junction during imaging.\n     - Ovarian endometrioma was confirmed but determined to be an associated condition rather than the primary cause of acute pain.\n\n3. **Final confirmation:**\n   - Intraoperative findings confirmed complete McSwain Type V appendiceal intussusception with histopathological evidence of acute appendicitis and intramural endometriotic implants.",
+        "final_diagnosis": "Appendiceal intussusception due to endometriosis presenting as acute right lower quadrant pain with concurrent acute appendicitis.",
+        "diagnosis_results": "Appendiceal intussusception due to endometriosis with acute appendicitis."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Pregnancy and Reproduction"
+    ],
+    "receive_time": "2024-8-17",
+    "checked_rare_disease": [],
+    "id": "PMC11387768",
+    "results": {
+        "content": "### Reasoning:\n\n**Step 1:** Start with the chief complaint and age of the patient.\n\nThe patient is a 21-year-old female presenting with sudden-onset right lower quadrant pain for 12 hours, accompanied by nausea. This presentation is classic for acute appendicitis, especially in this age group.\n\n**Step 2:** Consider the history of present illness.\n\nThe patient has had recurrent abdominal pain with acute exacerbations over the past month. This could suggest a chronic condition with acute worsening, such as inflammatory bowel disease, irritable bowel syndrome, or in this case, possibly related to gynecological issues given the patient's sex.\n\n**Step 3:** Examine the physical examination findings.\n\nThe physical exam reveals right lower quadrant tenderness without rebound, guarding, or tenderness at McBurney's point or the umbilicus. The absence of rebound and guarding suggests that there may not be significant peritoneal irritation, which could be at odds with a typical presentation of acute appendicitis. However, in early appendicitis or in cases where the inflammation is not yet severe, these signs might not be present.\n\n**Step 4:** Review the initial laboratory tests.\n\nInitial blood tests show mildly elevated leukocytes, which is consistent with an infectious or inflammatory process but is nonspecific.\n\n**Step 5:** Interpret the ultrasound findings.\n\nAn ultrasound was performed and showed a 3 cm right ovarian cyst, identified as an endometrioma, with no abnormal findings in the appendix. Endometriomas are common in women with endometriosis and can cause pelvic pain, but their presence does not preclude concurrent appendicitis.\n\n**Step 6:** Evaluate the initial contrast-enhanced CT (CECT) findings.\n\nThe initial CECT was inconclusive, showing mesenteric fat telescoping into the bowel in the right lower quadrant. This could be a normal variant or suggestive of some degree of bowel wall thickening or inflammation.\n\n**Step 7:** Assess the follow-up CT enterography findings.\n\nThe follow-up CT enterography revealed a tubular structure (intussuscepted appendix) within the cecum, a dilated appendix with mural thickening and hyperenhancement, all suggestive of acute appendicitis. The absence of a discernible \"lead point\" suggests that the intussusception may not have been caused by a mass or other structural abnormality.\n\n**Step 8:** Consider the intraoperative findings.\n\nIntraoperatively, appendiceal intussusception into the cecum was found, along with an endometrioma in the right ovary and pelvic peritoneal endometriotic deposits. This suggests that the endometriosis may have played a role in the development of appendiceal intussusception and subsequent appendicitis.\n\n**Step 9:** Review the histopathology results.\n\nHistopathology confirmed acute appendicitis and intramural endometriotic implants within the appendix. This indicates that the endometriosis involved the appendix, potentially leading to its intussusception and inflammation.\n\n**Step 10:** Synthesize all the information.\n\nGiven the patient's presentation, imaging findings, and histopathology, the diagnosis is acute appendicitis secondary to appendiceal intussusception, likely related to endometriotic implants within the appendix.\n\n### Answer:\n\nAcute appendicitis due to appendiceal intussusception associated with endometriosis."
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Step 1:** Start with the chief complaint and age of the patient.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "The patient is a 21-year-old female presenting with sudden-onset right lower quadrant pain for 12 hours, accompanied by nausea. This presentation is classic for acute appendicitis, especially in this age group.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 2:** Consider the history of present illness.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The patient has had recurrent abdominal pain with acute exacerbations over the past month. This could suggest a chronic condition with acute worsening, such as inflammatory bowel disease, irritable bowel syndrome, or in this case, possibly related to gynecological issues given the patient's sex.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 3:** Examine the physical examination findings.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The physical exam reveals right lower quadrant tenderness without rebound, guarding, or tenderness at McBurney's point or the umbilicus. The absence of rebound and guarding suggests that there may not be significant peritoneal irritation, which could be at odds with a typical presentation of acute appendicitis. However, in early appendicitis or in cases where the inflammation is not yet severe, these signs might not be present.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 4:** Review the initial laboratory tests.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Initial blood tests show mildly elevated leukocytes, which is consistent with an infectious or inflammatory process but is nonspecific.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 5:** Interpret the ultrasound findings.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "An ultrasound was performed and showed a 3 cm right ovarian cyst, identified as an endometrioma, with no abnormal findings in the appendix. Endometriomas are common in women with endometriosis and can cause pelvic pain, but their presence does not preclude concurrent appendicitis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Considered acute abdominal pain etiologies including appendicitis, ovarian pathology, and other right lower quadrant causes based on clinical presentation and initial imaging.",
+            "hit": true
+        },
+        {
+            "step": "Step 2: Reevaluated after recurring symptoms and follow-up CT enterography, which demonstrated appendiceal intussusception with signs of acute appendicitis, excluding other differential diagnoses like inverted colonic diverticulum, caecal polyp, and ileocolic intussusception.",
+            "hit": false
+        },
+        {
+            "step": "Step 3: Intraoperative findings confirmed complete McSwain Type V appendiceal intussusception with histopathological evidence of acute appendicitis and intramural endometriotic implants.",
+            "hit": false
+        },
+        {
+            "step": "Step 4: Final diagnosis: Appendiceal intussusception due to endometriosis presenting as acute right lower quadrant pain with concurrent acute appendicitis.",
+            "hit": false
+        }
+    ],
+    "efficiency": 0.8,
+    "factulity": 0.875,
+    "recall": 0.25
+}

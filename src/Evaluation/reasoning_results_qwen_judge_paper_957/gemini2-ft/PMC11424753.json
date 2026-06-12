@@ -1,0 +1,170 @@
+{
+    "raw_case": "\nCystic lymphangioma of the omental bursa in adult: A rare case report\nCystic lymphangioma is a benign lymphatic malformation that primarily affects children, with rare occurrences in adults. These malformations are most commonly found in the head and neck region, though their presence in the abdominal cavity is infrequent. In this report, we present the case of 71-year-old women with a cystic lymphangioma located in the omental bursa. The rarity of this condition in adults, combined with its unusual abdominal location, highlights the unique aspects of this case. This report explores the clinical presentation, diagnostic challenges, and management strategies for these uncommon lymphatic malformations.\n\nIntroduction\n\nCystic lymphangioma is a rare congenital malformation of the developing lymphatic system [1]. It primarily occurs in children, with over 90% of cases diagnosed in patients under 2 years old, and only 7% found in adults [2,3]. These malformations typically occur in the head and neck region, accounting for the majority of cases. Intraabdominal lymphangiomas in adults are particularly uncommon. Among these, cystic lymphangioma of the omental bursa is exceedingly rare, with only a few cases reported in the literature [4]. The omental bursa, also known as the lesser sac, is a compartment within the abdominal cavity, and its involvement in lymphangiomas presents unique diagnostic and therapeutic challenges.The clinical presentation of cystic lymphangioma can vary widely, often leading to misleading or nonspecific symptoms. This variability necessitates the use of complex imaging studies to accurately evaluate and diagnose the condition. Techniques such as MRI (magnetic resonance imaging), CT (computed tomography) scans, and ultrasound are critical in providing detailed images that help differentiate cystic lymphangiomas from other abdominal masses and guide appropriate management strategies.\n\nCase report\n\nA 71-year-old woman with no significant medical history presented with chronic epigastric pain that had progressively worsened over the past few years, while maintaining generally good overall health. Clinical examination revealed slight tenderness in the epigastric region, but no palpable mass was detected. Routine blood tests were normal, and upper gastrointestinal endoscopy showed no abnormalities.Abdominal ultrasound revealed a large cystic lesion with a few internal septa and thin wall located superior to the pancreas. The remainder of the abdomen appeared unremarkable. Contrast-enhanced computed tomography (CT) (Fig. 1) identified the lesion as a large, well-circumscribed cystic mass with a thin well and lobulated margins, measuring 9 × 5 × 6 cm, situated within the omental bursa. The lesion displaced the stomach anteriorly and exerted external compression on the body of the pancreas. It did not show any pathological enhancement following contrast agent injection. Biological tests and tumor markers were normal, and hydatid serology was negative. Based on these findings, a diagnosis of cystic lymphangioma was suggested. A complete surgical resection was carried out, and the pathological examination of the specimen confirmed the diagnosis of cystic lymphangioma (Fig. 2). The postoperative course was uneventful, and the patient's symptoms resolved completely following surgery.\n\nDiscussion\n\nCystic lymphangioma is a rare benign malformation of the lymphatic vessels that primarily manifests during childhood, and is rarely seen in adulthood. It most commonly affects the head and the neck (75%), and axillary region (20%) [5]. However, its occurrence in the abdominal cavity, including mesenterial and retroperitoneal locations, is extremely rare, representing less than 5% of all cases [6]. Additionally, only a few instances of lymphangiomas located in the omental bursa have been reported [4].Abdominal cystic lymphangiomas occur most commonly in the mesentery, followed by the greater omentum, the mesocolon, and the retroperitoneum [7].The etiology of cystic lymphangioma remains unclear. However, most researchers regard it as a congenital anomaly, caused by an obstruction in lymphatic tissue due to insufficient communication with the lymphatic drainage system during embryonic development. In adults, other proposed causes include abdominal trauma, lymphatic obstruction resulting from inflammation or cancer, as well as prior surgeries and radiation therapy [8].Clinically, most cystic lymphangiomas are asymptomatic and are often discovered incidentally. The clinical manifestations of abdominal cystic lymphangiomas vary widely depending on the size and location of the lesion. In symptomatic cases, patients may present with chronic abdominal pain, nausea, vomiting, weight loss and abdominal distension. Acute abdominal pain requiring surgery is not common [9].Abdominal ultrasound is the initial examination performed to determine whether the mass is cystic or solid. The characteristic ultrasound appearance of cystic lymphangioma is a well-defined, multilocular cystic mass with multiple thin septa. It is usually anechoic but may appear hyperechoic if it contains debris, a high lipid concentration, infection, or hemorrhage [10].On CT, lesions appear as cystic masses with homogeneous fluid density and no internal contrast enhancement after intravenous injection. It is rare for CT to demonstrate intrinsic septations.MRI is an essential diagnostic tool that provides a detailed evaluation of the extent of involvement with surrounding tissues, which is valuable for surgical planning. On MRI lymphangiomas appear hypointense or isointense compared to muscle on T1-weighted images and hyperintense on T2-weighted images [6] suggesting fluid content, with regular margins, thin walls, and internal septa; after gadolinium administration, the walls and the internal septa may show a contrast enhancement.Recognizing characteristic imaging features can enable early diagnosis and timely treatment of abdominal cystic lymphangioma [11].The diagnosis of cystic lymphangioma is definitively confirmed through histopathological examination. Pathologically, cystic lymphangiomas are characterized by dilated, thin-walled lymphatic channels with flat endothelial cells. It may show prominent stromal lymphoid tissue and proteinaceous fluid [12].The differential diagnosis for cystic lymphangioma of the omental bursa includes:•Teratoma: On CT and MRI, teratomas appear as cystic lesions with significant fat content and possible calcifications [13].•Primary Malignant Neoplasms: This category includes liposarcoma, leiomyosarcoma, and malignant gastrointestinal stromal tumors [14,15]. While their imaging characteristics are nonspecific, CT and MRI can reveal features suggestive of malignancy, such as invasion, hemorrhage, or necrosis.•Lymphadenopathy: Additional localizations of lymphadenopathy can assist in diagnosis.•Enteric Duplication Cyst: Imaging features of duplication cysts are nonspecific due to their variable locations [13].Complete surgical resection is considered the gold standard for managing intra-abdominal cystic lymphangiomas [11]. This approach is advised even in asymptomatic cases, as it helps to minimize the risk of complications and recurrence. The surgery can be performed either through laparotomy or laparoscopy, depending on the case specifics and surgeon's preference.Following complete resection, the prognosis is highly favorable, with recurrence being uncommon.\n\nConclusion\n\nIn summary, this case report highlights the rare occurrence of cystic lymphangioma in the omental bursa, a location infrequently documented in medical literature. The diagnosis was challenging due to the atypical presentation and the lesion's uncommon location within the abdominal cavity. Advanced imaging techniques, including CT and MRI, played a crucial role in identifying and characterizing the mass, guiding the surgical approach.\n\nPatient consent\n\nWritten informed consent for the publication of this case report was obtained from the patient.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 71-year-old woman\n- **Chief Complaint:** Chronic epigastric pain progressively worsening over the past few years\n- **History of Present Illness:** Chronic epigastric pain without resolution\n- **Past Medical History:** None significant\n- **Personal History:** None\n- **Family History:** None\n- **Physical Examination:** Slight tenderness in the epigastric region, no palpable mass\n- **Ancillary Tests:**\n  - Routine blood tests and tumor markers: Normal\n  - Abdominal ultrasound: Large cystic lesion with thin walls and internal septa, located superior to the pancreas\n  - Contrast-enhanced CT: Well-circumscribed, lobulated cystic mass in the omental bursa measuring 9 × 5 × 6 cm, displacing the stomach anteriorly and compressing the pancreatic body, without pathological enhancement\n  - Hydatid serology: Negative\n  - Post-resection histopathology: Confirmed cystic lymphangioma",
+        "differential_diagnosis": "1. **Initial Considerations:**\n   - Chronic abdominal symptoms and imaging findings of a cystic lesion required consideration of several possibilities, including cystic lymphangioma, teratoma, primary malignant neoplasms, duplication cyst, or lymphadenopathy.\n2. **Evaluation Process:**\n   - **Cystic Lymphangioma:** Supported by imaging findings of a multilocular cystic mass with thin walls, homogeneous fluid density, and normal blood/tumor markers. Definitively confirmed through histopathology after resection.\n   - **Teratoma:** Excluded due to a lack of imaging features like significant fat content or calcifications.\n   - **Primary Malignant Neoplasms (e.g., liposarcoma, leiomyosarcoma):** Excluded based on the absence of signs of malignancy such as invasion, hemorrhage, or necrosis on imaging.\n   - **Lymphadenopathy:** Excluded due to the lack of additional lymph node involvement.\n   - **Duplication Cysts:** Excluded as imaging lacked specific features supporting this diagnosis.\n3. **Rationale for Diagnosis:**\n   - The lesion's well-defined, cystic, and benign imaging characteristics, combined with negative tumor markers and pathology results, aligned closely with cystic lymphangioma.",
+        "final_diagnosis": "Cystic lymphangioma of the omental bursa. The diagnosis was confirmed by imaging and histopathological findings following complete surgical resection.",
+        "diagnosis_results": "Cystic lymphangioma of the omental bursa"
+    },
+    "body_category": [
+        "Immune System"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-8-8",
+    "checked_rare_disease": [],
+    "id": "PMC11424753",
+    "results": {
+        "content": "### Resoning:\n<step 1> **Analyze the Chief Complaint and History:** The patient is a 71-year-old woman presenting with chronic epigastric pain that has progressively worsened over several years. This chronicity suggests a slowly developing underlying condition. The lack of resolution despite the duration is also significant.\n\n<step 2> **Evaluate Past Medical, Personal, and Family History:**  The unremarkable past medical, personal, and family histories do not provide any specific clues or risk factors for common causes of epigastric pain. This directs the focus towards investigating potential organic pathologies rather than lifestyle or familial predispositions.\n\n<step 3> **Interpret Physical Examination Findings:** The physical examination reveals slight tenderness in the epigastric region but no palpable mass.  Tenderness is consistent with epigastric pain, but the absence of a palpable mass does not rule out intra-abdominal pathology, especially cystic lesions which might not be easily palpable.\n\n<step 4> **Assess Ancillary Tests - Initial Blood Tests and Tumor Markers:** Normal routine blood tests and tumor markers are helpful in excluding common systemic illnesses and certain malignancies as the primary cause of the epigastric pain. However, they do not rule out localized intra-abdominal pathology, particularly benign conditions or lesions that do not significantly alter systemic markers.\n\n<step 5> **Interpret Abdominal Ultrasound Findings:** The abdominal ultrasound reveals a \"large cystic lesion with thin walls and internal septa, located superior to the pancreas.\" This is a crucial finding, indicating a cystic mass in the upper abdomen. The description of thin walls and septa suggests a benign or low-grade cystic lesion. The location superior to the pancreas is important for anatomical localization.\n\n<step 6> **Interpret Contrast-Enhanced CT Findings:** The contrast-enhanced CT scan further characterizes the lesion as a \"well-circumscribed, lobulated cystic mass in the omental bursa measuring 9 × 5 × 6 cm, displacing the stomach anteriorly and compressing the pancreatic body, without pathological enhancement.\" This confirms the cystic nature and location in the omental bursa.  The size is significant, explaining the potential for chronic pain due to mass effect and organ displacement. The absence of pathological enhancement is a strong indicator against malignant cystic neoplasms, which typically show contrast enhancement.\n\n<step 7> **Evaluate Hydatid Serology:** The negative hydatid serology effectively rules out hydatid cyst as a diagnosis. Hydatid cysts are a differential for cystic lesions, especially in certain geographical areas, but this is excluded here.\n\n<step 8> **Consider Differential Diagnoses based on Imaging and Clinical Picture:** Based on the imaging (cystic lesion in omental bursa, thin walls, septa, no enhancement), and clinical presentation (chronic epigastric pain), the differential diagnoses before histopathology could include:\n    - Mesenteric cyst\n    - Omental cyst (including lymphangioma, mesothelial cyst)\n    - Pancreatic pseudocyst (less likely given location superior to pancreas and no history of pancreatitis)\n    - Cystic neoplasm of the pancreas or omentum (less likely due to lack of enhancement)\n\n<step 9> **Analyze Post-Resection Histopathology:** The \"post-resection histopathology: Confirmed cystic lymphangioma\" provides the definitive diagnosis. Histopathology is the gold standard for diagnosing tissue pathology.  Cystic lymphangioma is a benign tumor of lymphatic vessels, which perfectly fits the description of a cystic lesion with thin walls and septa. The location in the omental bursa is also a known site for lymphangiomas.\n\n<step 10> **Final Diagnostic Conclusion:**  Integrating all the findings, the chronic epigastric pain was caused by a large cystic lymphangioma in the omental bursa. The imaging characteristics were highly suggestive, and the histopathology definitively confirmed the diagnosis.\n\n### Answer:\nCystic lymphangioma"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Analyze the Chief Complaint and History:** The patient is a 71-year-old woman presenting with chronic epigastric pain that has progressively worsened over several years. This chronicity suggests a slowly developing underlying condition. The lack of resolution despite the duration is also significant.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Evaluate Past Medical, Personal, and Family History:**  The unremarkable past medical, personal, and family histories do not provide any specific clues or risk factors for common causes of epigastric pain. This directs the focus towards investigating potential organic pathologies rather than lifestyle or familial predispositions.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpret Physical Examination Findings:** The physical examination reveals slight tenderness in the epigastric region but no palpable mass.  Tenderness is consistent with epigastric pain, but the absence of a palpable mass does not rule out intra-abdominal pathology, especially cystic lesions which might not be easily palpable.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Assess Ancillary Tests - Initial Blood Tests and Tumor Markers:** Normal routine blood tests and tumor markers are helpful in excluding common systemic illnesses and certain malignancies as the primary cause of the epigastric pain. However, they do not rule out localized intra-abdominal pathology, particularly benign conditions or lesions that do not significantly alter systemic markers.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpret Abdominal Ultrasound Findings:** The abdominal ultrasound reveals a \"large cystic lesion with thin walls and internal septa, located superior to the pancreas.\" This is a crucial finding, indicating a cystic mass in the upper abdomen. The description of thin walls and septa suggests a benign or low-grade cystic lesion. The location superior to the pancreas is important for anatomical localization.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpret Contrast-Enhanced CT Findings:** The contrast-enhanced CT scan further characterizes the lesion as a \"well-circumscribed, lobulated cystic mass in the omental bursa measuring 9 × 5 × 6 cm, displacing the stomach anteriorly and compressing the pancreatic body, without pathological enhancement.\" This confirms the cystic nature and location in the omental bursa.  The size is significant, explaining the potential for chronic pain due to mass effect and organ displacement. The absence of pathological enhancement is a strong indicator against malignant cystic neoplasms, which typically show contrast enhancement.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Evaluate Hydatid Serology:** The negative hydatid serology effectively rules out hydatid cyst as a diagnosis. Hydatid cysts are a differential for cystic lesions, especially in certain geographical areas, but this is excluded here.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Consider Differential Diagnoses based on Imaging and Clinical Picture:** Based on the imaging (cystic lesion in omental bursa, thin walls, septa, no enhancement), and clinical presentation (chronic epigastric pain), the differential diagnoses before histopathology could include:\n    - Mesenteric cyst\n    - Omental cyst (including lymphangioma, mesothelial cyst)\n    - Pancreatic pseudocyst (less likely given location superior to pancreas and no history of pancreatitis)\n    - Cystic neoplasm of the pancreas or omentum (less likely due to lack of enhancement)",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Analyze Post-Resection Histopathology:** The \"post-resection histopathology: Confirmed cystic lymphangioma\" provides the definitive diagnosis. Histopathology is the gold standard for diagnosing tissue pathology.  Cystic lymphangioma is a benign tumor of lymphatic vessels, which perfectly fits the description of a cystic lesion with thin walls and septa. The location in the omental bursa is also a known site for lymphangiomas.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Final Diagnostic Conclusion:**  Integrating all the findings, the chronic epigastric pain was caused by a large cystic lymphangioma in the omental bursa. The imaging characteristics were highly suggestive, and the histopathology definitively confirmed the diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Initial considerations included cystic lymphangioma, teratoma, primary malignant neoplasms, duplication cyst, or lymphadenopathy given chronic abdominal symptoms and imaging findings of a cystic lesion.",
+            "hit": false
+        },
+        {
+            "step": "Cystic lymphangioma was supported by imaging showing a multilocular cystic mass with thin walls, homogeneous fluid density, and normal blood/tumor markers. It was definitively confirmed through histopathology after resection.",
+            "hit": false
+        },
+        {
+            "step": "Teratoma was excluded due to the absence of significant fat content or calcifications on imaging.",
+            "hit": false
+        },
+        {
+            "step": "Primary malignant neoplasms were ruled out based on the absence of signs of malignancy such as invasion, hemorrhage, or necrosis on imaging.",
+            "hit": false
+        },
+        {
+            "step": "Lymphadenopathy was excluded due to the lack of additional lymph node involvement.",
+            "hit": false
+        },
+        {
+            "step": "Duplication cyst was excluded as imaging lacked specific features supporting this diagnosis.",
+            "hit": false
+        },
+        {
+            "step": "The lesion's well-defined, cystic, and benign imaging characteristics, combined with negative tumor markers and pathology results, aligned closely with cystic lymphangioma.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Cystic lymphangioma of the omental bursa, confirmed by imaging and histopathological findings following complete surgical resection.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.0
+}

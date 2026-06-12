@@ -1,0 +1,102 @@
+{
+    "raw_case": "\nAn extremely rare case of presacral ganglioneuroma in a young male with lower back pain: First case report from Iraq\nLower back pain with radiculopathy is a common clinical presentation caused by several conditions, some of which are rare pathologies that could have been overlooked during an initial assessment. This case report presents a patient complaining of chronic lower back pain and radiculopathy who finally received a diagnosis for his presacral ganglioneuroma. This 32-year-old male case illustrates the need to investigate atypical back pain presentations through proper image studies and multidisciplinary collaboration. Broad differential diagnosis helps identify and manage rare underlying causes to avoid poor patient outcomes.\n\nIntroduction\n\nLower back pain associated with radiculopathy is an extremely common complaint seen in clinical practice, whereby many get attributed to various etiologies like disc herniation, spinal stenosis, or degenerative changes. However, some uncommon pathologies may be the underlying cause of the presenting symptoms. Hence, they need to be evaluated and appropriately managed. We present a case of lower back pain and radiculopathy due to an unusual cause in a 32-year-old male [1,2]. His medical and surgical histories were otherwise uneventful, but he complained of progressive lower back pain and radiculopathy in the left lower limb for the past 6 months. There was no associated symptom of urinary incontinence that might have supported another underlying pathology different from typical cauda equina syndrome [3,4].\n\nCase presentation\n\nA 32-year-old male presented with a 6-month history of persistent lower back pain radiating to the left lower limb. The pain was constant and dull, worsened with movement, and unresponsive to over-the-counter analgesia. There was no preceding history of trauma or previous back problems. The patient did not report any symptoms of urinary incontinence or saddle anesthesia, which are typically associated with cauda equina syndrome.On physical examination, the patient exhibited decreased muscular strength in the left lower limb (4/5), but sensation and deep tendon reflexes were preserved. Laboratory results showed a white blood cell count of 11,000/µL (normal range: 4000-11,000/µL), which was at the upper limit of normal, hinting at a possible inflammatory process. A random blood sugar level of 169 mg/dL (normal range: 70-140 mg/dL) was also noted, suggesting potential underlying glucose metabolism abnormalities. MRI imaging revealed a presacral mass, leading to the decision for surgical excision. Preoperative MRI images demonstrated axial, sagittal, and coronal views of the mass, with arrows indicating the presacral ganglioneuroma. These findings were consistent with a benign tumor, prompting the surgical intervention, as shown in (Fig. 1).During surgery, an 8 × 6 cm mass was excised. The mass had a soft, brownish appearance, raising the suspicion of a neural origin. Histopathological examination confirmed the diagnosis of ganglioneuroma, a rare benign tumor derived from neural crest cells of the sympathetic nervous system. Immunohistochemical staining was recommended for a definitive diagnosis.Postoperative imaging confirmed the successful removal of the presacral mass. MRI images provided a detailed view of the resection site and postoperative changes, which were crucial in assessing the surgical outcome and the condition of adjacent anatomical structures. The images highlighted the resection cavity and the extent of tissue changes, supporting the evaluation of the surgical excision site for any potential complications or residual tissue, as shown in (Fig. 2).Postoperatively, the patient experienced persistent weakness in the left lower limb, suggesting possible nerve involvement. The tumor's location in the presacral space raised concerns about compression or infiltration of the sacral nerve plexus, particularly the S1-S3 nerve roots, which could explain the patient's preoperative radiculopathy and postoperative neurological deficits.\n\nDiscussion\n\nGanglioneuromas are benign tumors originating from mature sympathetic ganglion cells. They are classified within the neuroblastoma spectrum, along with neuroblastomas and ganglioneuroblastomas [8]. They primarily emerge in the posterior mediastinum and retroperitoneum, mainly from the adrenal medulla [5]. These tumors are typically identified in individuals aged 10 to 30, with a slightly higher occurrence in females [6].Clinically, ganglioneuromas often become apparent at an advanced stage due to their gradual growth, which leads to pressure on spinal and sympathetic nerves, resulting in neural impairment [7]. They usually present as asymptomatic abdominal masses until they attain a large size that compresses surrounding structures [2]. Symptoms like constipation or pain may arise when the tumor compresses the rectum, sacral root, or lumbosacral plexus. The average diameter of these tumors is about 7 cm [2]. Therefore, our patient's case is particularly uncommon due to its presacral location, significant size, and the patient's gender.Histologically, ganglioneuromas are composed of mature sympathetic ganglion cells. Although they are usually considered benign, there have been reports of malignant transformation, either spontaneously or following radiotherapy. They commonly arise along the sympathetic chain, with the posterior mediastinum being the most frequent location, followed by the retroperitoneum, cervical region, and adrenal gland. Occurrences in bone are rare, with the presacral area being particularly uncommon [9].Regarding diagnostic evaluation, magnetic resonance imaging (MRI) remains the optimal noninvasive technique for the preoperative assessment of such lesions [5]. In MRI scans, ganglioneuromas can present with late contrast enhancement and appear as heterogeneous masses with high signal intensity on T2-weighted images. These features are also characteristic of other rare tumors, such as angiomyolipomas [10]. Therefore, differential diagnosis is important. Moreover, even a single fine-needle aspiration biopsy (FNAB) sample may yield a false diagnosis; thus, multiple tumor sites should be sampled to maximize the potential for accurate diagnosis [5]. Structural and morphological features of ganglioneuromas, including cells similar to those in the sympathetic ganglion, help distinguish them from other lesions like Schwannomas, neurofibromas, meningiomas, or cystic lesions [5].Complete surgical resection is the optimal modality of treatment for ganglioneuromas [6]. Radiotherapy should be avoided due to the rare but potential risk of inducing neoplastic transformation in an otherwise benign lesion [6].Ganglioneuromas typically remain asymptomatic for extended periods and are often linked with prolonged disease-free survival. Consequently, regular annual monitoring, including neurological assessments and pelvic magnetic resonance imaging, is essential, especially in cases where residual disease persists following surgical debulking [11].\n\nConclusion\n\nIn conclusion, this case report illustrates the diagnostic challenges and management considerations in a patient with lower back pain and radiculopathy from ganglioneuroma. A multidisciplinary approach involving clinicians, radiologists, and pathologists is essential for the timely diagnosis and optimal management of such rare pathologies.\n\nEthics approval\n\nOur institution does not require ethical approval to report individual cases or case series.\n\nPatient consent\n\nWritten informed consent was obtained from the patient for their anonymized information to be published in this article.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 32-year-old male.\n- **Chief Complaint:** Persistent lower back pain radiating to the left lower limb for 6 months.\n- **History of Present Illness:** Chronic dull, non-trauma-associated, non-responsive lower back pain with left lower limb radiculopathy; no urinary incontinence or saddle anesthesia.\n- **Past Medical History:** None.\n- **Personal History:** None.\n- **Family History:** Not mentioned.\n- **Physical Examination:** Decreased muscular strength in the left lower limb (4/5); preserved sensation and reflexes.\n- **Ancillary Tests:** \n  - Laboratory: White blood cell count at upper normal limit (11,000/µL); elevated random blood sugar (169 mg/dL).\n  - Imaging: MRI revealed a presacral mass.\n  - Histopathological examination: Confirmed ganglioneuroma after surgical excision.\n  - Postoperative imaging: Confirmed complete excision of the mass.",
+        "differential_diagnosis": "- Initial hypotheses based on chronic lower back pain with radiculopathy included common conditions such as intervertebral disc herniation, spinal stenosis, and degenerative changes.\n  - These were excluded due to the absence of associated trauma, absence of urinary incontinence or saddle anesthesia, preserved reflexes, and lack of improvement with standard treatment for common conditions.\n- Evaluation of atypical causes of radiculopathy and persistent lower back pain was pursued.\n  - MRI findings of a presacral mass led to consideration of rare causes such as ganglioneuroma, Schwannoma, neurofibroma, or meningioma.\n  - Histological evaluation of the excised mass confirmed it as ganglioneuroma, excluding other potential differential diagnoses.",
+        "final_diagnosis": "Presacral ganglioneuroma.",
+        "diagnosis_results": "Presacral ganglioneuroma."
+    },
+    "body_category": [
+        "Brain and Nerves"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-8-20",
+    "checked_rare_disease": [
+        "Ganglioneuroma"
+    ],
+    "id": "PMC11465045",
+    "results": {
+        "thinking_process": "Okay, let's tackle this case. The patient is a 32-year-old male with persistent lower back pain that's been going on for six months, radiating to his left lower limb. The pain is chronic, dull, not related to trauma, and hasn't responded to treatment. There's no urinary incontinence or saddle anesthesia, which makes me think it's not cauda equina syndrome. \n\nLooking at his history, he doesn't have any significant past medical or personal history. Family history isn't mentioned, so maybe not relevant here. On physical exam, his left lower limb has decreased muscle strength (4/5), but sensation and reflexes are normal. That's interesting because usually, with nerve compression, you might expect some sensory changes or reflex abnormalities, but here it's mostly motor weakness.\n\nThe lab tests show a white blood cell count at the upper normal limit (11,000/µL), which could be a stress response or maybe something else, but not super high. The random blood sugar is elevated at 169 mg/dL. Maybe he's diabetic or prediabetic? But how does that tie into the back pain?\n\nThe imaging results are key here. The MRI showed a presacral mass. Presacral masses can be a variety of things—tumors, cysts, etc. Then the histopathological exam confirmed it's a ganglioneuroma after surgery. Post-op imaging confirmed complete excision.\n\nGanglioneuromas are benign tumors of the sympathetic nervous system, typically arising from neural crest cells. They can occur in the retroperitoneum, including the presacral area. These tumors are slow-growing and usually asymptomatic unless they compress nearby structures. In this case, the mass's location in the presacral region could compress the lumbosacral nerve roots, leading to radiculopathy. The left lower limb radiculopathy aligns with nerve root compression, explaining the pain and muscle weakness. The preserved sensation and reflexes might be because the compression isn't severe enough to affect all nerve functions or maybe it's compressing a specific part of the nerve.\n\nThe elevated blood sugar is a bit puzzling. Ganglioneuromas can sometimes secrete catecholamines or other hormones, but they're generally non-secreting. However, if there's any hormonal activity, maybe it's affecting glucose metabolism. Alternatively, the elevated glucose could be incidental, like undiagnosed diabetes or a stress response from chronic pain. But the WBC is only slightly elevated, so maybe not a significant infection.\n\nPutting it all together: the chronic lower back pain with radiculopathy, the presacral mass on MRI, and the histopathology confirming ganglioneuroma. The mass was surgically removed, which should alleviate the compression. The symptoms he presented with are consistent with the mass effect of the ganglioneuroma compressing the nerve roots. The other lab findings might be incidental or related to other factors but aren't directly causing the primary issue here.",
+        "content": "```\n### Resoning:\n<step 1> The patient presents with chronic lower back pain and left lower limb radiculopathy, suggesting nerve root involvement. The absence of urinary incontinence or saddle anesthesia rules out cauda equina syndrome.  \n<step 2> Physical examination reveals left lower limb motor weakness (4/5) but preserved sensation and reflexes. This indicates focal nerve root compression rather than diffuse neurological damage.  \n<step 3> MRI identifies a presacral mass. Presacral masses can compress lumbosacral nerve roots, causing radiculopathy. Ganglioneuroma, confirmed histopathologically, is a benign neurogenic tumor originating from sympathetic ganglia.  \n<step 4> The tumor’s presacral location aligns with left-sided radiculopathy due to compression of sacral or lumbar nerve roots. The absence of systemic symptoms (e.g., fever, weight loss) supports a benign etiology.  \n<step 5> Elevated random blood sugar and mild leukocytosis are likely incidental or stress-related, as ganglioneuromas are non-secreting tumors. Postoperative imaging confirming complete excision further validates the diagnosis.  \n\n### Answer:\nGanglioneuroma-induced lumbosacral radiculopathy"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient presents with chronic lower back pain and left lower limb radiculopathy, suggesting nerve root involvement. The absence of urinary incontinence or saddle anesthesia rules out cauda equina syndrome.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Physical examination reveals left lower limb motor weakness (4/5) but preserved sensation and reflexes. This indicates focal nerve root compression rather than diffuse neurological damage.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "MRI identifies a presacral mass. Presacral masses can compress lumbosacral nerve roots, causing radiculopathy. Ganglioneuroma, confirmed histopathologically, is a benign neurogenic tumor originating from sympathetic ganglia.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The tumor’s presacral location aligns with left-sided radiculopathy due to compression of sacral or lumbar nerve roots. The absence of systemic symptoms (e.g., fever, weight loss) supports a benign etiology.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Elevated random blood sugar and mild leukocytosis are likely incidental or stress-related, as ganglioneuromas are non-secreting tumors. Postoperative imaging confirming complete excision further validates the diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Initial hypotheses based on chronic lower back pain with radiculopathy included common conditions such as intervertebral disc herniation, spinal stenosis, and degenerative changes, which were excluded due to the absence of associated trauma, absence of urinary incontinence or saddle anesthesia, preserved reflexes, and lack of improvement with standard treatment for common conditions.",
+            "hit": false
+        },
+        {
+            "step": "Evaluation of atypical causes of radiculopathy and persistent lower back pain was pursued, leading to consideration of rare causes such as ganglioneuroma, Schwannoma, neurofibroma, or meningioma based on MRI findings of a presacral mass.",
+            "hit": true
+        },
+        {
+            "step": "Histological evaluation of the excised mass confirmed it as ganglioneuroma, excluding other potential differential diagnoses.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Presacral ganglioneuroma.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.5
+}

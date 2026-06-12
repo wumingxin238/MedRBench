@@ -1,0 +1,108 @@
+{
+    "raw_case": "\nSymptomatic vascular ring due to double aortic arch: A report of two cases\nVascular ring anomalies, represented mainly by the double aortic arch (DAA), account for about 1% of congenital cardiovascular anomalies and are characterized by tracheoesophageal compression due to encircling vascular or ligamentous structures. These anomalies arise from the failure of the right fourth aortic arch to regress during embryonic development, leading to symptoms ranging from respiratory distress to dysphagia. Diagnostic imaging includes chest radiography, CT, MRI, and echocardiography, each with specific considerations, especially in pediatric patients. Management, often surgical, focuses on relieving compression symptoms and has a favorable prognosis. This case series emphasizes the manifestations of the double aortic arch, whether it be respiratory distress or dysphagia, and addresses both right and left dominant arches.\n\nIntroduction\n\nDouble aortic arch (DAA) is a rare congenital heart condition resulting from the improper regression of the fourth aortic arch during development, comprising less than 1% of congenital heart defects [1]. The timing of symptom onset can range from the newborn period to later in life. Infants usually exhibit symptoms such as stridor and dysphagia from tracheoesophageal compression. Various types of imaging modalities can be used to make the diagnosis ranging from prenatal ultrasound to cross-sectional imaging [2,3]. Early diagnosis and management in specialized care centers are crucial for positive outcomes since early surgical intervention generally has a good outcome [4].\n\nCase presentation\n\nOur first patient, a 1-year-old female, presented with persistent stridor since birth. Despite multiple treatments for respiratory infections, she showed no improvement. An initial chest X-ray was inconclusive. However, a subsequent post contrast chest CT scan revealed that the ascending aorta divided into right and left aortic arches, forming a complete vascular ring around the trachea and esophagus, with the right arch being dominant (Figs. 1A-C).The second patient, a 4-year-old female, came in with a progressive worsening of dysphagia. Initial investigations, including plain radiography, were unremarkable. A post contrast chest CT in her case also displayed the ascending aorta splitting into right and left aortic arches that encircle the trachea and esophagus. Here, however, the left arch was larger and causing significant esophageal compression (Figs. 2A-C).\n\nDiscussion\n\nVascular ring anomalies refer to a group of anomalies where there is a variable degree of encirclement of the trachea and esophagus by either vascular or ligamentous structures. They are said to represent approximately 1% of cardiovascular congenital anomalies [5]. Of these, the most common cause is a double aortic arch. These anomalies occur when there is a failure of the right fourth aortic arch to regress during 36-38 days of embryologic development leading to the persistence of both the right and left aortic arch [6]. In 70% of the cases, the right arch is dominant, extending more cephalad and more posterior than the left. Less commonly, in about 25%, the left side is dominant as in our second case, while the remaining 5% will have a balanced double aortic arch. The descending aorta is commonly described as coursing caudally opposite to the dominant arch [5,7]. Double aortic arch is only rarely associated with congenital heart disease and when that is the case, cyanotic heart diseases such as Tetralogy of Fallot predominate [8].The clinical manifestations of these patients can vary depending on the tightness of the ring around the trachea and esophagus; some patients are completely asymptomatic and others present late in adulthood [1]. Respiratory manifestations are frequently reported, such as recurrent respiratory infection, tachypnoea, cyanosis, stridor and wheezing exacerbated by crying, were reported in our first patient who presented with stridor since birth. GI symptoms such as poor feeding, and dysphagia, are less commonly encountered but were clinically evident as in our second patient [8].DAA can often be detected antenatally during mid-pregnancy since both aortic arches are typically patent, with the right aortic arch being more pronounced. While DAA usually occurs as an isolated abnormality, a thorough evaluation is necessary to exclude other potential cardiac and extracardiac anomalies and to assess the need for invasive prenatal genetic testing [3]. In some rare instances however, DAA can be diagnosed later in adulthood, which can be due to lack of significant compression in childhood and later changes in vascular elasticity [1,4].There are a variety of imaging modalities that can be used for the diagnosis of double aortic arch. A plain chest radiograph is a common initial modality that can clue us into the diagnosis, if prudently examined. A right sided aortic arch on chest X-ray with symptoms of tracheal compression is highly indicative of the presence of a vascular ring. Furthermore, lateral radiographs can also show anterior bowing of the trachea [5]. Although esophagograms were commonly used to determine whether or not a vascular ring abnormality is present, it is currently being replaced by the use of contrast enhanced CT and cardiac MRI [2]. However, there lies a debate on the choice between chest CT and MR for the diagnosis of these lesions. The fear of exposing pediatric patients to radiation is a significant concern when it comes to CT. Even though MRI does not use radiation or iodinated IV contrast agent, it requires a longer scanning time which may necessitate intubation for sedation. This can in turn interfere with tracheal wall assessment, crucial for management decisions. Therefore, the type of cross-sectional imaging chosen should be individualized based on specific needs of the patient [5,8]. Furthermore, echocardiography with doppler is also an important modality to utilize [6].Management of such patients is indicated for those who develop symptoms of tracheal or esophageal compression, which usually occurs around puberty. Identifying the dominant arch is important for surgical management, as lateral thoracostomy and ligation is done opposite to the dominant vessel [5]. Studies have shown that the prognosis for those who have undergone surgery is excellent [4]. However, some patients might develop recurrent respiratory infections as a result of compression-associated respiratory tract anomalies, such as tracheomalacia [7].\n\nConclusion\n\nIn conclusion, the two distinct cases of double aortic arch (DAA) we reported—an infant with a right-side dominant aortic arch presenting with prominent respiratory symptoms, and a 4-year-old child with a left-side dominant arch manifesting significant esophageal compression and dysphagia—exemplify the diverse clinical manifestations of this congenital cardiovascular anomaly. These cases underscore the necessity for early and accurate detection through prenatal screening and advanced imaging techniques, such as contrast-enhanced CT, for effective management. Timely surgical intervention, tailored to address the dominant arch, is critical for alleviating the compressive symptoms and has demonstrated excellent long-term outcomes.\n\nPatient consent\n\nComplete written informed consent forms were obtained from the patients' parents for the publication of this study and accompanying images.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:**\n  - **Case 1:** 1-year-old female.\n  - **Case 2:** 4-year-old female.\n\n- **Chief Complaint:**\n  - **Case 1:** Persistent stridor since birth.\n  - **Case 2:** Progressive worsening of dysphagia.\n\n- **History of Present Illness:**\n  - **Case 1:** Persistent stridor unresponsive to multiple respiratory infection treatments.\n  - **Case 2:** Gradual onset and worsening of feeding-related dysphagia.\n\n- **Past Medical History:** None reported in both cases.\n\n- **Personal History:** None provided.\n\n- **Family History:** None provided.\n\n- **Physical Examination:** Not explicitly detailed.\n\n- **Ancillary Tests:**\n  - **Case 1:** Initial chest X-ray inconclusive; post-contrast chest CT revealed a double aortic arch with a right dominant arch, causing a vascular ring around the trachea and esophagus.\n  - **Case 2:** Initial plain radiography unremarkable; post-contrast chest CT revealed a double aortic arch with a left dominant arch, causing significant esophageal compression.\n\n---",
+        "differential_diagnosis": "1. **Step 1: Evaluate tracheoesophageal compression disorders based on symptoms.**\n   - Persistent stridor in Case 1 and dysphagia in Case 2 indicate possible structural anomalies such as vascular ring, congenital stenosis, or esophageal atresia. Focus was narrowed to vascular ring due to typical compression symptoms and negative findings in other investigations (e.g., chest X-ray and plain radiography).\n\n2. **Step 2: Assess vascular rings, particularly double aortic arch (DAA).**\n   - Symptoms (stridor in Case 1, dysphagia in Case 2) and CT imaging findings confirmed a vascular ring caused by DAA encircling the trachea and esophagus. Left or right arch dominance correlated with the site of compression, suggesting the diagnosis of DAA.\n\n3. **Step 3: Exclude other vascular anomalies.**\n   - Symptoms were not compatible with aberrant subclavian arteries or other congenital heart defects, which were also ruled out using imaging studies.\n\n4. **Step 4: Confirm DAA diagnosis through imaging.**\n   - Post-contrast chest CT validated the diagnosis by revealing the anatomical anomaly (double aortic arch) and its effects (dominant arch compressing trachea/esophagus).\n\n---",
+        "final_diagnosis": "Double aortic arch (DAA) leading to symptomatic vascular ring:\n- **Case 1:** Right dominant arch causing tracheal compression and stridor.\n- **Case 2:** Left dominant arch causing esophageal compression and dysphagia.\n\n---",
+        "diagnosis_results": "Double aortic arch with symptomatic vascular ring."
+    },
+    "body_category": [
+        "Blood, Heart and Circulation"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-9-19",
+    "checked_rare_disease": [
+        "Encircling double aortic arch",
+        "Dysphagia lusoria"
+    ],
+    "id": "PMC11497123",
+    "results": {
+        "thinking_process": "Okay, let me start by looking at both cases. Both patients are young females with symptoms related to the respiratory and digestive systems. \n\nFor Case 1, the 1-year-old has had stridor since birth that hasn't responded to treatments for respiratory infections. Stridor in infants can be due to various causes like laryngomalacia, subglottic stenosis, or vascular rings. The fact that it's persistent since birth and not improving with infection treatments makes me think of a congenital anomaly. The chest CT showed a double aortic arch with a right dominant arch. Vascular rings, like a double aortic arch, can compress the trachea and esophagus, leading to stridor and breathing difficulties.\n\nCase 2 is a 4-year-old with progressive dysphagia, especially during feeding. Dysphagia in children can be from structural issues or neuromuscular problems. The CT here also shows a double aortic arch, but with a left dominant arch causing esophageal compression. A vascular ring would explain the difficulty swallowing as the esophagus gets compressed by the abnormal aortic arch.\n\nDouble aortic arch is a congenital condition where two aortic arches form a ring around the trachea and esophagus. Depending on which arch is dominant (right or left), the compression can vary. Both cases have imaging confirming this, so even though the symptoms differ (stridor vs. dysphagia), the underlying cause is the same. \n\nI need to check if there are other possible diagnoses. For Case 1, laryngomalacia is common but usually improves with age. Subglottic stenosis might show on imaging. Since the CT already shows the vascular ring, that's the key finding. For Case 2, other causes like eosinophilic esophagitis or strictures might be considered, but the CT again points to the double aortic arch.\n\nNo other medical history or family history provided, so congenital is the main angle. Both CT scans are conclusive for double aortic arch. Therefore, both cases have the same diagnosis despite different presentations.",
+        "content": "```\n### Resoning:\n<step 1> Both cases involve young female patients (1-year-old and 4-year-old) with congenital-onset symptoms: persistent stridor (Case 1) and progressive dysphagia (Case 2). These symptoms suggest structural compression of the trachea and/or esophagus.  \n<step 2> The key diagnostic clue is the post-contrast chest CT findings in both cases, which reveal a double aortic arch. Vascular rings, such as a double aortic arch, are congenital anomalies that encircle and compress the trachea and esophagus, explaining the stridor and dysphagia.  \n<step 3> Case 1’s right dominant double aortic arch creates tracheal compression (stridor), while Case 2’s left dominant arch primarily compresses the esophagus (dysphagia). The dominance of one arch determines the severity and location of compression.  \n<step 4> Alternative diagnoses (e.g., laryngomalacia, gastroesophageal reflux, or foreign body) are excluded due to the imaging confirmation of a vascular ring and the lack of response to prior treatments targeting infections or other common causes.  \n\n### Answer:\nDouble aortic arch (vascular ring)"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Both cases involve young female patients (1-year-old and 4-year-old) with congenital-onset symptoms: persistent stridor (Case 1) and progressive dysphagia (Case 2). These symptoms suggest structural compression of the trachea and/or esophagus.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The key diagnostic clue is the post-contrast chest CT findings in both cases, which reveal a double aortic arch. Vascular rings, such as a double aortic arch, are congenital anomalies that encircle and compress the trachea and esophagus, explaining the stridor and dysphagia.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Case 1’s right dominant double aortic arch creates tracheal compression (stridor), while Case 2’s left dominant arch primarily compresses the esophagus (dysphagia). The dominance of one arch determines the severity and location of compression.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Alternative diagnoses (e.g., laryngomalacia, gastroesophageal reflux, or foreign body) are excluded due to the imaging confirmation of a vascular ring and the lack of response to prior treatments targeting infections or other common causes.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Evaluate tracheoesophageal compression disorders based on symptoms, focusing on persistent stridor in Case 1 and dysphagia in Case 2, indicating possible structural anomalies such as vascular ring, congenital stenosis, or esophageal atresia. The diagnosis was narrowed to a vascular ring due to typical compression symptoms and negative findings in other investigations (e.g., chest X-ray and plain radiography).",
+            "hit": true
+        },
+        {
+            "step": "Step 2: Assess vascular rings, particularly double aortic arch (DAA), confirming the diagnosis based on symptoms (stridor in Case 1, dysphagia in Case 2) and CT imaging findings showing a vascular ring caused by DAA encircling the trachea and esophagus. Left or right arch dominance correlated with the site of compression, suggesting the diagnosis of DAA.",
+            "hit": true
+        },
+        {
+            "step": "Step 3: Exclude other vascular anomalies, ruling out symptoms compatible with aberrant subclavian arteries or other congenital heart defects using imaging studies.",
+            "hit": false
+        },
+        {
+            "step": "Step 4: Confirm DAA diagnosis through post-contrast chest CT, validating the anatomical anomaly (double aortic arch) and its effects (dominant arch compressing trachea/esophagus).",
+            "hit": true
+        },
+        {
+            "step": "Final diagnosis:",
+            "hit": false
+        },
+        {
+            "step": "Double aortic arch (DAA) leading to symptomatic vascular ring:",
+            "hit": true
+        },
+        {
+            "step": "- Case 1: Right dominant arch causing tracheal compression and stridor.",
+            "hit": false
+        },
+        {
+            "step": "- Case 2: Left dominant arch causing esophageal compression and dysphagia.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.625
+}

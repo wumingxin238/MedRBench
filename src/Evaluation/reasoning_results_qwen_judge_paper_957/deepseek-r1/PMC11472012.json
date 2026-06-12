@@ -1,0 +1,101 @@
+{
+    "raw_case": "\nEmphysematous hepatitis: A case report and review of literature\nEmphysematous hepatitis (EH) is a recently described gas forming liver infection, often associated with diabetes mellitus. It is often associated with poor prognosis, with rapidly fatal course in most reported cases. Its diagnosis is based on CT findings when an extensive gas replacing the liver parenchyma is present. We report the case of a 77-year-old woman with history of diabetes mellitus who presented in the emergency department with acute onset of cutaneomucous jaundice and fever, and in whom an abdominopelvic CT scan showed findings consistent with emphysematous hepatitis. EH is a rare condition with high mortality rate, however early diagnosis can be crucial in order to decrease mortality.\n\nIntroduction\n\nAbdomino-pelvic gas-forming infections represent potentially life-threatening conditions that require aggressive medical and often surgical management. They have been widely recognized in the urinary tract, gallbladder, uterus, stomach, and pancreas [1]. Emphysematous hepatitis (EH) is a rare and recently described entity, first described in 2002 by Blachar et al. [2], and only few cases of emphysematous hepatitis have been described after that, most of them had a rapidly fatal course [3]. The pathogenesis of EH is poorly understood, although diabetes mellitus commonly coexists [4]. Its diagnosis is based on typical radiological findings on computed tomography and characterized by the presence of extensive gas replacing of the liver parenchyma without mass effect of any fluid collection [4]. Early diagnosis of this entity is crucial in order to decrease mortality.We report a case of an emphysematous hepatitis in a 77-year-old woman.\n\nCase presentation\n\nA 77-year-old female patient with a history of treated hypertension and diabetes mellitus presented to the emergency department with acute onset cutaneomucous jaundice, associated with abdominal pain and fever. The initial clinical examination revealed a conscious patient, normotensive at 120 mmHg with a heart rate of 110 beats per minute, and stable respiratory status. The abdominal examination revealed rigidity of the right upper quadrant. Blood glucose was 5 g/L, and urinary dipstick was positive, suggestive of diabetic ketoacidosis (DKA). Laboratory investigations showed leukocytosis at 19,000/mm3, thrombocytopenia at 50,000/mm3, CRP at 343 mg/l, AST at 753 UI/l, ALT at 647 UI/l, conjugated bilirubin at 104 mg/l, gamma-GT at 108 UI/l, and ALP at 707 UI/l.Abdominal ultrasound revealed a large acoustic shadow measuring 123 mm in the right liver lobe, primarily suggestive of a liver abscess (Fig. 1).Additional CT imaging with contrast enhancement (Fig. 2) confirmed the presence of a poorly limited area in the sixth hepatic segment containing multiple gas bubbles without enhancement wall nor collection, measuring 120 × 113 mm, associated with infiltration of the perihepatic fat. These findings were consistent with the EH.The patient was managed initially with DKA rehydration protocol and broad-spectrum antibiotic therapy (ceftriaxone + metronidazole) and scheduled for radiological drainage. However, few hours after admission, she rapidly altered her consciousness and developed a septic shock with hypotension of 70/30 mmHg and tachypnea of 26 cycles per minute. The patient was immediately intubated and placed on norepinephrine with broadening of the antibiotic spectrum by introduction of vancomycin and fluconazole while maintaining metronidazole. Despite these resuscitative measures, the septic shock was refractory and the patient subsequently passed away 24 hours after admission.Blood cultures revealed later on the presence of a multidrug-resistant Escherichia coli.\n\nDiscussion\n\nEmphysematous hepatitis (EH) is an exceedingly rare yet severe and life-threatening infection. To our best knowledge, it was reported in only 18 cases in the literature [[1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15], [16], [17], [18]]. Among these cases, 11 were female, and diabetes mellitus was noted in 11 patients. The age range varied between 38 and 82 years old, with a mean age of 66 years old. EH proved fatal for 12 patients. Those who survived were diagnosed promptly and underwent aggressive treatment with antibiotics, radiological drainage and/or urgent laparotomy with surgical debridement. In our case, our patient was female and had a history of diabetes. Our patient passed away after rapid installation of refractory septic shock.The pathogenesis of this necrotizing infection remains unclear, it is probably due to mixed acid fermentation from tissue necrosis by bacteria resulting in formation of nitrogen (60%), hydrogen (15%), carbon dioxide (5%), oxygen (5%) and the impaired transport of these products of catabolism from the production site [1,4,7]. Some authors also suppose that this mixed acid fermentation is due to a superinfection of an infarcted liver parenchyma by one of the following germs: Streptococcus mutans, Enterococcus faecalis, E. coli, Klebsiella, Enterobacter, Pseudomonas, and Proteus [1].Clinical symptoms in EH are often nonspecific, with fever and abdominal pain being the most common symptoms [3,4]. Biological investigations often show increased white cells and CRP, and abnormal liver function tests with cytolysis and increased bilirubin [3].The diagnostic criteria for EH rely on computed tomography findings, which are crucial for prompt and accurate diagnosis. These criteria include the replacement of liver parenchyma with gas, without evidence of fluid collections, abscess formation, or mass effect [[1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15], [16], [17], [18]].Early recognition is crucial in attempts to decrease mortality, although the fatality of this condition remains very high. For the rare cases reported who survived, management of EH included aggressive antibiotics therapy and radiological drainage, sometimes followed by a laparotomy with surgical debridement [1,3,4,15,17].\n\nPatient consent\n\nWritten informed consent was obtained from a legally authorized representative(s) for anonymized patient information to be published in this article.",
+    "generate_case": {
+        "case_summary": "- Patient Information: 77-year-old woman.\n- Chief Complaint: Acute onset of cutaneomucous jaundice, fever, and abdominal pain.\n- History of Present Illness: None.\n- Past Medical History: Hypertension, diabetes mellitus.\n- Personal History: None.\n- Family History: None.\n- Physical Examination: Conscious; normotensive (120 mmHg); heart rate 110 bpm; stable respiratory status; rigidity in the right upper quadrant of the abdomen.\n- Ancillary Tests:\n  - Blood glucose: 5 g/L; urinary dipstick: positive (diabetic ketoacidosis).\n  - Laboratory findings showed leukocytosis (19,000/mm³), thrombocytopenia (50,000/mm³), CRP 343 mg/L, elevated liver enzymes (AST 753 UI/L, ALT 647 UI/L), conjugated bilirubin 104 mg/L, gamma-GT 108 UI/L, ALP 707 UI/L.\n  - Abdominal ultrasound: Acoustic shadow in the right liver lobe, suggestive of a liver abscess.\n  - Abdominopelvic CT: Gas pockets replacing liver parenchyma without fluid collection, consistent with emphysematous hepatitis.\n  - Blood cultures: Multidrug-resistant Escherichia coli.",
+        "differential_diagnosis": "- The patient’s acute jaundice, fever, and abdominal pain prompted evaluation for hepatic or biliary pathology. The initial suspicion was a liver abscess, based on ultrasound, but CT scan findings of extensive liver gas replacement excluded typical abscess formation.\n- The presence of fever, elevated CRP, leukocytosis, and gas formation within the liver raised concern for emphysematous infections, a rare clinical entity.\n- Diabetic ketoacidosis and the patient’s history of diabetes mellitus highlighted her predisposition to gas-forming infections like emphysematous hepatitis.\n- Blood cultures later confirmed the presence of multidrug-resistant E. coli, supporting an infectious etiology.\n- Other differentials such as biliary obstruction or ischemic liver disease were less likely due to the CT findings specific to gas formation replacing liver parenchyma.",
+        "final_diagnosis": "Emphysematous hepatitis (EH) due to multidrug-resistant Escherichia coli in a diabetic patient, complicated by refractory septic shock.",
+        "diagnosis_results": "Emphysematous hepatitis (EH)"
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-8-12",
+    "checked_rare_disease": [],
+    "id": "PMC11472012",
+    "results": {
+        "thinking_process": "Okay, let's start by looking at the patient's chief complaints: acute jaundice, fever, and abdominal pain. She's 77, which makes infections more likely due to possible weakened immunity. Her past medical history includes hypertension and diabetes, and diabetes is a known risk factor for infections, especially if not well-controlled.\n\nFirst, the lab results show leukocytosis (high white blood cells) and elevated CRP, both pointing to an infection. Thrombocytopenia could be due to sepsis. The liver enzymes (AST, ALT) are significantly elevated, along with conjugated hyperbilirubinemia, indicating a cholestatic picture. The ALP and gamma-GT are also up, which aligns with liver or biliary issues. The ultrasound shows a liver abscess, which is a big clue. But the CT scan mentions gas pockets in the liver parenchyma without fluid, which makes me think emphysematous hepatitis. Emphysematous infections usually involve gas-forming organisms, and the blood cultures growing E. coli fits here because E. coli can cause such infections, especially in diabetics.\n\nWait, the blood glucose is 5 g/L. Wait, that's 500 mg/dL, which is very high. Diabetic ketoacidosis (DKA) is mentioned by the urinary dipstick. DKA can predispose to infections, including liver abscess. But in this case, the CT shows gas in the liver, which is more specific for emphysematous hepatitis. Emphysematous hepatitis is rare but serious. It's different from a typical liver abscess because of the gas formation. The combination of DKA, E. coli bacteremia, and imaging findings makes emphysematous hepatitis the likely diagnosis. Also, the thrombocytopenia and high inflammatory markers support severe sepsis or septic shock, which can complicate such infections.\n\nPutting it all together: the patient has diabetes, presenting with DKA, signs of sepsis, liver dysfunction, imaging showing gas in the liver, and positive blood cultures for E. coli. Emphysematous hepatitis caused by multidrug-resistant E. coli is the most probable diagnosis here. The acute jaundice is from the liver infection and possible biliary obstruction, but the imaging doesn't show stones, so the main issue is the infectious process in the liver with gas formation.",
+        "content": "```\n### Resoning:\n<step 1> The patient presents with acute cutaneomucous jaundice, fever, and abdominal pain. Elevated conjugated bilirubin, ALP, gamma-GT, and liver enzymes (AST/ALT) indicate cholestatic liver injury. The presence of leukocytosis, thrombocytopenia, and elevated CRP strongly suggests a severe systemic infection.\n\n<step 2> Abdominal ultrasound reveals a liver abscess in the right lobe. However, the CT findings of gas pockets replacing liver parenchyma without fluid collection are pathognomonic for emphysematous hepatitis, a rare, life-threatening condition characterized by gas-forming bacterial infection of the liver.\n\n<step 3> Blood cultures identifying multidrug-resistant Escherichia coli confirm a bacterial etiology. Diabetic ketoacidosis (evidenced by hyperglycemia and urinary dipstick positivity) in a patient with diabetes mellitus creates an immunosuppressive and hyperglycemic environment that predisposes to severe infections, including gas-forming organisms.\n\n<step 4> The triad of jaundice, fever, and right upper quadrant rigidity, combined with imaging and lab results, rules out other causes (e.g., cholangitis, cholecystitis) and confirms emphysematous hepatitis secondary to E. coli sepsis. Thrombocytopenia and leukocytosis further support sepsis as a complication.\n\n### Answer:\nEmphysematous hepatitis due to multidrug-resistant Escherichia coli sepsis."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient presents with acute cutaneomucous jaundice, fever, and abdominal pain. Elevated conjugated bilirubin, ALP, gamma-GT, and liver enzymes (AST/ALT) indicate cholestatic liver injury. The presence of leukocytosis, thrombocytopenia, and elevated CRP strongly suggests a severe systemic infection.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Abdominal ultrasound reveals a liver abscess in the right lobe. However, the CT findings of gas pockets replacing liver parenchyma without fluid collection are pathognomonic for emphysematous hepatitis, a rare, life-threatening condition characterized by gas-forming bacterial infection of the liver.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Blood cultures identifying multidrug-resistant Escherichia coli confirm a bacterial etiology. Diabetic ketoacidosis (evidenced by hyperglycemia and urinary dipstick positivity) in a patient with diabetes mellitus creates an immunosuppressive and hyperglycemic environment that predisposes to severe infections, including gas-forming organisms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The triad of jaundice, fever, and right upper quadrant rigidity, combined with imaging and lab results, rules out other causes (e.g., cholangitis, cholecystitis) and confirms emphysematous hepatitis secondary to E. coli sepsis. Thrombocytopenia and leukocytosis further support sepsis as a complication.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "The patient's symptoms of acute jaundice, fever, and abdominal pain suggested hepatic or biliary pathology, initially suspecting a liver abscess.",
+            "hit": false
+        },
+        {
+            "step": "CT scan findings of extensive liver gas replacement excluded typical abscess formation, pointing towards another condition.",
+            "hit": false
+        },
+        {
+            "step": "Fever, elevated CRP, leukocytosis, and gas within the liver raised concern for emphysematous infections, a rare clinical entity.",
+            "hit": false
+        },
+        {
+            "step": "Diabetes mellitus and diabetic ketoacidosis in the patient's history indicated a predisposition to gas-forming infections like emphysematous hepatitis.",
+            "hit": true
+        },
+        {
+            "step": "Blood cultures confirmed multidrug-resistant E. coli, supporting an infectious cause.",
+            "hit": true
+        },
+        {
+            "step": "CT findings of gas formation replacing liver parenchyma made biliary obstruction and ischemic liver disease less likely.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Emphysematous hepatitis (EH) due to multidrug-resistant Escherichia coli in a diabetic patient, complicated by refractory septic shock.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.42857142857142855
+}

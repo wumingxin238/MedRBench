@@ -1,0 +1,116 @@
+{
+    "raw_case": "\nBone abnormalities in congenital syphilis: A case report\nCongenital syphilis, caused by Treponema pallidum, can be transmitted from mother to fetus at any stage of pregnancy, leading to significant neonatal complications. This case report describes a 33-week preterm newborn with a history of untreated gestational syphilis in the mother. At birth, the newborn's serological tests were positive for syphilis, and radiographs of the long bones revealed metaphyseal abnormalities consistent with metaphysitis.These findings highlight the importance of early radiological evaluation in newborns with suspected congenital syphilis. Despite the absence of clinical symptoms, X-rays can detect bone changes indicative of early complications, enabling timely diagnosis and intervention to improve outcomes. This case emphasizes the crucial role of radiographic imaging in the management of congenital syphilis.\n\nIntroduction\n\nTreponema pallidum is the causative agent of syphilis, an infection that can be transmitted from mother to fetus, leading to congenital syphilis [1]. This transmission can occur in any trimester of pregnancy via the transplacental route or during delivery through direct contact with an infected lesion [2]. In 2016, the global prevalence of syphilis in pregnant women was estimated at 0.69%, leading to an overall rate of 473 cases of congenital syphilis per 100,000 live births [3]. Transplacental transmission rates vary depending on the stage of the mother's disease, with the highest rates occurring in untreated primary or secondary syphilis (60-100%) and significantly lower rates in early (40%) and late latent syphilis (less than 8%) [2].The clinical spectrum of congenital syphilis is wide, ranging from asymptomatic cases to severe forms with risks of fetal mortality, premature delivery, and multisystem involvement in the neonate [4]. Although bone involvement is more common in adult tertiary syphilis, it is also a frequent manifestation in congenital syphilis in children. In pediatric cases, the metaphyses of long bones, which have high metabolic activity and rich vascularization, are particularly susceptible to hematogenous infection, explaining the prevalence of metaphysitis [4]. However, due to the rarity and variability of osteoarticular manifestations, diagnosing and treating these complications can be challenging [5].In this article, we present the case of a 33-week preterm newborn with a maternal history of untreated gestational syphilis and positive syphilis serology at birth. Radiographs of the long bones revealed signs of metaphysitis.\n\nCase presentation\n\nA female newborn, born at 33 weeks gestation, with a history of inadequate prenatal care and a mother with incompletely treated gestational syphilis. Due to her clinical condition and history, serological testing revealed a positive nontreponemal test (RPR) with a titer of 1:128. A radiograph of the long bones showed radiolucent bands with a transverse orientation, accompanied by sclerotic lines above and below these areas. Additionally, the distal ends of both the radius and ulna exhibited sclerotic, irregular borders. A transverse osteolytic lesion involving more than 50% of the metaphysis was identified along the medial margin of the proximal femoral metaphysis (Fig. 1). Based on these radiological and laboratory findings, a 10-day course of antibiotics was initiated, leading to appropriate clinical improvement.\n\nDiscussion\n\nSyphilis can be transmitted at any stage of pregnancy, with vertical transmission primarily influenced by 2 factors: the stage of maternal syphilis and the duration of fetal exposure in utero [6]. The risk of congenital infection is highest in women with early-stage syphilis, with a probability ranging from 40% to 70% during any trimester. In cases of late-stage syphilis, this risk decreases to approximately 10% [7]. It is estimated that each year, one million pregnant women worldwide contract syphilis, and without adequate treatment, this can lead to more than 300,000 fetal and neonatal deaths [8].Fetal infection can be severe, leading to complications such as anemia, hepatomegaly, and hydrops. While approximately 40% of infected newborns may present without obvious clinical signs at birth, they are at an increased risk of preterm delivery. They may develop significant hematological, hepatobiliary, and skeletal abnormalities [7].Bone abnormalities typically affect the long bones, skull, and ribs [9]. The most common bone changes include osteitis (0.7%), metaphysitis (24%), and periosteal reaction (34%) [10]. In the early stages of the disease, bilateral periosteal and metaphyseal abnormalities in the long bones of the appendicular skeleton are distinctive radiological features, observed in approximately 90% of symptomatic infants and 20% of asymptomatic infants with positive serology at birth [11], as seen in our patient.Bone alterations in congenital syphilis are associated with both systemic and localized processes that disrupt normal bone growth, resulting in fragile and disorganized metaphyses. These changes increase the bones' susceptibility to minor trauma and infection, which can lead to conditions like osteomyelitis during childhood [12]. Infections may spread to subperiosteal space, with the periosteum and perichondrium acting as barriers that can generate lamellar calcifications. These calcifications, which may resemble a “celery stalk” or layers of an onion, can form in multiple layers and may be confined to the metaphysis or extend across the bone [13]. Studies have shown that 20% of asymptomatic newborns with positive treponemal serology present abnormalities on long bone radiographs [6]. This highlights the importance of performing long bone radiographs in patients with suspected or confirmed congenital syphilis. Radiographic imaging allows for the early detection of bone abnormalities, even in asymptomatic newborns, enabling timely diagnosis and treatment. Identifying these lesions early helps prevent complications such as fractures or severe infections, improving the patient's prognosis. Moreover, radiographs can confirm the diagnosis when clinical signs are absent.\n\nConclusion\n\nThis case underscores the importance of early diagnosis in newborns suspected of congenital syphilis, especially in children of untreated infected mothers. Congenital syphilis can present without obvious symptoms, but bone abnormalities, such as metaphyseal changes, are findings that should be detected through X-rays of long bones. These images help identify early complications, even in asymptomatic patients, which is crucial for preventing severe complications and improving prognosis. Therefore, radiological evaluation is an essential tool for the timely diagnosis of these bone lesions.\n\nPatient consent\n\nThe reported case was reviewed and approved, and individual patient consent was obtained following institutional guidelines.",
+    "generate_case": {
+        "case_summary": "- Patient Information: Female, 33-week preterm newborn.\n- Chief Complaint: None mentioned.\n- History of Present Illness: Born to a mother with inadequately treated gestational syphilis; no immediate clinical symptoms.\n- Past Medical History: None.\n- Personal History: None applicable (newborn).\n- Family History: Maternal history of untreated gestational syphilis.\n- Physical Examination: No notable clinical symptoms described.\n- Ancillary Tests: Positive nontreponemal serology test (RPR titer of 1:128). Radiographs of the long bones showed radiolucent transverse bands with adjacent sclerotic lines, irregular sclerotic borders on the distal radius and ulna, and a transverse osteolytic lesion in the proximal femoral metaphysis.",
+        "differential_diagnosis": "- Congenital syphilis was considered due to maternal syphilis history, positive serology at birth, and characteristic radiographic findings (e.g., metaphysitis, sclerotic changes, and transverse radiolucent bands typical of congenital syphilis).\n- Other infectious causes of bone abnormalities (e.g., congenital cytomegalovirus or rubella) were less likely due to the absence of systemic findings such as hepatosplenomegaly or other congenital anomalies and the specific radiological appearance associated with congenital syphilis.\n- Metabolic or genetic bone diseases, such as rickets or osteogenesis imperfecta, were ruled out because the presentation of radiographic features (especially metaphyseal lesions) in the context of syphilis was diagnostic.\n\nThe typical radiographic findings and syphilis-positive serology correlated well with congenital syphilis, leading to exclusion of other diagnoses.",
+        "final_diagnosis": "Congenital syphilis with associated bone abnormalities, specifically metaphysitis.",
+        "diagnosis_results": "Congenital syphilis with metaphysitis."
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-9-26",
+    "checked_rare_disease": [
+        "Congenital syphilis"
+    ],
+    "id": "PMC11625107",
+    "results": {
+        "content": "### Resoning:\n<step 1> **Identify the Patient Population and Risk Factor:** The patient is a 33-week preterm newborn. The most critical piece of information is the maternal history of inadequately treated gestational syphilis. This immediately raises a high suspicion for congenital syphilis in the newborn.\n\n<step 2> **Analyze Serological Evidence:** The newborn has a positive nontreponemal serology test (RPR) with a high titer of 1:128. In the context of maternal syphilis, a positive RPR in a newborn strongly suggests congenital syphilis. While maternal antibodies can cross the placenta and cause a positive RPR in the newborn even without infection, the high titer and the history of inadequately treated maternal syphilis increase the likelihood of true infection in the newborn.\n\n<step 3> **Evaluate Radiographic Findings:** The radiographs of the long bones show several significant abnormalities:\n    - Radiolucent transverse bands with adjacent sclerotic lines: This is a classic radiographic finding in congenital syphilis, often described as \"metaphyseal bands\" or \"celery stalk metaphysis\". It represents syphilitic osteochondritis and metaphysitis.\n    - Irregular sclerotic borders on the distal radius and ulna: This further supports the diagnosis of syphilitic bone involvement, indicating irregular bone formation and inflammation.\n    - Transverse osteolytic lesion in the proximal femoral metaphysis: This represents bone destruction due to the syphilitic infection.\n\nThese radiographic findings are highly specific and characteristic of congenital syphilis, particularly syphilitic osteochondritis.\n\n<step 4> **Correlate Clinical Presentation:** The case summary mentions \"no notable clinical symptoms described.\"  It's important to note that many infants with congenital syphilis can be asymptomatic at birth, or have subtle symptoms that might be easily missed. The absence of reported symptoms does not rule out congenital syphilis, especially when strong risk factors (maternal syphilis) and supportive ancillary tests (positive serology and characteristic radiographs) are present.  Early congenital syphilis can often be asymptomatic but can progress to symptomatic disease if untreated.\n\n<step 5> **Synthesize Information and Formulate Diagnosis:** Combining the maternal history of inadequately treated gestational syphilis, the positive RPR titer in the newborn, and the highly specific radiographic findings of syphilitic osteochondritis, the diagnosis of congenital syphilis is strongly supported. The radiographic findings are almost pathognomonic for congenital syphilis in this clinical context.\n\n<step 6> **Final Diagnostic Conclusion:** Based on the totality of evidence, the most definitive diagnosis is congenital syphilis, specifically early congenital syphilis given the newborn age and lack of mention of late-stage manifestations. The radiographic findings indicate bone involvement, a hallmark of congenital syphilis.\n\n### Answer:\nCongenital Syphilis"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Identify the Patient Population and Risk Factor:** The patient is a 33-week preterm newborn. The most critical piece of information is the maternal history of inadequately treated gestational syphilis. This immediately raises a high suspicion for congenital syphilis in the newborn.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Analyze Serological Evidence:** The newborn has a positive nontreponemal serology test (RPR) with a high titer of 1:128. In the context of maternal syphilis, a positive RPR in a newborn strongly suggests congenital syphilis. While maternal antibodies can cross the placenta and cause a positive RPR in the newborn even without infection, the high titer and the history of inadequately treated maternal syphilis increase the likelihood of true infection in the newborn.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Evaluate Radiographic Findings:** The radiographs of the long bones show several significant abnormalities:\n    - Radiolucent transverse bands with adjacent sclerotic lines: This is a classic radiographic finding in congenital syphilis, often described as \"metaphyseal bands\" or \"celery stalk metaphysis\". It represents syphilitic osteochondritis and metaphysitis.\n    - Irregular sclerotic borders on the distal radius and ulna: This further supports the diagnosis of syphilitic bone involvement, indicating irregular bone formation and inflammation.\n    - Transverse osteolytic lesion in the proximal femoral metaphysis: This represents bone destruction due to the syphilitic infection.\n\nThese radiographic findings are highly specific and characteristic of congenital syphilis, particularly syphilitic osteochondritis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Correlate Clinical Presentation:** The case summary mentions \"no notable clinical symptoms described.\"  It's important to note that many infants with congenital syphilis can be asymptomatic at birth, or have subtle symptoms that might be easily missed. The absence of reported symptoms does not rule out congenital syphilis, especially when strong risk factors (maternal syphilis) and supportive ancillary tests (positive serology and characteristic radiographs) are present.  Early congenital syphilis can often be asymptomatic but can progress to symptomatic disease if untreated.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Synthesize Information and Formulate Diagnosis:** Combining the maternal history of inadequately treated gestational syphilis, the positive RPR titer in the newborn, and the highly specific radiographic findings of syphilitic osteochondritis, the diagnosis of congenital syphilis is strongly supported. The radiographic findings are almost pathognomonic for congenital syphilis in this clinical context.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Final Diagnostic Conclusion:** Based on the totality of evidence, the most definitive diagnosis is congenital syphilis, specifically early congenital syphilis given the newborn age and lack of mention of late-stage manifestations. The radiographic findings indicate bone involvement, a hallmark of congenital syphilis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Congenital syphilis was considered due to maternal syphilis history, positive serology at birth, and characteristic radiographic findings (e.g., metaphysitis, sclerotic changes, and transverse radiolucent bands typical of congenital syphilis).",
+            "hit": true
+        },
+        {
+            "step": "Other infectious causes of bone abnormalities (e.g., congenital cytomegalovirus or rubella) were less likely due to the absence of systemic findings such as hepatosplenomegaly or other congenital anomalies and the specific radiological appearance associated with congenital syphilis.",
+            "hit": false
+        },
+        {
+            "step": "Metabolic or genetic bone diseases, such as rickets or osteogenesis imperfecta, were ruled out because the presentation of radiographic features (especially metaphyseal lesions) in the context of syphilis was diagnostic.",
+            "hit": false
+        },
+        {
+            "step": "The typical radiographic findings and syphilis-positive serology correlated well with congenital syphilis, leading to exclusion of other diagnoses.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Congenital syphilis with associated bone abnormalities, specifically metaphysitis.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.4
+}

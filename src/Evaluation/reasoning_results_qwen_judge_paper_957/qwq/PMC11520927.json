@@ -1,0 +1,144 @@
+{
+    "raw_case": "\nIncidental aortic valve papillary fibroelastoma diagnosed by transesophageal echocardiography in a patient undergoing coronary artery bypass surgery: a case report\n\n\nAbstract\n\nPapillary fibroelastoma of aortic valve is a rare benign tumor that can present with symptoms of obstruction or embolization and can be asymptomatic. The main stay of diagnosis is echocardiography. The size of the tumor affects the sensitivity of transthoracic echocardiography which can miss small size tumors. The treatment is surgical resection. Here, we report a case of papillary fibroelastoma of aortic valve that was detected intraoperatively by transesophageal echocardiography and was missed by transthoracic echocardiography in a patient undergoing coronary artery surgery. The tumor was resected successfully with preservation of aortic valve with no complication. This case highlights importance of intraoperative transesophageal echocardiography in making the diagnosis.\n\nIntroduction\n\nPapillary fibroelastoma (PFE) is a rare benign tumor that can vary in size and symptomatology. The mainstay of diagnosis is echocardiography with higher sensitivity of transesophageal echocardiography (TEE) over transthoracic echocardiography (TTE) in tumor detection. Here, we report a rare case of PFE of aortic valve in a patient scheduled to undergo coronary artery bypass graft (CABG) surgery where TEE made the diagnosis that was missed by preoperative TTE.\n\nCase report\n\nA 55-year-old man with hypertension and hyperlipidemia presented to our hospital with non-ST-segment myocardial infarction (NSTEMI). He was a smoker with no family history of heart disease. Patient was having class III angina for the previous 6 months but never sought medical help. He had no shortness of breath and no history of previous cerebrovascular accident (CVA). The patient underwent coronary angiogram that showed triple vessel disease with chronically occluded right coronary artery. Preoperative TTE showed left ventricular ejection fraction of 50% with mild mitral valve regurgitation and no aortic valve disease (Fig. 1A). Chest radiography was normal and his preoperative blood tests including C-reactive protein, Erythrocyte sedimentation rate (ESR), and complete blood count were normal. Blood cultures were negative. Patient underwent CABG during the same hospitalization due to his recurrent chest pain. Intraoperative TEE (Fig. 1B) showed a mass in the undersurface (ventricular side) of the non-coronary cusp (NCC) of aortic valve with normal valve function (tri leaflet valve). The differential diagnosis at that time included vegetation, calcification, or tumor. Median sternotomy was performed with ascending aorta and right atrial venous cannulation. CABG was performed with left internal mammary artery anastomosis to left anterior descending artery and reverse saphenous vein graft anastomosis to obtuse marginal artery. The aortic valve was exposed through transverse aortotomy and the mass was visualized in the ventricular side of NCC of aortic valve measuring 6 × 5 mm. It was white in color, rounded with some fronds (Fig. 2). The aortic valve was tri-leaflet valve with some calcifications noted in the other two cusps. The mass was then shaved off the valve and sent to histopathology. The leaflet was intact, and the aortic valve was tested and was normal with no regurgitation. Patient tolerated the procedure well and was weaned from cardiopulmonary bypass with small dose of Dobutamine. TEE at the end of operation showed well-functioning aortic valve with no aortic regurgitation. Patient was extubated 7 hours postoperatively and he had uncomplicated postoperative recovery and was discharged home 1 week postoperatively on dual antiplatelet therapy (Aspirin and Clopidegrol). Pathology report of the aortic mass (Fig. 3) showed 0.6 × 0.5 × 0.4 cm PFE (microscopic section showed multiple branching fronds and paucicellular avascular fibro elastic tissue lined by a single layer of endocardium). Patient remained well and asymptomatic at 3 months postoperatively.\n\nDiscussion\n\nPFEs are rare and slow-growing avascular benign tumors with sizes ranging from 2 to 70 mm. They are classically characterized by multiple papillary fronds which give a sea anemone-like appearance. Histologically they are comprised of a single layer of endocardial cells covering the papillary surface, matrix consisting of longitudinally oriented collagen with irregular elastic fibers, proteoglycans and spindle cells that resemble smooth muscle cells or fibroblasts [1]. Commonest location reported is in aortic valve (involving right or non-coronary cusps) in 44.5% of cases and more commonly are on the superior surface (aortic side) than inferior surface of aortic valve (ventricular side) [2]. Majority are single tumors and 44% of them are mobile with a stalk [2]. They are predominantly diagnosed in men at the age of 60 years old with half of patients being asymptomatic. Symptoms reported include dyspnea, CVA, angina, and syncope [2–5]. TTE has a diagnostic accuracy of 85% and classically PFE are small <15 mm round echo-dense and pedunculated mass with high independent motion. Its characteristic shimmery appearance correlated with filiform projections. However, detection of small PFE < 5 mm requires higher resolution than that offered by TTE (as in our case which was missed by TTE and picked up by TEE) [1]. TEE is reported to have higher sensitivity for tumors <2 mm than TTE (77 vs 62%, respectively) [2]. The reasons why TTE may fail to diagnose tumors include the following: when tumor was masked by an associated lesion, too small to be seen, examination was not done carefully with sufficient index of suspicion, and if there were no significant characteristics to differentiate tumor from the degenerative valve disease [2]. Surgical resection remains the treatment of choice in all symptomatic patients or asymptomatic patients if tumor size >1 cm or has increased mobility or undergoing another cardiac procedure as in our case.\n\nConclusion\n\nThe use of intraoperative TEE is of a paramount importance in detection of PFE in patients undergoing cardiac surgery especially in small size tumors that can be otherwise missed by preoperative TTE.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 55-year-old male\n- **Chief Complaint:** Recurrent chest pain with history of non-ST-segment myocardial infarction (NSTEMI)\n- **History of Present Illness:** Class III angina for 6 months, no shortness of breath, no cerebrovascular accident (CVA) history.\n- **Past Medical History:** Hypertension, hyperlipidemia\n- **Personal History:** Smoker, no family history of heart disease\n- **Family History:** None\n- **Physical Examination:** Normal preoperative findings\n- **Ancillary Tests:**\n  - Preoperative transthoracic echocardiography (TTE): Left ventricular ejection fraction of 50%, mild mitral valve regurgitation, no aortic valve disease.\n  - Coronary angiogram: Triple vessel disease with occluded right coronary artery.\n  - Routine bloodwork: Normal (e.g., no elevation in C-reactive protein, ESR, or white blood cell count), blood cultures were negative.\n  - Intraoperative transesophageal echocardiography (TEE): Identified a mobile mass (6 × 5 mm) on the ventricular side of the non-coronary cusp (NCC) of the aortic valve with no functional compromise.\n  - Histopathology of resected mass: Confirmed papillary fibroelastoma (PFE) characterized by papillary fronds and paucicellular fibroelastic tissue.\n\n---",
+        "differential_diagnosis": "1. **Initial Suspicions:**\n   - The intraoperative discovery of a mass on the aortic valve during TEE prompted consideration of:\n     - **Vegetation**: Ruled out due to absence of infection signs (e.g., negative blood cultures, lack of elevated inflammatory markers like CRP or ESR).\n     - **Calcification**: Less likely due to the mass's mobile and soft nature with papillary fronds, unlike the hard, fixed appearance of calcified material.\n     - **Tumor (Papillary Fibroelastoma)**: Supported by the mobile, pedunculated nature of the mass, its location on the NCC, and absence of symptoms like obstruction or predisposing conditions. \n\n2. **Histopathology Confirmation:**\n   - The postoperative pathology confirmed the clinical suspicion of a papillary fibroelastoma based on its characteristic microscopic appearance, ruling out alternative diagnoses.\n\n---",
+        "final_diagnosis": "The patient was diagnosed with **papillary fibroelastoma of the aortic valve**, detected by intraoperative TEE and confirmed by histopathology. The tumor was resected successfully without complications. Key factors leading to the diagnosis included TEE visualization of the mobile frond-like mass and the histopathological findings of fibroelastic tissue.\n\n---",
+        "diagnosis_results": "Papillary fibroelastoma of the aortic valve"
+    },
+    "body_category": [],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-9-23",
+    "checked_rare_disease": [],
+    "id": "PMC11520927",
+    "results": {
+        "content": "### Resoning:\n\n<step 1> So, we have a 55-year-old male patient with a chief complaint of recurrent chest pain and a history of non-ST-segment myocardial infarction (NSTEMI). He's been experiencing class III angina for the past six months, but no shortness of breath or history of cerebrovascular accidents. His past medical history includes hypertension and hyperlipidemia, and he's a smoker with no family history of heart disease.\n\n<step 2> Given his symptoms and history, it's clear that he has significant cardiovascular issues. The angina suggests ischemic heart disease, which is consistent with his history of NSTEMI and the findings from his coronary angiogram showing triple vessel disease with an occluded right coronary artery.\n\n<step 3> The preoperative transthoracic echocardiography (TTE) showed a left ventricular ejection fraction of 50%, which is moderately reduced, indicating some degree of systolic dysfunction. There was also mild mitral valve regurgitation, but no aortic valve disease was noted at that time.\n\n<step 4> However, during intraoperative transesophageal echocardiography (TEE), a mobile mass measuring 6 x 5 mm was identified on the ventricular side of the non-coronary cusp (NCC) of the aortic valve. This is an important finding because mobile masses on heart valves can have significant implications, such as embolization leading to stroke or other vascular events.\n\n<step 5> The fact that the mass was mobile and located on the aortic valve raises concerns about its potential to cause embolic events or contribute to valve dysfunction. Although the TEE did not show any functional compromise at the time, the presence of such a mass needs to be carefully evaluated.\n\n<step 6> The histopathology of the resected mass confirmed it to be a papillary fibroelastoma (PFE), characterized by papillary fronds and paucicellular fibroelastic tissue. PFEs are benign tumors that arise from the endocardium and are commonly found on heart valves, particularly the aortic and mitral valves.\n\n<step 7> Papillary fibroelastomas are usually asymptomatic and incidentally discovered during echocardiography or at autopsy. However, they can present with symptoms related to embolization, such as stroke, myocardial infarction, or peripheral embolic events, depending on where the emboli travel.\n\n<step 8> In this patient's case, there is a history of NSTEMI, which could potentially be related to embolic phenomena from the PFE, although the coronary angiogram showed significant coronary artery disease, which is more likely the primary cause of his myocardial infarction.\n\n<step 9> It's also worth noting that the patient is a smoker, which is a significant risk factor for atherosclerosis and coronary artery disease, further supporting the diagnosis of ischemic heart disease as the main etiology of his symptoms.\n\n<step 10> The lack of family history of heart disease doesn't rule out the patient's individual risk, given his personal risk factors and the established atherosclerotic disease.\n\n<step 11> The normal preoperative physical examination and routine blood work, including negative blood cultures, suggest that there is no acute infection or inflammatory process associated with the PFE.\n\n<step 12> Given that the PFE was resected and histopathologically confirmed, and considering the patient's symptoms and angiographic findings, the primary diagnosis remains ischemic heart disease with triple vessel coronary artery disease, leading to NSTEMI and angina.\n\n<step 13> The PFE likely contributed to his symptoms by potentially causing embolic events, but the main pathology is the extensive coronary artery disease.\n\n<step 14> Therefore, the final diagnosis should encompass both the coronary artery disease and the presence of papillary fibroelastoma on the aortic valve.\n\n### Answer:\n\nThe patient has triple vessel coronary artery disease with an occluded right coronary artery, leading to non-ST-segment myocardial infarction (NSTEMI) and class III angina, associated with a papillary fibroelastoma (PFE) on the non-coronary cusp of the aortic valve."
+    },
+    "reasoning_eval": [
+        {
+            "step": "So, we have a 55-year-old male patient with a chief complaint of recurrent chest pain and a history of non-ST-segment myocardial infarction (NSTEMI). He's been experiencing class III angina for the past six months, but no shortness of breath or history of cerebrovascular accidents. His past medical history includes hypertension and hyperlipidemia, and he's a smoker with no family history of heart disease.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Given his symptoms and history, it's clear that he has significant cardiovascular issues. The angina suggests ischemic heart disease, which is consistent with his history of NSTEMI and the findings from his coronary angiogram showing triple vessel disease with an occluded right coronary artery.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "The preoperative transthoracic echocardiography (TTE) showed a left ventricular ejection fraction of 50%, which is moderately reduced, indicating some degree of systolic dysfunction. There was also mild mitral valve regurgitation, but no aortic valve disease was noted at that time.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "However, during intraoperative transesophageal echocardiography (TEE), a mobile mass measuring 6 x 5 mm was identified on the ventricular side of the non-coronary cusp (NCC) of the aortic valve. This is an important finding because mobile masses on heart valves can have significant implications, such as embolization leading to stroke or other vascular events.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The fact that the mass was mobile and located on the aortic valve raises concerns about its potential to cause embolic events or contribute to valve dysfunction. Although the TEE did not show any functional compromise at the time, the presence of such a mass needs to be carefully evaluated.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The histopathology of the resected mass confirmed it to be a papillary fibroelastoma (PFE), characterized by papillary fronds and paucicellular fibroelastic tissue. PFEs are benign tumors that arise from the endocardium and are commonly found on heart valves, particularly the aortic and mitral valves.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Papillary fibroelastomas are usually asymptomatic and incidentally discovered during echocardiography or at autopsy. However, they can present with symptoms related to embolization, such as stroke, myocardial infarction, or peripheral embolic events, depending on where the emboli travel.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "In this patient's case, there is a history of NSTEMI, which could potentially be related to embolic phenomena from the PFE, although the coronary angiogram showed significant coronary artery disease, which is more likely the primary cause of his myocardial infarction.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "It's also worth noting that the patient is a smoker, which is a significant risk factor for atherosclerosis and coronary artery disease, further supporting the diagnosis of ischemic heart disease as the main etiology of his symptoms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The lack of family history of heart disease doesn't rule out the patient's individual risk, given his personal risk factors and the established atherosclerotic disease.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Initial suspicion of a papillary fibroelastoma based on the mobile, pedunculated mass observed on the aortic valve during TEE, ruling out vegetation and calcification.",
+            "hit": true
+        },
+        {
+            "step": "Step 2: Mass characteristics include mobility, soft nature, and papillary fronds, inconsistent with calcified material.",
+            "hit": false
+        },
+        {
+            "step": "Step 3: Absence of infection signs such as negative blood cultures and normal inflammatory markers (CRP, ESR) ruled out vegetation.",
+            "hit": false
+        },
+        {
+            "step": "Step 4: Lack of symptoms like obstruction and absence of predisposing conditions supported the diagnosis of a tumor (papillary fibroelastoma).",
+            "hit": false
+        },
+        {
+            "step": "Step 5: Histopathology confirmed the clinical suspicion of papillary fibroelastoma through characteristic microscopic appearance, ruling out other diagnoses.",
+            "hit": true
+        },
+        {
+            "step": "Step 6: Final diagnosis: Papillary fibroelastoma of the aortic valve, confirmed by both TEE and histopathology.",
+            "hit": true
+        },
+        {
+            "step": "Step 7: Tumor resection performed successfully without complications.",
+            "hit": false
+        }
+    ],
+    "efficiency": 0.6,
+    "factulity": 1.0,
+    "recall": 0.42857142857142855
+}

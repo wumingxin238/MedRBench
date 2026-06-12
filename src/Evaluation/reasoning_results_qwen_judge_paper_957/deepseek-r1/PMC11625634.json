@@ -1,0 +1,97 @@
+{
+    "raw_case": "\nA Novel Nonsense Mutation of the ATP2C1 Gene in an 18-Year-Old-Female with Papular Acantholytic Dyskeratosis of the Anogenital Area\n\n\nAbstract\n\nPapular acantholytic dyskeratosis (PAD), often found to occur in the vulvar or anogenital area, is an exceedingly rare skin condition that usually presents in adulthood and features multiple smooth skin-colored or grayish-white papules with or without pruritus. Although the pathogenesis of PAD is unknown, PAD may be associated with mutations in ATP2C1 and ATP2A2 genes. Here, we report on an 18-year-old female patient with multiple gray-white flat papules in the anogenital area. Skin biopsy revealed hyperkeratosis of the epidermis, acantholysis, formation of fissures or lacunae, and disappearance of desmosomes. Whole exon sequencing (WES) of the patient indicated mutations in the ATP2C1 gene.\n\nCase Report\n\nAn 18-year-old Chinese woman presented to the dermatology department with papules in the anogenital area accompanied by pruritus. The patient had developed gray-white papules in the anogenital area more than 4 years ago, which gradually increased with pronounced itching. During physical examination, multiple gray-white flat papules were found in the anogenital area and were symmetrically distributed (Figure 1a). No skin lesions were found in the other parts of the body, and the nails were intact. The patient denied a family history of similar dermatosis. Dermatoscopy revealed focal white patches and white scales, which resembled stars in a cloudy sky, and radial white stripes were observed around some leukoplakia (Figure 1c). Skin biopsy revealed hyperkeratosis of the epidermis, acantholysis, formation of fissures or lacunae, and disappearance of desmosomes, like a “dilapidated brick wall”. The epithelial cells were rich in the cytoplasm, basophilic and like perinuclear halo (Figure 1d and e). The patient was diagnosed with PAD in the anogenital area. Based on the above findings, we made a diagnosis of papular acantholytic dermatosis. Then she was treated with 10mg acitretin capsule and creborol ointment twice a day, and the skin lesions were gradually improved (Figure 1b). The patient is still being followed up.To determine whether this patient had ATP2C1 or ATP2A1 gene mutations, genetic testing was performed on the patient and her parents. With the patient’s informed consent, peripheral blood was collected from the patient, and whole exome sequencing (WES) was performed. We detected a heterozygous nonsense mutation in the ATP2C1 gene in the patient. Subsequently, the ATP2C1 gene was tested after obtaining consent from the healthy parents. We found that the patient’s mother had a heterozygous mutation at the same gene locus as the patient, whereas no mutation was found in her father. The mutation of the ATP2C1 gene occurs at nucleotide 2239, from cytosine to thymine, resulting in the mutation of amino acid 747 from glutamine to termination (c.2239C > T, p. Gln747Ter) (Figure 2a). This nonsense mutation was reported for the first time. No mutations were found in the ATP2A2 gene.\n\nDiscussion\n\nThe skin lesions of this patient were multiple small gray papules confined to the anogenital area. Histopathology indicated hyperkeratosis and acantholysis, and gene sequencing indicated ATP2C1 gene mutation, all of which were consistent with PAD characteristics and could be diagnosed as PAD. PAD was recently suggested to be a mosaic form of Darier disease (DD) or Hailey-Hailey disease (HHD).1 The histopathology of DD and HHD is also characterized by hyperkeratosis and acantholysis, which are associated with mutations in genes encoding intracellular calcium pumps.2 DD is caused by mutations in the ATP2A2 gene, while the ATP2C1 gene is associated with HHD. Patients will be followed for a long period of time to identify these two diseases.There are other treatment methods for PAD, such as CO2 laser and cryotherapy. During the follow - up process, if it turns out that acitretin capsules and creborol ointment fail to yield a satisfactory curative effect, we will make adjustments to the treatment plan accordingly.ATP2C1 gene codes for the secretory pathway Ca(2+)/Mn(2+)-ATPase pump type 1 (SPCA1) localized at the Golgi apparatus.3 This ATPase responsible for pumping calcium from the cytoplasm to the Golgi apparatus. Several different mutations in the ATP2C1 gene have been suggested as the cause of PAD in previous studies.4,5 Is the nonsense mutation of the ATP2C1 gene in this patient pathogenic? The mutation in this patient and her mother was not found in the 1000 genomes database, the Genome Aggregation Database, or the Exome Aggregation Consortium database. The application of ACMG rules should yield a pathogenic classification of PVS1+PM2 (absent from the population). This nonsense mutation has been suggested to be a possible pathogenic mutation. In addition, it was predicted to be a disease-causing mutation by Mutation Taster. We found that the mutant protein ATPase_P-typ_cation-transptr_C domain was deleted based on the protein sequence alignment method using InterPro domain database. This domain is the conserved C-terminal region of cation-transporting P-type ATPase. P-ATPase can use the energy of ATP hydrolase to transport ions through the membrane.6 The lack of this domain may lead to a deficiency in protein transport Ca++ function, affect cell adhesion and lead to disease. The mutated amino acid sequence was input into the protein structure website Swiss-model, and a three-dimensional model was obtained after a build-model step. The results demonstrated that compared with the three-dimensional structure of the normal ATP2C1 protein on PDB (https://www.rcsb.org/), most of the structure of the mutant protein was similar, and some of the protein structure at the tail end was missing, suggesting that the mutant protein may lead to functional defects (Figure 2b and c). The above evidence suggests that this nonsense mutation is pathogenic and may be the cause of the disease in this patient.To our knowledge, the mode of inheritance of ATP2C1 gene was autosomal dominant. Notably, the patient’s mother had the same nonsense mutation but did not get sick. We speculate that the mother of the patient had incomplete clinical penetrance of this nonsense mutation. This is common in primary immunodeficiency with autosomal dominant inheritance (eg, the penetrance rates of CTLA-47 and TNFRSF6/Fas8 mutations are 67% and 30%, respectively).In summary, we report a young female patient with PAD and found a new nonsense mutation in the ATP2C1 gene, and confirmed its pathogenicity. For this patient, we recommend long-term follow-up to exclude other similar diseases.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 18-year-old female of Chinese descent.\n- **Chief Complaint:** Multiple gray-white flat papules in the anogenital area with pruritus.\n- **History of Present Illness:** Skin lesions began 4 years prior and gradually increased alongside pronounced itching. Lesions were localized to the anogenital area, and no other skin or nail abnormalities were observed.\n- **Past Medical History:** None.\n- **Personal History:** None.\n- **Family History:** Denied family history of similar dermatosis.\n- **Physical Examination:** Symmetrical distribution of multiple gray-white flat papules confined to the anogenital region. No other skin or nail involvement.\n- **Ancillary Tests:** \n  - **Histopathology:** Revealed hyperkeratosis, acantholysis, fissure/lacuna formation, disappearance of desmosomes (\"dilapidated brick wall\").\n  - **Genetic Testing (Whole Exome Sequencing):** Heterozygous nonsense mutation in ATP2C1 gene (c.2239C > T, p. Gln747Ter) detected in the patient. The same mutation was present in the patient’s mother, who was otherwise healthy (incomplete penetrance), but not in her father. No ATP2A2 mutations were found.\n  - **Mutation Analysis:** Confirmed pathogenicity of the ATP2C1 mutation based on its absence in population databases and bioinformatic tools (e.g., Mutation Taster).\n  - **Protein Modeling:** Demonstrated partial loss of protein structure, likely resulting in functional defects affecting calcium transport and cell adhesion.",
+        "differential_diagnosis": "- The anogenital localization, symmetrical papules, histology showing acantholysis, and absence of lesions elsewhere suggested **papular acantholytic dyskeratosis (PAD)**. This condition was prioritized due to the clinical and histopathologic congruence.\n- **Darier Disease (DD):** Excluded as histopathology findings and ATP2A2 gene mutations characteristic of DD were absent.\n- **Hailey-Hailey Disease (HHD):** Excluded based on the lack of generalized intertriginous lesions and absence of typical ATP2C1-associated HHD features.\n- **Infectious or inflammatory conditions (e.g., lichen planus):** Excluded due to absence of clinical signs and symptoms indicative of secondary infection or primary inflammation.\n- Genetic and bioinformatics analyses supported PAD via a novel pathogenic heterozygous nonsense mutation in ATP2C1.",
+        "final_diagnosis": "The final diagnosis is **Papular Acantholytic Dyskeratosis (PAD)** of the anogenital area associated with a novel nonsense mutation in the ATP2C1 gene.",
+        "diagnosis_results": "Papular Acantholytic Dyskeratosis (PAD)"
+    },
+    "body_category": [
+        "Skin, Hair and Nails"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-9-29",
+    "checked_rare_disease": [],
+    "id": "PMC11625634",
+    "results": {
+        "thinking_process": "Okay, let me try to work through this case step by step. So, the patient is an 18-year-old female with multiple gray-white flat papules in the anogenital area that have been present for four years and are itchy. The physical exam shows they're symmetrical and confined to that area. No other skin or nail issues noted.\n\nFirst, I need to think about common conditions that present with pruritic papules in the anogenital region. Lichen planus comes to mind, which often presents with itchy, flat-topped papules. But lichen planus can sometimes affect mucous membranes, but the histopathology here might differ. Another possibility is genital warts (condyloma acuminata), but those are typically caused by HPV and might look more verrucous rather than flat and gray-white. Also, the histopathology in warts shows koilocytes, which I don't think are mentioned here.\n\nBut looking at the ancillary tests, the histopathology shows hyperkeratosis, acantholysis, fissures/lacunae, and loss of desmosomes, described as a \"dilapidated brick wall.\" That makes me think of a condition involving acantholysis. Hailey-Hailey disease (familial benign chronic pemphigus) is known for acantholysis, leading to the \"dilapidated brick wall\" appearance on histology. Hailey-Hailey is typically caused by mutations in the ATP2C1 gene, which is involved in calcium transport in the skin cells. The genetic testing here found a heterozygous nonsense mutation in ATP2C1. So that's a strong pointer.\n\nWait, but Hailey-Hailey usually presents with vesicles and erosions in intertriginous areas, like the groin, axillae, etc. The lesions here are described as gray-white flat papules, which might be a bit different. But maybe in early stages or in a localized form, it could present as papules. Also, the itching is a common symptom in Hailey-Hailey due to the skin breakdown.\n\nThe genetic testing part is crucial. The patient has a mutation in ATP2C1, which is associated with Hailey-Hailey. The mother has the same mutation but is healthy, which suggests incomplete penetrance, which is a known feature of this condition. The absence of ATP2A2 mutations rules out Darier's disease, which can have similar histopathology (acantholysis) but is caused by mutations in ATP2A2. So that's another point in favor of Hailey-Hailey.\n\nProtein modeling showing partial loss of structure affecting calcium transport and cell adhesion aligns with the pathophysiology of Hailey-Hailey, where defective calcium transport leads to poor cell adhesion and acantholysis.\n\nSo putting it all together: the clinical presentation of pruritic anogenital papules, histopathology showing acantholysis and the characteristic features, genetic testing confirming ATP2C1 mutation, and exclusion of Darier's disease by lack of ATP2A2 mutations. The diagnosis here is Hailey-Hailey disease.\n",
+        "content": "\n\n```\n### Resoning:\n<step 1> The patient's presentation of multiple pruritic gray-white flat papules localized to the anogenital area suggests a chronic dermatosis. Common differentials include lichen planus, genital warts, or acantholytic disorders like Hailey-Hailey disease (HHD) or Darier disease. However, the absence of mucosal/nail involvement and the histopathology findings narrow the possibilities.\n\n<step 2> The histopathology findings—hyperkeratosis, acantholysis, fissure/lacuna formation, and \"dilapidated brick wall\" appearance due to desmosomal loss—are classic for acantholytic disorders. These features overlap with both HHD and Darier disease, necessitating genetic differentiation.\n\n<step 3> Genetic testing identified a heterozygous nonsense mutation in ATP2C1 (c.2239C > T), a gene linked to HHD. The mutation’s pathogenicity was confirmed by its absence in population databases, bioinformatic tools, and protein modeling showing structural/functional deficits. This rules out Darier disease, which is associated with ATP2A2 mutations (absent here).\n\n<step 4> The localization to the anogenital area aligns with HHD’s predilection for intertriginous regions. While HHD typically presents with erosive plaques, early or mild cases may manifest as papules. Incomplete penetrance explains the mother’s asymptomatic carrier status.\n\n### Answer:\nHailey-Hailey Disease"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient's presentation of multiple pruritic gray-white flat papules localized to the anogenital area suggests a chronic dermatosis. Common differentials include lichen planus, genital warts, or acantholytic disorders like Hailey-Hailey disease (HHD) or Darier disease. However, the absence of mucosal/nail involvement and the histopathology findings narrow the possibilities.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The histopathology findings—hyperkeratosis, acantholysis, fissure/lacuna formation, and \"dilapidated brick wall\" appearance due to desmosomal loss—are classic for acantholytic disorders. These features overlap with both HHD and Darier disease, necessitating genetic differentiation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Genetic testing identified a heterozygous nonsense mutation in ATP2C1 (c.2239C > T), a gene linked to HHD. The mutation’s pathogenicity was confirmed by its absence in population databases, bioinformatic tools, and protein modeling showing structural/functional deficits. This rules out Darier disease, which is associated with ATP2A2 mutations (absent here).",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The localization to the anogenital area aligns with HHD’s predilection for intertriginous regions. While HHD typically presents with erosive plaques, early or mild cases may manifest as papules. Incomplete penetrance explains the mother’s asymptomatic carrier status.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "The anogenital localization, symmetrical papules, histology showing acantholysis, and absence of lesions elsewhere suggested papular acantholytic dyskeratosis (PAD). This condition was prioritized due to the clinical and histopathologic congruence.",
+            "hit": true
+        },
+        {
+            "step": "Darier Disease (DD) was excluded as histopathology findings and ATP2A2 gene mutations characteristic of DD were absent.",
+            "hit": true
+        },
+        {
+            "step": "Hailey-Hailey Disease (HHD) was excluded based on the lack of generalized intertriginous lesions and absence of typical ATP2C1-associated HHD features.",
+            "hit": true
+        },
+        {
+            "step": "Infectious or inflammatory conditions (e.g., lichen planus) were excluded due to the absence of clinical signs and symptoms indicative of secondary infection or primary inflammation.",
+            "hit": false
+        },
+        {
+            "step": "Genetic and bioinformatics analyses supported PAD via a novel pathogenic heterozygous nonsense mutation in ATP2C1.",
+            "hit": false
+        },
+        {
+            "step": "The final diagnosis is Papular Acantholytic Dyskeratosis (PAD) of the anogenital area associated with a novel nonsense mutation in the ATP2C1 gene.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.6666666666666666
+}

@@ -1,0 +1,102 @@
+{
+    "raw_case": "\nSurvival case of cardiac strangulation from epicardial pacemaker leads in an adult: A case report\nCardiac strangulation from leads of an epicardial pacemaker is a rarely reported life-threatening complication. We report the case of a 72-year-old female with history of supraventricular tachycardia status post sino-atrial node ablation with epicardial pacemaker placement who presented to the outpatient setting with shortness of breath. Heart catheterization was performed which showed elevated right and left heart pressures. Compression involving the mid left anterior descending artery and left circumflex artery was noted from an epicardial lead on coronary angiography consistent with cardiac strangulation. The patient was then referred to cardiothoracic surgery for epicardial pacemaker lead removal. The literature has only reported one other survival case of cardiac strangulation in an adult.\n\nIntroduction\n\nMechanical compression of cardiac muscle can occur when leads of an epicardial pacemaker (EP) wrap around the heart [1]. No set diagnostic and management guidelines exist to recognize cardiac strangulation (CS) in a timely manner often delaying the diagnosis. Case reports are largely limited to the pediatric population [2]. Review of literature has suggested that there is only one other survival case of cardiac strangulation in adults [3]. Herein, we report the only other survival case of CS diagnosed in a seventy-two-year-old female that presented to the outpatient clinic with complaints of shortness of breath.\n\nCase presentation\n\nA 72-year-old female presented in the outpatient setting with complaints of shortness of breath that worsened with exertion. She had past medical history of supraventricular tachycardia intervened with sinoatrial node resection followed by EP implantation in the 1980s. She also had past medical history of pericardiectomy followed by dual chamber pacemaker placement for constrictive pericarditis after which the EP generator was extracted. Other medical history was significant for hypertension, hyperlipidemia, restrictive cardiomyopathy, atrial fibrillation and flutter treated with atrioventricular node ablation. She denied symptoms of chest pain, lightheadedness. Physical examination findings were not significant. An electrocardiogram was performed which showed an atrial and ventricle (AV) paced rhythm with a heart rate of 67 beats per minute (Fig. 1A). Previous Chest X-ray showed right ventricular epicardial lead looped around the left ventricle (Fig. 1, Fig. 1). Computed tomography (CT) revealed EP loop encompassing the heart (Figs. 2A and B). With her symptoms of dyspnea, a right and left heart catheterization was performed for further evaluation. Right heart catheterization (RHC) showed right atrial pressure of 10/15 mmHg, mean of 7 mmHg, right ventricular pressure 53/6 mmHg, mean of 14 mmHg, pulmonary artery pressure 53/12 mmHg, mean of 27 mmHg, pulmonary capillary wedge pressure 24/26 mmHg, mean of 27 mmHg, cardiac index 2.74 L/min/m2. RHC findings were consistent with restrictive physiology based on simultaneous and right ventricle and left ventricle pressure monitoring (Fig. 3). Coronary angiography revealed compression of the left anterior descending artery, first obtuse marginal branch (OM1) and left circumflex artery by the right ventricular epicardial lead (Figs. 4A and B). The patient was subsequently referred to cardiothoracic surgery for EP lead removal. After extensive discussion with patient regarding the risk associated with surgery for EP lead removal and the presence of restrictive physiology on right heart catheterization; surgery was deferred as the patient wished to be managed with conservatively. Therefore, the patient is being managed with aggressive medical and risk factor modification.\n\nDiscussion\n\nCardiac strangulation (CS) from leads of an epicardial pacemaker (EP) is a rarely reported devastating complication that was first described in the later 1980s [4]. CS can manifest with an array of symptoms ranging from presyncope, angina, heart failure, myocardial infarction to sudden cardiac death [5]. Asymptomatic cases of CS have also been reported [6]. Symptoms are bought about when epicardial leads mechanically compress structures of the heart impairing cardiac function. Given the ambiguity of symptoms and scarcity of reported cases, no definite algorithmic diagnostic or therapeutic approach has been described making it difficult to diagnose promptly. A total of 3 cases of CS in adults are reported in the literature, with only 1 case that survived [2,3,7]. Our case is the only other case that survived. Kang et al. report a case of CS that was remedied surgically [3]. Surgical removal of EP leads is the only treatment modality for CS to relieve the strangulation with none of the cases reported in the literature managed conservatively. Medical management of CS has not been described. Takeuchi et el. report a study where all but one case of sudden cardiac death was managed surgically with 70% of cases having a favorable outcome [5]. EP leads should be removed promptly when CS is diagnosed. Studies have suggested that lead placement around the anterior pericardial surface or over the main coronary arteries supplying the heart should be avoided to prevent CS [8].\n\nConclusion\n\nWe report the only other survival case of cardiac strangulation from epicardial leads in an adult. Cardiac strangulation is seen in the pediatric population rarely and is even rarer in the adult population. Surgical intervention with removal of the epicardial leads is the only approach to manage this devastating complication.\n\nAuthor contributions\n\nSH, FM, AMA contributed to writing the original draft. SS, JDD, AA, AS, MSA, MK, MAW contributed to reviewing and editing the manuscript for important intellectual content and approval of the final manuscript.\n\nPatient consent\n\nWritten, informed consent for publication of their case was obtained from the patient.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 72-year-old female.\n- **Chief Complaint:** Shortness of breath (worsened with exertion).\n- **History of Present Illness:** Shortness of breath, no chest pain or lightheadedness reported.\n- **Past Medical History:** Supraventricular tachycardia treated with sinoatrial node ablation and epicardial pacemaker placement (1980s); pericardiectomy; dual-chamber pacemaker placement for constrictive pericarditis; hypertension; hyperlipidemia; restrictive cardiomyopathy; atrial fibrillation and flutter treated with AV node ablation.\n- **Personal History:** None.\n- **Family History:** None.\n- **Physical Examination:** Not significant.\n- **Ancillary Tests:**\n  - Electrocardiogram: Atrial and ventricular paced rhythm, HR 67 bpm.\n  - Prior Chest X-ray: Right ventricular epicardial lead looped around the left ventricle.\n  - CT Scan: Epicardial pacemaker lead looping entirely around the heart.\n  - Right Heart Catheterization: Elevated right atrial, right ventricular, pulmonary artery pressures, and pulmonary capillary wedge pressure consistent with restrictive physiology.\n  - Coronary Angiography: Compression of left anterior descending artery, left circumflex artery, and first obtuse marginal branch by the epicardial lead.",
+        "differential_diagnosis": "- Initial consideration included common cardiac causes of dyspnea like heart failure, coronary artery disease, and restrictive cardiomyopathies based on history and clinical presentation.\n- The history of prior interventions, presence of epicardial pacemaker, and imaging data prompted evaluation for mechanical complications such as lead-induced obstruction or compression.\n- Restrictive physiology identified via right heart catheterization and significant epicardial lead findings on imaging supported cardiac compression or strangulation as the likely cause.\n- Other differential diagnoses like myocardial infarction or pulmonary hypertension were excluded due to lack of corroborating clinical or test findings (e.g., no chest pain, specific patterns on angiography, or markedly abnormal pulmonary artery pressures unrelated to strangulation).",
+        "final_diagnosis": "**Cardiac strangulation from epicardial pacemaker lead causing coronary compression and restrictive physiology.** This was confirmed by imaging and right heart catheterization showing elevated intracardiac pressures and compression of coronary arteries by the epicardial lead.",
+        "diagnosis_results": "Cardiac strangulation from epicardial pacemaker lead."
+    },
+    "body_category": [],
+    "disorder_category": [
+        "Injuries and Wounds"
+    ],
+    "receive_time": "2024-8-23",
+    "checked_rare_disease": [],
+    "id": "PMC11555240",
+    "results": {
+        "thinking_process": "Okay, let's start by looking at the patient's information. She's a 72-year-old female with a chief complaint of worsening shortness of breath on exertion. No chest pain or lightheadedness. \n\nHer past medical history is quite complex. She's had a history of supraventricular tachycardia treated with SA node ablation and epicardial pacemaker in the 80s. Then a pericardiectomy, dual-chamber pacemaker for constrictive pericarditis. Also hypertension, hyperlipidemia, restrictive cardiomyopathy, and atrial fibrillation/flutter with AV node ablation. \n\nLooking at the ancillary tests: The ECG shows a paced rhythm. The chest X-ray and CT scan mention an epicardial lead looping around the heart, specifically around the left ventricle. The right heart catheterization shows elevated pressures consistent with restrictive physiology. Coronary angiography shows compression of LAD, LCx, and first obtuse marginal by the epicardial lead.\n\nSo, the main issue here is the shortness of breath. Considering her history, the restrictive cardiomyopathy and constrictive pericarditis (since she had a pericardiectomy) might contribute. But the key here might be the epicardial lead complications. The CT and angiography show that the lead is compressing multiple coronary arteries. That could lead to myocardial ischemia, which might explain her symptoms. \n\nWait, but she doesn't have chest pain. However, in some cases, especially with chronic ischemia or in elderly patients, silent ischemia can present with dyspnea instead of pain. The elevated pressures from the right heart catheterization suggest restrictive physiology, which aligns with her known restrictive cardiomyopathy. But the coronary compression could be causing ischemia, leading to worsening ventricular function and thus exertional dyspnea.\n\nAnother angle: The lead looping around the heart could cause mechanical issues. Maybe it's contributing to constriction or restriction by physical compression. The prior pericardiectomy was for constrictive pericarditis, but if the lead is causing external compression on the coronaries and possibly the myocardium, that could exacerbate her symptoms.\n\nPutting it all together, the main factors are her restrictive cardiomyopathy, history of constrictive pericarditis (though she had a pericardiectomy), and now coronary artery compression from the epicardial lead. The combination of these could be leading to her worsening symptoms. The final diagnosis would need to account for the mechanical compression of the coronaries by the lead, causing ischemia and contributing to her restrictive physiology and heart failure symptoms.",
+        "content": "```\n### Resoning:\n<step 1> The patient’s primary symptom is progressive exertional dyspnea. Given her complex cardiac history—including restrictive cardiomyopathy, prior constrictive pericarditis treated with pericardiectomy, and multiple device-related interventions—the worsening dyspnea likely stems from hemodynamic compromise.  \n\n<step 2> Imaging (CT and prior X-ray) reveals an epicardial pacemaker lead looping entirely around the heart, compressing the left anterior descending, left circumflex, and first obtuse marginal coronary arteries (angiography). Coronary compression could induce myocardial ischemia, exacerbating diastolic dysfunction in restrictive cardiomyopathy and contributing to exertional symptoms.  \n\n<step 3> Elevated right atrial, right ventricular, pulmonary artery, and pulmonary capillary wedge pressures (right heart catheterization) confirm restrictive physiology. The restrictive pathophysiology is likely compounded by chronic ischemia from coronary compression and/or mechanical constraint from the encircling lead, worsening ventricular compliance.  \n\n<step 4> The absence of chest pain does not exclude ischemia, as dyspnea may manifest as an anginal equivalent in patients with advanced cardiac disease or autonomic dysfunction from prior ablations. The mechanical impact of the lead may also directly impair ventricular filling, mimicking features of constrictive pericarditis despite prior pericardiectomy.  \n\n<step 5> The final diagnosis integrates coronary ischemia secondary to lead-induced compression, superimposed on restrictive cardiomyopathy and residual mechanical constraint from the epicardial lead, leading to worsening diastolic dysfunction and exertional dyspnea.  \n\n### Answer:\nCoronary artery compression syndrome secondary to epicardial pacemaker lead entrapment, exacerbating restrictive cardiomyopathy."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient’s primary symptom is progressive exertional dyspnea. Given her complex cardiac history—including restrictive cardiomyopathy, prior constrictive pericarditis treated with pericardiectomy, and multiple device-related interventions—the worsening dyspnea likely stems from hemodynamic compromise.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Imaging (CT and prior X-ray) reveals an epicardial pacemaker lead looping entirely around the heart, compressing the left anterior descending, left circumflex, and first obtuse marginal coronary arteries (angiography). Coronary compression could induce myocardial ischemia, exacerbating diastolic dysfunction in restrictive cardiomyopathy and contributing to exertional symptoms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Elevated right atrial, right ventricular, pulmonary artery, and pulmonary capillary wedge pressures (right heart catheterization) confirm restrictive physiology. The restrictive pathophysiology is likely compounded by chronic ischemia from coronary compression and/or mechanical constraint from the encircling lead, worsening ventricular compliance.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The absence of chest pain does not exclude ischemia, as dyspnea may manifest as an anginal equivalent in patients with advanced cardiac disease or autonomic dysfunction from prior ablations. The mechanical impact of the lead may also directly impair ventricular filling, mimicking features of constrictive pericarditis despite prior pericardiectomy.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The final diagnosis integrates coronary ischemia secondary to lead-induced compression, superimposed on restrictive cardiomyopathy and residual mechanical constraint from the epicardial lead, leading to worsening diastolic dysfunction and exertional dyspnea.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Initial consideration included common cardiac causes of dyspnea like heart failure, coronary artery disease, and restrictive cardiomyopathies based on history and clinical presentation.",
+            "hit": false
+        },
+        {
+            "step": "The history of prior interventions, presence of an epicardial pacemaker, and imaging data prompted evaluation for mechanical complications such as lead-induced obstruction or compression.",
+            "hit": true
+        },
+        {
+            "step": "Restrictive physiology identified via right heart catheterization and significant epicardial lead findings on imaging supported cardiac compression or strangulation as the likely cause.",
+            "hit": true
+        },
+        {
+            "step": "Other differential diagnoses like myocardial infarction or pulmonary hypertension were excluded due to lack of corroborating clinical or test findings.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Cardiac strangulation from epicardial pacemaker lead causing coronary compression and restrictive physiology. This was confirmed by imaging and right heart catheterization showing elevated intracardiac pressures and compression of coronary arteries by the epicardial lead.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.6
+}

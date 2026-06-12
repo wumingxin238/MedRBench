@@ -1,0 +1,151 @@
+{
+    "raw_case": "\nOvarian vein syndrome – Rare ovarian vein compression of the ureter\nOvarian vein syndrome is a rare condition involving the compression of the ureter by the ovarian vein. Since it was first described, very few cases have been reported in literature. We present a case of a 37-year-old female with typical symptoms and common right-side involvement. The imaging findings on ultrasound, CT, and nuclear medicine imaging are classic for her condition.1\n\nIntroduction\n\nOvarian vein syndrome (OVS) is a rare condition caused by external compression of the ureter by a dilated ovarian vein resulting in ipsilateral hydroureter and hydronephrosis. OVS is characterized by nonspecific findings such as abdominal/lower back pain, recurrent urinary tract infections (UTIs), and urinary symptoms such as renal colic, hematuria, dysuria, urinary frequency, and urinary urgency.1,2 Ovarian vein syndrome was first described by Clark in 1964,1 but relatively few cases have been reported in literature since. Thus, the exact prevalence of OVS is unknown.2\n\nCase presentation\n\nA 37-year-old female presented with macroscopic hematuria and dysuria. Urinalysis and urine culture showed no signs of a UTI. Initial ultrasound imaging of the abdomen and pelvis (Fig. 1) found mild hydronephrosis in the right kidney with good flow in the distal ureter on color doppler imaging. No structural abnormalities were identified on ultrasound to explain the patient's macroscopic hematuria.Follow-up imaging was done using multiphasic CT of the abdomen and pelvis (Fig. 2). CT again found mild hydronephrosis in the right kidney. The ureteropelvic junction was dilated with compression from a dilated right ovarian vein crossing distally measuring 9 mm in diameter. There was no delayed nephrogram or cortical thinning to suggest any functional significance to this compression.To assess functional impairment, diuretic scintigraphic renography (Fig. 3) was performed using Technetium (Tc)-99m mercaptoacetyltriglycine (MAG3) and furosemide administered 10 minutes prior to imaging. The renal scan showed normal and relatively symmetric renal perfusion. The split function measured 44 % on the left and 56 % on the right. The kidneys demonstrated normal bilateral emptying.Finally, cystoscopy was performed to confirm the absence of an obstructing lesion. Given a normal renal perfusion scan and adequate investigation to rule out an obstructing lesion, there was no indication for intervention at the time.3\n\nDiscussion\n\nThe pathophysiology of OVS is thought to be multifactorial resulting from a combination of ovarian vein dilation, connective tissue fixation, and hormonal changes. Ovarian vein dilation can be secondary to variant embryological development such as persistent posterior subcardinal veins and is also seen in pregnancy secondary to external compression by a gravid uterus.1,2 It is noted that while the ovarian veins may be dilated during pregnancy, there is a relatively small decrease in venous pressure.1,2 Thus, compression of the ureter is likely facilitated by additional connective tissue fixation of the ovarian vein to the ureter.1,2 Fluctuations in estrogen and progesterone levels in pregnancy are also thought to contribute to ureteric compression due to a decrease in tone of the ureteric wall.1,2 Progesterone increases the flow in the ovarian vein while estrogen causes relaxation of the smooth muscle in the ureter.OVS is most commonly right-sided and often seen in multiparous women. The right ovarian vein drains directly into the inferior vena cava, so aberrant veins such as persistent embryologic vasculature are more likely to drain into the right ovarian vein resulting in dilation.1 While in pregnancy, there are physiologic changes that result in dilation of the ovarian vein and increased ureteric compressibility.The initial imaging modality for OVS is ultrasound. Diagnostic features on ultrasound include a dilated ovarian vein ≥6 mm, hydroureter at the level of L3/4, and possible reversal of ovarian vein flow on color doppler.1 When ultrasound is inconclusive, CT or MRI is the next step with diagnostic clues including dilation of the ovarian vein ≥8 mm and ipsilateral hydroureter.1Treatment can be explored in cases of significant symptoms or functional impairment. Medical treatment of ovarian vein syndrome include medoxyprogesterone acetate or goserelin acetate which cause venous contraction.1 If refractory to medical management, interventional radiologic therapies such as coil embolization and sclerotherapy can be used to embolize the ovarian vein 1. Finally, surgical ovarian vein ligation is another effective option. Several case reports of surgical treatment of OVS can be seen in literature.3,4,5,64\n\nConclusion\n\nCases of ovarian vein syndrome are uncommonly presented in literature. Patients often present with non-specific findings of pain and urinary symptoms. We present a case of right ovarian vein syndrome with typical symptomatology and imaging findings.\n\nPatient consent declaration\n\nPatient consent was not required as the patient's identity was no compromised in this case report.\n\nFunding source declaration\n\nThe authors have no funding sources to declare.\n\nCRediT authorship contribution statement\n\nRyan K.W. Chee: Writing – review & editing, Writing – original draft, Visualization, Validation, Investigation, Formal analysis, Data curation, Conceptualization. Reshma M. Koshy: Writing – review & editing, Visualization, Investigation, Data curation. Mitchell P. Wilson: Writing – review & editing, Supervision, Project administration. Gavin Low: Writing – review & editing, Supervision, Conceptualization.\n\nDeclaration of competing inerest\n\nThe authors have no conflicts of interest to declare.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 37-year-old female  \n- **Chief Complaint:** Macroscopic hematuria and dysuria  \n- **History of Present Illness:** Non-specific; patient presented with urinary symptoms.  \n- **Past Medical History:** None provided.  \n- **Personal History:** None provided.  \n- **Family History:** None provided.  \n- **Physical Examination:** None provided.  \n- **Ancillary Tests:**  \n  - Urinalysis/urine culture: No signs of a UTI.  \n  - Ultrasound: Mild hydronephrosis in the right kidney, no structural abnormalities.  \n  - CT Scan: Mild hydronephrosis in the right kidney; dilated right ovarian vein (9 mm diameter) compressing the ureteropelvic junction. No delayed nephrogram or cortical thinning noted.  \n  - Diuretic scintigraphic renography: Normal, symmetric renal perfusion (left 44%, right 56%); kidneys showed normal bilateral emptying.  \n  - Cystoscopy: Normal, no obstructing lesions.",
+        "differential_diagnosis": "1. **Urinary Tract Infection (UTI):** Excluded as urinalysis and urine culture revealed no signs of infection.  \n2. **Kidney Stones or Other Ureteral Obstructions:** Excluded through imaging (ultrasound, CT, cystoscopy) that showed no obstructive lesions or structural abnormalities.\n3. **Other Causes of Hydronephrosis (e.g., tumor, congenital anomalies, external compression):** Focus transitioned to an external compression cause after imaging identified a dilated right ovarian vein compressing the ureter. \n4. **Ovarian Vein Syndrome (OVS):** Considered based on the combination of macroscopic hematuria, dysuria, mild hydronephrosis, and imaging findings of a dilated ovarian vein with ureteral compression. The diagnosis was supported by the absence of significant functional impairment as evidenced by normal renal perfusion and kidney emptying on scintigraphy.",
+        "final_diagnosis": "The final diagnosis is **Ovarian Vein Syndrome (OVS)** caused by external compression of the right ureter by a dilated ovarian vein. Key diagnostic features include the imaging findings of mild hydronephrosis and a dilated ovarian vein crossing the ureter without functional significance on nuclear imaging.",
+        "diagnosis_results": "Ovarian Vein Syndrome (OVS)"
+    },
+    "body_category": [
+        "Kidneys and Urinary System"
+    ],
+    "disorder_category": [
+        "Pregnancy and Reproduction"
+    ],
+    "receive_time": "2024-8-17",
+    "checked_rare_disease": [],
+    "id": "PMC11402916",
+    "results": {
+        "content": "### Resoning:\n<step 1> Analyze the Chief Complaint and History of Present Illness: The patient is a 37-year-old female presenting with macroscopic hematuria (visible blood in urine) and dysuria (painful urination). This indicates a problem within the urinary tract, potentially inflammation, infection, or structural abnormality. The history is non-specific, meaning there's no clear precipitating event or associated symptoms mentioned.\n\n<step 2> Evaluate Urinalysis/Urine Culture Results: The urine culture is negative for a UTI. This is crucial as it rules out urinary tract infection as the primary cause of hematuria and dysuria, which is a common initial consideration for these symptoms.  Therefore, we need to look for non-infectious causes.\n\n<step 3> Assess Ultrasound Findings: The ultrasound reveals mild hydronephrosis in the right kidney. Hydronephrosis indicates a backup of urine, suggesting an obstruction in the urinary drainage pathway from the right kidney.  The absence of structural abnormalities reported in the ultrasound means gross anatomical malformations are less likely to be the primary issue, but it does not rule out subtle compressions or functional obstructions.\n\n<step 4> Critically Examine CT Scan Results: The CT scan confirms mild hydronephrosis in the right kidney and, importantly, identifies a dilated right ovarian vein (9 mm diameter) compressing the right ureteropelvic junction (UPJ).  This is a significant finding. Ovarian vein compression at the UPJ is a known, though less common, cause of hydronephrosis and can explain the patient's symptoms. The absence of delayed nephrogram or cortical thinning suggests that the kidney function is likely preserved and the obstruction is not chronic or severe enough to cause significant parenchymal damage at this stage.\n\n<step 5> Interpret Diuretic Scintigraphic Renography Results: The renography shows normal and symmetric renal perfusion and bilateral emptying. This result is somewhat discordant with the hydronephrosis observed on imaging.  However, a \"normal\" renogram in the context of mild hydronephrosis and vein compression could indicate:\n    * The obstruction is intermittent or not severe enough to significantly impair overall renal drainage at the time of the study.\n    * The diuretic challenge during renography might have temporarily overcome the mild obstruction, leading to seemingly normal emptying.\n    * The degree of hydronephrosis is mild and not functionally significant enough to be detected by renography in this instance.\n    * It is also important to note that renography primarily assesses drainage, and while vein compression can cause hydronephrosis, it might not always result in severely impaired drainage, especially if the compression is not complete or constant.\n\n<step 6> Review Cystoscopy Findings: A normal cystoscopy rules out lower urinary tract pathology like bladder tumors, stones, urethral strictures, or cystitis as the primary cause of hematuria. This reinforces the likelihood of an upper urinary tract issue, consistent with the hydronephrosis and the CT finding at the UPJ.\n\n<step 7> Synthesize all findings to formulate a diagnosis:  Combining macroscopic hematuria, dysuria (which can be referred pain from upper urinary tract issues or related to minor irritation even without UTI), right hydronephrosis, and the CT-proven dilated right ovarian vein compressing the right UPJ, the most probable diagnosis is **Ovarian Vein Compression Syndrome (OVCS) causing right ureteropelvic junction obstruction**.  This condition is a variant of pelvic venous congestion syndrome where a dilated ovarian vein compresses the ureter, leading to hydronephrosis and potentially causing symptoms like hematuria and pain. While the renogram is reported as normal, it does not entirely rule out OVCS, especially if the obstruction is intermittent or mild. The CT finding is the most compelling piece of evidence in this case.\n\n<step 8> Consider Differential Diagnoses (and rule them out based on available information): While OVCS is the most likely diagnosis based on the provided data, other possibilities to consider (though less likely given the CT findings) could include:\n    * Ureteropelvic Junction Obstruction (UPJO) due to other causes (intrinsic stricture, crossing vessels other than ovarian vein, etc.). However, the CT specifically points to the ovarian vein.\n    * Urolithiasis (kidney stones) causing transient obstruction and hematuria.  While no stones were reported, small stones can sometimes be missed. However, the persistent hydronephrosis and vein compression make OVCS more likely.\n    * Renal tumors or urothelial carcinoma: Less likely given the absence of masses on CT and normal cystoscopy.  Typically, these would present with more persistent or progressive hydronephrosis and potentially other findings on imaging or cystoscopy (for bladder tumors).\n    * Idiopathic hematuria: Possible, but less likely given the clear anatomical finding of vein compression.\n\n<step 9> Final Diagnostic Conclusion: Based on the comprehensive analysis of the clinical presentation and ancillary test results, particularly the CT scan findings, the most likely diagnosis is **Ovarian Vein Compression Syndrome (OVCS) causing right ureteropelvic junction obstruction**.\n\n### Answer:\nOvarian Vein Compression Syndrome (OVCS) causing right ureteropelvic junction obstruction"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Analyze the Chief Complaint and History of Present Illness: The patient is a 37-year-old female presenting with macroscopic hematuria (visible blood in urine) and dysuria (painful urination). This indicates a problem within the urinary tract, potentially inflammation, infection, or structural abnormality. The history is non-specific, meaning there's no clear precipitating event or associated symptoms mentioned.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Evaluate Urinalysis/Urine Culture Results: The urine culture is negative for a UTI. This is crucial as it rules out urinary tract infection as the primary cause of hematuria and dysuria, which is a common initial consideration for these symptoms.  Therefore, we need to look for non-infectious causes.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Assess Ultrasound Findings: The ultrasound reveals mild hydronephrosis in the right kidney. Hydronephrosis indicates a backup of urine, suggesting an obstruction in the urinary drainage pathway from the right kidney.  The absence of structural abnormalities reported in the ultrasound means gross anatomical malformations are less likely to be the primary issue, but it does not rule out subtle compressions or functional obstructions.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Critically Examine CT Scan Results: The CT scan confirms mild hydronephrosis in the right kidney and, importantly, identifies a dilated right ovarian vein (9 mm diameter) compressing the right ureteropelvic junction (UPJ).  This is a significant finding. Ovarian vein compression at the UPJ is a known, though less common, cause of hydronephrosis and can explain the patient's symptoms. The absence of delayed nephrogram or cortical thinning suggests that the kidney function is likely preserved and the obstruction is not chronic or severe enough to cause significant parenchymal damage at this stage.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Interpret Diuretic Scintigraphic Renography Results: The renography shows normal and symmetric renal perfusion and bilateral emptying. This result is somewhat discordant with the hydronephrosis observed on imaging.  However, a \"normal\" renogram in the context of mild hydronephrosis and vein compression could indicate:\n    * The obstruction is intermittent or not severe enough to significantly impair overall renal drainage at the time of the study.\n    * The diuretic challenge during renography might have temporarily overcome the mild obstruction, leading to seemingly normal emptying.\n    * The degree of hydronephrosis is mild and not functionally significant enough to be detected by renography in this instance.\n    * It is also important to note that renography primarily assesses drainage, and while vein compression can cause hydronephrosis, it might not always result in severely impaired drainage, especially if the compression is not complete or constant.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Review Cystoscopy Findings: A normal cystoscopy rules out lower urinary tract pathology like bladder tumors, stones, urethral strictures, or cystitis as the primary cause of hematuria. This reinforces the likelihood of an upper urinary tract issue, consistent with the hydronephrosis and the CT finding at the UPJ.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Synthesize all findings to formulate a diagnosis:  Combining macroscopic hematuria, dysuria (which can be referred pain from upper urinary tract issues or related to minor irritation even without UTI), right hydronephrosis, and the CT-proven dilated right ovarian vein compressing the right UPJ, the most probable diagnosis is **Ovarian Vein Compression Syndrome (OVCS) causing right ureteropelvic junction obstruction**.  This condition is a variant of pelvic venous congestion syndrome where a dilated ovarian vein compresses the ureter, leading to hydronephrosis and potentially causing symptoms like hematuria and pain. While the renogram is reported as normal, it does not entirely rule out OVCS, especially if the obstruction is intermittent or mild. The CT finding is the most compelling piece of evidence in this case.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Consider Differential Diagnoses (and rule them out based on available information): While OVCS is the most likely diagnosis based on the provided data, other possibilities to consider (though less likely given the CT findings) could include:\n    * Ureteropelvic Junction Obstruction (UPJO) due to other causes (intrinsic stricture, crossing vessels other than ovarian vein, etc.). However, the CT specifically points to the ovarian vein.\n    * Urolithiasis (kidney stones) causing transient obstruction and hematuria.  While no stones were reported, small stones can sometimes be missed. However, the persistent hydronephrosis and vein compression make OVCS more likely.\n    * Renal tumors or urothelial carcinoma: Less likely given the absence of masses on CT and normal cystoscopy.  Typically, these would present with more persistent or progressive hydronephrosis and potentially other findings on imaging or cystoscopy (for bladder tumors).\n    * Idiopathic hematuria: Possible, but less likely given the clear anatomical finding of vein compression.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Final Diagnostic Conclusion: Based on the comprehensive analysis of the clinical presentation and ancillary test results, particularly the CT scan findings, the most likely diagnosis is **Ovarian Vein Compression Syndrome (OVCS) causing right ureteropelvic junction obstruction**.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Urinalysis and urine culture ruled out urinary tract infection.",
+            "hit": true
+        },
+        {
+            "step": "Imaging (ultrasound, CT, cystoscopy) excluded kidney stones or other ureteral obstructions.",
+            "hit": false
+        },
+        {
+            "step": "Dilated right ovarian vein compressing the ureter was identified via imaging, focusing on external compression causes.",
+            "hit": false
+        },
+        {
+            "step": "Macroscopic hematuria, dysuria, mild hydronephrosis, and imaging findings led to consideration of Ovarian Vein Syndrome (OVS).",
+            "hit": true
+        },
+        {
+            "step": "Normal renal perfusion and kidney emptying on scintigraphy confirmed the absence of significant functional impairment.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Ovarian Vein Syndrome (OVS) due to external compression of the right ureter by a dilated ovarian vein.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.5
+}

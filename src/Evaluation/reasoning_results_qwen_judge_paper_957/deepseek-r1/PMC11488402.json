@@ -1,0 +1,103 @@
+{
+    "raw_case": "\nIschemic vascular accident revealing hypoplasia of the internal carotid artery in a narrowed bony canal: A case report\nHypoplasia of the internal carotid artery is a rare congenital abnormality that can present with an ischemic stroke or transient ischemic attacks. We present the case of a 17-year-old male who presented with right hemiparesis and dysarthria. The imaging revealed hypoplasia of the left internal carotid artery and narrowing of the left carotid duct. The patient was managed conservatively. This case highlights the importance of considering ICA hypoplasia as a cause of ischemic stroke in patients with a narrowed osseous canal. Early diagnosis and management can help prevent recurrent strokes.\n\nIntroduction\n\nHypoplasia of the internal carotid artery (ICA) is a rare congenital condition characterized by a blood vessel with an abnormally tiny diameter. This anatomical variation can significantly reduce cerebral blood flow, increasing the risk of ischemic stroke [1].Despite its potential for severe neurological consequences, ICA hypoplasia often remains asymptomatic due to the development of collateral circulation. Consequently, the condition is typically discovered incidentally on imaging studies rather than through clinical presentation. While some patients may experience intermittent symptoms such as headaches, torticollis, visual disturbances, or cranial nerve palsies, others may present with catastrophic events like cerebral hemorrhage, ischemic stroke, or seizures [1].Given the potential for devastating neurological outcomes, early diagnosis and appropriate management are crucial. This case highlights the importance of considering ICA hypoplasia as a cause of ischemic stroke in patients with a narrowed osseous canal [2].\n\nCase presentation\n\nA 17-year-old male patient with no significant medical or surgical history presented to the emergency department with a 1-week history of right-sided weakness (hemiparesis) and difficulty speaking (dysarthria). The patient reported no associated symptoms.A physical examination revealed right hemiparesis and increased tone in the right upper and lower limbs. Deep tendon reflexes were higher on the right side. The sensory assessment was unremarkable. The cranial nerve testing revealed dysarthria without other deficits. The cardiopulmonary examination was unremarkable.Initial laboratory investigations, including complete blood count, basic metabolic panel, and coagulation studies, were within normal limits.The patient underwent a radiological workup. Cerebral CT scan returning in favor of an ischemic stroke involving the superficial and deep left sylvian territory (Fig. 1).The bone window at the base of the skull revealed a reduction in the caliber of the left carotid duct, measuring 3 mm in diameter versus 7 mm on the right (Fig. 2).Contrast injection showed defective opacification of the M1 and M2 portions of the left sylvian artery, as well as the formation of opposite collaterals, rarefaction of the cortical branches of the M3 and M4 portions, and hypoplasia of the left internal carotid artery on a narrowed bony canal (Fig. 3).Given the difficulty of accessing the carotid canal of bone, as well as the operative risks involved, the neurosurgical team suggested therapeutic abstention.\n\nDiscussion\n\nHypoplasia of the internal carotid artery is a rare congenital anomaly characterized by diffuse narrowing of the arterial lumen, affecting the internal carotid artery from 1 to 2 centimeters above the bifurcation. The anomaly may be bilateral or unilateral.The real prevalence is likely underestimated due to the presence of asymptomatic patients owing to the sufficient cerebral circulation provided by the polygon of Willis and its anastomoses. It affects adults aged 17 to 64, with an average of 35 years [3].The circumstances of discovery are highly variable: ischemic stroke, cerebromeningeal hemorrhage, headache, seizure, but very often, it is discovered accidentally.Internal carotid arterial hypoplasia on the retreci osseous canal is investigated by cerebral MRI coupled with angio-arterial sequences and a skull-base CT scan.When carotid hypoplasia is suspected on MRI, time-of-flight and fast 3D gradient echo magnetic resonance angiography sequences with Gadolinium contrast enhancement are used to assess the various bypass tracts and their pathways [4].The discovery of a tiny carotid canal corresponding to a hypoplastic artery on CT is widely recognized and reported in almost all cases. Angioscan with 3D reconstruction confirms the small caliber of hypoplastic internal carotid arteries, collateral circulation, and, above all, the presence of associated intracranial aneurysms.It is important to identify brain collateral circulation to predict neurological outcome and plan appropriate long-term follow-up.Vascular supply is variable, and 3 types have been described in the literature.The first type, the hypertrophied vertebrobasilar circulation, takes over hemispheric vascularization via the large posterior communicating arteries.The second type, \"admirable carotid networks,\" is also frequent. These networks are usually bilateral. Their afferents are either the internal carotid itself, branches of the external carotid, notably the internal maxillary artery, or both, sometimes joined by the ophthalmic artery.The third type are the gray nuclei's pseudoangiomatous anastomoses. They receive afferents from the posterior cerebral and posterior choroidal arteries, and they contribute to vascularizing the Willis polygon's anterior branches [5].The main causes of mortality are associated intracranial vascular events. The most common event is aneurysm formation in the posterior circulation, which causes increased hemodynamic stress across the collateral circulation.Another vascular complication is acute ischemic stroke, particularly in patients with an incomplete circle of Willis and inadequate collateral circulation. Cerebral artery thrombosis has also been reported.Management of these patients with acceptable operative risks remains a challenge, requiring aneurysm clipping or endovascular embolization, antiplatelet agents, and long-term follow-up.For the treatment of carotid hypoplasia, antiplatelet therapy has been chosen for most asymptomatic patients with no vascular complications [6].\n\nConclusion\n\nCongenital hypoplasia of the internal carotid artery is a rare anomaly. Its recognition is critical for avoiding incorrect management. Echo-Doppler combined with angio-MRI and/or angioscanner suggests congenital hypoplasia of the internal carotid artery. A CT scan of the skull base can confirm the diagnosis by revealing a tiny carotid artery.\n\nPatient consent\n\nConsent was obtained from the patient for publication of this case report and accompanying images.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 17-year-old male\n- **Chief Complaint:** Right hemiparesis and dysarthria\n- **History of Present Illness:** One-week history of right-sided weakness (hemiparesis) and difficulty speaking (dysarthria). No associated symptoms.\n- **Past Medical History:** None\n- **Personal History:** None\n- **Family History:** None\n- **Physical Examination:** \n  - Findings: Right hemiparesis, increased muscle tone in the right upper and lower limbs, heightened right-side deep tendon reflexes, dysarthria without other cranial nerve deficits.\n  - Unremarkable sensory, cardiopulmonary exams.\n- **Ancillary Tests:** \n  - Laboratory tests (CBC, basic metabolic panel, coagulation studies): Normal.\n  - Radiological findings: \n    - CT scan: Ischemic stroke in the superficial and deep left sylvian territory.\n    - Bone window CT: Narrowed left carotid duct (3 mm vs. 7 mm on the right).\n    - Contrast imaging: Defective opacification of the M1 and M2 portions of the left sylvian artery; rarefaction of cortical branches (M3 and M4); hypoplasia of the left internal carotid artery in a narrowed bony canal.",
+        "differential_diagnosis": "- **Initial Considerations:**\n  - The patient's presentation of right hemiparesis and dysarthria, along with CT findings indicating ischemic stroke, suggests a vascular etiology.\n  - Differential diagnosis included congenital vascular abnormalities (e.g., internal carotid artery hypoplasia), embolic stroke, vasculitis, or other secondary ischemic events.\n  \n- **Rationale for Exclusion of Other Diagnoses:**\n  - **Embolic stroke:** No clinical or imaging evidence of embolic source or cardiogenic embolism (normal cardiopulmonary exam and unremarkable lab findings).\n  - **Vasculitis:** No systemic symptoms or abnormal laboratory markers indicating an inflammatory or immune-related process.\n  - **Other ischemic etiologies:** Imaging findings (narrowed carotid canal and hypoplasia of the internal carotid artery) pointed toward a congenital abnormality rather than acquired causes.\n\n- **Final Consideration of Internal Carotid Artery (ICA) Hypoplasia:**\n  - Imaging findings confirmed hypoplasia of the left ICA, narrowed osseous canal, and compensatory collateral circulation. This congenital condition is a rare but recognized cause of ischemic stroke, particularly in the absence of alternative explanations.",
+        "final_diagnosis": "Congenital hypoplasia of the left internal carotid artery with associated ischemic vascular accident (stroke).",
+        "diagnosis_results": "Congenital hypoplasia of the left internal carotid artery with ischemic stroke."
+    },
+    "body_category": [
+        "Brain and Nerves"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-7-18",
+    "checked_rare_disease": [
+        "Pediatric arterial ischemic stroke"
+    ],
+    "id": "PMC11488402",
+    "results": {
+        "thinking_process": "Okay, let's tackle this case. So, we have a 17-year-old male with right hemiparesis and dysarthria for a week. No other symptoms. His physical exam shows right-sided weakness, increased muscle tone, hyperreflexia, and dysarthria. Sensory and other exams are normal. The CT scan shows an ischemic stroke in the left sylvian area. The bone window CT mentions a narrowed left carotid duct (3mm vs 7mm on the right), and contrast imaging shows issues with the M1 and M2 parts of the left sylvian artery, plus hypoplasia of the left internal carotid artery in a narrow bony canal.\n\nFirst, the key here is the ischemic stroke in a young patient. Strokes in young people are less common, so we need to think about causes like congenital anomalies, hypercoagulable states, cardiac issues, or trauma. But his labs are normal, so maybe not a clotting disorder. The CT findings point towards vascular abnormalities. The narrowed carotid duct and hypoplasia of the internal carotid artery are significant. Hypoplasia of the ICA is a congenital condition where the artery is underdeveloped. The bony canal narrowing might be related to that. \n\nThen, the left sylvian artery territory being affected makes sense because the left hemisphere controls the right side of the body, which matches his right hemiparesis and dysarthria. The defective opacification in M1 and M2 suggests reduced blood flow, likely due to the hypoplastic ICA. The bone window showing the narrowed canal supports the idea that this is a structural issue from birth. \n\nOther possibilities to consider: Could this be a dissection? But there's no mention of trauma. Moyamoya disease? That usually shows stenosis of the intracranial arteries and a characteristic network of vessels, but here the issue is hypoplasia and bony canal narrowing. Fibromuscular dysplasia? More common in women and affects medium-sized arteries. The hypoplasia seems more congenital here. \n\nGiven the combination of hypoplastic ICA with a narrowed bony canal, this fits with congenital hypoplasia leading to reduced blood flow and ischemic stroke. The term \"carotid duct\" here might refer to the carotid canal in the skull. So, the patient has a congenital underdevelopment of the left ICA, which is in a narrowed bony canal. The reduced blood flow from this hypoplasia likely led to the ischemic stroke in the left middle cerebral artery territory (sylvian). \n\nSo the final diagnosis would be hypoplasia of the left internal carotid artery causing an ischemic stroke. But maybe there's a specific syndrome or term for this. Wait, sometimes hypoplasia of the ICA is associated with other anomalies, but the case doesn't mention any. The key findings are the ICA hypoplasia in a narrowed bony canal leading to stroke. So the primary diagnosis is the hypoplastic ICA leading to ischemic stroke. The term might be \"Congenital Hypoplasia of the Internal Carotid Artery\" complicated by ischemic stroke. Alternatively, maybe there's a specific name for the bony canal narrowing with ICA hypoplasia. But in the absence of more info, hypoplasia of the ICA is the main issue here.",
+        "content": "### Reasoning:\n<step 1> The patient is a young male with acute right hemiparesis and dysarthria, indicative of a left hemispheric stroke. The CT confirms an ischemic stroke in the left sylvian territory.  \n<step 2> Stroke in young patients requires evaluation for uncommon etiologies. Normal labs exclude coagulopathy or systemic metabolic causes. The narrowed left carotid duct (3 mm vs. 7 mm) and hypoplastic left internal carotid artery on imaging suggest a congenital vascular anomaly.  \n<step 3> Hypoplasia of the internal carotid artery (ICA) is a rare congenital condition often associated with a narrowed bony carotid canal. Reduced blood flow from ICA hypoplasia predisposes to thromboembolic events or hemodynamic insufficiency, leading to ischemic stroke.  \n<step 4> The defective opacification of M1/M2 segments and cortical arterial rarefaction correlate with compromised perfusion in the left middle cerebral artery territory, directly explaining the clinical deficits. No evidence of dissection, vasculitis, or cardiac embolic sources supports the structural anomaly as the primary cause.  \n\n### Answer:\nHypoplasia of the left internal carotid artery with ischemic stroke."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient is a young male with acute right hemiparesis and dysarthria, indicative of a left hemispheric stroke. The CT confirms an ischemic stroke in the left sylvian territory.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Stroke in young patients requires evaluation for uncommon etiologies. Normal labs exclude coagulopathy or systemic metabolic causes. The narrowed left carotid duct (3 mm vs. 7 mm) and hypoplastic left internal carotid artery on imaging suggest a congenital vascular anomaly.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Hypoplasia of the internal carotid artery (ICA) is a rare congenital condition often associated with a narrowed bony carotid canal. Reduced blood flow from ICA hypoplasia predisposes to thromboembolic events or hemodynamic insufficiency, leading to ischemic stroke.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The defective opacification of M1/M2 segments and cortical arterial rarefaction correlate with compromised perfusion in the left middle cerebral artery territory, directly explaining the clinical deficits. No evidence of dissection, vasculitis, or cardiac embolic sources supports the structural anomaly as the primary cause.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "The patient presents with right hemiparesis and dysarthria, and CT shows ischemic stroke, suggesting a vascular etiology.",
+            "hit": true
+        },
+        {
+            "step": "Differential diagnoses include congenital vascular abnormalities, embolic stroke, vasculitis, or other secondary ischemic events.",
+            "hit": true
+        },
+        {
+            "step": "No evidence supports embolic stroke; normal cardiopulmonary exam and unremarkable lab findings exclude cardiogenic embolism.",
+            "hit": true
+        },
+        {
+            "step": "No systemic symptoms or abnormal lab markers rule out vasculitis.",
+            "hit": true
+        },
+        {
+            "step": "Imaging findings indicate hypoplasia of the left ICA, narrowed carotid canal, and compensatory collateral circulation, pointing to a congenital abnormality.",
+            "hit": true
+        },
+        {
+            "step": "This congenital condition is a rare but recognized cause of ischemic stroke without alternative explanations.",
+            "hit": true
+        },
+        {
+            "step": "Final diagnosis: Congenital hypoplasia of the left internal carotid artery with associated ischemic vascular accident (stroke).",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 1.0
+}

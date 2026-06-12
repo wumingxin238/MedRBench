@@ -1,0 +1,180 @@
+{
+    "raw_case": "\nCongenital right optic nerve colobomatous cyst associated with microphthalmos\nOptic nerve coloboma is a congenital defect caused by the incomplete closure of the embryonic fissure. This closure begins around the fifth week of gestation, when the embryo measures approximately 7 to 14 mm. Colobomas may appear as isolated defects or alongside other ocular and systemic abnormalities. They typically occur in the inferonasal quadrant, where the optic vesicle undergoes closure. This closure process starts centrally within the eye and progresses both anteriorly and posteriorly. The distinct nature of these closures can result in an optic nerve coloboma without an associated iris coloboma.The formation of a coloboma can be attributed to external factors affecting the fetus during pregnancy or to a genetic mutation, such as an autosomal dominant mutation in the Pax gene, which is linked to bilateral colobomas. Small colobomas generally require only clinical and radiological observation, whereas larger colobomas may need surgical intervention to remove the cyst and prevent complications related to orbital content development, thereby improving cosmetic outcomes\n\nIntroduction\n\nOptic nerve coloboma is a congenital defect caused by the incomplete closure of the embryonic fissure. This closure begins around the fifth week of gestation, when the embryo measures approximately 7 to 14 mm [[1], [2], [3]]. Colobomas may appear as isolated defects or alongside other ocular and systemic abnormalities. They typically occur in the inferonasal quadrant, where the optic vesicle undergoes closure. This closure process starts centrally within the eye and progresses both anteriorly and posteriorly. The distinct nature of these closures can result in an optic nerve coloboma without an associated iris coloboma.The formation of a coloboma can be attributed to external factors affecting the fetus during pregnancy or to a genetic mutation, such as an autosomal dominant mutation in the Pax gene, which is linked to bilateral colobomas. Small colobomas generally require only clinical and radiological observation, whereas larger colobomas may need surgical intervention to remove the cyst and prevent complications related to orbital content development, thereby improving cosmetic outcomes [4,5].\n\nCase report\n\nWe present the case of a 3-year-old male child with no medical or surgical history, who presented with decreased vision in the right eye. Clinical examination revealed right enophthalmos. Magnetic resonance imaging (MRI) (Fig. 1) identified a T1 hypointense and T2 hyperintense lesion, corresponding to a retrobulbar, intra-conal cystic cavity that completely replaced the optic nerve. Surgical treatment was performed using a lateral Kronlein approach, allowing for the en bloc removal of a large cyst, with the pathological optic nerve ligated at both ends. The cyst contained clear, high-pressure fluid. Histopathological examination revealed neuroretinal tissue surrounded by glial tissue. Skin closure with sutures facilitated good healing of the surgical wound. Three months postoperatively, clinical follow-up showed good eyelid and ocular motility. A follow-up CT scan confirmed satisfactory results, indicating reduced ocular protrusion and the presence of a small residual cavity.\n\nDiscussion\n\nMicrophthalmos and colobomatous cysts represent rare yet significant developmental abnormalities of the orbit. These conditions result from the incomplete closure of the optic fissure during fetal development, leading to the herniation of glial tissue into the orbital cavity, forming a cystic structure [6]. The affected eyes often exhibit severely impaired vision or even blindness, as observed in the current case where the patient had no vision in the right eye [7].Microphthalmos with a cystic lesion can present as an isolated congenital defect, as in the current patient, or alongside a spectrum of systemic or intracranial anomalies. It is not uncommon for the contralateral eye to also display coloboma, although in this instance, the left eye appeared unaffected. This diversity in presentation necessitates a careful differential diagnosis to distinguish between colobomatous cysts and other congenital cystic orbital masses. Conditions that may present with similar clinical and imaging features include encephaloceles, arachnoid cysts, dermoid cysts, and solid tumors with central necrosis. However, these entities are generally not associated with microphthalmos [[7], [8], [9]].Other causes of microphthalmos that do not involve orbital cysts include persistent hyperplastic primary vitreous, retrolental fibroplasia, congenital infectious ophthalmopathy, and anophthalmos. These conditions can sometimes present with overlapping clinical features, making accurate diagnosis challenging [9].The clinical presentation of microphthalmos with colobomatous cysts can vary widely, complicating the diagnostic process. Symptoms may range from the presence of a visible cystic mass to more subtle signs of ocular maldevelopment. Advanced imaging techniques, such as magnetic resonance imaging (MRI), computed tomography (CT), and ultrasonography, are indispensable in achieving a precise diagnosis. These imaging modalities are crucial not only for identifying the presence and extent of the cyst but also for detecting any communication between the cyst and the globe or the subarachnoid space/ventricular system. Such communications can influence the choice of treatment and management strategies [[10], [11], [12]].The management of microphthalmos with colobomatous cysts requires a multidisciplinary approach, involving ophthalmologists, radiologists, and plastic surgeons. Early diagnosis and intervention are critical for optimizing outcomes. The therapeutic approach for colobomatous cystic lesions is multifaceted and must be tailored to the specific circumstances of each patient. Key factors influencing treatment decisions include the patient's age, the size and growth potential of the cyst, the presence of communication between the cyst and the globe, and the overall visual prognosis [13]. The primary objectives of treatment are to promote normal orbital growth and achieve satisfactory cosmetic outcomes. Various treatment options are available, ranging from conservative management with regular monitoring to more invasive surgical interventions. These options include:•Simple Cyst Aspiration: This approach may be considered in cases where the cyst does not significantly impact the globe or orbital structure. It involves draining the cystic fluid to reduce its size.•Enucleation of the Microphthalmic Eye with Cyst Removal: This more invasive procedure may be necessary when the cyst is large or causing significant orbital distortion. Enucleation is often followed by orbital reconstruction to support normal growth and improve cosmetic appearance.•Cyst Excision with Globe Preservation: In cases where preserving the eye is feasible, surgical removal of the cyst while maintaining the integrity of the globe is preferred. This approach aims to retain as much ocular function as possible while addressing the cyst.•Orbital Expanders and Conformers: These devices can be used postoperatively to encourage orbital development and maintain proper eyelid positioning.Whenever feasible, globe-preserving surgery is the preferred approach, as it tends to yield better cosmetic results and preserves any residual visual function. The choice of intervention must be carefully weighed against the potential risks, including the possibility of postoperative complications or the need for additional surgeries.In the case of significant cystic formations, particularly those presenting late, as in the current patient, more extensive surgical intervention may be required. This can pose additional challenges in terms of achieving satisfactory cosmetic rehabilitation and preventing complications such as infection or recurrent cyst formation.Postoperative follow-up is crucial for monitoring the patient's recovery and for early detection of any complications or recurrence of the cyst. Additionally, regular follow-up is necessary to assess the potential for malignant transformation, although this is relatively rare.\n\nConclusions\n\nThis case report details an uncommon presentation of a congenital colobomatous cyst in the right orbit, accompanied by microphthalmos, which was identified later than typically expected. Utilizing advanced imaging technologies like MRI can greatly aid in the early detection of such lesions, providing valuable information for parental counseling and optimizing early treatment strategies.\n\nAuthor contributions\n\nAll authors contributed to this work. All authors have read and approved the final version of the manuscript.\n\nGuarantor of submission\n\nThe corresponding author is the guarantor of submission.\n\nPatient consent\n\nWritten informed consent for publication was obtained from patient.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 3-year-old male\n- **Chief Complaint:** Decreased vision in the right eye\n- **History of Present Illness:** None\n- **Past Medical History:** None\n- **Personal History:** None\n- **Family History:** None\n- **Physical Examination:** Right enophthalmos observed\n- **Ancillary Tests:** \n  - Magnetic Resonance Imaging (MRI): T1 hypointense and T2 hyperintense lesion representing a retrobulbar, intra-conal cystic cavity completely replacing the optic nerve.\n  - Postoperative histopathology: Neuroretinal tissue surrounded by glial tissue.\n  - Follow-up CT scan: Reduced ocular protrusion and a small residual cavity.",
+        "differential_diagnosis": "1. **Initial Assessment and Imaging Findings:**\n   - Right enophthalmos and the presence of a cystic lesion visible on MRI raise suspicion for congenital orbital abnormalities.\n   - Conditions such as colobomatous cysts, encephaloceles, arachnoid cysts, dermoid cysts, and solid tumors with central necrosis were considered.\n\n2. **Rationale for Excluding Other Diagnoses:**\n   - **Encephaloceles and arachnoid cysts:** Typically associated with cerebral abnormalities and not with significantly altered ocular structures like microphthalmos.\n   - **Dermoid cysts:** These are generally located near superficial areas like the superotemporal orbit and not directly associated with the optic nerve.\n   - **Solid tumors with central necrosis:** Imaging findings did not indicate solid masses with necrosis.\n   - **Other causes of microphthalmos (e.g., persistent hyperplastic primary vitreous, congenital infectious ophthalmopathy):** These lack the associated cystic lesion observed in imaging.\n\n3. **Final Confirmation of Diagnosis:**\n   - The MRI findings, combined with the histopathological examination showing neuroretinal tissue and glial tissue in the resected cyst, confirmed that the lesion was consistent with a colobomatous cyst.\n   - The association with microphthalmos further solidified the diagnosis of a congenital right optic nerve colobomatous cyst.",
+        "final_diagnosis": "Congenital right optic nerve colobomatous cyst associated with microphthalmos, a rare congenital anomaly caused by incomplete closure of the embryonic fissure during fetal development.",
+        "diagnosis_results": "Congenital right optic nerve colobomatous cyst associated with microphthalmos."
+    },
+    "body_category": [
+        "Eyes and Vision"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-7-28",
+    "checked_rare_disease": [
+        "Coloboma of optic disc"
+    ],
+    "id": "PMC11401066",
+    "results": {
+        "content": "### Resoning:\n\n<step 1> Let's carefully go through this case. We have a 3-year-old boy with decreased vision in his right eye. There's no history of any injuries or illnesses mentioned, which is noted as \"none\" in the past medical and personal history. Also, there's no relevant family history provided.\n\n<step 2> The physical examination shows right enophthalmos, which means the right eye appears to be sunken or set deeper into the orbit compared to the left eye. This is an important finding as it suggests some abnormality in the orbit or the contents of the eye.\n\n<step 3> The MRI findings are crucial here. It describes a T1 hypointense and T2 hyperintense lesion in the retrobulbar, intraconal area, which is a cystic cavity completely replacing the optic nerve. This indicates that there's a fluid-filled space where the optic nerve should be, suggesting some sort of cyst or developmental anomaly.\n\n<step 4> Postoperative histopathology shows neuroretinal tissue surrounded by glial tissue. This suggests that there is neural tissue present, but it's abnormal, being surrounded by glial cells, which are support cells in the nervous system. This could indicate a developmental abnormality or a cystic lesion involving neural elements.\n\n<step 5> The follow-up CT scan shows reduced ocular protrusion and a small residual cavity. This might suggest that some intervention was performed, possibly surgical removal of the cystic lesion, leading to less protrusion of the eye and a smaller residual space where the lesion was.\n\n<step 6> Now, considering all these findings, we need to think about what could cause a cystic lesion replacing the optic nerve, with neural tissue present, in a child with decreased vision and enophthalmos.\n\n<step 7> One of the first considerations is a coloboma, which is a developmental anomaly where there's a missing part of the eye structure due to failure of fusion during embryogenesis. However, colobomas typically involve the choroid, retina, and sometimes the optic nerve, but they don't usually present as a cystic lesion replacing the optic nerve.\n\n<step 8> Another possibility is a congenital cystic optic nerve lesion, such as an optic nerve glioma that has a cystic component. However, gliomas are more commonly solid tumors, and the histopathology here shows neuroretinal tissue rather than gliomatous tissue.\n\n<step 9> A different consideration is dysplasia of the optic nerve, where there's abnormal development leading to cyst formation. This could explain the cystic lesion replacing the optic nerve and the presence of neuroretinal tissue.\n\n<step 10> Additionally, colloid cysts or arachnoid cysts in the optic nerve can present as cystic lesions, but these are less common and typically don't contain neural tissue.\n\n<step 11> Given the histopathology showing neuroretinal tissue surrounded by glial tissue, it seems like there's an abnormal development of neural tissue in the optic nerve, leading to a cystic cavity.\n\n<step 12> It's also important to consider the enophthalmos, which could be due to the loss of normal optic nerve tissue and possibly other orbital contents.\n\n<step 13> After considering these points, the most likely diagnosis is a developmental cyst of the optic nerve, possibly a congenital cystic optic nerve lesion or dysplasia.\n\n<step 14> To confirm this, one would typically look at the histopathology report in more detail, but based on the information provided, this seems to be the most appropriate diagnosis.\n\n<step 15> It's also worth noting that the follow-up CT scan showing reduced ocular protrusion and a small residual cavity suggests that some of the cystic lesion was removed surgically, which aligns with the management of such lesions.\n\n### Answer:\n\nCongenital cystic optic nerve lesion or dysplasia"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Let's carefully go through this case. We have a 3-year-old boy with decreased vision in his right eye. There's no history of any injuries or illnesses mentioned, which is noted as \"none\" in the past medical and personal history. Also, there's no relevant family history provided.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The physical examination shows right enophthalmos, which means the right eye appears to be sunken or set deeper into the orbit compared to the left eye. This is an important finding as it suggests some abnormality in the orbit or the contents of the eye.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The MRI findings are crucial here. It describes a T1 hypointense and T2 hyperintense lesion in the retrobulbar, intraconal area, which is a cystic cavity completely replacing the optic nerve. This indicates that there's a fluid-filled space where the optic nerve should be, suggesting some sort of cyst or developmental anomaly.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Postoperative histopathology shows neuroretinal tissue surrounded by glial tissue. This suggests that there is neural tissue present, but it's abnormal, being surrounded by glial cells, which are support cells in the nervous system. This could indicate a developmental abnormality or a cystic lesion involving neural elements.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The follow-up CT scan shows reduced ocular protrusion and a small residual cavity. This might suggest that some intervention was performed, possibly surgical removal of the cystic lesion, leading to less protrusion of the eye and a smaller residual space where the lesion was.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Now, considering all these findings, we need to think about what could cause a cystic lesion replacing the optic nerve, with neural tissue present, in a child with decreased vision and enophthalmos.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "One of the first considerations is a coloboma, which is a developmental anomaly where there's a missing part of the eye structure due to failure of fusion during embryogenesis. However, colobomas typically involve the choroid, retina, and sometimes the optic nerve, but they don't usually present as a cystic lesion replacing the optic nerve.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Another possibility is a congenital cystic optic nerve lesion, such as an optic nerve glioma that has a cystic component. However, gliomas are more commonly solid tumors, and the histopathology here shows neuroretinal tissue rather than gliomatous tissue.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "A different consideration is dysplasia of the optic nerve, where there's abnormal development leading to cyst formation. This could explain the cystic lesion replacing the optic nerve and the presence of neuroretinal tissue.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Additionally, colloid cysts or arachnoid cysts in the optic nerve can present as cystic lesions, but these are less common and typically don't contain neural tissue.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Initial assessment reveals right enophthalmos and a cystic lesion on MRI, suggesting congenital orbital abnormalities.",
+            "hit": false
+        },
+        {
+            "step": "Step 2: Considerations include colobomatous cysts, encephaloceles, arachnoid cysts, dermoid cysts, and solid tumors with central necrosis.",
+            "hit": true
+        },
+        {
+            "step": "Step 3: Encephaloceles and arachnoid cysts are excluded due to their association with cerebral abnormalities and lack of significant ocular structure alterations.",
+            "hit": false
+        },
+        {
+            "step": "Step 4: Dermoid cysts are ruled out as they are typically located superficially and not associated with the optic nerve.",
+            "hit": false
+        },
+        {
+            "step": "Step 5: Solid tumors with central necrosis are excluded based on imaging findings.",
+            "hit": false
+        },
+        {
+            "step": "Step 6: Other causes of microphthalmos, such as persistent hyperplastic primary vitreous and congenital infectious ophthalmopathy, are excluded due to the absence of associated cystic lesions.",
+            "hit": false
+        },
+        {
+            "step": "Step 7: MRI and histopathological examination confirm the lesion as a colobomatous cyst containing neuroretinal and glial tissue.",
+            "hit": true
+        },
+        {
+            "step": "Step 8: The diagnosis is finalized as a congenital right optic nerve colobomatous cyst associated with microphthalmos.",
+            "hit": true
+        },
+        {
+            "step": "Step 9: The condition is identified as a rare congenital anomaly resulting from incomplete closure of the embryonic fissure during fetal development.",
+            "hit": false
+        },
+        {
+            "step": "Step 10: Final diagnosis: Congenital right optic nerve colobomatous cyst associated with microphthalmos.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 0.7,
+    "recall": 0.4
+}

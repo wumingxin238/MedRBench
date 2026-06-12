@@ -1,0 +1,108 @@
+{
+    "raw_case": "\nSpontaneous Pneumomediastinum in a Patient With Undiagnosed Ankylosing Spondylitis\nSpontaneous pneumomediastinum (SPM) is an uncommon condition characterized by air in the interstices of the mediastinum. Management generally involves supportive care; however, if a patient inspires high concentrations of oxygen, the mediastinal air will be absorbed faster. A 23-year-old man who presented with acute-onset breathlessness with a history of more than a year of lower backache was diagnosed with SPM and accompanying ankylosing spondylitis (AS) by a chest CT and spinal MRI and was treated conservatively. This case is being reported for its uniqueness, as SPM with underlying AS is rare.\n\nIntroduction\n\nPneumomediastinum is defined as the presence of air in the mediastinum. It is classified into two categories: spontaneous pneumomediastinum (SPM) and secondary pneumomediastinum [1]. The term “spontaneous pneumomediastinum” is used when there is no obvious antecedent cause (such as surgery, infection, trauma, or viscus perforation) in otherwise healthy individuals. The condition is often misdiagnosed due to the vague nature of its presentation. SPM must be included in the differential diagnosis of chest pain to enable prompt management [2]. Chest discomfort and dyspnea, two of the most common presenting symptoms of SPM, can be caused by a variety of cardiopulmonary illnesses, making the diagnosis of SPM challenging. Despite the rarity of SPM, early identification and treatment are critical to prevent worsening of the condition.\n\nCase presentation\n\nA 23-year-old man with a history of lower backache of more than one year presented to our emergency department with acute-onset breathlessness beginning one day before. His blood pressure was 120/80 mmHg, temperature was 97.9ºF, respiratory rate was 30 cycles/min, pulse rate was 134 BPM, and oxygen saturation was 88% on room air. The patient was tachypneic, and subcutaneous crepitus was felt on examination. On auscultation, crackles were heard in the bilateral interscapular and mammary regions, accompanied by a pericardial rub. His laboratory values were remarkable, with a total leukocyte count of 14,000/dL. A chest X-ray revealed pneumomediastinum (Figure 1), and a chest CT was remarkable for bilateral subcutaneous emphysema and moderate pneumomediastinum (with pneumopericardium), with air tracking along the bilateral lung fields (predominantly along bilateral oblique fissures) and patchy areas of ground-glass opacities in the left upper lobe and anteromedial segment of the left lower lobe (Figure 2).An echocardiogram was performed, which was normal. The patient was managed with IV antibiotics for five days, along with oxygen support at 10 L/min for the first two days, after which his oxygen requirement decreased and his symptoms improved. In light of the patient’s history of more than one year of persistent lower backache with morning stiffness, a pelvic X-ray (Figure 3) and spinal MRI (Figure 4) were conducted, which revealed bilateral sacroiliitis. In light of the MRI findings, a test for HLA-B27 was ordered, which returned positive. The patient is currently being managed with nonsteroidal anti-inflammatory drugs (NSAIDs) for lower backache. A repeat chest CT was performed, which showed a resolution of the patient’s pneumomediastinum (Figures 5, 6). \n\nDiscussion\n\nPneumomediastinum (also known as mediastinal emphysema) is characterized by the presence of air in the mediastinum [2]. SPM is a rare condition with a male-to-female (M:F) ratio of 8:13 and is typically linked to underlying respiratory conditions such as chronic obstructive pulmonary disease (COPD) and bronchial asthma [3]. SPM usually presents with chest discomfort and dyspnea. Other symptoms include cough, dysphagia, a nasal voice, dysphonia, and cervical pain [4]. In this case, dyspnea was the only presenting symptom. In terms of diagnostic investigation, a chest CT picks up pneumomediastinum in most cases if an ordered chest X-ray is inconclusive. In the present case, a chest X-ray showed features of pneumomediastinum that were confirmed by chest CT. Along with features of pneumomediastinum, patchy areas of ground glass opacities were observed in a few segments of the left lung. The patient did not have any underlying respiratory symptoms prior to this acute event. Serious illnesses, such as pulmonary embolism, acute coronary syndrome, primary pneumothorax, and pericarditis, are included in the differential diagnosis of SPM. Upper lobe fibrosis, spontaneous pneumothorax, sleep apnea, ventilatory dysfunction due to chest wall restriction, and interstitial lung disease are other pulmonary manifestations of the disease [5]. With the enhanced lung parenchyma visibility made possible by high-resolution CT, interstitial lung disease is now a recognized feature of lung involvement in AS, in addition to apical fibrosis. These conditions were ruled out in our patient with a chest CT and 2D echocardiography. The patient responded to supportive management with oxygen therapy, which eventually led to a complete resolution of symptoms, as is observed in most cases. The patient was further evaluated for inflammatory back pain with a spinal MRI, which revealed features of sacroiliitis. A subsequent HLA B-27 test was found to be positive. The patient was thus diagnosed with ankylosing spondylitis (AS).\n\nConclusions\n\nIn this case report, we present a rare instance of SPM in a patient with AS. The development of pneumomediastinum in AS patients is unusual and warrants attention due to the potential complications. The patient’s presentation with chest pain and dyspnea led to the diagnosis, confirmed by imaging studies, which revealed air in the mediastinum without any apparent traumatic or iatrogenic cause. Conservative management was successful, with the patient recovering without any surgical intervention.This case highlights the importance of considering pneumomediastinum in the differential diagnosis of chest pain in AS patients. Early recognition and appropriate management are crucial to prevent complications. Further studies are needed to understand the association between AS and SPM and to develop guidelines for its management in this patient population.",
+    "generate_case": {
+        "case_summary": "- Patient Information: 23-year-old male\n- Chief Complaint: Acute-onset breathlessness\n- History of Present Illness: Acute breathlessness starting one day prior to presentation; history of lower backache with morning stiffness lasting more than one year.\n- Past Medical History: None reported\n- Personal History: None mentioned\n- Family History: None mentioned\n- Physical Examination: Tachypnea (respiratory rate 30 cycles/min), oxygen saturation 88% on room air, subcutaneous crepitus on palpation, bilateral crackles on auscultation, pericardial rub.\n- Ancillary Tests: \n  - Chest X-ray and CT: Confirmed moderate pneumomediastinum, bilateral subcutaneous emphysema, pneumopericardium, air tracking in lung fields, and ground-glass opacities in specific lung areas.\n  - Echocardiogram: Normal findings.\n  - Pelvic X-ray and spinal MRI: Bilateral sacroiliitis.\n  - HLA-B27 test: Positive.",
+        "differential_diagnosis": "1. **Pneumomediastinum (SPM):** Confirmed by chest imaging showing air in the mediastinum without obvious traumatic or infectious causes and with typical symptoms such as dyspnea and chest discomfort. Ruled out secondary pneumomediastinum due to lack of evident antecedent causes such as trauma or infection. \n   \n2. **Pulmonary embolism/acute coronary syndrome/pericarditis:** Excluded by imaging (chest CT, 2D echocardiogram) and lack of clinical signs specific to these conditions (e.g., normal findings on echocardiogram for cardiac causes).\n\n3. **Primary pneumothorax:** Differentiated from SPM via chest CT findings showing no evidence of pneumothorax but confirmation of pneumomediastinum.\n\n4. **Underlying respiratory conditions (e.g., asthma, COPD):** No prior history, symptoms, or imaging findings supporting these conditions.\n\n5. **Ankylosing Spondylitis (AS):** Considered due to chronic lower backache with morning stiffness. Confirmed by spinal MRI findings of sacroiliitis and positive HLA-B27 test.",
+        "final_diagnosis": "- **Spontaneous Pneumomediastinum (SPM):** Based on characteristic imaging findings, absence of trauma or infections, and successful response to supportive care (oxygen therapy).\n- **Ankylosing Spondylitis (AS):** Diagnosed due to chronic inflammatory back pain with sacroiliitis on MRI and positive HLA-B27 status.",
+        "diagnosis_results": "Spontaneous pneumomediastinum (SPM) and ankylosing spondylitis (AS)."
+    },
+    "body_category": [
+        "Lungs and Breathing"
+    ],
+    "disorder_category": [
+        "Injuries and Wounds"
+    ],
+    "receive_time": "2024-7-15",
+    "checked_rare_disease": [],
+    "id": "PMC11391400",
+    "results": {
+        "thinking_process": "Okay, let's try to figure out what's going on with this patient. So, the patient is a 23-year-old male with acute breathlessness that started a day ago. He also has a history of lower backache with morning stiffness for over a year. \n\nFirst, the acute onset of breathlessness makes me think of things like pneumothorax, pulmonary embolism, asthma exacerbation, or maybe an infection like pneumonia. But looking at the physical exam findings: tachypnea, low oxygen saturation, subcutaneous crepitus (which suggests air under the skin), crackles in the lungs, and a pericardial rub. The imaging shows pneumomediastinum, subcutaneous emphysema, pneumopericardium, and ground-glass opacities. So, air is leaking into different areas—mediastinum, around the heart, under the skin. That points towards spontaneous pneumomediastinum maybe. But what's causing that?\n\nThen there's the past history of lower backache with morning stiffness for over a year. Morning stiffness in a young male makes me think of ankylosing spondylitis, especially since the pelvic X-ray and spinal MRI showed bilateral sacroiliitis. And the HLA-B27 test is positive, which is strongly associated with ankylosing spondylitis.\n\nWait, ankylosing spondylitis can have extra-articular manifestations. One rare complication is pulmonary involvement. There's a condition called \"spontaneous pneumomediastinum\" associated with ankylosing spondylitis. How does that happen? Maybe due to interstitial lung disease leading to air leaks. The ground-glass opacities on CT might indicate some underlying lung inflammation or fibrosis. \n\nAlso, the presence of pneumopericardium is unusual. But if there's a communication between the lungs and pericardium due to air leakage from the mediastinum, that could explain it. The echocardiogram was normal, so no tamponade or effusion, which is good.\n\nPutting it all together: The patient has ankylosing spondylitis (based on sacroiliitis, HLA-B27, and back symptoms), which might have led to pulmonary complications causing spontaneous pneumomediastinum, subcutaneous emphysema, and pneumopericardium. The breathlessness is due to the air leaks and possible interstitial lung disease. The ground-glass opacities could be related to inflammation from the underlying autoimmune condition.\n\nAnother possibility is a connective tissue disorder like Marfan syndrome, but there's no mention of family history or physical features. Also, considering the HLA-B27, ankylosing spondylitis seems more likely. The acute air leaks are probably secondary to the chronic inflammation in the lungs from AS. \n\nSo, the final diagnosis would link the acute respiratory issues with the underlying spondyloarthropathy. The combination of sacroiliitis, HLA-B27 positivity, and the rare pulmonary complications points towards ankylosing spondylitis with associated pneumomediastinum and pneumopericardium.",
+        "content": "```\n### Resoning:\n<step 1> The patient presents with acute-onset breathlessness and features of air leakage (subcutaneous crepitus, pneumomediastinum, pneumopericardium, and subcutaneous emphysema on imaging). This suggests spontaneous alveolar rupture leading to air dissection into the mediastinum and surrounding tissues.  \n<step 2> The chronic history of lower backache with morning stiffness and bilateral sacroiliitis on imaging, combined with HLA-B27 positivity, strongly supports a diagnosis of ankylosing spondylitis (AS), a seronegative spondyloarthropathy.  \n<step 3> Ankylosing spondylitis is associated with rare pulmonary complications, including apical fibrosis and interstitial lung disease, which can predispose to pneumomediastinum due to weakened lung parenchyma and air leaks.  \n<step 4> The presence of pneumopericardium and ground-glass opacities on CT further aligns with inflammatory lung involvement secondary to AS, as chronic inflammation may create pathways for air to track into the pericardial space.  \n<step 5> Normal echocardiogram excludes structural cardiac pathology but does not rule out pericardial inflammation (pericardial rub on exam), which can occur in AS-related serositis.  \n\n### Answer:\nAnkylosing spondylitis with spontaneous pneumomediastinum, pneumopericardium, and subcutaneous emphysema secondary to pulmonary involvement."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient presents with acute-onset breathlessness and features of air leakage (subcutaneous crepitus, pneumomediastinum, pneumopericardium, and subcutaneous emphysema on imaging). This suggests spontaneous alveolar rupture leading to air dissection into the mediastinum and surrounding tissues.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The chronic history of lower backache with morning stiffness and bilateral sacroiliitis on imaging, combined with HLA-B27 positivity, strongly supports a diagnosis of ankylosing spondylitis (AS), a seronegative spondyloarthropathy.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Ankylosing spondylitis is associated with rare pulmonary complications, including apical fibrosis and interstitial lung disease, which can predispose to pneumomediastinum due to weakened lung parenchyma and air leaks.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The presence of pneumopericardium and ground-glass opacities on CT further aligns with inflammatory lung involvement secondary to AS, as chronic inflammation may create pathways for air to track into the pericardial space.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Normal echocardiogram excludes structural cardiac pathology but does not rule out pericardial inflammation (pericardial rub on exam), which can occur in AS-related serositis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Pneumomediastinum (SPM) confirmed by chest imaging showing air in the mediastinum without traumatic or infectious causes and with typical symptoms like dyspnea and chest discomfort; ruled out secondary pneumomediastinum due to lack of antecedent causes.",
+            "hit": false
+        },
+        {
+            "step": "Pulmonary embolism, acute coronary syndrome, and pericarditis excluded by normal chest CT and 2D echocardiogram findings.",
+            "hit": false
+        },
+        {
+            "step": "Primary pneumothorax differentiated from SPM via chest CT showing no evidence of pneumothorax but confirmation of pneumomediastinum.",
+            "hit": false
+        },
+        {
+            "step": "No underlying respiratory conditions like asthma or COPD supported by prior history, symptoms, or imaging findings.",
+            "hit": false
+        },
+        {
+            "step": "Ankylosing Spondylitis (AS) considered due to chronic lower backache with morning stiffness; confirmed by spinal MRI findings of sacroiliitis and positive HLA-B27 test.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Spontaneous Pneumomediastinum (SPM) based on characteristic imaging findings, absence of trauma or infections, and response to supportive care (oxygen therapy); Ankylosing Spondylitis (AS) diagnosed due to chronic inflammatory back pain with sacroiliitis on MRI and positive HLA-B27 status.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 0.6,
+    "recall": 0.0
+}

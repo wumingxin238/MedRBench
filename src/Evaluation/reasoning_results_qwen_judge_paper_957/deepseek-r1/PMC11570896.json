@@ -1,0 +1,89 @@
+{
+    "raw_case": "\nJejunal diverticulosis: A rare diagnosis with serious complications\nDiverticula of the jejunum is a rare but real disease with various manifestations. The diagnosis is often missed due to a lack of awareness, leading to delays and added complications, and consequently increased morbidity and mortality. Management remains controversial, ranging from a conservative approach that recommends rest, analgesics with close monitoring even for mildly complicated cases, to an aggressive approach justified by the increased risk of complications.We report the case of a 40- year-old-woman with no significant medical history who presented with recurrent left abdominal pain. A CT-scan revealed multiple jejunal diverticula, some of which were inflamed, leading to a final diagnosis of jejunal diverticulitis. This case discusses the clinical presentation, complications, diagnosis and management of this condition.\n\nIntroduction\n\nJejunal diverticulosis is a recognized disease often confirmed intraoperatively or postmortem. The disease was first reported in the literature by Sommevit in 1794 [1]. Usually presenting with nonspecific or asymptomatic course, its diagnostic is challenging, especially due to the lack of awareness of its existence, often leading to its exclusion from the differential diagnosis of acute abdominal pain. Diagnosis may be achieved by endoscopy, enteroclysis, or computed tomography, with the latter being more available and accessible in emergency settings [2]. Consensus on therapy remains elusive, and treatment should be tailored to the patient's symptoms and complications.\n\nCase report\n\nA 40-year-old-woman with no significant medical history complained of recurrent, ambiguous abdominal pain that has lasted for 2 years, exacerbated during certain intervals, particularly when she consulted. Clinical examination was unremarkable, and blood tests revealed only a mild inflammatory syndrome. An abdominal-ultrasound, performed as the first modality to exclude an abdominal emergency, was normal. Both esophageal fibroscopy and colonoscopy conducted to investigate the digestive tract for insidious bleeding, showed no abnormality. Given the persistence of the abdominal pain and to complete the full work-up, a CT-scan was performed and revealed multiple small air-filled, thin-walled pouches attached to the jejunal wall, along with 2 larger pouches. The latter had thickened wall and were associated with stranding of the adjacent mesenteric fat and enlarged lymph nodes (Figs. 1 and 2). There was no pneumoperitoneum. The diagnosis of diverticulitis was confirmed, and the patient was treated with antibiotics and analgesics. She was discharged 2 days later with a good recovery.\n\nDiscussion\n\nJejunal and ileal diverticulosis, along with stomach diverticulosis, are among the least common types of gastrointestinal diverticulosis, collectively accounting for approximatively 0.9% to 1% of cases. This condition mainly occurs in older adults and is rarely suspected as a cause of abdominal pain, leading to diagnostic delays. There are some reports of its identification in younger individuals and a slight male preponderance.They represent small, thin-walled masses without a muscle layer. The pathophysiology is considered multifactorial, involving intestinal driving forces from luminal content and peristaltic muscle contractions, along with sites of weakness in the wall at areas where blood vessels penetrate, leading to herniation of the mucosa and submucosa. This explains their presence exclusively on the mesenteric side [[3], [4], [5]].It may present in various clinical scenarios, ranging from incidental findings to emergencies requiring prompt intervention. Symptoms include vague abdominal pain, distension, nausea, and bleeding, which may go unnoticed or present as a microcytic hypochromic anemia. The nonspecificity of these symptoms and their overlap with other abdominal diseases make the diagnosis more challenging.Symptomatic forms occur in 60% of cases and often present chronically with malabsorption and intestinal motility abnormalities. Acute forms include various complications, such as low-grade fever in diverticulitis, moderate to severe sepsis with abscess formation, and acute surgical abdomen if perforation occurs. Hemorrhage, volvulus, intussusception, and intestinal obstruction are also rare but possible reported acute complications [6].Obstruction may be caused by adhesions secondary to prior inflammation, volvulus, intussusception, or a large compressive diverticulum. Incidental imaging finding in asymptomatic patients describe small ovoid or round, fluid-, air-, or contrast-filled structures that are extra-luminal and connected to the bowel lumen. The modality of choice for diagnosing this condition is enteroclysis, which allows bowel distension through methylcellulose, though of limited usefulness in acute sittings.Around 50% of patients with jejunal and ileal diverticulosis also have associated colonic diverticulosis, which is more commonly known and easily recognized. This can serve as a warning sign in highly suspicious cases. Using a lung window for interpretation on CT-scan may help identify air appended to the intestinal wall within diverticula, as well as within the peritoneum in cases of perforation. Stranding of adjacent mesenteric fat with enlarged lymph nodes and acute pain support the diagnosis of diverticulitis.There is still no consensus on the management of jejunal diverticulosis in the literature. The majority of cases are asymptomatic or mildly symptomatic and resolve spontaneously or with a conservative approach, treating complications as they arise. Some teams suggest aggressive therapy with resection, citing an increased risk of perforation compared to other forms of non-Meckelian diverticulosis. However, there are reports of conservative management in localized perforation, which have been well tolerated, highlighting the potential for integration into the therapeutic algorithm [[6], [7], [8]]. This conservative management consists of antibiotic and intestinal rest.One of the therapeutic challenges in cases of perforation is the difficulty in identifying the diverticulum causing perforation. In such situations, management involves abdominal washout, closure of the abdomen, and wide drainage. Other cases of acutely managed diverticulosis require jejunal resection, with the length of resection depending on the involved segment and the patient's clinical condition. Significant rates of morbidity and mortality, up to 30% and 4% respectively, have been reported, often due to diagnostic delays and the chosen treatment. It is suggested to manage chronic symptoms in chronic forms of diverticula with analgesics and intestinal motility regulators [9]. Overall, the therapeutic approach is based on observation for asymptomatic cases, dietary modifications combined with analgesics and antispasmodics in symptomatic uncomplicated cases. Symptomatic complicated cases require antibiotics either with or without surgical intervention, which may involve either resection of the affected segment or diverticulectomy.\n\nConclusion\n\nJejunal diverticulosis is an uncommon condition and often presents with few symptoms, making it challenging to diagnose and manage due to limited available data. Its clinical presentation overlaps with various other conditions, requiring a high level of suspicion for accurate diagnosis. Despite the lack of consensus, jejunal diverticulosis is primarily similar to colonic diverticulosis in terms of its potential for complications; however, it differs in the absence of typical symptoms and the nature of those complications.\n\nData availability\n\nThe published data are available. Supplementary material can be provided if needed.\n\nAuthors contribution\n\nAll authors participated actively to elaboration of this scientific document:The first author, who's the correspondent 1: elaborated the manuscript.The others revised and approved it.The last author diagnosed and validated the case.\n\nPatient consent\n\nInformed consent has been obtained for the publication of this document from the patient. The information within the manuscript is anonymized.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 40-year-old woman.\n- **Chief Complaint:** Recurrent, ambiguous abdominal pain.\n- **History of Present Illness:** Two years of recurrent abdominal pain, exacerbated intermittently.\n- **Past Medical History:** None.\n- **Personal History:** None mentioned.\n- **Family History:** None mentioned.\n- **Physical Examination:** Unremarkable.\n- **Ancillary Tests:** \n  - Blood tests: Mild inflammatory syndrome.\n  - Abdominal ultrasound: Normal.\n  - Esophageal fibroscopy and colonoscopy: No abnormalities.\n  - CT-scan: Multiple small air-filled, thin-walled pouches attached to the jejunal wall, two of which were larger, with thickened walls, stranding of adjacent mesenteric fat, and enlarged lymph nodes; no pneumoperitoneum.",
+        "differential_diagnosis": "- **Step 1:** Initial consideration of common causes of chronic recurrent abdominal pain, including gastrointestinal conditions (e.g., irritable bowel syndrome, peptic ulcer disease, inflammatory bowel disease).\n  - Excluded: Normal esophageal fibroscopy, colonoscopy, and abdominal ultrasound ruled out common structural abnormalities.\n- **Step 2:** Assessment of imaging findings. The CT-scan was pivotal, revealing jejunal diverticula with signs of inflammation and mesenteric involvement.\n  - Included: Jejunal diverticulitis based on abnormal CT findings of diverticula with thickened walls, mesenteric fat stranding, and lymph node enlargement. Absence of pneumoperitoneum made perforation unlikely.\n- **Step 3:** Confirmation of diagnosis. Other potential causes of nonspecific abdominal pain, such as functional gastrointestinal disorders or colonic diverticulosis, were excluded due to normal endoscopic findings and CT imaging specificity.",
+        "final_diagnosis": "The final diagnosis is **jejunal diverticulitis**, based on the chronic nature of the patient’s symptoms, CT-scan findings of inflamed jejunal diverticula, and exclusion of other common gastrointestinal causes of recurrent abdominal pain.",
+        "diagnosis_results": "Jejunal diverticulitis."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-9-12",
+    "checked_rare_disease": [],
+    "id": "PMC11570896",
+    "results": {
+        "thinking_process": "Okay, let's start by looking at the patient's information. She's a 40-year-old woman with recurrent abdominal pain for two years. The pain is ambiguous and comes and goes. Her past medical history is clean, and there's nothing mentioned about her personal or family history. Physical exams didn't show anything, so that's not helpful.\n\nNext, the tests. Blood work shows a mild inflammatory syndrome. That suggests some ongoing inflammation, but it's not specific. The abdominal ultrasound was normal, so probably no issues with organs like the liver, gallbladder, or kidneys. Esophageal fibroscopy and colonoscopy didn't find anything either, which rules out upper GI issues like ulcers or lower GI problems like Crohn's or colitis.\n\nNow, the CT scan findings are key. They found multiple small air-filled pouches attached to the jejunal wall. Two of these are larger with thickened walls, stranding of the mesenteric fat, and enlarged lymph nodes. No pneumoperitoneum, so no perforation.\n\nJejunal pouches with air... that makes me think of diverticula. Jejunal diverticula are possible, though they're less common than colonic. But these diverticula can get inflamed, leading to diverticulitis. The thickening of the walls and mesenteric stranding plus lymph nodes all point to inflammation or infection. The enlarged lymph nodes might be reactive due to the inflammation.\n\nBut wait, other possibilities? Maybe Crohn's disease, but the colonoscopy and fibroscopy were normal. Small bowel Crohn's can sometimes be missed, but the CT findings of diverticula with inflammation seem more specific. Another thought: could this be a Meckel's diverticulum? But that's typically in the ileum and usually presents in younger patients. The CT shows multiple in the jejunum, so probably not.\n\nThe term \"air-filled, thin-walled pouches\" aligns with diverticula. When they become inflamed (diverticulitis), they can cause pain and inflammatory signs. The intermittent exacerbations fit with recurrent episodes of inflammation. The lack of pneumoperitoneum means no perforation, which is good but doesn't rule out inflammation.\n\nThe combination of clinical presentation (chronic abdominal pain), inflammatory markers, and CT findings of jejunal diverticula with signs of inflammation (thickened walls, stranding, lymph nodes) makes jejunal diverticulitis the most likely diagnosis. Since other tests like endoscopy and colonoscopy were normal, the focus is on the small bowel, specifically the jejunum here.",
+        "content": "### Resoning:\n<step 1> The patient presents with chronic, recurrent abdominal pain and mild inflammatory markers. Normal upper/lower endoscopy and ultrasound rule out common gastrointestinal, hepatobiliary, or pelvic pathologies.  \n<step 2> CT findings of jejunal air-filled pouches with thickened walls, mesenteric fat stranding, and enlarged lymph nodes indicate localized inflammation. The absence of pneumoperitoneum excludes perforation.  \n<step 3> Jejunal diverticula are uncommon but can cause chronic symptoms. Inflammation of these diverticula (diverticulitis) explains the recurrent pain, inflammatory syndrome, and CT features of wall thickening and adjacent fat stranding.  \n<step 4> Differential diagnoses like Crohn’s disease or Meckel’s diverticulum are less likely due to the normal endoscopy, absence of ileal involvement, and CT findings specific to jejunal diverticula.  \n\n### Answer:\nJejunal diverticulitis"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient presents with chronic, recurrent abdominal pain and mild inflammatory markers. Normal upper/lower endoscopy and ultrasound rule out common gastrointestinal, hepatobiliary, or pelvic pathologies.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "CT findings of jejunal air-filled pouches with thickened walls, mesenteric fat stranding, and enlarged lymph nodes indicate localized inflammation. The absence of pneumoperitoneum excludes perforation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Jejunal diverticula are uncommon but can cause chronic symptoms. Inflammation of these diverticula (diverticulitis) explains the recurrent pain, inflammatory syndrome, and CT features of wall thickening and adjacent fat stranding.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Differential diagnoses like Crohn’s disease or Meckel’s diverticulum are less likely due to the normal endoscopy, absence of ileal involvement, and CT findings specific to jejunal diverticula.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Initial consideration of common causes of chronic recurrent abdominal pain, including gastrointestinal conditions (e.g., irritable bowel syndrome, peptic ulcer disease, inflammatory bowel disease). Excluded: Normal esophageal fibroscopy, colonoscopy, and abdominal ultrasound ruled out common structural abnormalities.",
+            "hit": false
+        },
+        {
+            "step": "Assessment of imaging findings. The CT-scan was pivotal, revealing jejunal diverticula with signs of inflammation and mesenteric involvement. Included: Jejunal diverticulitis based on abnormal CT findings of diverticula with thickened walls, mesenteric fat stranding, and lymph node enlargement. Absence of pneumoperitoneum made perforation unlikely.",
+            "hit": true
+        },
+        {
+            "step": "Confirmation of diagnosis. Other potential causes of nonspecific abdominal pain, such as functional gastrointestinal disorders or colonic diverticulosis, were excluded due to normal endoscopic findings and CT imaging specificity.",
+            "hit": true
+        },
+        {
+            "step": "Final diagnosis: The final diagnosis is jejunal diverticulitis, based on the chronic nature of the patient’s symptoms, CT-scan findings of inflamed jejunal diverticula, and exclusion of other common gastrointestinal causes of recurrent abdominal pain.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.75
+}

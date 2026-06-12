@@ -1,0 +1,133 @@
+{
+    "raw_case": "\nImaging of Treacher Collins syndrome: A case report\nTreacher Collins syndrome, also known as mandibulofacial dysostosis, is a rare congenital disorder affecting craniofacial development. It is caused by an autosomal dominant mutation, primarily in the TCOF1 gene, which impacts the development of the first and second branchial arches. We present the case of a 12-year-old male with bilateral conductive hearing loss and deformed ears, whose clinical and imaging findings were consistent with Treacher Collins syndrome. Imaging revealed microtia, atresia of the external auditory canals, and hypoplastic middle ear structures. Additionally, facial abnormalities such as retrognathia, hypoplastic zygomatic bones, and a cleft palate were identified. This case underscores the crucial role of imaging in diagnosing Treacher Collins syndrome and guiding multidisciplinary management strategies.\n\nIntroduction\n\nTreacher Collins syndrome (TCS), also known as mandibulofacial dysostosis, is a rare congenital anomaly with an estimated incidence of about 1 in 50,000 live births [1]. The syndrome was named after Edward Treacher Collins (1862-1932), an English ophthalmologist and surgeon, who described many of its features [1]. TCS is caused by an autosomal dominant genetic mutation, leading to bilateral malformations of the first and second branchial arches [1]. The primary genes involved in its development include TCOF1, which is most commonly affected, along with POLR1C and POLR1D [1,2]. Craniofacial abnormalities in TCS typically involve the zygomatic bones, jaws, palate, and oral cavity, which can result in respiratory and feeding difficulties [3]. Conductive hearing loss is a common presenting symptom due to deformities in the external and middle ear.We present a case of a 12-year-old male with clinical features consistent with TCS. Imaging was advised for further evaluation, and the findings confirmed the diagnosis.\n\nCase presentation\n\nA 12-year-old male presented with bilateral deformed external ears and conductive hearing loss since childhood. All other developmental milestones were normal. The patient had facial disfigurement, including small cheeks. There was no significant family history of similar conditions. His mother did not report any history of teratogenic drug intake during pregnancy. On examination, the patient was found to have bilateral microtia with canal atresia. Clinically, the head was dolichocephalic, with antimongoloid slanting palpebral fissures and sparse eyelashes. Auscultation of the heart revealed normal heart sounds. Audiometric testing showed bilateral severe conductive hearing loss. Despite these challenges, the patient's IQ and speech performances were within the normal range. Based on these clinical findings, a provisional diagnosis of TCS was made, and imaging was recommended for confirmation and further management. The differential diagnosis included Auriculocondylar syndrome, Goldenhar syndrome, and Nager syndrome.A computed tomography (CT) scan of the face and temporal bones (Fig. 1, Fig. 2, Fig. 3, Fig. 4) revealed the absence of both the bony and cartilaginous portions of the external auditory canal, along with deformed pinnae. Bilateral middle ear cavities appeared hypoplastic with absent ossicles, and bilateral mastoids were hypoplastic and poorly pneumatized. The inner ears were grossly normal. Additional findings included a downward slant of the superior orbital walls, hypoplastic facial bones, and hypoplastic bilateral zygoma with poorly formed zygomatic arches. There was crowding of the teeth in both jaws. The condylar and coronoid processes of the mandible were normal. A small cleft palate was noted on the posterior hard palate, with normal bilateral choanae. There was a retrognathia, a hypoplastic mandible (micrognathia), and an obtuse mandibular angle. Left-sided deviation of the nasal septum with a bony spur was also observed. The visible portions of the paranasal sinuses were normal. Based on these clinical and imaging findings, a diagnosis of TCS was made.The patient's parents declined genetic testing due to financial limitations. The patient was scheduled for the placement of a bone-anchored hearing aid to correct the conductive hearing loss.\n\nDiscussion\n\nIn TCS, imaging studies typically reveal distinct craniofacial abnormalities that are often bilateral and symmetric. Common findings in the dental and mandibular regions include retrognathia and micrognathia, where the jaw is underdeveloped, leading to a receding chin. Hypoplasia or aplasia of the condylar and coronoid processes of the mandible may also be present. Additionally, there may be marked bowing of the lower border of the mandible and a concave curvature of the horizontal ramus, which is considered pathognomonic for the syndrome. The maxilla may be narrow, often accompanied by an elevated or narrow palate. Associated findings may include cleft palate, dental malocclusion, and macrostomia. The zygomatic arch is frequently malformed, underdeveloped, or absent, contributing to facial asymmetry [1,3,4].The findings in the ear include microtia (small or malformed external ears) and aplasia of the external auditory meatus. The middle ear structures may also be involved, with hypoplasia or aplasia of the ossicles and the middle ear cavity, contributing to conductive hearing loss [1,3,4].Ocular findings in TCS include downward slanting palpebral fissures, often due to a lack of support from the underdeveloped zygoma. The lower inner third of the eyelids may also be absent. Other ocular anomalies can include absent eyelashes, notched irises, notched choroid, and colobomas. Nasal abnormalities, such as obliteration of the nasofrontal angle leading to narrow nares, are also commonly seen. Hypoplasia of the alar cartilages and paranasal sinuses, along with choanal atresia, may be present in some cases [1,3,4]. Reduced upper airway volume and severe narrowing of the retroglossal space can result in apnea, along with speech and hearing difficulties [5].Differential diagnoses for TCS include Auriculocondylar syndrome, Goldenhar syndrome, and Nager syndrome. Auriculocondylar syndrome presents with prominent malformed auricles, often described as \"question mark ear,\" and specific mandibular condyle hypoplasia or aplasia [1]. In contrast, Goldenhar syndrome typically has ear anomalies, such as preauricular tags and otic hypoplasia, along with ocular anomalies like unilateral microphthalmia or epibulbar dermoids, and skeletal issues like hemifacial microsomia and vertebral anomalies [6]. Nager syndrome involves similar facial features to TCS, including mandibular hypoplasia and micrognathia, but it also includes skeletal anomalies, such as radial hypoplasia, thumb malformations, and syndactyly, which are not present in TCS [7].Management of TCS requires a multidisciplinary approach, including reconstructive surgery to address facial abnormalities, bone conduction hearing aids or surgical correction for conductive hearing loss, and speech therapy for language development [4,8].\n\nConclusion\n\nClinical evaluation, along with correlated imaging findings, is crucial for the diagnosis of TCS. Moreover, imaging provides essential insights for surgical planning and the management of associated impairments, aiding in a comprehensive treatment approach.\n\nPatient consent\n\nWritten informed consent was obtained from the patient's parents for publication of this case report and any accompanying images.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 12-year-old male.\n- **Chief Complaint:** Bilateral deformed external ears and bilateral conductive hearing loss.\n- **History of Present Illness:** Conductive hearing loss since childhood. All other developmental milestones were normal.\n- **Past Medical History:** None.\n- **Personal History:** No reported maternal teratogenic exposure during pregnancy.\n- **Family History:** None significant for similar conditions.\n- **Physical Examination:** \n  - Bilateral microtia with canal atresia.\n  - Dolichocephalic head.\n  - Antimongoloid slanting palpebral fissures.\n  - Sparse eyelashes.\n  - Facial disfigurement, including small cheeks.\n  - Normal heart sounds.\n  - IQ and speech within normal range.\n- **Ancillary Tests:**\n  - Audiometry: Bilateral severe conductive hearing loss.\n  - Imaging (CT): \n    - Microtia and external auditory canal atresia bilaterally.\n    - Hypoplastic middle ear cavities with absent ossicles.\n    - Dolichocephalic skull, downward slant of superior orbital walls, hypoplastic zygomatic bones, and poorly formed zygomatic arches.\n    - Retrognathia and hypoplastic mandible (micrognathia).\n    - Small cleft in the posterior hard palate.\n    - Normal inner ear structures, visible paranasal sinuses, and mandibular condyles/coronoid processes.",
+        "differential_diagnosis": "1. **Treacher Collins Syndrome (TCS):** \n   - Considered first due to clinical features of bilateral ear deformities, facial asymmetry (micrognathia, hypoplastic zygomatic bones), cleft palate, and conductive hearing loss. Imaging findings confirm typical craniofacial abnormalities consistent with TCS.\n2. **Auriculocondylar Syndrome:** \n   - Excluded due to the absence of hallmark features like \"question mark ear\" and mandibular condyle anomalies.\n3. **Goldenhar Syndrome:** \n   - Excluded because the patient lacks unilateral facial asymmetry, preauricular tags, ocular dermoids, and vertebral anomalies.\n4. **Nager Syndrome:**\n   - Excluded as there are no notable limb anomalies such as radial hypoplasia or syndactyly, which are characteristic of Nager syndrome.",
+        "final_diagnosis": "Treacher Collins Syndrome (TCS) based on typical clinical presentation and imaging findings.",
+        "diagnosis_results": "Treacher Collins Syndrome."
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-9-21",
+    "checked_rare_disease": [
+        "External auditory canal aplasia/hypoplasia",
+        "Cleft palate",
+        "Cleft lip/palate",
+        "Mandibulofacial dysostosis with alopecia",
+        "Microtia",
+        "Mandibulofacial dysostosis",
+        "Choanal atresia"
+    ],
+    "id": "PMC11583689",
+    "results": {
+        "content": "### Resoning:\n<step 1> **Identify the Cardinal Features:** The patient presents with bilateral microtia and conductive hearing loss. This immediately points towards congenital ear anomalies.\n\n<step 2> **Analyze Facial Dysmorphism:**  The physical examination reveals multiple facial dysmorphic features: dolichocephaly, antimongoloid slanting palpebral fissures, sparse eyelashes, small cheeks, and facial disfigurement. These features suggest a broader craniofacial syndrome rather than isolated ear anomalies.\n\n<step 3> **Interpret Imaging Findings:** The CT scan confirms microtia and external auditory canal atresia, and importantly, reveals hypoplastic middle ear cavities and absent ossicles, explaining the conductive hearing loss. The CT also details significant craniofacial skeletal abnormalities: dolichocephaly, downward slant of superior orbital walls, hypoplastic zygomatic bones and arches, retrognathia, and micrognathia.  The presence of a small cleft in the posterior hard palate further expands the craniofacial involvement.  Notably, the inner ear structures are normal, which is consistent with conductive hearing loss caused by middle and external ear malformations.\n\n<step 4> **Synthesize Clinical and Radiological Data:** The combination of bilateral microtia, conductive hearing loss, antimongoloid palpebral fissures, hypoplastic zygomatic and mandibular bones, and cleft palate strongly suggests a diagnosis within the spectrum of first and second branchial arch syndromes.\n\n<step 5> **Consider Differential Diagnoses:**  Several syndromes involve craniofacial and ear anomalies.  Key differential diagnoses include:\n    * **Treacher Collins Syndrome (TCS):** This is a primary consideration given the constellation of findings. TCS is characterized by mandibular and zygomatic hypoplasia, microtia, conductive hearing loss, antimongoloid slant, and cleft palate in some cases.\n    * **Pierre Robin Sequence:** This is characterized by micrognathia, glossoptosis, and cleft palate. While micrognathia and cleft palate are present, Pierre Robin Sequence doesn't typically include the full spectrum of craniofacial features seen here, particularly the zygomatic hypoplasia and microtia as primary features. Pierre Robin Sequence can be a component of various syndromes.\n    * **Goldenhar Syndrome (Oculo-Auriculo-Vertebral Spectrum - OAVS):**  This can involve hemifacial microsomia, vertebral anomalies, and ocular dermoids. While microtia is present, the description doesn't emphasize asymmetry, and vertebral or ocular dermoid issues are not reported.\n    * **Nager Syndrome (Acrofacial Dysostosis):** This syndrome includes limb anomalies along with craniofacial features similar to TCS. Limb anomalies are not mentioned in this case, making it less likely.\n\n<step 6> **Narrow Down to the Most Likely Diagnosis:**  Comparing the patient's findings to the typical presentations of these syndromes, Treacher Collins Syndrome (TCS) fits the clinical and radiological picture most closely.  The bilateral and symmetrical nature of the findings, the specific facial bone hypoplasia (zygomatic and mandibular), the ear anomalies, the antimongoloid slant, and the cleft palate are all highly characteristic of TCS.  The normal IQ and speech, and absence of other major systemic issues, are also consistent with TCS.\n\n<step 7> **Final Diagnostic Conclusion:** Based on the comprehensive analysis of clinical presentation, physical examination, and imaging findings, Treacher Collins Syndrome is the most probable diagnosis.\n\n### Answer:\nTreacher Collins Syndrome"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Identify the Cardinal Features:** The patient presents with bilateral microtia and conductive hearing loss. This immediately points towards congenital ear anomalies.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Analyze Facial Dysmorphism:**  The physical examination reveals multiple facial dysmorphic features: dolichocephaly, antimongoloid slanting palpebral fissures, sparse eyelashes, small cheeks, and facial disfigurement. These features suggest a broader craniofacial syndrome rather than isolated ear anomalies.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpret Imaging Findings:** The CT scan confirms microtia and external auditory canal atresia, and importantly, reveals hypoplastic middle ear cavities and absent ossicles, explaining the conductive hearing loss. The CT also details significant craniofacial skeletal abnormalities: dolichocephaly, downward slant of superior orbital walls, hypoplastic zygomatic bones and arches, retrognathia, and micrognathia.  The presence of a small cleft in the posterior hard palate further expands the craniofacial involvement.  Notably, the inner ear structures are normal, which is consistent with conductive hearing loss caused by middle and external ear malformations.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Synthesize Clinical and Radiological Data:** The combination of bilateral microtia, conductive hearing loss, antimongoloid palpebral fissures, hypoplastic zygomatic and mandibular bones, and cleft palate strongly suggests a diagnosis within the spectrum of first and second branchial arch syndromes.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Consider Differential Diagnoses:**  Several syndromes involve craniofacial and ear anomalies.  Key differential diagnoses include:\n    * **Treacher Collins Syndrome (TCS):** This is a primary consideration given the constellation of findings. TCS is characterized by mandibular and zygomatic hypoplasia, microtia, conductive hearing loss, antimongoloid slant, and cleft palate in some cases.\n    * **Pierre Robin Sequence:** This is characterized by micrognathia, glossoptosis, and cleft palate. While micrognathia and cleft palate are present, Pierre Robin Sequence doesn't typically include the full spectrum of craniofacial features seen here, particularly the zygomatic hypoplasia and microtia as primary features. Pierre Robin Sequence can be a component of various syndromes.\n    * **Goldenhar Syndrome (Oculo-Auriculo-Vertebral Spectrum - OAVS):**  This can involve hemifacial microsomia, vertebral anomalies, and ocular dermoids. While microtia is present, the description doesn't emphasize asymmetry, and vertebral or ocular dermoid issues are not reported.\n    * **Nager Syndrome (Acrofacial Dysostosis):** This syndrome includes limb anomalies along with craniofacial features similar to TCS. Limb anomalies are not mentioned in this case, making it less likely.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Narrow Down to the Most Likely Diagnosis:**  Comparing the patient's findings to the typical presentations of these syndromes, Treacher Collins Syndrome (TCS) fits the clinical and radiological picture most closely.  The bilateral and symmetrical nature of the findings, the specific facial bone hypoplasia (zygomatic and mandibular), the ear anomalies, the antimongoloid slant, and the cleft palate are all highly characteristic of TCS.  The normal IQ and speech, and absence of other major systemic issues, are also consistent with TCS.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Final Diagnostic Conclusion:** Based on the comprehensive analysis of clinical presentation, physical examination, and imaging findings, Treacher Collins Syndrome is the most probable diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Treacher Collins Syndrome (TCS) is considered first due to bilateral ear deformities, facial asymmetry (micrognathia, hypoplastic zygomatic bones), cleft palate, and conductive hearing loss. Imaging confirms typical craniofacial abnormalities consistent with TCS.>",
+            "hit": true
+        },
+        {
+            "step": "<Auriculocondylar Syndrome is excluded due to the absence of hallmark features like \"question mark ear\" and mandibular condyle anomalies.>",
+            "hit": false
+        },
+        {
+            "step": "<Goldenhar Syndrome is excluded because the patient lacks unilateral facial asymmetry, preauricular tags, ocular dermoids, and vertebral anomalies.>",
+            "hit": false
+        },
+        {
+            "step": "<Nager Syndrome is excluded as there are no notable limb anomalies such as radial hypoplasia or syndactyly, which are characteristic of Nager syndrome.>",
+            "hit": true
+        },
+        {
+            "step": "<Final diagnosis: Treacher Collins Syndrome (TCS) based on typical clinical presentation and imaging findings.>",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.6
+}

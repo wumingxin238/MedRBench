@@ -1,0 +1,93 @@
+{
+    "raw_case": "\nA common femoral vein aneurysm diagnostic challenge: a case report and review of the literature\n\n\nAbstract\n\nCommon femoral vein aneurysms are rare and they are often misdiagnosed as soft tissue masses or as hernias. In this case report, we review literature and describe a patient who presented with left inguinal mass associated with ipsilateral limb swelling. He was initially misdiagnosed as cystic adventitial disease of common femoral vein. Later, he underwent surgical exploration and found out to have common femoral vein aneurysm which was treated by aneurysmectomy and lateral venorrhaphy.\n\nIntroduction\n\nAlthough common femoral vein (CFV) aneurysms are uncommon, understanding them is critical because they can mimic soft tissue masses or inguinal/femoral hernias, and misdiagnosis can result in severe morbidity [1]. Here, we discussed a case of left inguinal mass that was diagnosed to have a left common femoral vein aneurysm during surgical exploration.\n\nCase report\n\nA 38-year-old male presented with a left-sided inguinal lump that had been present for 7 months. The lump was associated with painful swelling of the ipsilateral limb, which began in the thigh and progressively involved the entire leg. He had no history of trauma or family history of similar conditions. For this complaint, he was admitted to the internal medicine department with a diagnosis of proximal left leg deep venous thrombosis (DVT) and was treated with heparin. He subsequently took Warfarin for 6 months, but the inguinal and leg swelling persisted.Up on surgical side evaluation, there was a 3 × 2 cm inguinal, slightly tender, firm mass with associated ipsilateral swollen leg. There was a leg-leg discrepancy of 5 cm and 2 cm at the calf and mid-thigh, respectively. His Doppler ultrasound showed left inguinal cystic mass (2.5 cm × 2.4 cm) in the femoral sheath compressing the CFV, but without communication. The blood flow in the compressed CFV was sluggish with no evidence of DVT (Fig. 1). CT venography also showed similar results (Fig. 2). He was then admitted to the surgical ward with the radiologist’s and operating surgeons’ impression of adventitial cystic disease (ACD) of the CFV, and he was scheduled for surgical excision of the presumed ACD.The intraoperative finding was a CFV saccular aneurysm with no extramural mass. A longitudinal venotomy was done over an aneurysmal part of the CFV, and the lumen was occluded with a thrombus and has a medial venous wall aneurysmal sac (Fig. 3). Thrombectomy and aneurysmectomy, along with the aneurysmal sac, were done. CFV lateral venorrhaphy was done after confirming that the remnant lumen had a comparable diameter to the proximal and distal parts of the vein. Due to the rarity of both ACD and CFV aneurysms, as well as the presence of thrombus in the aneurysmal sac, there was difficulty in making an exact preoperative diagnosis.The patient had a significant decrease in leg swelling postoperatively. He completed his 3-month anticoagulant treatment course. On his last visit, 18 months after his surgery, there was no inguinal mass, and the leg swelling had subsided, with the last Doppler ultrasound showing patent CFV with normal flow.\n\nDiscussion\n\nAneurysms are abnormal dilations of blood vessels that most commonly occur in the arterial system. They are analogous to arterial aneurysms in that they tend to be localized and arise from a congenital weakness in the wall of the vessel [1].Primary or congenital aneurysms are aberrant saccular dilatations that involve all the three layers of venous wall. They develop at any age and are evenly distributed across genders [2, 3]. They are caused by venous wall weakening as a result of inherited conditions [3]. In comparison, it is difficult to determine the cause in secondary or acquired venous aneurysms. However, it is important to assess for trauma, inflammation, degenerative changes, and venous hypertension [4]. Some case reports also suggest a link between pregnancy and venous aneurysm formation, although no causal factors have been identified [5]. Compression of iliac veins between the sacrum and iliac artery has also been reported as a potential cause [6].Once clinically suspected, the diagnosis of venous aneurysm can be confirmed using a variety of methods, including duplex ultrasound, computed tomography (CT) scan and magnetic resonance imaging (MRI). However, venography is regarded as the gold standard diagnostic tool [1, 3, 7, 8]. Nearly half of the cases described in the literature did not receive an accurate diagnosis before operation [3].A femoral vein aneurysm in particular can mimic conditions like inguinal or femoral hernias [1, 2]. Many are mistakenly identified as soft tissue masses of the lower extremities. These aneurysms might also appear as compressible painless or painful bulges in the inguinal region. The Valsalva or the dependent position might also increase the size of the bulge, creating a diagnostic challenge [1, 3]. Moreover, complications, including venous thrombosis, embolism, rupture, localized pain, and local mass effects with or without edema, can be the initial presenting symptoms [1, 2, 6–8].Management of is determined based on location and size. Many small, asymptomatic, superficial venous aneurysms can be managed conservatively [3, 7, 9]. However, asymptomatic venous aneurysms may warrant surgical management due to the unpredictable risk of thrombosis and PE [1, 2, 7, 9]. Lower extremity venous aneurysms have a recurrent pulmonary embolism risk of 75%–80% despite anticoagulant therapy [1, 7, 9].The indications for surgery include aneurysms that contain thrombus, symptomatic, ruptured, or had previous PE. The various surgical options include: ligation; resection with end-to-end anastomosis; resection with interposition graft; repair with tangential aneurysmectomy and lateral venorrhaphy; and aneurysmorrhaphy [3, 9]. The highest long-term patency rates for venous repairs were achieved using tangential excision and lateral venorrhaphy [2].",
+    "generate_case": {
+        "case_summary": "- **Patient Information**: 38-year-old male.\n- **Chief Complaint**: Left-sided inguinal lump associated with painful swelling of the ipsilateral limb.\n- **History of Present Illness**: A left inguinal lump had been present for 7 months with progressive leg swelling extending from the thigh to the leg. Initial diagnosis was proximal left leg DVT treated with heparin and warfarin for 6 months, but swelling persisted.\n- **Past Medical History**: None.\n- **Personal History**: None.\n- **Family History**: None.\n- **Physical Examination**: 3×2 cm firm, slightly tender inguinal mass with associated ipsilateral leg swelling and leg-leg circumference discrepancy of 5 cm (calf) and 2 cm (mid-thigh).\n- **Ancillary Tests**: \n  - Doppler ultrasound showed a cystic lesion (2.5×2.4 cm) compressing the left common femoral vein (CFV) with sluggish blood flow and no DVT.\n  - CT venography confirmed a similar cystic mass impression.\n  - Intraoperative findings revealed a CFV saccular aneurysm with thrombosis and no extramural mass.",
+        "differential_diagnosis": "1. **Initial Suspicion**: The patient's presentation of inguinal lump with ipsilateral limb swelling prompted initial consideration of DVT, treated unsuccessfully with anticoagulation.\n2. **Cystic Adventitial Disease (ACD)**:\n   - Rationale: Imaging suggested a compressive cystic mass without communication, consistent with ACD.\n   - Exclusion: Intraoperative findings revealed a saccular aneurysm rather than an extravascular cyst, ruling out ACD.\n3. **Inguinal or Femoral Hernia**:\n   - Rationale: Common mimicker of inguinal masses.\n   - Exclusion: Imaging and surgical exploration showed venous involvement, not hernia.\n4. **Venous Aneurysm**:\n   - Rationale: The intraoperative identification of a saccular dilation with thrombus was consistent with a venous aneurysm.\n   - Confirmation: Definitive diagnosis was made intraoperatively through thrombectomy and aneurysmectomy.",
+        "final_diagnosis": "Left common femoral vein saccular aneurysm associated with thrombosis.",
+        "diagnosis_results": "Left common femoral vein saccular aneurysm."
+    },
+    "body_category": [
+        "Blood, Heart and Circulation"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-9-16",
+    "checked_rare_disease": [],
+    "id": "PMC11483503",
+    "results": {
+        "thinking_process": "Okay, let's start by reviewing the case. The patient is a 38-year-old male with a left inguinal lump that's been present for seven months. He also has painful swelling in the same side leg. Initially, he was diagnosed with a deep vein thrombosis (DVT) in the proximal left leg and was treated with heparin and warfarin for six months. But the swelling didn't get better.\n\nHmm, so first thought: the initial treatment for DVT didn't resolve the symptoms. That makes me think maybe the DVT wasn't the real issue, or there's something else causing the persistent swelling. The fact that the anticoagulants didn't help suggests maybe the obstruction isn't due to a clot anymore, or there's another cause of venous compression.\n\nLooking at the physical exam, there's a firm, slightly tender inguinal mass. The leg swelling is causing a significant circumference difference. So the mass is likely compressing a vein. The Doppler ultrasound showed a cystic lesion compressing the left common femoral vein (CFV), with sluggish flow but no DVT now. CT venography confirmed the cystic mass. But during surgery, they found a CFV saccular aneurysm with thrombosis and no extramural mass. Wait, the imaging suggested a cystic mass compressing the vein, but intraoperatively, it's an aneurysm of the vein itself with a clot.\n\nSo initially, maybe they thought the mass was extrinsic, like a cyst or a lymph node, compressing the CFV, leading to DVT. But surgery revealed it's an aneurysm in the vein. Venous aneurysms are rare, but when they occur, they can lead to thrombosis. The aneurysm itself could cause swelling due to turbulent blood flow and possible compression effects. The thrombosis in the aneurysm might have been the initial DVT, but since the aneurysm's structure is abnormal, even after anticoagulation, the venous return is still impaired, hence persistent swelling.\n\nSo the key here is that the mass seen on imaging was actually the aneurysm of the CFV. The initial DVT might have been secondary to the aneurysm. Anticoagulation treated the clot but didn't address the underlying aneurysm. The continued compression from the aneurysm's size and the residual thrombosis could cause ongoing venous obstruction, leading to persistent leg swelling. That explains why the swelling didn't resolve with anticoagulation alone. The final diagnosis would be a saccular aneurysm of the left common femoral vein with thrombosis.",
+        "content": "```\n### Resoning:\n<step 1> The patient's persistent left leg swelling despite 6 months of anticoagulation for presumed DVT suggests an alternative or additional pathology. The lack of DVT on repeat imaging (Doppler and CT venography) after treatment indicates the initial thrombosis may have resolved, but venous obstruction persists.  \n<step 2> The presence of a firm inguinal mass and imaging findings of a cystic lesion compressing the left CFV point to a compressive etiology. However, intraoperative findings ruled out an extramural mass and instead revealed a CFV saccular aneurysm with thrombosis.  \n<step 3> Venous aneurysms, though rare, can cause localized venous stasis, predisposing to thrombosis. The aneurysm's expansion likely led to mechanical compression of the adjacent venous segment, mimicking an extrinsic mass on imaging and perpetuating venous outflow obstruction despite anticoagulation.  \n<step 4> The absence of DVT on follow-up imaging and the intraoperative confirmation of an aneurysmal CFV with thrombosis align with the diagnosis of a primary venous aneurysm as the underlying cause of both the initial DVT and persistent symptoms.  \n\n### Answer:\nLeft common femoral vein saccular aneurysm with thrombosis."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient's persistent left leg swelling despite 6 months of anticoagulation for presumed DVT suggests an alternative or additional pathology. The lack of DVT on repeat imaging (Doppler and CT venography) after treatment indicates the initial thrombosis may have resolved, but venous obstruction persists.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The presence of a firm inguinal mass and imaging findings of a cystic lesion compressing the left CFV point to a compressive etiology. However, intraoperative findings ruled out an extramural mass and instead revealed a CFV saccular aneurysm with thrombosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Venous aneurysms, though rare, can cause localized venous stasis, predisposing to thrombosis. The aneurysm's expansion likely led to mechanical compression of the adjacent venous segment, mimicking an extrinsic mass on imaging and perpetuating venous outflow obstruction despite anticoagulation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The absence of DVT on follow-up imaging and the intraoperative confirmation of an aneurysmal CFV with thrombosis align with the diagnosis of a primary venous aneurysm as the underlying cause of both the initial DVT and persistent symptoms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Initial Suspicion - The patient's presentation of an inguinal lump with ipsilateral limb swelling initially suggested DVT, which was unsuccessfully treated with anticoagulation.",
+            "hit": false
+        },
+        {
+            "step": "Step 2: Cystic Adventitial Disease (ACD) - Imaging indicated a compressive cystic mass without communication, leading to consideration of ACD; however, intraoperative findings revealed a saccular aneurysm instead, ruling out ACD.",
+            "hit": false
+        },
+        {
+            "step": "Step 3: Inguinal or Femoral Hernia - This condition was considered due to its mimicry of inguinal masses; imaging and surgical exploration excluded this possibility by showing venous involvement rather than a hernia.",
+            "hit": false
+        },
+        {
+            "step": "Step 4: Venous Aneurysm - The intraoperative identification of a saccular dilation with thrombus supported the diagnosis of a venous aneurysm.",
+            "hit": true
+        },
+        {
+            "step": "Step 5: Final Diagnosis - The definitive diagnosis was made intraoperatively through thrombectomy and aneurysmectomy, confirming a left common femoral vein saccular aneurysm associated with thrombosis.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.2
+}

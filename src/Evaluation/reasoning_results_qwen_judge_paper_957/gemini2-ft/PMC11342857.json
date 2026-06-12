@@ -1,0 +1,172 @@
+{
+    "raw_case": "\nA rare case of gastric schwannoma mimicking GIST: diagnostic and therapeutic approach\n\n\nAbstract\n\nGastric schwannomas are rare, benign neurogenic tumors originating from Schwann cells within the gastrointestinal tract, comprising only 0.2% of all gastric tumors. This report presents the case of a 32-year-old female patient who experienced severe periumbilical pain, nausea, and vomiting, ultimately diagnosed with gastric schwannoma. Initial imaging and endoscopic evaluations suggested a gastrointestinal stromal tumor (GIST), but postoperative histopathological analysis confirmed schwannoma, showing S-100 positivity and negativity for CD117, DOG-1, SMA, Desmin, and CD34. The patient underwent successful central gastrectomy with negative surgical margins and no metastasis. Despite a postoperative complication of small bowel obstruction, which was managed conservatively, the patient remained symptom-free with no recurrence over the follow-up period. This case underscores the importance of differential diagnosis, distinguishing schwannomas from GISTs and other submucosal lesions through thorough histopathological and immunohistochemical analyses, and highlights the efficacy of complete surgical resection in preventing recurrence.\n\nIntroduction\n\nGastrointestinal mesenchymal stem cells give rise to spindle-shaped tumors known as gastrointestinal mesenchymal tumors. These tumors primarily include nerve sheath tumors (Schwannomas), smooth muscle tumors (leiomyomas or leiomyosarcomas), and gastrointestinal stromal tumors (GISTs). Among these, GISTs are the most common, with 60%–70% occurring in the stomach, while Schwannomas rarely arise in the gastrointestinal tract. gastric schwannoma (GS), a type of nerve sheath tumor that develops from Schwann cells of peripheral nerves, is typically benign, slow-growing, and asymptomatic. However, in some cases, it can cause bleeding, epigastric pain, and a palpable mass. Schwannomas can only be definitively diagnosed by postoperative immunohistochemistry staining, which typically shows S-100 positivity. Surgery is the primary treatment for GS, with total tumor removal potentially preventing recurrence [1, 2].In this context, we present a case study of a 32-year-old female with no significant medical history, who presented with severe periumbilical pain, nausea, and vomiting. Imaging detected a gastric mass suspected to be a GIST. The patient underwent a successful central gastrectomy with negative surgical margins and no signs of metastasis. Histopathological examination revealed the mass to be a Schwannoma.\n\nCase presentation\n\nA 32-year-old female with no significant medical history presented to our emergency department with persistent periumbilical pain and fullness for 2 months, accompanied by episodes of nausea and vomiting. On physical examination, she was found to be conscious, oriented, and afebrile, with normal oxygen saturation and stable vital signs. Additionally, periumbilical tenderness was noted, but no palpable masses were detected.Consequently, initial laboratory tests were conducted and returned normal results. However, an ultrasound revealed a 5 × 6 cm cystic lesion. Therefore, further investigation through an abdominal CT scan with oral and intravenous contrast was warranted, which identified an oval-shaped lesion in the gastric lesser curvature (see Fig. 1), raising suspicion for a GIST. To further evaluate, an upper endoscopy and endoscopic ultrasound-guided fine needle biopsy (EUS-FNB) were performed, revealing a gastric mass extending from the lesser curvature to the greater curvature anterior wall. As a result, a central gastrectomy with clear surgical margins was performed, yielding a well-defined, elastic mass measuring 6 × 6 cm. Notably, the resected specimen exhibited no necrosis, lymph node enlargement, or additional lesions. Additionally, a follow-up abdominal CT scan confirmed the absence of metastasis.Subsequent histopathological examination of the resected specimen confirmed the diagnosis of GS. The tumor displayed a dense proliferation of spindle cells with numerous blood vessels. Immunohistochemical staining was positive for S100 and negative for CD117, DOG-1, SMA, Desmin, and CD34.Postoperatively, the patient was initially transferred to the intensive care unit and then to the general ward, where she demonstrated clinical improvement and was subsequently discharged. However, 2 weeks postdischarge, the patient experienced a recurrence of symptoms, including nausea, vomiting, abdominal pain, acute back pain, and abdominal distention. Consequently, an abdominal and pelvic CT scan was performed, which revealed multiple air-fluid levels and small bowel dilation, indicative of small bowel obstruction.The patient was urgently readmitted and treated with a pain management regimen that included morphine sulfate and scopolamine. Her response to the treatment was favorable, resulting in complete symptom resolution as confirmed by clinical evaluation and imaging studies. Follow-up plans included CT scans at 6 months and 1 year to monitor for recurrence or complications. Since then, the patient has remained asymptomatic, with no further complications or recurrence observed.\n\nDiscussion\n\nSchwannomas, also known as neurilemmomas or neurinomas, are benign neurogenic tumors originating from Schwann cells, which form the myelin sheath around peripheral nerve axons. These tumors most commonly appear in the head and neck regions; however, they are rare in the gastrointestinal (GI) tract, where they arise from the nerve plexus within the gut wall. In the GI tract, the stomach is the most prevalent site for schwannomas, followed by the colon, whereas the small intestine and esophagus are less frequently affected. Specifically, schwannomas constitute 0.2% of all gastric tumors, 6.3% of gastric mesenchymal tumors, and 4% of all benign gastric tumors. To date, over 221 cases of GS have been reported globally. These tumors can occur at any age, with a slight female predominance [2, 3].GS must be differentiated from several other gastric submucosal lesions. The primary differential diagnoses include GISTs, which are the most common mesenchymal tumors with a significant malignant potential, unlike the typically benign schwannomas. Leiomyomas and leiomyosarcomas are also important considerations, as they present similarly but require distinct histopathological analysis for differentiation. Neurofibromas, although also benign nerve sheath tumors, differ significantly in clinical and pathological features of Carcinoid tumors, another potential differential diagnosis, are neuroendocrine in nature and identified through specific histological staining. Additionally, peptic ulcer disease can mimic schwannomas when presenting with ulceration or bleeding. Accurate diagnosis of GS relies on thorough histopathological and immunohistochemical analyses to distinguish these conditions effectively [3–5].The primary treatment for GS is complete surgical resection, typically via wedge resection or partial gastrectomy. Studies have shown that complete surgical excision with negative margins is curative, and long-term follow-up often reveals no recurrences or metastases. For instance, in a clinicopathologic study of 51 cases, patients were followed for a median duration of 4.7 years, during which no recurrences or metastases were reported [2].\n\nConclusion\n\nWe describe the rarity and clinical significance of GSs, benign tumors that can mimic other gastrointestinal submucosal lesions such as GISTs. The definitive diagnosis relies on histopathological and immunohistochemical analysis, which is crucial for appropriate treatment planning. Surgical resection remains the cornerstone of treatment, offering excellent prognostic outcomes with minimal risk of recurrence when negative margins are achieved. The postoperative complication of small bowel obstruction in this case was managed successfully, emphasizing the need for vigilant postoperative monitoring. Ultimately, this case emphasizes the importance of considering GSs in the differential diagnosis of gastric masses and demonstrates the efficacy of surgical intervention in ensuring favorable patient outcomes.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 32-year-old female with no significant medical history.\n- **Chief Complaint:** Persistent periumbilical pain for 2 months, with associated nausea and vomiting.\n- **History of Present Illness:** Severe periumbilical pain, intermittent nausea, and vomiting persisting for 2 months.\n- **Past Medical History:** None.\n- **Personal History:** None.\n- **Family History:** None.\n- **Physical Examination:** Conscious, oriented, afebrile, normal vitals, with noted periumbilical tenderness and no palpable masses.\n- **Ancillary Tests:**\n  - Lab tests: Normal results.\n  - Ultrasound: 5 × 6 cm cystic lesion.\n  - Abdominal CT: Oval-shaped lesion in the gastric lesser curvature suggestive of GIST.\n  - Endoscopy and endoscopic ultrasound-guided fine needle biopsy: Gastric mass extending from lesser curvature to greater curvature anterior wall.\n  - Histopathology: Dense proliferation of spindle cells with blood vessels.\n  - Immunohistochemical staining: Positive for S100, negative for CD117, DOG-1, SMA, Desmin, and CD34.\n  - Follow-up CT: No necrosis, lymph node enlargement, metastasis, or recurrence.",
+        "differential_diagnosis": "- **Step 1: Consideration of GIST (Most common gastric mesenchymal tumor):**\n  - Indicators: Gastric mass on imaging and endoscopic evaluation.\n  - Exclusion: Immunohistochemistry was negative for GIST markers (CD117, DOG-1).\n  \n- **Step 2: Consideration of leiomyomas or leiomyosarcomas:**\n  - Indicators: Spindle cell morphology.\n  - Exclusion: Negative immunohistochemical markers for smooth muscle differentiation (SMA, Desmin).\n\n- **Step 3: Consideration of neurofibromas:**\n  - Indicators: Shared nerve sheath origins.\n  - Exclusion: Differences in clinical and pathological features; confirmed S100 staining supports schwannoma.\n\n- **Step 4: Schwannoma diagnosis:**\n  - Confirmation: Positive S100 staining suggests Schwann cell origin, consistent with gastric schwannoma.\n  - Exclusion of other possibilities by histopathology and immunohistochemical features.\n\nAdditional considerations such as carcinoid tumors and peptic ulcer disease were ruled out based on imaging, clinical history, and histopathological findings.",
+        "final_diagnosis": "The patient was definitively diagnosed with gastric schwannoma based on histopathological findings and immunohistochemical analysis (S100 positivity, absence of GIST and other markers). The lesion was benign, with no lymph node involvement or metastasis. Surgical resection with negative margins effectively cured the condition, reducing the recurrence risk.",
+        "diagnosis_results": "Gastric schwannoma."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-7-15",
+    "checked_rare_disease": [
+        "Benign schwannoma"
+    ],
+    "id": "PMC11342857",
+    "results": {
+        "content": "### Resoning:\n<step 1> Analyze the patient's chief complaint and history of present illness. The patient is a 32-year-old female presenting with persistent periumbilical pain, nausea, and vomiting for two months. These are non-specific abdominal symptoms that could be related to various gastrointestinal conditions.\n\n<step 2> Review the physical examination findings. The physical exam reveals periumbilical tenderness but no palpable masses.  Normal vitals and afebrile status don't point towards acute infectious or inflammatory processes, but tenderness indicates a localized abdominal issue.\n\n<step 3> Evaluate the ancillary tests, starting with lab tests. Normal lab results are not very informative in narrowing down the diagnosis but are helpful in excluding systemic inflammatory conditions or metabolic disturbances as the primary cause of the symptoms.\n\n<step 4> Analyze the ultrasound and CT scan results. The ultrasound reveals a 5x6 cm cystic lesion, and the CT scan suggests a GIST (Gastrointestinal Stromal Tumor) in the gastric lesser curvature. This is a significant finding, pointing towards a gastric mass. The CT's suggestion of GIST is a preliminary radiological interpretation and needs histological confirmation.\n\n<step 5> Consider the endoscopy and endoscopic ultrasound-guided fine needle biopsy results. Endoscopy confirms a gastric mass extending from the lesser to greater curvature. EUS-FNB was performed to obtain tissue for histological examination, which is crucial for definitive diagnosis.\n\n<step 6> Focus on the histopathology report. The description of \"dense proliferation of spindle cells with blood vessels\" is characteristic of mesenchymal tumors.  This broadens the differential diagnosis to include GIST, Schwannoma, leiomyoma, leiomyosarcoma, and other spindle cell neoplasms.\n\n<step 7> Critically analyze the immunohistochemical staining results. This is the most crucial step in differentiating spindle cell tumors.\n    - **Positive for S100:** S100 protein is a marker for neural crest-derived cells, most notably Schwann cells and melanocytes.  It is strongly associated with Schwannomas and neurofibromas.\n    - **Negative for CD117 (c-KIT):** CD117 is the defining marker of GIST.  Negative CD117 essentially rules out GIST as the primary diagnosis.\n    - **Negative for DOG-1:** DOG-1 is another marker commonly positive in GIST.  Negative DOG-1 further supports the exclusion of GIST.\n    - **Negative for SMA (Smooth Muscle Actin) and Desmin:** SMA and Desmin are markers for smooth muscle differentiation, typically positive in leiomyomas and leiomyosarcomas. Their negativity makes these diagnoses less likely.\n    - **Negative for CD34:** CD34 can be positive in GIST and some other mesenchymal tumors. Negative CD34, while not ruling out all mesenchymal tumors, further reduces the likelihood of GIST and some sarcomas.\n\n<step 8> Synthesize all the findings to arrive at the final diagnosis. The combination of spindle cell morphology, S100 positivity, and negativity for GIST markers (CD117, DOG-1), smooth muscle markers (SMA, Desmin), and CD34 strongly points towards a **Schwannoma**. Gastric Schwannomas are rare benign tumors arising from the nerve sheath of the gastric wall.  The initial CT suggestion of GIST was a differential consideration, but the immunohistochemistry definitively steers the diagnosis towards Schwannoma.\n\n<step 9> Review the follow-up CT result. The absence of necrosis, lymph node enlargement, metastasis, or recurrence is consistent with a benign or low-grade tumor like a Schwannoma, and is reassuring regarding the prognosis and nature of the lesion.\n\n<step 10> Conclude the diagnostic analysis and provide the final diagnosis based on the comprehensive evaluation of all available data, especially the immunohistochemical profile.\n\n### Answer:\nGastric Schwannoma"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Analyze the patient's chief complaint and history of present illness. The patient is a 32-year-old female presenting with persistent periumbilical pain, nausea, and vomiting for two months. These are non-specific abdominal symptoms that could be related to various gastrointestinal conditions.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Review the physical examination findings. The physical exam reveals periumbilical tenderness but no palpable masses.  Normal vitals and afebrile status don't point towards acute infectious or inflammatory processes, but tenderness indicates a localized abdominal issue.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Evaluate the ancillary tests, starting with lab tests. Normal lab results are not very informative in narrowing down the diagnosis but are helpful in excluding systemic inflammatory conditions or metabolic disturbances as the primary cause of the symptoms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Analyze the ultrasound and CT scan results. The ultrasound reveals a 5x6 cm cystic lesion, and the CT scan suggests a GIST (Gastrointestinal Stromal Tumor) in the gastric lesser curvature. This is a significant finding, pointing towards a gastric mass. The CT's suggestion of GIST is a preliminary radiological interpretation and needs histological confirmation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Consider the endoscopy and endoscopic ultrasound-guided fine needle biopsy results. Endoscopy confirms a gastric mass extending from the lesser to greater curvature. EUS-FNB was performed to obtain tissue for histological examination, which is crucial for definitive diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Focus on the histopathology report. The description of \"dense proliferation of spindle cells with blood vessels\" is characteristic of mesenchymal tumors.  This broadens the differential diagnosis to include GIST, Schwannoma, leiomyoma, leiomyosarcoma, and other spindle cell neoplasms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Critically analyze the immunohistochemical staining results. This is the most crucial step in differentiating spindle cell tumors.\n    - **Positive for S100:** S100 protein is a marker for neural crest-derived cells, most notably Schwann cells and melanocytes.  It is strongly associated with Schwannomas and neurofibromas.\n    - **Negative for CD117 (c-KIT):** CD117 is the defining marker of GIST.  Negative CD117 essentially rules out GIST as the primary diagnosis.\n    - **Negative for DOG-1:** DOG-1 is another marker commonly positive in GIST.  Negative DOG-1 further supports the exclusion of GIST.\n    - **Negative for SMA (Smooth Muscle Actin) and Desmin:** SMA and Desmin are markers for smooth muscle differentiation, typically positive in leiomyomas and leiomyosarcomas. Their negativity makes these diagnoses less likely.\n    - **Negative for CD34:** CD34 can be positive in GIST and some other mesenchymal tumors. Negative CD34, while not ruling out all mesenchymal tumors, further reduces the likelihood of GIST and some sarcomas.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Synthesize all the findings to arrive at the final diagnosis. The combination of spindle cell morphology, S100 positivity, and negativity for GIST markers (CD117, DOG-1), smooth muscle markers (SMA, Desmin), and CD34 strongly points towards a **Schwannoma**. Gastric Schwannomas are rare benign tumors arising from the nerve sheath of the gastric wall.  The initial CT suggestion of GIST was a differential consideration, but the immunohistochemistry definitively steers the diagnosis towards Schwannoma.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Review the follow-up CT result. The absence of necrosis, lymph node enlargement, metastasis, or recurrence is consistent with a benign or low-grade tumor like a Schwannoma, and is reassuring regarding the prognosis and nature of the lesion.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Conclude the diagnostic analysis and provide the final diagnosis based on the comprehensive evaluation of all available data, especially the immunohistochemical profile.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Consideration of GIST (Most common gastric mesenchymal tumor) based on gastric mass on imaging and endoscopic evaluation, but excluded by negative immunohistochemistry for CD117 and DOG-1.",
+            "hit": false
+        },
+        {
+            "step": "Step 2: Consideration of leiomyomas or leiomyosarcomas based on spindle cell morphology, but excluded by negative immunohistochemical markers for smooth muscle differentiation (SMA, Desmin).",
+            "hit": true
+        },
+        {
+            "step": "Step 3: Consideration of neurofibromas based on shared nerve sheath origins, but excluded by differences in clinical and pathological features; confirmed S100 staining supports schwannoma.",
+            "hit": false
+        },
+        {
+            "step": "Step 4: Diagnosis of schwannoma confirmed by positive S100 staining indicating Schwann cell origin, consistent with gastric schwannoma, and exclusion of other possibilities by histopathology and immunohistochemical features.",
+            "hit": true
+        },
+        {
+            "step": "Step 5: Additional considerations such as carcinoid tumors and peptic ulcer disease were ruled out based on imaging, clinical history, and histopathological findings.",
+            "hit": false
+        },
+        {
+            "step": "Step 6: Final diagnosis of gastric schwannoma based on histopathological findings and immunohistochemical analysis (S100 positivity, absence of GIST and other markers).",
+            "hit": true
+        },
+        {
+            "step": "Step 7: Histopathological findings indicate the lesion is benign with no lymph node involvement or metastasis.",
+            "hit": false
+        },
+        {
+            "step": "Step 8: Surgical resection with negative margins effectively cured the condition, reducing the recurrence risk.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.375
+}

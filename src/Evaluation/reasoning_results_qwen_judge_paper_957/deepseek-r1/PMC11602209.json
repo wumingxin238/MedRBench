@@ -1,0 +1,89 @@
+{
+    "raw_case": "\nA case of intraabdominal tuberculosis masquerading as inguinal hernia: a diagnostic challenge\n\n\nAbstract\n\nInguinal masses are common presentations in clinical practice, often attributed to hernias. However, atypical features may lead to diagnostic difficulties and delayed intervention. We present a case of a 32-year-old Ethiopian woman with a prolonged history of a growing groin mass 2 months following childbirth, her diagnosis potentially challenged by her recent obstetric history. Despite previous evaluations suggesting inguinal hernia, her symptoms worsened, prompting an emergency department visit. Further investigation revealed an unexpected diagnosis of intraabdominal tuberculosis, manifesting as a large iliopsoas abscess. This case underscores the importance of considering uncommon etiologies in the differential diagnosis of inguinal masses, particularly in high-risk populations with comparable situations, to ensure timely diagnosis and intervention.\n\nIntroduction\n\nInguinal masses present diagnostic challenges due to their varied etiologies [1]. While about 5–11% of tuberculosis cases worldwide present as abdominal tuberculosis, its atypical presentation as an inguinal hernia is unusual and presents diagnostic difficulties [2, 3]. We present a unique case highlighting the diagnostic dilemma encountered in differentiating intraabdominal tuberculosis from inguinal hernia in a female with recent obstetric history. This presented additional challenges in the early detection and diagnosis, thus holding educational and learning value.\n\nCase report\n\nA previously healthy 32-year-old African woman presented to the emergency department with a 5-day history of worsening left-sided abdominal pain and swelling. This pain was associated with a progressively enlarging groin mass, which began 2 months postpartum following the normal vaginal delivery of her third child. Additionally, she experienced debilitating pain in her left thigh and lower back, significantly impacting her mobility and daily activities.Her postpartum gynecological assessment, which included a thorough vaginal examination, revealed a first-degree uterine prolapse. However, a pelvic ultrasound was unremarkable, providing little insight into the underlying cause of her symptoms. Initially, she was counseled, prescribed pain medications, and advised to follow up closely. Despite this initial treatment, her symptoms steadily worsened, with intermittent abdominal pain that was aggravated by even the most basic movements and exercise, increased tenderness of the enlarging groin mass, and increasing difficulty with ambulation.During her first emergency department visit, there was a high clinical suspicion of an inguinal hernia, leading to a prompt referral to general surgery to rule out incarceration. She was advised to avoid any strenuous physical activity or heavy lifting and was discharged in stable condition with a prescription for non-steroidal anti-inflammatory drugs.However, her condition persisted, prompting a return to the emergency department, this time with both surgical and medical consultations. At this juncture, she reported the development of debilitating night sweats, significant unintentional weight loss of over 5 kg, and generalized weakness that significantly impacted her overall well-being. Despite these alarming symptoms, she did not experience any fever, rigors, chills, nausea, vomiting, constipation, diarrhea, chest pain, cough, or difficulty breathing.Upon examination, the patient was alert, oriented, generally well, and afebrile. Physical examination revealed a firm, tender, and irreducible mass measuring 20 by 15 cm in the left inguinal region. The mass was non-fluctuant, non-mobile, and adherent to underlying structures, with warmth to touch and hyperpigmentation. No cough impulse was present, and midline tenderness was noted on palpation over the lower back. Examination of the abdomen and right inguinal region was unremarkable.The patient was admitted for further evaluation and management. Correlating her clinical history and physical examination findings with imaging studies, a CT scan of the abdomen revealed a 17 × 8 × 7 cm (transverse × craniocaudal × anteroposterior) multiloculated iliopsoas abscess tracking along the left inguinal canal, accompanied by destruction of the third and fourth lumbar vertebrae suggestive of a pyogenic etiology. Based on these findings, a diagnosis of Tuberculous spondylitis (Pott’s disease) with a secondary psoas abscess was made. Other nearby structures appeared unremarkable on imaging. Three sequential images of CT with contrast from the abdomen and pelvis series are provided, illustrating the pathology in detail (Fig. 1a–c).Chest X-rays showed prominent broncho-vascular markings without focal consolidation, cardiomegaly, pleural effusion, or pneumothorax. A comprehensive tuberculosis workup was initiated. The purified protein derivative test was positive with an induration of 10 mm. Although the acid-fast bacilli (AFB) smear was negative, polymerase chain reaction testing was positive for Mycobacterium tuberculosis DNA. Subsequent AFB culture confirmed the presence of M. tuberculosis complex, sensitive to first-line anti-tuberculosis drugs.The patient was commenced on a multi-drug anti-tubercular therapy regimen and discharged with a referral to the TB clinic for live, video-assisted Directly Observed Therapy Short-course (DOTS). Over the next 3 months of regular follow-up, she showed clinical improvement, with resolution of symptoms and reduction in abscess size.\n\nDiscussion\n\nAbdominal tuberculosis presenting as an inguinal hernia is exceedingly rare [2–10]. Early identification of infections is crucial as missing it delays treatment, worsening the condition and raising the risk of death [11]. Our case is unique due to several factors that contributed to a delayed diagnosis of abdominal tuberculosis presenting as an inguinal mass. Unlike other cases, the patient’s recent childbirth and postpartum complications, such as first-degree uterine prolapse and presumed postpartum cramps, led to the misattribution of her symptoms. Additionally, the absence of typical tuberculosis risk factors, such as recent travel history to endemic areas and known contact with TB patients, compounded the diagnostic challenge. Non-specific symptoms like lower back and thigh pain, coupled with the physical demands of managing three children, further obscured the diagnosis. Initial evaluations with vaginal ultrasound failed to reveal the condition, delaying the use of advanced imaging. The eventual diagnosis required a multidisciplinary approach involving emergency medicine, surgery, and infectious disease specialists, highlighting the complexity and rarity of such presentations. These factors collectively distinguish our case from others in the literature.\n\nConclusion\n\nTo our knowledge, this is the first case of abdominal tuberculosis masquerading as an inguinal hernia in a female with recent obstetric history. This case highlights that intra-abdominal tuberculosis presenting as an inguinal mass poses diagnostic challenges especially in perspective of a recent obstetric history. Therefore, tuberculosis should always be in the differential diagnosis especially in cases of vague signs and symptoms with an endemic predilection. It also emphasizes the importance of multidisciplinary management as tuberculosis can present in a myriad of ways [2, 4]. A pre-operative suspicion of tuberculosis in cases of abdominal hernias is important to avoid unnecessary surgical procedures and improve outcomes in similar presentations.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** A 32-year-old Ethiopian woman, presenting 2 months postpartum following a normal vaginal delivery.\n- **Chief Complaint:** Worsening left-sided abdominal pain and swelling, with a progressively enlarging groin mass.\n- **History of Present Illness:** Postpartum onset of groin mass and abdominal pain; associated with left thigh and lower back pain, night sweats, weight loss (>5 kg), and generalized weakness over time. No fever, chills, nausea, cough, or gastrointestinal symptoms.\n- **Past Medical History:** None reported.\n- **Personal History:** Recent third childbirth; caregiver for children.\n- **Family History:** Not provided.\n- **Physical Examination:** Alert and oriented, afebrile, with a firm, tender, irreducible 20x15 cm left inguinal mass, hyperpigmentation, and warmth. Midline lower back tenderness. No cough impulse or abdominal abnormalities.\n- **Ancillary Tests:** \n  - **CT scan:** 17x8x7 cm multiloculated left iliopsoas abscess, extending into the inguinal canal, associated with lumbar vertebral destruction consistent with Pott’s disease.\n  - **Chest X-ray:** No respiratory abnormalities.\n  - **TB Workup:** Positive purified protein derivative (PPD) test (induration 10 mm), PCR positive for Mycobacterium tuberculosis DNA, AFB culture confirming tuberculosis.\n  - **Others:** Negative AFB smear, unremarkable pelvic ultrasound.",
+        "differential_diagnosis": "- **Step 1: Initial consideration of inguinal hernia.**\n  - Symptoms of groin mass and pain pointed toward common causes such as inguinal hernia.\n  - Excluded after physical exam findings revealed absence of reducibility or cough impulse and CT imaging showed an abscess rather than herniation.\n\n- **Step 2: Consideration of infections and abscess formation.**\n  - Initial suspicion of pyogenic abscess based on imaging and symptoms (tender mass, regional destruction of lumbar spine).\n  - Tuberculosis became a primary suspect in light of the patient's ethnicity, chronicity of symptoms, weight loss, night sweats, and positive TB-specific tests (PPD, PCR).\n\n- **Step 3: Exclusion of malignancy.**\n  - A firm mass raised concerns for potential malignancy, but lack of malignancy-specific markers, absence of metastatic spread on imaging, and microbiological confirmation of TB ruled this out.\n\n- **Step 4: Diagnosis and confirmation.**\n  - Correlation of clinical presentation (groin mass, systemic symptoms) with imaging (psoas abscess, vertebral destruction) and microbiological evidence (M. tuberculosis detection) confirmed the diagnosis of Tuberculous spondylitis (Pott’s disease) with secondary iliopsoas abscess.",
+        "final_diagnosis": "Tuberculous spondylitis (Pott’s disease) with secondary iliopsoas abscess, initially misdiagnosed as an inguinal hernia.",
+        "diagnosis_results": "Tuberculous spondylitis (Pott’s disease) with secondary iliopsoas abscess."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-8-20",
+    "checked_rare_disease": [],
+    "id": "PMC11602209",
+    "results": {
+        "thinking_process": "Okay, let's start by reviewing the case. The patient is a 32-year-old woman who's two months postpartum. Her main issues are worsening left-sided abdominal pain, swelling, and a groin mass that's growing. She also has night sweats, weight loss, and weakness. No fever or GI symptoms. \n\nFirst, the groin mass. The CT scan shows a left iliopsoas abscess extending into the inguinal canal. An abscess in the iliopsoas muscle often makes me think about possible sources. Common causes could be hematogenous spread, local infection, or maybe even tuberculosis, especially in certain populations.\n\nThen there's the lumbar vertebral destruction mentioned, which aligns with Pott's disease. Pott's is tuberculosis of the spine. That's a key point. The TB workup is positive: PPD, PCR, and AFB culture all confirm TB. So that's a strong indicator. \n\nShe's from Ethiopia, which is a country with a higher prevalence of TB. That adds to the suspicion. The symptoms of night sweats and weight loss are classic for TB, even though she doesn't have a cough. Extrapulmonary TB can present without pulmonary symptoms, especially in cases like spinal TB or abscesses. \n\nThe iliopsoas abscess in combination with vertebral destruction makes me think this is a cold abscess from TB rather than a pyogenic abscess. The negative AFB smear might be because the bacilli are not abundant in the sample taken, but the culture confirmed it. \n\nPutting it all together: The vertebral destruction (Pott's disease) likely led to the formation of the iliopsoas abscess through contiguous spread. The TB tests being positive confirm the diagnosis. So the final diagnosis would be tuberculous spondylitis (Pott's disease) with a secondary iliopsoas abscess.",
+        "content": "```\n### Resoning:\n<step 1> The patient presents with a left inguinal mass, abdominal pain, and systemic symptoms (night sweats, weight loss). The CT scan reveals a left iliopsoas abscess and lumbar vertebral destruction, which is characteristic of Pott’s disease (spinal tuberculosis).  \n<step 2> The absence of fever or respiratory symptoms, coupled with a positive TB workup (PPD, PCR, AFB culture), strongly supports extrapulmonary tuberculosis rather than a pyogenic infection.  \n<step 3> The iliopsoas abscess likely originated from contiguous spread of infection from the lumbar vertebrae, a common complication of spinal tuberculosis. Negative AFB smear does not rule out TB, as culture and PCR are more sensitive for confirmation.  \n<step 4> The clinical context (Ethiopian origin, postpartum status) aligns with higher TB prevalence and potential immunosuppression, further supporting the diagnosis.  \n\n### Answer:\nTuberculous spondylitis (Pott’s disease) with secondary iliopsoas abscess."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient presents with a left inguinal mass, abdominal pain, and systemic symptoms (night sweats, weight loss). The CT scan reveals a left iliopsoas abscess and lumbar vertebral destruction, which is characteristic of Pott’s disease (spinal tuberculosis).",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The absence of fever or respiratory symptoms, coupled with a positive TB workup (PPD, PCR, AFB culture), strongly supports extrapulmonary tuberculosis rather than a pyogenic infection.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The iliopsoas abscess likely originated from contiguous spread of infection from the lumbar vertebrae, a common complication of spinal tuberculosis. Negative AFB smear does not rule out TB, as culture and PCR are more sensitive for confirmation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The clinical context (Ethiopian origin, postpartum status) aligns with higher TB prevalence and potential immunosuppression, further supporting the diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1 Symptoms of groin mass and pain suggested inguinal hernia, which was excluded by physical exam and CT showing an abscess instead.",
+            "hit": false
+        },
+        {
+            "step": "Step 2 Initial suspicion of pyogenic abscess based on imaging and symptoms (tender mass, regional destruction of lumbar spine), later changed to tuberculosis due to patient's ethnicity, chronicity, weight loss, night sweats, and positive TB-specific tests (PPD, PCR).",
+            "hit": true
+        },
+        {
+            "step": "Step 3 Concern for malignancy was ruled out by the absence of specific markers, lack of metastatic spread on imaging, and microbiological confirmation of TB.",
+            "hit": false
+        },
+        {
+            "step": "Step 4 Clinical presentation (groin mass, systemic symptoms), imaging (psoas abscess, vertebral destruction), and microbiological evidence (M. tuberculosis detection) confirmed Tuberculous spondylitis (Pott’s disease) with secondary iliopsoas abscess.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.5
+}

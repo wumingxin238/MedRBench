@@ -1,0 +1,133 @@
+{
+    "raw_case": "\nAmeboma, a rare cause of intestinal obstruction in bariatric surgery patients: a case report\n\n\nAbstract\n\nAmeboma is a rare complication of invasive amebiases caused by the intestinal protozoan Entamoeba histolytica. The disease is characterized by tumorous, exophytic, inflammatory masses in the lower-right quadrant of the abdomen. Symptoms are nonspecific but may include intestinal obstruction and gastrointestinal bleeding. Although computed tomography and ultrasound can identify colonic masses, biopsy is the most accurate diagnostic method for ameboma. Differential diagnosis includes Crohn’s disease and colon carcinoma. Treatment involves killing the trophozoites in most cases and surgical intervention in patients with intestinal obstruction or perforation, phlegmon, or toxic megacolon. This study reports a case of intestinal obstruction caused by ameboma within the ascending colon of a bariatric surgery patient.\n\nIntroduction\n\nAmeboma is characterized by granulomatous lesions in the lower-right quadrant of the abdomen secondary to invasive amebiasis caused by Entamoeba histolytica [1, 2]. The condition usually presents as a segmental and concentric lesion in the gastrointestinal mucosa and may cause luminal narrowing that results in intestinal obstruction and gastrointestinal bleeding [1, 3]. E. histolytica infections occur when cysts are ingested through contaminated food or water. Trophozoites cause invasive amebiasis [4]. The diagnosis is difficult because the disease is rare and is made after excluding other causes. Ameboma accounts for 1.5% of all cases of invasive amebiasis [3].\n\nCase presentation\n\nA 36-year-old man with a history of type 2 diabetes, hypertension, and obesity had undergone Roux-en-Y gastric bypass 10 months prior and visited a health clinic with a 15-day history of diffuse abdominal pain (visual analog scale of 9 to 10), abdominal distension, and vomiting due to intestinal obstruction. Laparoscopy identified a mass in the ascending colon, and loop ileostomy was performed. Abdominal pain and distension persisted postoperatively. The patient visited our clinic, and a physical examination indicated abdominal distension with pain on palpation, gurgling sounds, temporary ileostomy, and peritoneal inflammation.The results of laboratory tests showed leukocytosis and elevated C-reactive protein, and surgical reintervention was considered. Exploratory laparotomy showed gastrointestinal and enteroenteric anastomoses, parastomal hernia, and small bowel obstruction after loop ileostomy (Fig. 1), and a lobulated, hard, fixed nodular mass (~20 × 15 cm) in the mesentery of the ascending colon with intra-abdominal adhesions (grades 3 and 4 according to Zühlke’s criteria) located in the duodenum, transverse colon, and mesenteric vessels (Fig. 2). We performed the surgical resection of adhesions and granulomatous lesions, right hemicolectomy, and isoperistaltic side-to-side anastomosis of the transverse ileus (Fig. 3).The patient remained in the intensive care unit with a nasogastric tube for 2 days postoperatively without complications. The tube was removed on the same day, and a soft diet was started. He was discharged without complications. The pathology result was a lesion in the mesentery of the ascending colon, a chronic inflammatory lesion secondary to intestinal perforation, and the presence of E. histolytica trophozoites and actinomyces.\n\nDiscussion\n\nAmeboma is a rare complication of amebiases caused by E. histolytica [1]. Trophozoites cause invasive amebiases and colonic mucosal lesions, potentially leading to intestinal perforation or obstruction. This study is the first to report a case of an ameboma within the ascending colon. Our patient had an obstructive mass in the cecum and ascending colon, intestinal perforation, and E. histolytica trophozoites in the colon.Amebiasis is the third most prevalent parasitic disease worldwide, and 2970 cases have been reported in the United States, primarily in Latin American immigrants. The mortality rate from amebiasis complications is 0.1% to 0.25% [2, 3]. Patients with chronic amebiasis may develop ulcerative, exophytic, and inflammatory lesions mimicking colonic carcinoma. Amebic infections may be asymptomatic or cause colitis, abscesses, and colonic perforation [2]. E. histolytica trophozoites migrate from the colon to the liver via the portal venous system and cause invasive amebiases [2]. Amebomas result from the development of granular tissue in the cecum, cecal appendix, recto-sigmoid junction, hepatic flexure, and transverse colon [2, 3]. The main complications of ameboma are intestinal perforation or obstruction, intussusception, anorectal fistula, and appendicitis [5].The diagnosis of ameboma is difficult because the condition mimics colon carcinoma. Moreover, ultrasound and contrast-enhanced computed tomography do not detect invasive amebiasis because these methods cannot distinguish between intestinal lesions and cancer. Thus, fluorescence-guided laparoscopic colorectal surgery using indocyanine green fluorescence imaging is required.Differential diagnosis should include Crohn’s disease, abscesses, colon carcinoma or diverticulitis (in older adults), non-Hodgkin lymphoma, tuberculosis, fungal infections, AIDS-associated lymphoma, and Kaposi sarcoma. Differential diagnosis in bariatric surgery patients includes intestinal obstruction due to Roux-en-Y gastric bypass. The most accurate diagnostic method for ameboma is biopsy, which is performed in 60% of cases. A biopsy should be obtained from the base of the lesion and should detect trophozoites. However, biopsies are negative in approximately one-third of cases because of inadequate sampling or the non-identification of the pathogen by the pathologist [4].Treatment involves killing the trophozoites in most cases and surgical resection in patients with intestinal obstruction or perforation, phlegmon, or toxic megacolon [6, 7].Amoeboma is a rare entity, and its complications include perforation and intestinal obstruction, as in our case, where the symptoms were intestinal obstruction and the intervention identified an obstructive mass of the colon located in the cecum and ascending colon involving the mesocolon with a histopathology report of plastron with perforation into the mesocolon with the presence of amoebae.As described in the literature, it can be difficult to diagnose and can be confused with malignant neoplastic lesions. In the context of a post-bariatric surgery patient, the differential diagnosis will also be obstructive causes derived from the Y gastric bypass.The case of an accidental amoeboma to the mesocolon is not reported in the literature.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 36-year-old man\n- **Chief Complaint:** Diffuse abdominal pain, abdominal distension, and vomiting for 15 days.\n- **History of Present Illness:** The patient presented with symptoms of intestinal obstruction (abdominal pain 9–10/10 on a visual analog scale, abdominal distension, and vomiting). \n- **Past Medical History:** Type 2 diabetes, hypertension, and obesity; Roux-en-Y gastric bypass performed 10 months prior.\n- **Personal History:** None reported.\n- **Family History:** None reported.\n- **Physical Examination:** Abdominal distension, tenderness to palpation, gurgling bowel sounds, and temporary ileostomy. Peritoneal inflammation was noted.\n- **Ancillary Tests:** \n  - Preoperative lab tests: Leukocytosis and elevated C-reactive protein.\n  - Imaging: Laparoscopy identified a mass in the ascending colon.\n  - Exploratory surgery findings: Lobulated, fixed nodular mass (~20 × 15 cm) in the mesentery of the ascending colon with intra-abdominal adhesions in the duodenum, transverse colon, and mesenteric vessels. Small bowel obstruction and parastomal hernia were found.\n  - Postoperative pathology: Chronic inflammatory lesion of the mesentery (ascending colon), evidence of intestinal perforation, presence of _Entamoeba histolytica_ trophozoites, and actinomyces.",
+        "differential_diagnosis": "1. **Initial Differential Diagnosis:** \n   - A mass in the ascending colon post-bariatric surgery raised suspicion for etiologies such as colon carcinoma, Crohn's disease, diverticulitis, intestinal obstruction secondary to bariatric surgery, or infections (like tuberculosis, fungal infections, or ameboma).\n\n2. **Rationale for Excluding Other Diagnoses:**\n   - **Colon carcinoma:** Although the mass mimicked carcinoma, absence of malignant cells on pathology and detection of trophozoites confirmed an infectious rather than neoplastic etiology.\n   - **Crohn's disease:** No evidence of transmural inflammation or granulomas typical of Crohn's disease on pathology.\n   - **Diverticulitis:** Rarely affects the ascending colon and was not supported by pathology.\n   - **Roux-en-Y gastric bypass obstruction:** While plausible due to the patient’s surgical history, the histopathology findings of trophozoites excluded this as the primary cause.\n\n3. **Rationale for Final Diagnosis:** \n   - Histopathology confirmed granulomatous lesions associated with chronic inflammation, intestinal perforation, and the presence of _Entamoeba histolytica_ trophozoites. These findings are consistent with ameboma, a rare intestinal obstruction cause due to invasive amebiasis.",
+        "final_diagnosis": "Ameboma of the ascending colon secondary to _Entamoeba histolytica_, presenting with intestinal obstruction as a complication.",
+        "diagnosis_results": "Ameboma of the ascending colon."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-10-11",
+    "checked_rare_disease": [],
+    "id": "PMC11632824",
+    "results": {
+        "content": "### Resoning:\n<step 1> **Analyze the Chief Complaint and History of Present Illness:** The patient presents with classic symptoms of intestinal obstruction: diffuse abdominal pain, abdominal distension, and vomiting, lasting for 15 days with severe pain. This suggests a significant intra-abdominal pathology requiring urgent attention.\n\n<step 2> **Consider Past Medical History:**  The patient has type 2 diabetes, hypertension, obesity, and importantly, underwent Roux-en-Y gastric bypass 10 months prior.  Roux-en-Y gastric bypass is a major abdominal surgery that can lead to complications like internal hernias, adhesions, and altered gut flora.  This history is highly relevant and raises suspicion for post-surgical complications contributing to the current presentation.\n\n<step 3> **Evaluate Physical Examination Findings:** Abdominal distension, tenderness, gurgling bowel sounds, and peritoneal inflammation are all consistent with intestinal obstruction and potentially peritonitis. The mention of a temporary ileostomy suggests a previous or ongoing bowel issue, further complicating the clinical picture.\n\n<step 4> **Interpret Ancillary Tests - Preoperative Labs:** Leukocytosis and elevated CRP are strong indicators of inflammation and/or infection. This supports the suspicion of an inflammatory or infectious process within the abdomen.\n\n<step 5> **Analyze Imaging and Exploratory Surgery Findings:** Laparoscopy identified a mass in the ascending colon, which was confirmed during exploratory surgery to be a large (20x15cm), lobulated, fixed nodular mass in the mesentery of the ascending colon.  Crucially, intra-abdominal adhesions and small bowel obstruction were found, directly explaining the patient's presenting symptoms. The parastomal hernia is likely related to the prior ileostomy and could be a contributing factor or a separate issue.\n\n<step 6> **Focus on Postoperative Pathology - The Definitive Clue:** The pathology report is the most critical piece of information. It reveals:\n    * **Chronic inflammatory lesion of the mesentery (ascending colon):** This confirms the nature of the mass seen during surgery.\n    * **Evidence of intestinal perforation:** This explains the peritoneal inflammation and acute abdomen.\n    * **Presence of _Entamoeba histolytica_ trophozoites:** This is a parasitic infection and a highly significant finding, suggesting amebiasis.\n    * **Presence of Actinomyces:** This indicates a bacterial infection, often associated with chronic inflammatory processes and can be a co-infection or secondary infection.\n\n<step 7> **Synthesize all findings to reach a final diagnosis:** Combining all the information, especially the pathology results, the most likely diagnosis is **Amebic Colitis with Mesenteric Ameboma complicated by Actinomycosis and intestinal perforation, leading to small bowel obstruction in a patient with a history of Roux-en-Y gastric bypass.** The mesenteric mass is likely an ameboma (granulomatous mass caused by _Entamoeba histolytica_). The actinomyces likely represents a secondary bacterial infection in the context of the amebic infection and chronic inflammation. The intestinal perforation and subsequent peritonitis are serious complications of this condition. The Roux-en-Y gastric bypass might have altered the patient's gut microbiome and immune response, potentially predisposing them to this unusual presentation of amebiasis.\n\n### Answer:\nAmebic Colitis with Mesenteric Ameboma and Actinomycosis, complicated by intestinal perforation and small bowel obstruction."
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Analyze the Chief Complaint and History of Present Illness:** The patient presents with classic symptoms of intestinal obstruction: diffuse abdominal pain, abdominal distension, and vomiting, lasting for 15 days with severe pain. This suggests a significant intra-abdominal pathology requiring urgent attention.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Consider Past Medical History:**  The patient has type 2 diabetes, hypertension, obesity, and importantly, underwent Roux-en-Y gastric bypass 10 months prior.  Roux-en-Y gastric bypass is a major abdominal surgery that can lead to complications like internal hernias, adhesions, and altered gut flora.  This history is highly relevant and raises suspicion for post-surgical complications contributing to the current presentation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Evaluate Physical Examination Findings:** Abdominal distension, tenderness, gurgling bowel sounds, and peritoneal inflammation are all consistent with intestinal obstruction and potentially peritonitis. The mention of a temporary ileostomy suggests a previous or ongoing bowel issue, further complicating the clinical picture.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpret Ancillary Tests - Preoperative Labs:** Leukocytosis and elevated CRP are strong indicators of inflammation and/or infection. This supports the suspicion of an inflammatory or infectious process within the abdomen.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Analyze Imaging and Exploratory Surgery Findings:** Laparoscopy identified a mass in the ascending colon, which was confirmed during exploratory surgery to be a large (20x15cm), lobulated, fixed nodular mass in the mesentery of the ascending colon.  Crucially, intra-abdominal adhesions and small bowel obstruction were found, directly explaining the patient's presenting symptoms. The parastomal hernia is likely related to the prior ileostomy and could be a contributing factor or a separate issue.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Focus on Postoperative Pathology - The Definitive Clue:** The pathology report is the most critical piece of information. It reveals:\n    * **Chronic inflammatory lesion of the mesentery (ascending colon):** This confirms the nature of the mass seen during surgery.\n    * **Evidence of intestinal perforation:** This explains the peritoneal inflammation and acute abdomen.\n    * **Presence of _Entamoeba histolytica_ trophozoites:** This is a parasitic infection and a highly significant finding, suggesting amebiasis.\n    * **Presence of Actinomyces:** This indicates a bacterial infection, often associated with chronic inflammatory processes and can be a co-infection or secondary infection.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Synthesize all findings to reach a final diagnosis:** Combining all the information, especially the pathology results, the most likely diagnosis is **Amebic Colitis with Mesenteric Ameboma complicated by Actinomycosis and intestinal perforation, leading to small bowel obstruction in a patient with a history of Roux-en-Y gastric bypass.** The mesenteric mass is likely an ameboma (granulomatous mass caused by _Entamoeba histolytica_). The actinomyces likely represents a secondary bacterial infection in the context of the amebic infection and chronic inflammation. The intestinal perforation and subsequent peritonitis are serious complications of this condition. The Roux-en-Y gastric bypass might have altered the patient's gut microbiome and immune response, potentially predisposing them to this unusual presentation of amebiasis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> A mass in the ascending colon post-bariatric surgery raised suspicion for colon carcinoma, Crohn's disease, diverticulitis, intestinal obstruction secondary to bariatric surgery, or infections like tuberculosis, fungal infections, or ameboma.",
+            "hit": false
+        },
+        {
+            "step": "<Step 2> Colon carcinoma was ruled out due to the absence of malignant cells on pathology and the detection of trophozoites.",
+            "hit": false
+        },
+        {
+            "step": "<Step 3> Crohn's disease was excluded as there was no evidence of transmural inflammation or granulomas on pathology.",
+            "hit": false
+        },
+        {
+            "step": "<Step 4> Diverticulitis was not supported by the pathology findings, which did not indicate involvement of the ascending colon.",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> Roux-en-Y gastric bypass obstruction was considered but excluded by the histopathology findings showing trophozoites.",
+            "hit": false
+        },
+        {
+            "step": "<Step 6> Ameboma was diagnosed based on granulomatous lesions, chronic inflammation, intestinal perforation, and the presence of _Entamoeba histolytica_ trophozoites in the ascending colon.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Ameboma of the ascending colon secondary to _Entamoeba histolytica_, presenting with intestinal obstruction as a complication.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.0
+}

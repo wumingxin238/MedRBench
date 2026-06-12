@@ -1,0 +1,151 @@
+{
+    "raw_case": "\nA Rare Case of Malignant Melanoma of the Glans Penis in a Young Male Treated with an Organ-Preserving Surgical Procedure\nPenile melanoma is a rare and highly invasive cancer that is generally diagnosed in the sixth to seventh decades of life. We report a rare case of primary malignant melanoma of the glans penis in a 38-year-old man who presented with a proliferative lesion over the glans with discoloration for six months. The clinical and metastatic workups were unremarkable. Circumcision and biopsy performed outside showed characteristics of squamous cell carcinoma. We treated the patient with a partial penectomy, and the histopathological examination was suggestive of malignant melanoma. A stump revision with bilateral superficial inguinal lymph node dissection was performed. As per the oncologist's opinion, the patient underwent chemotherapy and immunotherapy after surgery. No recurrence or metastasis occurred during the one-year follow-up.\n\nIntroduction\n\nPenile melanoma (PM), comprising less than 2% of penile cancers and 0.1% of all melanomas [1], predominantly occurs on the glans penis (55%), prepuce (28%), shaft (9%), and meatus (8%) [2], with a mean patient age of 52.9 years [3]. Since the first documented case in 1859, only 220 cases have been reported globally [4]. PM originates from the malignant transformation of melanocytes in the neuroectodermal layer, with PMs classified as cutaneous or mucosal based on their location [1,5]. Staging follows a three-stage or American Joint Committee on Cancer tumor, node, metastasis (AJCC TNM) staging system [3,6,7]. This case report presents a young male with malignant melanoma of the glans penis involving the urethral meatus and reviews the literature on the pathogenesis and treatment of PM.\n\nCase presentation\n\nA 38-year-old Indian man visited the Urology Department with a chief complaint of lesions on his glans penis for the past six months. The lesion was painless, and there were no associated complaints. No urinary or sexual complaints were reported. The patient is sexually active. The patient had no history of severe illness, comorbidities, allergy, or trauma to the penis. The family history was also insignificant. He worked as a laborer and had a low socio-economic level. The patient underwent circumcision with a biopsy from the lesion at an outside hospital, and the biopsy revealed squamous cell carcinoma. The patient's clinical examination was unremarkable, and local examination revealed proliferative lesions with irregular margins present over the left lateral aspect of the glans penis around the urethral meatus, with dark brown discoloration. The lesion was non-tender and firm in consistency, and no active discharge was observed (Figure 1). No palpable inguinal lymphadenopathy was noted. Testis, scrotum, and prostate examinations were unremarkable.All routine blood and urine investigations were within normal limits. The contrast-enhanced computed tomography scan of the head, chest, and abdomen did not show evidence of metastatic disease. Subsequently, the patient underwent partial penectomy (Figure 2) based on an outside biopsy report.Pathological sections of the partial penectomy specimen showed malignant melanoma involving the urethral lining and involvement of the proximal urethral margin (Figures 3-4).Immunohistochemistry (IHC) markers of these specimens were positive for human melanoma black (HMB-45) (Figure 5), negative for pancytokeratin (Figure 6), and positive for S-100 (Figure 7).Since the proximal urethral margin was positive in partial penectomy specimens, and because of the aggressive nature of malignant melanoma histopathology, the patient was subjected to revision of the stump of the penis with bilateral superficial inguinal lymph node dissection (Figure 8).The final histopathology report showed malignant melanoma with a proximal resected margin, and bilateral inguinal lymph node specimens were negative and tumor-free (stage I organ-confined).After seeking an oncologist's opinion, the patient was started on a course of chemotherapy with cisplatin, bleomycin, vincristine, and thymosin immunotherapy. The patient does not show any recurrence or metastasis at the one-year follow-up.\n\nDiscussion\n\nPM, a rare cancer, accounts for under 0.2% of all male melanomas [2,8], predominantly occurring on the glans penis (82%), then the prepuce, urethral meatus, and shaft [8], peaking in the sixth to seventh decades [9,10]. Its advanced stages can cause dysuria, obstruction, hematuria, discharge, and sometimes melanic and fistula formation. Diagnosis is frequently delayed due to patient hesitation and diagnostic challenges [2,8]. It usually appears as a 1 cm pigmented papule, plaque, or ulceration, with differential diagnoses including junctional melanocytic nevus, penile melanosis, lentigo, and atypical pigmented macules [11]. These benign conditions are clinically similar to MM, making biopsy and histologic analysis essential for accurate diagnosis and avoiding excessive surgery. MM staging comprises stage I (limited to the penis), stage II (affects regional lymph nodes), and stage III (widespread) [12], with 43-60% of cases showing lymph node involvement at diagnosis [1-4]. The best treatment strategy is still debated, with some favoring aggressive surgical interventions [13].Literature advocates for conservative penile surgery (local excision with a 3 to 5 cm margin or distal partial penectomy) when inguinal nodes are nonpalpable in patients with thin lesions (<1.5 mm) and recommend prophylactic superficial inguinal node dissection for lesions thicker than 1.5 mm3 [14,15]. Alternatively, sentinel lymphadenectomy using radiocolloid mapping and dye localization can avoid the morbidity of bilateral superficial inguinal node dissections while providing accurate staging for treatment and prognosis [15,16]. Chemotherapy is indicated for disseminated melanoma, with combination chemotherapy (Dacarbazine (DTIC), bis-chloroethyl nitrosourea (BCNU), cisplatin, and tamoxifen) yielding response rates of 15% to 45% [14-16].Some literature noted that local excision or partial penile amputation with an adequate margin is effective for controlling T1 and T2 PMs. However, patients with proven metastases often succumb despite surgery and chemotherapy. Early-stage aggressive disease may be curable (Evidence Level 4) [17]. Literature also reported higher survival rates for patients undergoing wide local excision. Still, the prognosis remains poor due to delayed diagnoses and advanced disease characterized by suspicious inguinal crural adenopathy (Evidence Level 4) [18]. The patient prognosis for PM depends on the primary tumor stage and inguinal metastases presence [19]. Studies suggest that two-year and five-year survival rates are at 63% and 31%, respectively. All patients with nodal or distant metastases at diagnosis died within two years. The prognosis worsened significantly with ulceration, tumor depth ≥ 3.5 mm, or tumor diameter > 15 mm.\n\nConclusions\n\nPMs are rare but highly treatable with early surgical excision, given their resistance to chemotherapy and radiotherapy. Delays in diagnosis and surgery can worsen prognosis. Anamnesis, physical examination, and imaging studies are essential for improving patient survival. This case report underscores the effectiveness of conservative surgical treatment following recent guidelines, incorporating a 1 cm margin to prevent recurrence. Early detection is crucial for effective treatment in our patients. Early recognition, aggressive surgical intervention, and effective adjuvant therapy are vital for improving prognosis while preserving penile aesthetics and function.",
+    "generate_case": {
+        "case_summary": "- Patient Information: 38-year-old Indian male, laborer, low socio-economic level, sexually active.\n- Chief Complaint: Painless lesion on the glans penis for six months.\n- History of Present Illness: Lesion over the glans penis with discoloration for six months, no urinary or sexual complaints.\n- Past Medical History: None.\n- Personal History: No history of severe illness, comorbidities, allergies, or trauma to the penis.\n- Family History: None.\n- Physical Examination: Proliferative lesion with dark brown discoloration and irregular margins on the left lateral aspect of the glans penis involving the urethral meatus; non-tender, firm consistency, no active discharge, no palpable inguinal lymphadenopathy; normal testis, scrotum, and prostate examinations.\n- Ancillary Tests: Routine blood and urine tests within normal limits; contrast-enhanced CT scan of the head, chest, and abdomen showed no metastatic disease. Histopathological biopsy initially suggested squamous cell carcinoma. Immunohistochemistry showed positivity for HMB-45 and S-100 (melanoma markers), negative for pancytokeratin, confirming malignant melanoma. Lymph node biopsies were negative for tumor involvement.",
+        "differential_diagnosis": "1. **Initial Diagnosis of Squamous Cell Carcinoma**: Based on the initial biopsy report from an outside hospital, the lesion was presumed to be squamous cell carcinoma. This was reasonable, given the lesion's appearance and commonality of this diagnosis in penile dermatologic disorders. However, further investigation via partial penectomy and immunohistochemical analysis showed melanoma markers (HMB-45 and S-100) and ruled out squamous cell carcinoma (negative pancytokeratin stain).\n   \n2. **Consideration of Other Pigmented Lesions**: Differential diagnoses included benign conditions such as penile melanosis, lentigo, or atypical pigmented macules. The firm consistency and discoloration, coupled with histological evidence of malignant melanoma, excluded benign conditions.\n\n3. **Confirmation of Penile Melanoma**: Based on histopathological findings of malignant melanoma and immunohistochemical markers, a definitive diagnosis was established. Imaging tests ruled out metastasis, supporting an early-stage (stage I) diagnosis. Proximal urethral margin involvement warranted stump revision with bilateral superficial inguinal lymph node dissection, which confirmed absence of lymph node involvement.",
+        "final_diagnosis": "Malignant melanoma of the glans penis (stage I, organ-confined).",
+        "diagnosis_results": "Malignant melanoma of the glans penis (stage I)."
+    },
+    "body_category": [
+        "Male Reproductive System"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-9-15",
+    "checked_rare_disease": [
+        "Malignant tumor of penis"
+    ],
+    "id": "PMC11573236",
+    "results": {
+        "content": "### Reasoning:\n1. **Initial Presentation and Patient Profile:** The patient is a 38-year-old Indian male, a laborer with a low socio-economic status, who presents with a painless lesion on the glans penis that has been present for six months. He is sexually active, which suggests possible sexually transmitted etiologies, but the lesion's persistence and characteristics need to be considered.\n\n2. **Clinical Examination Findings:** The lesion is described as proliferative, with dark brown discoloration and irregular margins on the left lateral aspect of the glans penis, involving the urethral meatus. It is non-tender, has a firm consistency, and there is no active discharge or palpable inguinal lymphadenopathy. The rest of the genital examination, including the testis, scrotum, and prostate, is normal.\n\n3. **Investigations:** Routine blood and urine tests are within normal limits, which does not suggest any systemic involvement or infection. A contrast-enhanced CT scan of the head, chest, and abdomen shows no metastatic disease, which is reassuring regarding distant spread.\n\n4. **Histopathological Biopsy:** Initially, the biopsy suggests squamous cell carcinoma, which is a common type of carcinoma in such locations. However, immunohistochemistry reveals positivity for HMB-45 and S-100, which are markers for melanocytes, and negativity for pancytokeratin, which is expressed in epithelial cells including squamous cells. This suggests that the tumor is of melanocytic origin rather than squamous cell origin.\n\n5. **Interpretation of Immunohistochemistry:** HMB-45 and S-100 positivity strongly indicates melanocytic differentiation, which is characteristic of malignant melanoma. Squamous cell carcinoma would typically be positive for pancytokeratin and negative for melanocyte markers.\n\n6. **Consideration of Primary Site:** Malignant melanoma is most commonly associated with skin, but it can occur in mucosal surfaces as well, including the genital area. Primary penile melanoma is rare but recognized.\n\n7. **Lymph Node Biopsies:** Negative for tumor involvement suggests that there is no regional lymph node metastasis at this stage, which is important for staging and management.\n\n8. **Differential Diagnosis:** While squamous cell carcinoma is the initial consideration given the location, the immunohistochemistry results point towards melanoma. Other considerations might include basal cell carcinoma or other less common genital tumors, but these are less likely given the markers.\n\n9. **Final Diagnosis Confirmation:** Given the histopathological and immunohistochemical findings, the diagnosis is malignant melanoma of the penis, likely arising from melanocytes present in the genital mucosa.\n\n### Answer:\nMalignant melanoma of the penis"
+    },
+    "reasoning_eval": [
+        {
+            "step": "1. **Initial Presentation and Patient Profile:** The patient is a 38-year-old Indian male, a laborer with a low socio-economic status, who presents with a painless lesion on the glans penis that has been present for six months. He is sexually active, which suggests possible sexually transmitted etiologies, but the lesion's persistence and characteristics need to be considered.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "2. **Clinical Examination Findings:** The lesion is described as proliferative, with dark brown discoloration and irregular margins on the left lateral aspect of the glans penis, involving the urethral meatus. It is non-tender, has a firm consistency, and there is no active discharge or palpable inguinal lymphadenopathy. The rest of the genital examination, including the testis, scrotum, and prostate, is normal.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "3. **Investigations:** Routine blood and urine tests are within normal limits, which does not suggest any systemic involvement or infection. A contrast-enhanced CT scan of the head, chest, and abdomen shows no metastatic disease, which is reassuring regarding distant spread.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "4. **Histopathological Biopsy:** Initially, the biopsy suggests squamous cell carcinoma, which is a common type of carcinoma in such locations. However, immunohistochemistry reveals positivity for HMB-45 and S-100, which are markers for melanocytes, and negativity for pancytokeratin, which is expressed in epithelial cells including squamous cells. This suggests that the tumor is of melanocytic origin rather than squamous cell origin.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "5. **Interpretation of Immunohistochemistry:** HMB-45 and S-100 positivity strongly indicates melanocytic differentiation, which is characteristic of malignant melanoma. Squamous cell carcinoma would typically be positive for pancytokeratin and negative for melanocyte markers.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "6. **Consideration of Primary Site:** Malignant melanoma is most commonly associated with skin, but it can occur in mucosal surfaces as well, including the genital area. Primary penile melanoma is rare but recognized.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "7. **Lymph Node Biopsies:** Negative for tumor involvement suggests that there is no regional lymph node metastasis at this stage, which is important for staging and management.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "8. **Differential Diagnosis:** While squamous cell carcinoma is the initial consideration given the location, the immunohistochemistry results point towards melanoma. Other considerations might include basal cell carcinoma or other less common genital tumors, but these are less likely given the markers.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "9. **Final Diagnosis Confirmation:** Given the histopathological and immunohistochemical findings, the diagnosis is malignant melanoma of the penis, likely arising from melanocytes present in the genital mucosa.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> The initial biopsy report from an outside hospital presumed the lesion to be squamous cell carcinoma based on its appearance and commonality in penile dermatologic disorders.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Further investigation via partial penectomy and immunohistochemical analysis revealed melanoma markers (HMB-45 and S-100) and ruled out squamous cell carcinoma due to a negative pancytokeratin stain.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Differential diagnoses considered benign conditions such as penile melanosis, lentigo, or atypical pigmented macules, but the firm consistency, discoloration, and histological evidence of malignant melanoma excluded these benign conditions.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Histopathological findings and immunohistochemical markers confirmed the diagnosis of malignant melanoma.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Imaging tests ruled out metastasis, supporting an early-stage (stage I) diagnosis.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> Proximal urethral margin involvement necessitated stump revision with bilateral superficial inguinal lymph node dissection.",
+            "hit": false
+        },
+        {
+            "step": "<Step 7> Lymph node dissection confirmed the absence of lymph node involvement.",
+            "hit": true
+        },
+        {
+            "step": "<Step 8> Final diagnosis: Malignant melanoma of the glans penis (stage I, organ-confined).",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.7777777777777778,
+    "factulity": 1.0,
+    "recall": 0.875
+}

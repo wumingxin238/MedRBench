@@ -1,0 +1,93 @@
+{
+    "raw_case": "\nBilateral Carotid-Cavernous Fistula Following Traumatic Fall: A Case Report\nCarotid-cavernous fistulas (CCFs) are abnormal connections between the carotid arteries and the cavernous sinus, posing significant neuro-ophthalmologic risks. This report presents a rare case of bilateral post-traumatic CCFs, focusing on clinical presentation, diagnosis, and management. Symptoms mimic conjunctivitis, causing diplopia, exophthalmos, and ophthalmoplegia. Diagnosis relied on computed tomography, magnetic resonance angiography, and digital subtraction angiography. Management involved transarterial embolization with coils, achieving successful outcomes. This highlights the importance of timely intervention and comprehensive imaging to prevent complications.Teaching point: This case report details a rare instance of bilateral post-traumatic carotid-cavernous fistulas, emphasizing clinical presentation, diagnostic evaluation, and management.\n\nIntroduction\n\nCarotid-cavernous fistulas (CCFs) are abnormal connections between the carotid artery and the cavernous sinus, causing severe neuro-ophthalmologic complications like vision loss, cranial nerve palsies, and intracranial hemorrhage. They are classified as direct, typically from trauma, or indirect, often linked to aneurysms or connective tissue disorders [1, 2]. Bilateral CCFs are rare and usually traumatic, leading to symptoms like exophthalmos, chemosis, and cranial nerve deficits [3, 4].Prompt diagnosis and management are vital. Advanced imaging techniques, such as multidetector computed tomography (CT) and magnetic resonance (MR) angiography, are crucial for classification and treatment planning, while digital subtraction angiography (DSA) remains the gold standard [5, 6]. Modern management involves endovascular techniques like transarterial and transvenous embolization using coils, balloons, and liquid embolics, which have high success rates [7, 8].This case report presents a rare instance of bilateral post-traumatic CCFs, emphasizing the importance of advanced imaging techniques, particularly MR imaging (MRI) and DSA, in timely identification and management.\n\nCase Report\n\nA 64-year-old woman fell, resulting in lip numbness and difficulty closing her mouth. CT showed a bifocal mandibular fracture and a left C1 fracture (Figs. 1–3), without intracranial bleeding, treated surgically.Three weeks later, she developed right eye redness, swelling, and tearing, initially misdiagnosed as conjunctivitis. Bilateral diplopia and VI nerve paresis, primarily on the right, followed. CT showed grade 1 exophthalmos of the left eye without fracture.Post-contrast brain CT revealed enlarged intracavernous portions of the internal carotid arteries, dilated cavernous sinuses, and superior ophthalmic veins (Figs. 4 and 5), indicating a CCF and signs of dissection sequelae (Fig. 6).MR angiography confirmed bilateral CCFs, showing enlarged, arterialized superior ophthalmic veins (Fig. 7), a direct arteriovenous fistula on the right (Fig. 8), and dilated leptomeningeal veins (Fig. 9). A hemorrhagic lesion in the right anterior pontine region suggested venous infarction (Fig. 10).DSA was used for planning treatment. Percutaneous transarterial embolization with coils was performed. Sixteen coils nearly occluded the fistula, leaving a slight shunt (Fig. 11).One month post-treatment, the patient reported mild diplopia. Follow-up MRI revealed a 3-mm residual shunt (Fig. 12), complete vein regression, and reduced edema around the hemorrhagic lesion (Fig. 13). DSA confirmed complete fistula obliteration (Fig. 14).\n\nDiscussion\n\nBilateral CCFs are rare and complex. In this case, trauma caused tears in the internal carotid artery, leading to conjunctivitis-like symptoms with diplopia and ophthalmoplegia. These symptoms result from increased venous pressure and arterialization of conjunctival vessels, causing redness, swelling, and hyperemia [9].The use of CT and MR angiography identified bilateral CCFs with venous dilation and arterialized flow in the superior ophthalmic veins and cavernous sinuses. MR images also showed edema, hemorrhagic changes, and venous infarctions. CCFs can cause significant vascular complications, including hemorrhages and infarctions, due to arterial blood entering the venous system, leading to venous hypertension, vessel wall weakening, and potential rupture. Additionally, venous congestion can impair drainage, causing ischemia and infarctions [2, 9].DSA was essential for planning endovascular treatment. Percutaneous transarterial embolization, typically with detachable balloons or platinum coils, is the preferred approach. In this case, DSA guided the embolization with coils, proving invaluable for mapping the fistula and assessing the procedure’s success [2, 9].Successful outcomes included complete CCF occlusion and regression of venous dilation and edema. However, a minimal residual shunt necessitates ongoing monitoring to prevent complication.The complexity and rarity of bilateral CCFs demand expertise in imaging for accurate diagnosis and management. Future research should refine diagnostic and treatment strategies, with guidelines needed for long-term monitoring to prevent recurrence and complications.This case also demonstrated that the management of CCFs involves a multidisciplinary approach, requiring collaboration among neurologists, ophthalmologists, radiologists, and interventional neuroradiologists.\n\nConclusion\n\nThis case emphasizes the difficulties in diagnosing and treating bilateral CCFs, a rare and complex condition. Advanced imaging and targeted embolization were effective, leading to significant symptom improvement. However, the presence of a minimal residual shunt highlights the need for long-term follow-up. The successful outcome highlights the importance of a multidisciplinary approach for comprehensive care and improved patient outcomes.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 64-year-old woman\n- **Chief Complaint:** Lip numbness and difficulty closing her mouth (initially), followed by right eye redness, swelling, tearing, diplopia, and bilateral VI nerve paresis.\n- **History of Present Illness:** The patient suffered a fall resulting in lip numbness and difficulty closing her mouth, later linked to mandibular and cervical fractures. Three weeks post-injury, she developed eye symptoms misdiagnosed as conjunctivitis, which progressed to diplopia and cranial nerve VI palsy with signs of exophthalmos. Further imaging confirmed bilateral carotid-cavernous fistulas.\n- **Past Medical History:** Mandibular fracture and left C1 fracture secondary to a fall.\n- **Personal History:** None provided.\n- **Family History:** None provided.\n- **Physical Examination:** Findings included bilateral VI nerve paresis and symptoms suggestive of conjunctivitis, such as eye redness, swelling, and tearing. Grade 1 exophthalmos of the left eye was noted.\n- **Ancillary Tests:** \n  1. **CT Imaging:** Bifocal mandibular fracture, left C1 fracture, grade 1 exophthalmos, enlarged intracavernous portions of internal carotid arteries, dilated cavernous sinuses, and superior ophthalmic veins.\n  2. **MR Angiography:** Confirmed bilateral carotid-cavernous fistulas, arterialized superior ophthalmic veins, direct arteriovenous fistula on the right, dilated leptomeningeal veins, and a pontine hemorrhagic lesion suggestive of venous infarction.\n  3. **Digital Subtraction Angiography (DSA):** Used for treatment planning and confirmed findings of bilateral CCFs.\n  4. **Post-Treatment Imaging:** MRI showed significant regression of pathological features with a minimal residual shunt, and DSA confirmed complete obliteration of the fistula.",
+        "differential_diagnosis": "1. **Conjunctivitis (excluded):** Initial symptoms such as eye redness, tearing, and swelling raised suspicion for conjunctivitis but were excluded due to progressive diplopia, cranial nerve paresis, and imaging findings inconsistent with a simple infection.\n2. **Orbital cellulitis (excluded):** This condition could explain eye swelling and redness but was excluded as imaging revealed vascular abnormalities without signs of an infectious process.\n3. **Cavernous sinus thrombosis (excluded):** A possibility given the ocular symptoms and cranial nerve deficits, but imaging showed arterialized flow and venous dilation, indicative of a vascular fistula rather than thrombosis.\n4. **Carotid-cavernous fistula (confirmed):** All symptoms and imaging findings, including bilateral involvement, arterialized superior ophthalmic veins, dilated cavernous sinuses, and associated venous infarctions, were compatible with this diagnosis. Direct trauma history supported the etiology.",
+        "final_diagnosis": "Bilateral traumatic carotid-cavernous fistulas (CCFs) resulting from a traumatic fall, confirmed by CT, MR angiography, and DSA. The diagnosis was supported by post-traumatic history, clinical features of diplopia, cranial nerve VI palsy, and conjunctival arterialization, as well as imaging findings indicative of CCF with venous hypertension and complications.",
+        "diagnosis_results": "Bilateral traumatic carotid-cavernous fistulas (CCFs)."
+    },
+    "body_category": [
+        "Brain and Nerves"
+    ],
+    "disorder_category": [
+        "Injuries and Wounds"
+    ],
+    "receive_time": "2024-7-12",
+    "checked_rare_disease": [],
+    "id": "PMC11414464",
+    "results": {
+        "thinking_process": "Okay, let's start by going through the patient's case step by step. She's a 64-year-old woman who had a fall leading to lip numbness and difficulty closing her mouth. That was initially linked to mandibular and cervical fractures. Then, three weeks after the injury, she developed eye symptoms like redness, swelling, tearing, diplopia, and bilateral VI nerve paresis. The eye issues were first thought to be conjunctivitis but got worse.\n\nHmm, the key here is the timeline. The fall caused fractures, and then weeks later, eye problems. The VI nerve paresis is significant because cranial nerve VI (abducens) controls the lateral rectus muscle. Bilateral involvement suggests something affecting both sides, maybe a central cause. Exophthalmos (bulging eyes) and the eye symptoms point towards increased pressure in the orbital area. \n\nCarotid-cavernous fistula (CCF) comes to mind. CCFs are abnormal connections between the carotid artery and the cavernous sinus, which can lead to venous congestion. Symptoms often include eye redness, swelling, proptosis, and cranial nerve palsies (like VI, which is in the cavernous sinus). Trauma is a common cause, especially with fractures near the base of the skull. Her mandibular and C1 fractures from the fall could have damaged the carotid arteries, leading to a fistula.\n\nThe imaging findings support this. CT showed enlarged intracavernous carotid arteries and dilated cavernous sinuses and superior ophthalmic veins. MR angiography confirmed bilateral CCFs with arterialized veins. The DSA, which is the gold standard for diagnosing vascular issues like fistulas, also confirmed it. The pontine hemorrhagic lesion might be a venous infarction from increased venous pressure due to the fistulas.\n\nPost-treatment imaging showing regression after intervention (likely embolization) further confirms the diagnosis. Bilateral CCFs after trauma fit perfectly here. The initial misdiagnosis as conjunctivitis makes sense because early symptoms can mimic more common conditions, but progression and nerve involvement should raise red flags for vascular abnormalities.",
+        "content": "```\n### Resoning:\n<step 1> The patient’s presentation of lip numbness, difficulty closing her mouth, and subsequent bilateral VI nerve paresis with eye symptoms (redness, swelling, diplopia, exophthalmos) suggests a neurological and vascular etiology, particularly involving the cavernous sinus and cranial nerves.  \n<step 2> The timeline of symptoms (three weeks post-traumatic mandibular and cervical fractures) points to delayed complications of trauma, such as vascular injury. Bilateral VI nerve involvement and exophthalmos are hallmark signs of elevated cavernous sinus pressure.  \n<step 3> Imaging findings (enlarged cavernous sinuses, arterialized superior ophthalmic veins, dilated leptomeningeal veins) confirm abnormal arteriovenous shunting. MR angiography and DSA specifically identified bilateral carotid-cavernous fistulas (CCFs), a known complication of skull base fractures.  \n<step 4> The pontine hemorrhagic lesion on MRI likely reflects venous hypertension from retrograde leptomeningeal venous drainage, a severe complication of untreated CCFs. Post-treatment imaging showing resolution further validates the diagnosis.  \n\n### Answer:\nBilateral traumatic carotid-cavernous fistulas (CCFs) with secondary venous infarction."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient’s presentation of lip numbness, difficulty closing her mouth, and subsequent bilateral VI nerve paresis with eye symptoms (redness, swelling, diplopia, exophthalmos) suggests a neurological and vascular etiology, particularly involving the cavernous sinus and cranial nerves.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The timeline of symptoms (three weeks post-traumatic mandibular and cervical fractures) points to delayed complications of trauma, such as vascular injury. Bilateral VI nerve involvement and exophthalmos are hallmark signs of elevated cavernous sinus pressure.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Imaging findings (enlarged cavernous sinuses, arterialized superior ophthalmic veins, dilated leptomeningeal veins) confirm abnormal arteriovenous shunting. MR angiography and DSA specifically identified bilateral carotid-cavernous fistulas (CCFs), a known complication of skull base fractures.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The pontine hemorrhagic lesion on MRI likely reflects venous hypertension from retrograde leptomeningeal venous drainage, a severe complication of untreated CCFs. Post-treatment imaging showing resolution further validates the diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Conjunctivitis (excluded) - Initial symptoms like eye redness, tearing, and swelling suggested conjunctivitis but were ruled out due to progressive diplopia, cranial nerve paresis, and inconsistent imaging findings.",
+            "hit": false
+        },
+        {
+            "step": "Step 2: Orbital cellulitis (excluded) - This condition could explain eye swelling and redness but was excluded because imaging showed vascular abnormalities without signs of infection.",
+            "hit": false
+        },
+        {
+            "step": "Step 3: Cavernous sinus thrombosis (excluded) - Considered due to ocular symptoms and cranial nerve deficits, but imaging revealed arterialized flow and venous dilation, indicating a vascular fistula instead of thrombosis.",
+            "hit": false
+        },
+        {
+            "step": "Step 4: Carotid-cavernous fistula (confirmed) - Symptoms and imaging findings, including bilateral involvement, arterialized superior ophthalmic veins, dilated cavernous sinuses, and venous infarctions, were consistent with this diagnosis. Direct trauma history supported the etiology.",
+            "hit": true
+        },
+        {
+            "step": "Step 5: Final diagnosis - Bilateral traumatic carotid-cavernous fistulas (CCFs) resulting from a traumatic fall, confirmed by CT, MR angiography, and DSA.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.4
+}

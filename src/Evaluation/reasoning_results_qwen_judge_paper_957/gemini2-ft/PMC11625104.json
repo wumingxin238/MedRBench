@@ -1,0 +1,98 @@
+{
+    "raw_case": "\nPrenatal magnetic resonance imaging of umbilical cord ulcer in a fetus with congenital small bowel atresia: A case report\nA 34-year-old woman (gravida 2, para 0) with suspected fetal small-bowel atresia on ultrasound underwent magnetic resonance imaging (MRI) at 33 weeks 3 days of gestation. In addition to small bowel atresia, a teardrop-shaped hematoma was observed adjacent to the umbilical cord associated with an umbilical cord ulcer (UCU). The fetus was delivered by induced labor on diagnosis of intrauterine fetal death. UCUs were macroscopically observed on the surface of the umbilical cord. Ultrasonography is helpful in the diagnosis of UCU. Moreover, the MRI findings on UCUs adjacent to the umbilical cord in the case of congenital small bowel atresia should be observed carefully, especially after 30 weeks of gestation. MRI findings may lead to the detection of UCU and improve fetal outcome. Therefore, we should be aware of its findings.\n\nIntroduction\n\nUmbilical cord ulcer (UCU) is associated with congenital small intestinal atresia, which is one of the most severe conditions leading to perinatal fetal death. Ultrasonography (US) is helpful for the early diagnosis of UCU [1]. US findings reported include fetal blood circling from the umbilical cord into the amniotic fluid, heterogeneous high-echo mass debris in the amniotic fluid, and hematoma in the fetal stomach. Although many case reports on the US diagnosis of UCU are available, to our knowledge, no case reports on diagnosis using MRI are available. Herein, we report MRI findings of a fetus with a UCU associated with congenital small intestinal atresia.\n\nCase report\n\nThe patient was a 34-year-old woman (gravida 2, para 0) with an unremarkable medical history. She conceived through in vitro fertilization. US examination at 28 weeks 5 days of gestation revealed fetal intestinal dilatation, which is suggestive of congenital small intestinal atresia. She was referred to our hospital for further evaluation at 31 weeks 2 days gestation. US demonstrated the dilatation of the stomach and jejunum with a maximum diameter of 18.6 mm. The amniotic fluid index (AFI) was 17.59, not indicative of polyhydramnios. No cord or placental abnormalities were noted in the US. There were no other prenatal complications related to the pregnancy.Fetal MRI was performed at 33 weeks 3 days of gestation for further evaluation. After the MRI examination, she was given a discharge without further medical examination, including US, as she showed no symptoms. At first, a resident radiologist interpreted the MRI. He found the dilatation from the esophagus to the jejunum (Fig. 1A), which is suggestive of congenital jejunal atresia.A board-certified radiologist interpreted the MRI examination about half a day later. In addition to the findings of jejunal atresia, he recognized a teardrop-shaped area with iso-signal intensity on the T2-weighted image (Fig. 1B, C) and slightly high signal intensity on the fat-suppressed T1-weighted image (Fig. 1D) adjacent to the umbilical cord, which is suggestive of hematoma. UCU is a known complication associated with congenital small intestinal atresia. Therefore, the hematoma was suspected to be associated with a UCU due to atresia. However, the patient returned to our hospital at that time because of decreased fetal movement. Emergency US showed no fetal heart rate, suggesting intrauterine fetal death (IUFD). The fetus was delivered by an induced labor 4 days after the death. A large amount of bloody amniotic fluid (1300 ml) was discharged during the delivery of the fetus. The fetus was pale, but no external anomalies were observed.Elasticity of Wharton's jelly in the umbilical cord was observed to be decreased. Additionally, the degeneration and exposure of umbilical vessels with hemorrhages were grossly observed, which indicates UCUs on the superficial layer of the umbilical cord (Fig. 2A, B). The bloody amniotic fluid and fetal pallor were considered due to the hemorrhage from the umbilical cord.\n\nDiscussion\n\nUCU is one of the most severe disorders associated with congenital small bowel obstruction, which can lead to fetal perinatal death. Congenital intestinal atresia occurs in approximately 1 case per 2,000-5,000 births. Meanwhile, a UCU is complicated by an upper gastrointestinal obstruction in 6.5-13.6% [2,3]. The etiology of a UCU associated with congenital small bowel obstruction is not well understood. However, 3 factors (vascular reactivity, gastric reflex, and epithelial abnormality) have been proposed to cause a UCU [4]. Reflux vomiting due to small bowel obstruction causes the release of bile acids and pancreatic enzymes into the amniotic fluid, which destroys the Wharton's jelly of the umbilical cord, resulting in the exposition and disruption of the umbilical vessels [[5], [6]]. The prognosis of the fetus is then very poor. Aronowitz et al. reported an intrauterine fetal death rate, a neonatal death rate, and an overall survival rate of 32%, 32%, and 37%, respectively [7].Early diagnosis is desirable because a UCU has a severe outcome. Various methods for early detection have been reported, although currently there is no gold standard. Katsura et al. reported that US is more valuable than a cardiotocogram (CTG) at the onset of a UCU [8]. Following US findings have been reported: fetal blood swirling from the umbilical cord into the amniotic fluid, heterogeneous high-echo mass-like debris in the amniotic fluid, and fetal stomach reflecting blood clots. These ultrasound imaging findings suggest that hemorrhage from a UCU can lead to an early diagnosis [8].In this present case, MRI incidentally showed an abnormal signal intensity around the umbilical cord. The signal pattern, the teardrop shape, and the location adjacent to the umbilical cord indicate the bleeding from the cord. These MRI findings, except signal intensity, are consistent with US findings. In addition, UCU has been reported to be located near the fetal side of the umbilical cord in most reported cases. Therefore, careful ultrasound evaluation of the area is advisable in high-risk cases [[9], [10]]. Bleeding from the UCU near the fetal side was also seen on the MRI in our case. Abnormal signal intensities around the fetal side of the umbilical cord can help diagnose a UCU. However, the signal characteristics of acute hemorrhage can vary, leading to potential misinterpretation of signal intensity. Additionally, small hematomas can be challenging to detect. These limitations of MRI should be taken into account.MRI should not necessarily be recommended, as US is useful in the diagnosis of UCU. However, it may be performed for prenatal evaluation of congenital small bowel atresia. The UCU may have been incidentally detected on an MRI in this case. The mean gestational age at the presentation of UCU is 33.3 ± 2.7 weeks. Consequently, strict follow-up is required after 30 weeks of gestation [11]. US evaluations and the measurement of gastrointestinal enzyme levels are performed to determine delivery timing [12].Moreover, we should pay attention to the findings of UCU and recognize that it can occur even without the mother showing any symptoms. Thus, we should evaluate the bleeding from a UCU in the case of congenital small bowel obstruction after 30 weeks of gestation immediately after the MRI examination. If UCU can be detected on MRI and reported to the obstetrician, appropriate clinical management may improve the fetus's prognosis.In conclusion, we should take notice of the MRI findings associated with a UCU in the evaluation of a fetus with congenital small bowel atresia, especially after 30 weeks of gestation.\n\nPatient consent\n\nInformed consent was obtained from the patient.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 34-year-old woman, gravida 2, para 0. Conceived via in vitro fertilization.  \n- **Chief Complaint:** Decreased fetal movement.  \n- **History of Present Illness:** Suspected fetal small bowel atresia noted on ultrasound (US) at 28 weeks 5 days of gestation, confirmed by intestinal dilatation findings. Referred for further evaluation at 31 weeks 2 days. Fetal MRI at 33 weeks 3 days showed jejunal atresia and a teardrop-shaped hematoma adjacent to the umbilical cord, suggestive of umbilical cord ulcer (UCU).  \n- **Past Medical History:** None reported.  \n- **Personal History:** None reported.  \n- **Family History:** None reported.  \n- **Physical Examination:** Emergency ultrasound at return showed no fetal heart rate. Post-delivery examination revealed bloody amniotic fluid, pale fetus, and macroscopic changes in the umbilical cord consistent with UCU (e.g., decreased Wharton’s jelly, degenerated and hemorrhagic umbilical vessels).  \n- **Ancillary Tests:**  \n  - Ultrasound at 28 weeks 5 days: Showed intestinal dilatation, later interpreted as congenital small bowel atresia.  \n  - Ultrasound at 31 weeks 2 days: Stomach and jejunal dilatation; maximum diameter size 18.6 mm.  \n  - Fetal MRI at 33 weeks 3 days: Confirmed jejunal atresia and hematoma near the umbilical cord, likely associated with UCU.  \n  - Postmortem findings: Large bloody amniotic fluid (1300 mL) and gross umbilical cord ulcerations.",
+        "differential_diagnosis": "1. **Congenital Small Bowel Atresia (Jejunal Atresia):**  \n   - Supported by findings of intestinal dilatation on both US and MRI. Typical presentation includes stomach and proximal bowel dilatation. Diagnosis was confirmed.  \n\n2. **Umbilical Cord Ulcer (UCU):**  \n   - Hematoma adjacent to the umbilical cord on MRI indicated potential UCU, a known complication of congenital small bowel atresia. Post-delivery findings of umbilical hemorrhage and cord vessel degeneration further confirmed this diagnosis.  \n\n3. **Other Causes of Intrauterine Fetal Death (IUFD):**  \n   - Placental insufficiency, infections, and genetic anomalies were less likely given the absence of associated findings on imaging or clinical history.  \n   - UCU-associated hemorrhage was directly corroborated by postmortem findings, making it the primary cause of IUFD.  \n\n4. **Polyhydramnios or Amniotic Abnormalities:**  \n   - Initially ruled out by a normal amniotic fluid index (AFI) on US.\n\nThe differential diagnosis focused on congenital malformations and umbilical abnormalities, with imaging and clinical evidence guiding the identification of UCU as secondary to small bowel atresia.",
+        "final_diagnosis": "The fetus was diagnosed with congenital jejunal atresia complicated by umbilical cord ulcer (UCU), leading to intrauterine fetal death. The hemorrhagic complications of the UCU and fetal exsanguination were the direct causes of death.",
+        "diagnosis_results": "Congenital jejunal atresia with umbilical cord ulcer (UCU) leading to intrauterine fetal death (IUFD)."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Pregnancy and Reproduction"
+    ],
+    "receive_time": "2024-8-25",
+    "checked_rare_disease": [
+        "Small bowel atresia"
+    ],
+    "id": "PMC11625104",
+    "results": {
+        "content": "### Resoning:\n<step 1> **Analyze the Chief Complaint and History of Present Illness:** The patient presented with decreased fetal movement, a critical symptom indicating potential fetal distress. The history reveals a prenatal diagnosis of suspected small bowel atresia at 28 weeks 5 days, later confirmed as jejunal atresia by fetal MRI at 33 weeks 3 days. Importantly, the MRI also identified a teardrop-shaped hematoma near the umbilical cord, suggestive of UCU. This timeline indicates a progression of identified fetal abnormalities culminating in fetal demise.\n\n<step 2> **Evaluate the Physical Examination and Ancillary Tests:** The emergency ultrasound revealing no fetal heart rate confirms intrauterine fetal demise. Post-delivery examination and postmortem findings are crucial. The presence of bloody amniotic fluid, a pale fetus, and macroscopic umbilical cord changes consistent with UCU (decreased Wharton’s jelly, degenerated and hemorrhagic vessels) strongly support the UCU diagnosis as a critical factor. The ancillary tests, including serial ultrasounds and fetal MRI, consistently pointed towards jejunal atresia and confirmed the UCU. The large volume of bloody amniotic fluid postmortem further highlights a potential antepartum hemorrhage related to the UCU.\n\n<step 3> **Synthesize the Findings to Determine the Primary and Contributing Diagnoses:**  The constellation of findings points to two major diagnoses: Jejunal Atresia and Umbilical Cord Ulcer (UCU). While jejunal atresia is a significant congenital anomaly, the rapid deterioration leading to fetal demise and the postmortem findings strongly suggest that the UCU played a more immediate and critical role in the fetal demise. UCU is known to compromise fetal circulation and oxygenation, potentially leading to intrauterine fetal demise. The bloody amniotic fluid and pale fetus are consistent with complications from UCU.\n\n<step 4> **Formulate the Final Diagnosis, Prioritizing the Most Pertinent and Clinically Relevant Condition:**  Given the timeline and the nature of the findings, the most direct cause of the intrauterine fetal demise is likely complications arising from the Umbilical Cord Ulcer.  While jejunal atresia is a significant finding and was diagnosed prenatally, the UCU appears to be the more acute and directly related factor to the fetal demise based on the provided information, especially considering the rapid decline and the postmortem findings. Therefore, the primary diagnosis should focus on the UCU and its sequelae, leading to intrauterine fetal demise, with jejunal atresia as a significant co-morbidity.\n\n### Answer:\nIntrauterine Fetal Demise secondary to Umbilical Cord Ulcer, with associated Jejunal Atresia."
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Analyze the Chief Complaint and History of Present Illness:** The patient presented with decreased fetal movement, a critical symptom indicating potential fetal distress. The history reveals a prenatal diagnosis of suspected small bowel atresia at 28 weeks 5 days, later confirmed as jejunal atresia by fetal MRI at 33 weeks 3 days. Importantly, the MRI also identified a teardrop-shaped hematoma near the umbilical cord, suggestive of UCU. This timeline indicates a progression of identified fetal abnormalities culminating in fetal demise.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Evaluate the Physical Examination and Ancillary Tests:** The emergency ultrasound revealing no fetal heart rate confirms intrauterine fetal demise. Post-delivery examination and postmortem findings are crucial. The presence of bloody amniotic fluid, a pale fetus, and macroscopic umbilical cord changes consistent with UCU (decreased Wharton’s jelly, degenerated and hemorrhagic vessels) strongly support the UCU diagnosis as a critical factor. The ancillary tests, including serial ultrasounds and fetal MRI, consistently pointed towards jejunal atresia and confirmed the UCU. The large volume of bloody amniotic fluid postmortem further highlights a potential antepartum hemorrhage related to the UCU.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Synthesize the Findings to Determine the Primary and Contributing Diagnoses:**  The constellation of findings points to two major diagnoses: Jejunal Atresia and Umbilical Cord Ulcer (UCU). While jejunal atresia is a significant congenital anomaly, the rapid deterioration leading to fetal demise and the postmortem findings strongly suggest that the UCU played a more immediate and critical role in the fetal demise. UCU is known to compromise fetal circulation and oxygenation, potentially leading to intrauterine fetal demise. The bloody amniotic fluid and pale fetus are consistent with complications from UCU.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Formulate the Final Diagnosis, Prioritizing the Most Pertinent and Clinically Relevant Condition:**  Given the timeline and the nature of the findings, the most direct cause of the intrauterine fetal demise is likely complications arising from the Umbilical Cord Ulcer.  While jejunal atresia is a significant finding and was diagnosed prenatally, the UCU appears to be the more acute and directly related factor to the fetal demise based on the provided information, especially considering the rapid decline and the postmortem findings. Therefore, the primary diagnosis should focus on the UCU and its sequelae, leading to intrauterine fetal demise, with jejunal atresia as a significant co-morbidity.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Congenital Small Bowel Atresia (Jejunal Atresia): Findings of intestinal dilatation on US and MRI, along with typical presentation of stomach and proximal bowel dilatation, confirmed the diagnosis.",
+            "hit": false
+        },
+        {
+            "step": "Umbilical Cord Ulcer (UCU): Hematoma adjacent to the umbilical cord on MRI, post-delivery findings of umbilical hemorrhage and cord vessel degeneration, and postmortem findings corroborate UCU as the primary cause of IUFD.",
+            "hit": true
+        },
+        {
+            "step": "Placental Insufficiency, Infections, Genetic Anomalies: Absence of associated findings on imaging or clinical history makes these less likely causes of IUFD.",
+            "hit": false
+        },
+        {
+            "step": "Polyhydramnios or Amniotic Abnormalities: Normal amniotic fluid index (AFI) on US rules out polyhydramnios or amniotic abnormalities.",
+            "hit": false
+        },
+        {
+            "step": "Differential Diagnosis: The focus was on congenital malformations and umbilical abnormalities, with imaging and clinical evidence identifying UCU as secondary to small bowel atresia.",
+            "hit": false
+        },
+        {
+            "step": "Final Diagnosis: The fetus was diagnosed with congenital jejunal atresia complicated by umbilical cord ulcer (UCU), leading to intrauterine fetal death. The hemorrhagic complications of UCU and fetal exsanguination were the direct causes of death.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.3333333333333333
+}

@@ -1,0 +1,163 @@
+{
+    "raw_case": "\nIschemic vascular accident revealing hypoplasia of the internal carotid artery in a narrowed bony canal: A case report\nHypoplasia of the internal carotid artery is a rare congenital abnormality that can present with an ischemic stroke or transient ischemic attacks. We present the case of a 17-year-old male who presented with right hemiparesis and dysarthria. The imaging revealed hypoplasia of the left internal carotid artery and narrowing of the left carotid duct. The patient was managed conservatively. This case highlights the importance of considering ICA hypoplasia as a cause of ischemic stroke in patients with a narrowed osseous canal. Early diagnosis and management can help prevent recurrent strokes.\n\nIntroduction\n\nHypoplasia of the internal carotid artery (ICA) is a rare congenital condition characterized by a blood vessel with an abnormally tiny diameter. This anatomical variation can significantly reduce cerebral blood flow, increasing the risk of ischemic stroke [1].Despite its potential for severe neurological consequences, ICA hypoplasia often remains asymptomatic due to the development of collateral circulation. Consequently, the condition is typically discovered incidentally on imaging studies rather than through clinical presentation. While some patients may experience intermittent symptoms such as headaches, torticollis, visual disturbances, or cranial nerve palsies, others may present with catastrophic events like cerebral hemorrhage, ischemic stroke, or seizures [1].Given the potential for devastating neurological outcomes, early diagnosis and appropriate management are crucial. This case highlights the importance of considering ICA hypoplasia as a cause of ischemic stroke in patients with a narrowed osseous canal [2].\n\nCase presentation\n\nA 17-year-old male patient with no significant medical or surgical history presented to the emergency department with a 1-week history of right-sided weakness (hemiparesis) and difficulty speaking (dysarthria). The patient reported no associated symptoms.A physical examination revealed right hemiparesis and increased tone in the right upper and lower limbs. Deep tendon reflexes were higher on the right side. The sensory assessment was unremarkable. The cranial nerve testing revealed dysarthria without other deficits. The cardiopulmonary examination was unremarkable.Initial laboratory investigations, including complete blood count, basic metabolic panel, and coagulation studies, were within normal limits.The patient underwent a radiological workup. Cerebral CT scan returning in favor of an ischemic stroke involving the superficial and deep left sylvian territory (Fig. 1).The bone window at the base of the skull revealed a reduction in the caliber of the left carotid duct, measuring 3 mm in diameter versus 7 mm on the right (Fig. 2).Contrast injection showed defective opacification of the M1 and M2 portions of the left sylvian artery, as well as the formation of opposite collaterals, rarefaction of the cortical branches of the M3 and M4 portions, and hypoplasia of the left internal carotid artery on a narrowed bony canal (Fig. 3).Given the difficulty of accessing the carotid canal of bone, as well as the operative risks involved, the neurosurgical team suggested therapeutic abstention.\n\nDiscussion\n\nHypoplasia of the internal carotid artery is a rare congenital anomaly characterized by diffuse narrowing of the arterial lumen, affecting the internal carotid artery from 1 to 2 centimeters above the bifurcation. The anomaly may be bilateral or unilateral.The real prevalence is likely underestimated due to the presence of asymptomatic patients owing to the sufficient cerebral circulation provided by the polygon of Willis and its anastomoses. It affects adults aged 17 to 64, with an average of 35 years [3].The circumstances of discovery are highly variable: ischemic stroke, cerebromeningeal hemorrhage, headache, seizure, but very often, it is discovered accidentally.Internal carotid arterial hypoplasia on the retreci osseous canal is investigated by cerebral MRI coupled with angio-arterial sequences and a skull-base CT scan.When carotid hypoplasia is suspected on MRI, time-of-flight and fast 3D gradient echo magnetic resonance angiography sequences with Gadolinium contrast enhancement are used to assess the various bypass tracts and their pathways [4].The discovery of a tiny carotid canal corresponding to a hypoplastic artery on CT is widely recognized and reported in almost all cases. Angioscan with 3D reconstruction confirms the small caliber of hypoplastic internal carotid arteries, collateral circulation, and, above all, the presence of associated intracranial aneurysms.It is important to identify brain collateral circulation to predict neurological outcome and plan appropriate long-term follow-up.Vascular supply is variable, and 3 types have been described in the literature.The first type, the hypertrophied vertebrobasilar circulation, takes over hemispheric vascularization via the large posterior communicating arteries.The second type, \"admirable carotid networks,\" is also frequent. These networks are usually bilateral. Their afferents are either the internal carotid itself, branches of the external carotid, notably the internal maxillary artery, or both, sometimes joined by the ophthalmic artery.The third type are the gray nuclei's pseudoangiomatous anastomoses. They receive afferents from the posterior cerebral and posterior choroidal arteries, and they contribute to vascularizing the Willis polygon's anterior branches [5].The main causes of mortality are associated intracranial vascular events. The most common event is aneurysm formation in the posterior circulation, which causes increased hemodynamic stress across the collateral circulation.Another vascular complication is acute ischemic stroke, particularly in patients with an incomplete circle of Willis and inadequate collateral circulation. Cerebral artery thrombosis has also been reported.Management of these patients with acceptable operative risks remains a challenge, requiring aneurysm clipping or endovascular embolization, antiplatelet agents, and long-term follow-up.For the treatment of carotid hypoplasia, antiplatelet therapy has been chosen for most asymptomatic patients with no vascular complications [6].\n\nConclusion\n\nCongenital hypoplasia of the internal carotid artery is a rare anomaly. Its recognition is critical for avoiding incorrect management. Echo-Doppler combined with angio-MRI and/or angioscanner suggests congenital hypoplasia of the internal carotid artery. A CT scan of the skull base can confirm the diagnosis by revealing a tiny carotid artery.\n\nPatient consent\n\nConsent was obtained from the patient for publication of this case report and accompanying images.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 17-year-old male\n- **Chief Complaint:** Right hemiparesis and dysarthria\n- **History of Present Illness:** One-week history of right-sided weakness (hemiparesis) and difficulty speaking (dysarthria). No associated symptoms.\n- **Past Medical History:** None\n- **Personal History:** None\n- **Family History:** None\n- **Physical Examination:** \n  - Findings: Right hemiparesis, increased muscle tone in the right upper and lower limbs, heightened right-side deep tendon reflexes, dysarthria without other cranial nerve deficits.\n  - Unremarkable sensory, cardiopulmonary exams.\n- **Ancillary Tests:** \n  - Laboratory tests (CBC, basic metabolic panel, coagulation studies): Normal.\n  - Radiological findings: \n    - CT scan: Ischemic stroke in the superficial and deep left sylvian territory.\n    - Bone window CT: Narrowed left carotid duct (3 mm vs. 7 mm on the right).\n    - Contrast imaging: Defective opacification of the M1 and M2 portions of the left sylvian artery; rarefaction of cortical branches (M3 and M4); hypoplasia of the left internal carotid artery in a narrowed bony canal.",
+        "differential_diagnosis": "- **Initial Considerations:**\n  - The patient's presentation of right hemiparesis and dysarthria, along with CT findings indicating ischemic stroke, suggests a vascular etiology.\n  - Differential diagnosis included congenital vascular abnormalities (e.g., internal carotid artery hypoplasia), embolic stroke, vasculitis, or other secondary ischemic events.\n  \n- **Rationale for Exclusion of Other Diagnoses:**\n  - **Embolic stroke:** No clinical or imaging evidence of embolic source or cardiogenic embolism (normal cardiopulmonary exam and unremarkable lab findings).\n  - **Vasculitis:** No systemic symptoms or abnormal laboratory markers indicating an inflammatory or immune-related process.\n  - **Other ischemic etiologies:** Imaging findings (narrowed carotid canal and hypoplasia of the internal carotid artery) pointed toward a congenital abnormality rather than acquired causes.\n\n- **Final Consideration of Internal Carotid Artery (ICA) Hypoplasia:**\n  - Imaging findings confirmed hypoplasia of the left ICA, narrowed osseous canal, and compensatory collateral circulation. This congenital condition is a rare but recognized cause of ischemic stroke, particularly in the absence of alternative explanations.",
+        "final_diagnosis": "Congenital hypoplasia of the left internal carotid artery with associated ischemic vascular accident (stroke).",
+        "diagnosis_results": "Congenital hypoplasia of the left internal carotid artery with ischemic stroke."
+    },
+    "body_category": [
+        "Brain and Nerves"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-7-18",
+    "checked_rare_disease": [
+        "Pediatric arterial ischemic stroke"
+    ],
+    "id": "PMC11488402",
+    "results": {
+        "content": "### Reasoning:\n\nStep 1: Understanding the Patient's Presentation\nThe patient is a 17-year-old male presenting with a one-week history of right-sided weakness (hemiparesis) and difficulty speaking (dysarthria). There are no associated symptoms, and his past medical, personal, and family histories are unremarkable. On physical examination, he has right hemiparesis with increased muscle tone and hyperreflexia in the right upper and lower limbs, dysarthria, but no other cranial nerve deficits. Sensory and cardiopulmonary exams are normal.\n\nStep 2: Interpreting the Neurological Exam\nThe neurological findings suggest a left hemisphere stroke, given the right-sided deficits (since the brain controls the opposite side of the body). The involvement of both upper and lower limbs, along with dysarthria, points to a significant vascular event affecting a substantial area of the left cerebral hemisphere.\n\nStep 3: Reviewing Laboratory Tests\nLaboratory tests including complete blood count (CBC), basic metabolic panel, and coagulation studies are all normal, which rules out systemic causes such as infection, electrolyte imbalances, or coagulopathies as the primary cause of the stroke.\n\nStep 4: Analyzing Radiological Findings\nThe CT scan shows an ischemic stroke in the superficial and deep left sylvian territory. The bone window CT reveals a narrowed left carotid duct (3 mm vs. 7 mm on the right), and contrast imaging shows defective opacification of the M1 and M2 portions of the left sylvian artery, rarefaction of cortical branches (M3 and M4), and hypoplasia of the left internal carotid artery in a narrowed bony canal.\n\nStep 5: Understanding the Vascular Anatomy\nThe sylvian artery refers to the middle cerebral artery (MCA), which divides into the M1, M2, M3, and M4 segments. The M1 segment is the main trunk, M2 are the major branches, M3 are the lobar arteries, and M4 are the cortical penetrating arteries. The internal carotid artery supplies blood to the brain via the anterior and middle cerebral arteries.\n\nStep 6: Considering the Etiology of Stroke in a Young Adult\nIn young adults, strokes are less common than in older populations, and etiologies can differ. Possible causes include vascular anomalies, dissection, cardiac sources, hypercoagulable states, vasculitis, or genetic predispositions. Given the patient's age and lack of risk factors, congenital anomalies or developmental issues may be more likely.\n\nStep 7: Evaluating the Radiological Abnormalities\nThe narrowed left carotid duct and hypoplasia of the left internal carotid artery suggest a developmental anomaly. A narrowed bony canal could compress the artery, leading to hemodynamic compromise and subsequent stroke. The defective opacification of the M1 and M2 segments of the left MCA, along with rarefaction of cortical branches, indicates poor blood flow in these areas, consistent with ischemia.\n\nStep 8: Differential Diagnosis\nPotential differential diagnoses include:\n- Atherosclerotic disease (unlikely in a 17-year-old without risk factors)\n- Dissecting aneurysm\n- Vasculitis\n- Moyamoya disease\n- Arterial dysplasia or hypoplasia\n- Embolic stroke from a cardiac source\n\nGiven the patient's age and the radiological findings, arterial dysplasia or hypoplasia, possibly combined with bony canal stenosis, seems most plausible.\n\nStep 9: Considering Moyamoya Disease\nMoyamoya disease is a progressive occlusive angiopathy affecting the intracranial arteries, particularly the internal carotid artery terminus and the origins of the anterior and middle cerebral arteries. It can present with strokes or transient ischemic attacks, especially in children and young adults. The rarefaction of cortical branches seen on imaging could be suggestive of Moyamoya, where there is abnormal vascular network formation (moyamoya vessels) due to stenosis or occlusion of major arteries.\n\nStep 10: Confirming the Diagnosis\nTo confirm Moyamoya disease, further imaging such as magnetic resonance angiography (MRA) or conventional angiography would be beneficial. These modalities can provide more detailed views of the vascular architecture and confirm the presence of stenosis or occlusion of the internal carotid artery and the development of moyamoya vessels.\n\nStep 11: Treatment and Management\nTreatment for Moyamoya disease typically involves surgical revascularization procedures such as encephalo-duro-arterio-synangiosis (EDAS) or pial synangiosis to improve cerebral blood flow and reduce the risk of future strokes. Acute management of the stroke would involve supportive care, including physical and speech therapy, and possibly antithrombotic therapy depending on the specific circumstances and consultation with a neurologist or neurosurgeon.\n\n### Answer:\nMoyamoya disease"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Step 1: Understanding the Patient's Presentation\nThe patient is a 17-year-old male presenting with a one-week history of right-sided weakness (hemiparesis) and difficulty speaking (dysarthria). There are no associated symptoms, and his past medical, personal, and family histories are unremarkable. On physical examination, he has right hemiparesis with increased muscle tone and hyperreflexia in the right upper and lower limbs, dysarthria, but no other cranial nerve deficits. Sensory and cardiopulmonary exams are normal.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Step 2: Interpreting the Neurological Exam\nThe neurological findings suggest a left hemisphere stroke, given the right-sided deficits (since the brain controls the opposite side of the body). The involvement of both upper and lower limbs, along with dysarthria, points to a significant vascular event affecting a substantial area of the left cerebral hemisphere.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 3: Reviewing Laboratory Tests\nLaboratory tests including complete blood count (CBC), basic metabolic panel, and coagulation studies are all normal, which rules out systemic causes such as infection, electrolyte imbalances, or coagulopathies as the primary cause of the stroke.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 4: Analyzing Radiological Findings\nThe CT scan shows an ischemic stroke in the superficial and deep left sylvian territory. The bone window CT reveals a narrowed left carotid duct (3 mm vs. 7 mm on the right), and contrast imaging shows defective opacification of the M1 and M2 portions of the left sylvian artery, rarefaction of cortical branches (M3 and M4), and hypoplasia of the left internal carotid artery in a narrowed bony canal.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 5: Understanding the Vascular Anatomy\nThe sylvian artery refers to the middle cerebral artery (MCA), which divides into the M1, M2, M3, and M4 segments. The M1 segment is the main trunk, M2 are the major branches, M3 are the lobar arteries, and M4 are the cortical penetrating arteries. The internal carotid artery supplies blood to the brain via the anterior and middle cerebral arteries.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 6: Considering the Etiology of Stroke in a Young Adult\nIn young adults, strokes are less common than in older populations, and etiologies can differ. Possible causes include vascular anomalies, dissection, cardiac sources, hypercoagulable states, vasculitis, or genetic predispositions. Given the patient's age and lack of risk factors, congenital anomalies or developmental issues may be more likely.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 7: Evaluating the Radiological Abnormalities\nThe narrowed left carotid duct and hypoplasia of the left internal carotid artery suggest a developmental anomaly. A narrowed bony canal could compress the artery, leading to hemodynamic compromise and subsequent stroke. The defective opacification of the M1 and M2 segments of the left MCA, along with rarefaction of cortical branches, indicates poor blood flow in these areas, consistent with ischemia.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 8: Differential Diagnosis\nPotential differential diagnoses include:\n- Atherosclerotic disease (unlikely in a 17-year-old without risk factors)\n- Dissecting aneurysm\n- Vasculitis\n- Moyamoya disease\n- Arterial dysplasia or hypoplasia\n- Embolic stroke from a cardiac source",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Given the patient's age and the radiological findings, arterial dysplasia or hypoplasia, possibly combined with bony canal stenosis, seems most plausible.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 9: Considering Moyamoya Disease\nMoyamoya disease is a progressive occlusive angiopathy affecting the intracranial arteries, particularly the internal carotid artery terminus and the origins of the anterior and middle cerebral arteries. It can present with strokes or transient ischemic attacks, especially in children and young adults. The rarefaction of cortical branches seen on imaging could be suggestive of Moyamoya, where there is abnormal vascular network formation (moyamoya vessels) due to stenosis or occlusion of major arteries.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "The patient presents with right hemiparesis and dysarthria, and CT shows ischemic stroke, suggesting a vascular etiology.",
+            "hit": true
+        },
+        {
+            "step": "Differential diagnoses include congenital vascular abnormalities, embolic stroke, vasculitis, or other secondary ischemic events.",
+            "hit": true
+        },
+        {
+            "step": "No evidence supports embolic stroke; normal cardiopulmonary exam and unremarkable lab findings exclude cardiogenic embolism.",
+            "hit": false
+        },
+        {
+            "step": "No systemic symptoms or abnormal lab markers rule out vasculitis.",
+            "hit": false
+        },
+        {
+            "step": "Imaging findings indicate hypoplasia of the left ICA, narrowed carotid canal, and compensatory collateral circulation, pointing to a congenital abnormality.",
+            "hit": false
+        },
+        {
+            "step": "This congenital condition is a rare but recognized cause of ischemic stroke without alternative explanations.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Congenital hypoplasia of the left internal carotid artery with associated ischemic vascular accident (stroke).",
+            "hit": false
+        }
+    ],
+    "efficiency": 0.9,
+    "factulity": 0.6666666666666666,
+    "recall": 0.2857142857142857
+}

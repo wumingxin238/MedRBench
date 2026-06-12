@@ -1,0 +1,89 @@
+{
+    "raw_case": "\n45,X[2]/46,X,der(Y).ish Psu idic(Y)(q11.2)[38] mosaic karyotype in mixed gonadal dysgenesis: a case report and literature review\nMixed gonadal dysgenesis is caused by a variety of chromosome abnormalities, most commonly Y chromosome mosaicism. An 8-year-old boy presented with short stature for possible treatment with recombinant growth hormone. He had a history of mixed gonadal dysgenesis (hypospadias, bilateral cryptorchidism, processus vaginalis, and dysplastic immature uterus) and a series of corrective surgeries. At 14 months of age, chromosomal karyotyping revealed 46,X,+mar. Upon presentation, lab testing was consistent with the male phenotype at prepuberty. Fluorescence in situ hybridization revealed 45,X[2]/46,X,der(Y).ish psu idic(Y)(q11.2)(SRY++,DYZ3++)[38] karyotype. A literature review identified eight case reports of mixed gonadal dysgenesis associated with 45,X/46,X,idic(Y)(q11.2). Neither sex phenotype nor short stature correlated with the 46,X,idic(Y)(q11.2) mosaic ratio.1\n\nIntroduction\n\nIsodicentric Y chromosomes [idic(Y)] are the most common structural abnormalities of the Y chromosome. The instability of idic(Y) during cell division results in the mosaic 45,X/46,X,idic(Y) karyotype (1). Depending on the different distribution of the 45,X cell line, phenotype varies and may include male infertility, Turner syndrome in females, ambiguous genitalia, gonadal dysgenesis, and short stature (2, 3). Here, we report a case of mixed gonadal dysgenesis in an 8-year-old boy with ambiguous genitalia, ectopic urethral opening, and short stature. Initial chromosomal analysis revealed 46,X,+mar karyotype. Subsequent investigation using fluorescence in situ hybridization demonstrated 45,X[2]/46,X,der(Y).ish psu idic(Y)(q11.2)(SRY++,DYZ3++)[38] karyotype.2\n\nCase report\n\nAn 8-year-old boy presented with short stature (111.4 cm, −3.54 standard deviation; 19.5 kg, −2.11 standard deviation) for possible treatment with recombinant growth hormone. Upon inquiry, the parents disclosed in vitro fertilization birth and a diagnosis of mixed gonadal dysgenesis with a karyotype (46,X,+mar) at 14 months of age and a series of corrective surgeries. Both parents had normal karyotypes. Past medical records documented were as follows: (1) hypospadias and bilateral cryptorchidism; (2) dysplastic immature uterus; (3) surgery to correct hypospadias; (4) high ligation of processus vaginalis; and (5) removal of dysplastic testis on the right side (containing ovarian tissue upon pathological examination; Figure 1) and orchiopexy on the left side.Physical examination is consistent with surgical history and was unremarkable otherwise except for the short stature. Upon ultrasound examination, the remaining testis appeared normal (17 × 11 × 7 mm, +0.17 standard deviation). The results of the laboratory tests were consistent with the male phenotype at prepuberty and excluded idiopathic growth hormone deficiency (Table 1).Based on these findings, three probes (SRY, DXZ1, and DYZ3) were designed for FISH, which in turn revealed a 45,X[2]/46,X,der(Y).ish psu dic(Y)(q11.2)(SRY++,DYZ3++)[38] karyotype (Figure 2). A schematic diagram of the isodicentric Y chromosome is shown in Figure 3. Considering the normal level of growth hormone and the risk of malignant transformation associated with dysplastic immature uterus, we decided not to initiate treatment with recombinant growth hormone as the parents initially requested. The patient was subsequently lost to follow-up.3\n\nDiscussion and conclusions\n\nThe Y chromosome contains key genes that are critical for male sexual development, including the sex-determining gene SRY and azoospermia factor (4). A deficient SRY gene has been associated with dicentric Y chromosomes (5). Despite the presence of two SRY and two SHOX genes, the index patient had mixed gonadal dysplasia and short stature, respectively (6). Phenotype variation across the patients is caused by different breakpoints and distribution of different tissues of 45,X cell line, especially the gonads. Furthermore, the timing of the mitotic loss of idic(Y) during gonadal ontogenesis and the proportion of SRY-positive pre-Sertoli cells in the gonad is probably more relevant than the postnatal proportion of the different mosaic clones (7). The haplotype duplication involving SHOX in the Yp11.32q11.221 region in the index patient is consistent with a previous study that described isolated SHOX microreplicates with short stature (8). However, the 45,X mosaic karyotype in the index patient could affect linear bone growth due to partial SHOX gene haplo-insufficiency.We conducted a literature review of mixed gonadal dysgenesis associated with 45,X/46,X,idic(Y)(q11.2). A search in PubMed identified nine reported cases (9–17). All reported cases were characterized by gonadal dysgenesis, but sexual phenotype varied across the cases: female in five cases, male in three cases, and undetermined in one case (Table 2). Most notably, neither sex phenotype nor short stature correlated with the 46,X,idic(Y)(q11.2) mosaic ratio.In summary, the mixed gonadal dysgenesis in the index patient was caused by de novo 45,X[2]/46,X,der(Y).ish psu idic(Y)(q11.2)(SRY++,DYZ3++)[38] karyotype. This case represents a valuable addition to the limited collection of Yq11.2 breaks in the literature.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 8-year-old male.\n- **Chief Complaint:** Short stature (111.4 cm, -3.54 SD; weight 19.5 kg, -2.11 SD).\n- **History of Present Illness:** Mixed gonadal dysgenesis presenting with ambiguous genitalia and short stature.\n- **Past Medical History:** Karyotype at 14 months revealed 46,X,+mar, with surgeries addressing hypospadias, processus vaginalis, bilateral cryptorchidism, and removal of dysplastic testis (contained ovarian tissue). Normal remaining testis (17 × 11 × 7 mm, +0.17 SD on ultrasound).\n- **Personal History:** In vitro fertilization birth; short stature; no growth hormone deficiency.\n- **Family History:** Both parents had normal karyotypes.\n- **Physical Examination:** Consistent with surgical history, short stature; no other abnormalities.\n- **Ancillary Tests:** \n  - Karyotype: 45,X[2]/46,X,der(Y).ish psu idic(Y)(q11.2)(SRY++,DYZ3++)[38].\n  - Laboratory tests revealed male phenotype at prepuberty.\n  - No idiopathic growth hormone deficiency.",
+        "differential_diagnosis": "- **Step 1:** Analyze the presence of short stature and gonadal abnormalities. Mixed gonadal dysgenesis is highly probable due to ambiguous genitalia, gonadal dysgenesis, and mosaic chromosomal abnormalities.\n- **Step 2:** Consider alternative sex chromosome disorders such as Turner syndrome or Klinefelter syndrome. These were excluded as the patient had a unique karyotype (45,X/46,X,idic(Y)) and no clinical or laboratory features of these syndromes (e.g., no Turner-specific features like webbed neck, no signs of Klinefelter-related infertility).\n- **Step 3:** Review specific genetic mechanisms. The presence of isodicentric Y chromosomes and mosaic karyotype supports the diagnosis of mixed gonadal dysgenesis.",
+        "final_diagnosis": "Mixed gonadal dysgenesis caused by mosaic karyotype 45,X[2]/46,X,der(Y).ish psu idic(Y)(q11.2)(SRY++,DYZ3++)[38]. Diagnosis confirmed by clinical features, karyotype, and exclusion of other sex chromosome abnormalities.",
+        "diagnosis_results": "Mixed gonadal dysgenesis with 45,X[2]/46,X,der(Y).ish psu idic(Y)(q11.2)(SRY++,DYZ3++)[38] karyotype."
+    },
+    "body_category": [
+        "Male Reproductive System"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-7-05",
+    "checked_rare_disease": [
+        "45,X/46,XY mixed gonadal dysgenesis",
+        "SHOX-related short stature",
+        "Ring chromosome Y syndrome",
+        "Sex-chromosome anomaly syndrome"
+    ],
+    "id": "PMC11521797",
+    "results": {
+        "thinking_process": "Okay, let's start by reviewing the case. The patient is an 8-year-old male with short stature and a history of ambiguous genitalia. The karyotype shows 45,X[2]/46,X,der(Y). That mosaic pattern with a marker chromosome derived from Y.\n\nFirst, the chief complaint is short stature. His height is -3.54 SD, which is significantly below average. The weight is also low but not as extreme. Since there's no growth hormone deficiency, other causes must be considered. The history of ambiguous genitalia and surgeries like hypospadias repair and cryptorchidism correction point towards a disorder of sexual development (DSD). The karyotype here is critical. The presence of 45,X cells and a derivative Y chromosome suggests mosaicism. The marker Y chromosome has SRY and DYZ3 regions duplicated. SRY is the sex-determining region, so its presence would typically lead to male development, but the mosaic Turner-like cells (45,X) can cause short stature and other features.\n\nMixed gonadal dysgenesis (MGD) is part of the differential since the patient has ambiguous genitalia and a mosaic karyotype. MGD often presents with a 45,X/46,XY karyotype, but here it's a derivative Y. The presence of ovarian tissue in the removed testis also aligns with MGD, where gonads can be dysgenetic. The short stature could be due to the 45,X cell line, similar to Turner syndrome, which is associated with short stature and gonadal dysgenesis. However, Turner syndrome typically affects females, but in mosaic forms with Y material, phenotypic males can present with some features.\n\nThe karyotype result mentions ish psu idic(Y)(q11.2), which indicates an isodicentric Y chromosome. Isodicentric Y chromosomes can lead to two copies of certain genes, including SRY. This might explain the male phenotype despite some 45,X cells. However, such chromosomal abnormalities can also lead to gonadal dysgenesis and short stature. The presence of ovarian tissue in the testis suggests incomplete testicular development, which is common in MGD.\n\nAnother consideration is whether the Y chromosome's structure affects growth. The SHOX gene, associated with short stature in Turner syndrome, is on the X chromosome. The 45,X cells would result in haploinsufficiency of SHOX, contributing to short stature. The mosaic karyotype (some cells missing the Y and having a single X) could lead to features of Turner syndrome in a male, which is rare but possible in cases of mosaicism.\n\nThe lab tests confirm a male phenotype prepuberty, which fits with the presence of SRY on the Y derivative. The normal remaining testis on ultrasound suggests some functional testicular tissue, but the dysplastic one had ovarian tissue, indicating gonadal dysgenesis. The combination of these factors supports a diagnosis of mixed gonadal dysgenesis with a mosaic karyotype leading to Turner-like features, including short stature.\n\nFinal diagnosis would tie together the chromosomal abnormality (mosaic with isodicentric Y and 45,X), the presence of mixed gonadal tissues, ambiguous genitalia, and short stature. The absence of growth hormone deficiency points to a chromosomal etiology rather than endocrine causes.",
+        "content": "```\n### Resoning:\n<step 1> The patient has a karyotype showing mosaicism (45,X[2]/46,X,der(Y)) with a structurally abnormal Y chromosome (idic(Y)(q11.2)). This Y chromosome contains duplicated SRY and DYZ3 regions, explaining the male phenotype despite partial 45,X (Turner-like) cell lines.  \n<step 2> The clinical presentation of ambiguous genitalia, cryptorchidism, and dysplastic gonads (with ovarian tissue) aligns with mixed gonadal dysgenesis (MGD), a disorder of sex development (DSD) classically associated with 45,X/46,XY mosaicism. Here, the mosaicism involves a derivative Y chromosome instead of a normal Y.  \n<step 3> Short stature (-3.54 SD) is likely driven by haploinsufficiency of the SHOX gene due to the 45,X cell line, mimicking Turner syndrome features. The absence of growth hormone deficiency further supports a chromosomal etiology.  \n<step 4> The presence of ovarian tissue in the dysplastic testis and a structurally abnormal Y chromosome confirms gonadal dysgenesis, while the retained testicular tissue (normal ultrasound) reflects incomplete gonadal differentiation.  \n\n### Answer:\nMixed gonadal dysgenesis (45,X/46,X,idic(Y)(q11.2)) with Turner-like short stature."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient has a karyotype showing mosaicism (45,X[2]/46,X,der(Y)) with a structurally abnormal Y chromosome (idic(Y)(q11.2)). This Y chromosome contains duplicated SRY and DYZ3 regions, explaining the male phenotype despite partial 45,X (Turner-like) cell lines.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "The clinical presentation of ambiguous genitalia, cryptorchidism, and dysplastic gonads (with ovarian tissue) aligns with mixed gonadal dysgenesis (MGD), a disorder of sex development (DSD) classically associated with 45,X/46,XY mosaicism. Here, the mosaicism involves a derivative Y chromosome instead of a normal Y.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Short stature (-3.54 SD) is likely driven by haploinsufficiency of the SHOX gene due to the 45,X cell line, mimicking Turner syndrome features. The absence of growth hormone deficiency further supports a chromosomal etiology.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The presence of ovarian tissue in the dysplastic testis and a structurally abnormal Y chromosome confirms gonadal dysgenesis, while the retained testicular tissue (normal ultrasound) reflects incomplete gonadal differentiation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Analyze the presence of short stature and gonadal abnormalities; mixed gonadal dysgenesis is highly probable due to ambiguous genitalia, gonadal dysgenesis, and mosaic chromosomal abnormalities.",
+            "hit": true
+        },
+        {
+            "step": "Consider alternative sex chromosome disorders such as Turner syndrome or Klinefelter syndrome; these were excluded as the patient had a unique karyotype (45,X/46,X,idic(Y)) and no clinical or laboratory features of these syndromes.",
+            "hit": true
+        },
+        {
+            "step": "Review specific genetic mechanisms; the presence of isodicentric Y chromosomes and mosaic karyotype supports the diagnosis of mixed gonadal dysgenesis.",
+            "hit": true
+        },
+        {
+            "step": "Final diagnosis: Mixed gonadal dysgenesis caused by mosaic karyotype 45,X[2]/46,X,der(Y).ish psu idic(Y)(q11.2)(SRY++,DYZ3++)[38].",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.75,
+    "factulity": 0.6666666666666666,
+    "recall": 1.0
+}

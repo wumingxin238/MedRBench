@@ -1,0 +1,122 @@
+{
+    "raw_case": "\nUncommon Muscle Complications in Diabetes: A Case Report on Diabetic Muscle Infarction\nDiabetic muscle infarction (DMI) is a rare but severe complication of diabetes mellitus (DM), characterised by acute muscle pain and swelling, primarily in the lower extremities. Prompt recognition and management are critical for preventing further complications. We report the case of a 54-year-old male with a long-standing history of type 2 DM and hypertension. The patient presented with acute, severe pain in the left calf, which had progressively worsened over several days. Physical examination revealed oedema and tenderness in the left calf. Laboratory investigations indicated muscle injury and inflammation, and MRI confirmed the diagnosis of DMI by showing areas of muscle inflammation. The patient was treated with hemodialysis, dual antiplatelet, and supportive care, including analgesics for pain management and stringent blood glucose control. He was advised to avoid excessive physical activity and was educated on the importance of medication adherence and lifestyle modifications. Regular follow-up was scheduled to monitor his progress and adjust the treatment plan as necessary. This case underscores the importance of considering DMI in patients with diabetes presenting with acute muscle pain. Early diagnosis and appropriate management are essential for preventing complications and improving patient outcomes. Clinicians should maintain a high index of suspicion for DMI to ensure timely and effective intervention.\n\nIntroduction\n\nDiabetes mellitus (DM) is a chronic metabolic disorder characterised by hyperglycemia resulting from defects in insulin secretion, insulin action, or both. It affects approximately 463 million people globally and is associated with numerous microvascular and macrovascular complications [1]. Diabetic muscle infarction (DMI) is a rare yet significant complication of DM, characterised by localised ischemic necrosis of skeletal muscle tissue, primarily affecting the lower extremities [2]. The exact pathophysiology of DMI remains incompletely understood. Still, it is thought to involve a combination of microvascular disease, thrombotic events within small vessels supplying skeletal muscle, and possibly underlying chronic inflammation and endothelial dysfunction [3]. DMI predominantly affects individuals with longstanding DM, often complicated by other microvascular complications such as diabetic retinopathy and nephropathy [4].Clinically, DMI typically presents as acute, severe muscle pain and swelling, mimicking other conditions such as deep vein thrombosis or cellulitis. This challenging differential diagnosis underscores the importance of considering DMI in patients with DM who present with acute-onset, unexplained muscle pain, especially in the absence of overt trauma or infection [5]. Imaging studies, particularly magnetic resonance imaging (MRI), play a crucial role in diagnosing DMI by revealing characteristic findings such as muscle oedema and areas of necrosis [5]. Early diagnosis of DMI is essential as delayed recognition can lead to complications such as muscle contractures, chronic pain syndromes, and even limb amputation in severe cases [6]. Management of DMI primarily involves supportive care, including pain management with analgesics, optimising glycemic control to minimise further ischemic damage, and promoting physical rest to prevent exacerbation of muscle injury [7]. Long-term management focuses on comprehensive diabetes care to reduce the risk of recurrence and progression of microvascular complications, highlighting the importance of patient education, lifestyle modifications, and regular medical follow-up [8].\n\nCase presentation\n\nA 54-year-old male presented with acute, severe pain in his left calf, which he described as progressively worsening over the past few days. The patient reported that the pain was more intense in the left calf compared to the right. His medical history was significant for type 2 DM and hypertension for many years. He had a history of diabetic retinopathy, for which he underwent laser photocoagulation in the past, and chronic kidney disease on maintenance hemodialysis, suspected to be secondary to diabetic nephropathy since 2020.Upon physical examination, the patient was found to have a pulse rate of 80 beats per minute and a blood pressure of 130/80 mmHg. Notable findings included oedema in both feet, tenderness in the left calf, absence of pallor, facial puffiness, and icterus. The cardiovascular examination revealed normal heart sounds, while the respiratory examination showed clear lung fields. The abdominal examination was unremarkable; no renal angle tenderness or organomegaly was noted. The patient's laboratory investigations revealed (Table 1).The CRP level was elevated, suggesting an inflammatory response. Given the clinical presentation and laboratory findings, a diagnosis of DMI was suspected. An MRI of the bilateral calves was performed, which confirmed the diagnosis by showing areas of muscle inflammation (Figures 1-2).The patient was advised to avoid excessive physical activity and was started on dual antiplatelets, hemodialysis, diuretics, antihypertensives, and supportive treatment, including analgesics for pain management and close monitoring of blood glucose levels to ensure optimal diabetes control. The patient was also educated about the importance of adhering to his medications and maintaining a low-sodium diet. Follow-up visits were scheduled to monitor the patient's progress and adjust the treatment plan as necessary. This case highlights the importance of considering DMI in diabetic patients who present with acute muscle pain, especially in the lower extremities. Early diagnosis and appropriate management are crucial in preventing complications and improving patient outcomes.\n\nDiscussion\n\nDMI is a rare but potentially debilitating complication of DM, characterised by ischemic necrosis of skeletal muscle tissue, predominantly affecting the lower extremities. The exact pathophysiology of DMI remains incompletely understood. However, it is believed to involve a combination of microvascular disease, thrombotic events, and impaired fibrinolysis within the small vessels supplying skeletal muscle [9,10]. The clinical presentation of DMI can often mimic other more common conditions, such as deep vein thrombosis, cellulitis, or diabetic neuropathy, leading to diagnostic challenges and delays [11]. In this case, the patient presented with acute, severe pain in the left calf, which progressively worsened over several days. This localised pain, often unilateral and exacerbated by movement, is characteristic of DMI and should prompt clinicians to consider this diagnosis in diabetic patients with similar symptoms [12].Laboratory investigations play a crucial role in supporting the diagnosis of DMI. Elevated inflammatory markers, such as C-reactive protein (CRP), are often observed, as evidenced in the patient [13]. Imaging modalities, particularly MRI, are essential for confirming the diagnosis by revealing characteristic findings such as muscle oedema, inflammation, and areas of necrosis [14]. Management of DMI primarily involves supportive care aimed at pain management and optimising glycemic control to mitigate further ischemic damage [15]. Physical rest and avoiding activities that may worsen muscle ischemia are recommended to prevent complications and facilitate recovery [16]. Long-term management strategies for patients with DMI focus on comprehensive diabetes care, including strict glycemic control, management of associated comorbidities such as hypertension and diabetic nephropathy, and lifestyle modifications such as smoking cessation and regular exercise within tolerance levels [17]. Close monitoring and regular follow-up visits are essential to assess response to treatment, detect early recurrence, and adjust management strategies accordingly [18]. A similar case was reported of DMI in which leg pain was exacerbated during hemodialysis that may be secondary to diminished intravascular volume compartment due to ongoing ultrafiltration and diversion of blood from the intravascular compartment into the HD circuit. HD prescription was modified by increasing the duration, slowing the ultrafiltration rate, and reducing the blood flow rate [19].\n\nConclusions\n\nDMI, though rare, is a significant complication that can cause acute, severe muscle pain and swelling, predominantly in the lower extremities. This case report underscores the importance of maintaining a high index of suspicion for DMI in diabetic patients who present with unexplained muscle pain. Prompt diagnosis, primarily through clinical evaluation and imaging studies, and appropriate management are crucial to prevent further complications and improve patient outcomes. This case illustrates the need for awareness among clinicians regarding this uncommon yet serious condition, emphasising the role of comprehensive diabetes management in minimising the risk of such complications. Educating patients on adhering to treatment regimens, lifestyle modifications, and regular follow-up can aid in better management and prevention of DMI.",
+    "generate_case": {
+        "case_summary": "- Patient Information: A 54-year-old male.\n- Chief Complaint: Acute, severe pain in the left calf.\n- History of Present Illness: Pain progressively worsened over several days; more severe in the left calf compared to the right.\n- Past Medical History: Long-standing history of type 2 diabetes mellitus and hypertension; history of diabetic retinopathy treated with laser photocoagulation; chronic kidney disease on maintenance hemodialysis, suspected secondary to diabetic nephropathy since 2020.\n- Personal History: If none, write \"None.\"\n- Family History: None noted.\n- Physical Examination:\n  - Vital signs were stable (pulse: 80 bpm, BP: 130/80 mmHg).\n  - Findings included bilateral foot edema and tenderness in the left calf. No pallor, facial puffiness, or icterus. Cardiovascular and respiratory exams were normal, and the abdominal examination lacked abnormalities.\n- Ancillary Tests:\n  - Elevated C-reactive protein (CRP), indicating inflammation.\n  - MRI confirmed areas of muscle inflammation consistent with diabetic muscle infarction (DMI).",
+        "differential_diagnosis": "- **Step 1**: The patient presented with acute, severe muscle pain and swelling. Initial considerations included:\n  - **Deep vein thrombosis (DVT)**: Excluded because there was no evidence of venous thrombosis or changes typical of DVT on MRI.\n  - **Cellulitis**: Excluded due to the absence of infection signs like redness, warmth, or systemic symptoms of infection such as fever.\n  - **Complicated diabetic peripheral neuropathy**: Excluded because neuropathy typically presents with sensory deficits or numbness rather than acute muscle swelling and tenderness.\n- **Step 2**: Elevated CRP and localized calf tenderness raised suspicion for inflammatory or ischemic processes.\n- **Step 3**: MRI findings were characteristic of DMI, confirming the diagnosis by demonstrating muscle inflammation and ischemic necrosis.",
+        "final_diagnosis": "The final diagnosis is diabetic muscle infarction (DMI), a rare complication of long-standing diabetes mellitus. It was confirmed via clinical presentation (acute pain and swelling in the lower extremities), elevated inflammatory markers (CRP), and MRI findings indicative of muscle inflammation and necrosis.",
+        "diagnosis_results": "Diabetic Muscle Infarction (DMI)"
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Diabetes Mellitus"
+    ],
+    "receive_time": "2024-8-20",
+    "checked_rare_disease": [],
+    "id": "PMC11459590",
+    "results": {
+        "content": "### Resoning:\n<step 1> Analyze the Chief Complaint and History of Present Illness: The patient presents with acute, severe left calf pain that worsened over several days. This localized pain suggests a musculoskeletal or vascular issue in the left calf.\n\n<step 2> Review Past Medical History: The patient has a significant history of type 2 diabetes mellitus, hypertension, diabetic retinopathy, and chronic kidney disease (CKD) secondary to diabetic nephropathy, requiring hemodialysis. These conditions, especially long-standing diabetes and CKD, increase the risk of various complications, including vascular and musculoskeletal problems.\n\n<step 3> Evaluate Physical Examination Findings: Stable vital signs are generally reassuring. Bilateral foot edema is likely related to CKD and hemodialysis. The crucial finding is tenderness in the left calf, which aligns with the chief complaint. The absence of pallor, facial puffiness, or icterus helps rule out some other conditions. Normal cardiovascular, respiratory, and abdominal exams make systemic causes less likely as the primary diagnosis.\n\n<step 4> Interpret Ancillary Tests: Elevated CRP indicates inflammation, which is consistent with the patient's pain and tenderness. The MRI result confirming \"areas of muscle inflammation consistent with diabetic muscle infarction (DMI)\" is the most crucial piece of evidence, strongly suggesting DMI.\n\n<step 5> Synthesize Information and Formulate Diagnosis: Combining the patient's diabetic history, localized calf pain, tenderness, elevated CRP, and, most importantly, the MRI confirmation of muscle inflammation consistent with DMI, the diagnosis of Diabetic Muscle Infarction is highly probable and the most likely diagnosis. Other potential differentials are less likely given the specific MRI findings.\n\n<step 6> Final Diagnostic Conclusion: Based on the comprehensive evaluation of the patient's clinical presentation, past medical history, and ancillary test results, especially the MRI findings, the final diagnosis is Diabetic Muscle Infarction.\n\n### Answer:\nDiabetic Muscle Infarction (DMI)"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Analyze the Chief Complaint and History of Present Illness: The patient presents with acute, severe left calf pain that worsened over several days. This localized pain suggests a musculoskeletal or vascular issue in the left calf.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Review Past Medical History: The patient has a significant history of type 2 diabetes mellitus, hypertension, diabetic retinopathy, and chronic kidney disease (CKD) secondary to diabetic nephropathy, requiring hemodialysis. These conditions, especially long-standing diabetes and CKD, increase the risk of various complications, including vascular and musculoskeletal problems.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Evaluate Physical Examination Findings: Stable vital signs are generally reassuring. Bilateral foot edema is likely related to CKD and hemodialysis. The crucial finding is tenderness in the left calf, which aligns with the chief complaint. The absence of pallor, facial puffiness, or icterus helps rule out some other conditions. Normal cardiovascular, respiratory, and abdominal exams make systemic causes less likely as the primary diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Interpret Ancillary Tests: Elevated CRP indicates inflammation, which is consistent with the patient's pain and tenderness. The MRI result confirming \"areas of muscle inflammation consistent with diabetic muscle infarction (DMI)\" is the most crucial piece of evidence, strongly suggesting DMI.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Synthesize Information and Formulate Diagnosis: Combining the patient's diabetic history, localized calf pain, tenderness, elevated CRP, and, most importantly, the MRI confirmation of muscle inflammation consistent with DMI, the diagnosis of Diabetic Muscle Infarction is highly probable and the most likely diagnosis. Other potential differentials are less likely given the specific MRI findings.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Final Diagnostic Conclusion: Based on the comprehensive evaluation of the patient's clinical presentation, past medical history, and ancillary test results, especially the MRI findings, the final diagnosis is Diabetic Muscle Infarction.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "The patient presented with acute, severe muscle pain and swelling. Initial considerations included:",
+            "hit": false
+        },
+        {
+            "step": "- Deep vein thrombosis (DVT): Excluded because there was no evidence of venous thrombosis or changes typical of DVT on MRI.",
+            "hit": false
+        },
+        {
+            "step": "- Cellulitis: Excluded due to the absence of infection signs like redness, warmth, or systemic symptoms of infection such as fever.",
+            "hit": false
+        },
+        {
+            "step": "- Complicated diabetic peripheral neuropathy: Excluded because neuropathy typically presents with sensory deficits or numbness rather than acute muscle swelling and tenderness.",
+            "hit": false
+        },
+        {
+            "step": "Elevated CRP and localized calf tenderness raised suspicion for inflammatory or ischemic processes.",
+            "hit": false
+        },
+        {
+            "step": "MRI findings were characteristic of DMI, confirming the diagnosis by demonstrating muscle inflammation and ischemic necrosis.",
+            "hit": false
+        },
+        {
+            "step": "The final diagnosis is diabetic muscle infarction (DMI), a rare complication of long-standing diabetes mellitus. It was confirmed via clinical presentation (acute pain and swelling in the lower extremities), elevated inflammatory markers (CRP), and MRI findings indicative of muscle inflammation and necrosis.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.14285714285714285
+}

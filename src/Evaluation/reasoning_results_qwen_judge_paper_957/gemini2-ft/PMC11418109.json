@@ -1,0 +1,118 @@
+{
+    "raw_case": "\nEpigastric anterior abdominal wall hernia: An unusual cause of gastric outlet obstruction\nA 79-year-old female presented with a 3-week history of dysphagia and vomiting, and an upper abdominal mass which had increased in size over the previous 2 weeks. CT scan showed a partial gastric outlet obstruction secondary to an epigastric hernia. This was assessed further on fluoroscopy, showing the distal stomach in the hernial sac and a delay in gastric emptying. We present the CT and fluoroscopic findings of this rare cause of gastric outlet obstruction.\n\nIntroduction\n\nGastric outlet obstruction can occur secondary to any disease process that causes an impairment to gastric emptying. It can be caused by both mechanical and motility disorders, and typically presents with abdominal pain, postprandial vomiting, and weight loss. Mechanical causes in adults include peptic ulcer disease, nonsteroidal anti-inflammatory drug use, and malignancy, whilst the most common motility-related cause is gastroparesis [1].There are previous case reports of gastric outlet obstruction secondary to a variety of hernias, including hiatus hernias, diaphragmatic hernias and inguinal hernias [[2], [3], [4]]. This case report describes a rare case of gastric outlet obstruction secondary to an epigastric anterior abdominal wall hernia, which was revealed on CT imaging; fluoroscopy confirmed the diagnosis and demonstrated the patient's functional deficit.\n\nCase report\n\nA 79-year-old female presented to hospital with a 3-week history of dysphagia and vomiting. The dysphagia was associated with solid food, with episodes of vomiting occurring approximately an hour after eating. The patient described the dysphagia as feeling like food was getting stuck in her throat. Of note, she had experienced a weight loss of 2 stones over the past year.On examination, the patient had an upper abdominal mass which had been present for a few years but had suddenly increased in size over the previous 2 weeks. The mass was nonpulsatile, and bowel sounds were heard on auscultation. The patient had not had any previous abdominal surgeries. She had underlying comorbidity of severe chronic obstructive pulmonary disease requiring home oxygen.The main differential diagnoses for this presentation were a gastric outlet syndrome, gastric volvulus, or an oesophageal stricture. Given the significant smoking history and history of weight loss it was important to exclude malignancy. Further imaging with a CT scan was deemed appropriate to further investigate these symptoms.The initial radiological investigation was a contrast-enhanced CT scan of the chest, abdomen, and pelvis. This showed an epigastric hernia containing the gastric antrum. The neck of the hernia measured 3 cm. Proximal to the hernia, the gastric body and fundus were moderately distended. The CT appearances were suggestive of a partial gastric outlet obstruction (Fig. 1).The patient had an upper gastrointestinal tract endoscopy to insert a naso-jejunal tube. This procedure was unsuccessful due to an external compression of the gastric mucosa below the incisura angularis. Consequently, the endoscopist was unable to locate the pyloric sphincter and was therefore unable to insert the feeding tube. A contrast swallow assessment was suggested to delineate the anatomy and degree of gastric outlet obstruction (Fig. 2).In view of her co-morbidities, the patient was not deemed a suitable candidate for surgery. Instead, the hernia was reduced conservatively with an abdominal corset brace.Because the fluoroscopy had shown that contrast did pass through the stomach, albeit slowly, it was felt that a trial of oral feeding would be appropriate.As an inpatient, there was regular input from dieticians to ensure the patient's nutritional requirements were being met. Nutritional bloods were monitored daily as the patient was deemed to be at high risk of refeeding syndrome. Following discharge, the patient was followed up by the community dietician to help build up from a liquid-only diet, to introducing soft solid foods. It is likely that the patient will continue to have a degree of dysphagia, though the conservative management aims to limit this.\n\nDiscussion\n\nEpigastric anterior abdominal wall hernias are a rare form of hernia, accounting for around 1.6%-3.6% of all abdominal hernias, and 0.5%-5% of all operated hernias [5]. They occur when tissue prolapses through a defect in the linea alba between the xiphoid process and the umbilicus [6]. They more commonly occur near the umbilicus, with epigastric hernias near the xiphoid process rare [7]. Epigastric hernias are most common in obese patients and middle-aged men [6]. Other risk factors include coughing, chronic constipation, and structural deformities [6]. The hernias usually contain preperitoneal fat, with the prolapse of intra-abdominal viscera into the hernial sac a rare occurrence [8].Whilst many patients remain asymptomatic, symptomatic presentations of an epigastric hernia include abdominal pain, increased food intake, and dyspepsia [8,9]. These symptoms are nonspecific, making diagnosis challenging. This is exacerbated if physical examination is not possible, or if the patient does not have an obvious abdominal wall defect. A prompt diagnosis is imperative as complications of epigastric hernias include gastric ischemia, which requires immediate surgery. Though rare, mortality as a direct result of gastric ischemia is approximately 24% within 6 months [10]. Other emergency complications of an epigastric hernia include incarceration and gangrenous contents, both requiring immediate surgery [6].The diagnosis of epigastric hernia is often made on clinical history; however, imaging can be a useful adjunct in less certain cases. An urgent CT is usually the imaging modality of choice, though this case report shows the value of a fluoroscopic study in assessing the functional deficit secondary to a gastric outlet obstruction. CT scans are useful to confirm the diagnosis and the contents of the hernia, assess for complications, and assist in any surgical planning.The management of epigastric hernias are directed by patient symptoms, and can be either surgical, or as in the example of this case report, conservative. Surgical management in an uncomplicated epigastric hernia involves reduction of the hernial contents with repair of the rectus sheath, augmented with mesh placement [11]. A complicated epigastric hernia often requires emergency surgery, and may also involve bowel resection and anastomosis [8].There have been only a few previous case reports describing cases of epigastric hernias with stomach as content [9,12]. The unique aspect of this case report is that it images an epigastric hernia with gastro-oesophageal obstruction containing stomach with both CT and fluoroscopy.\n\nConclusion\n\nWhilst an epigastric hernia containing stomach content is rare, the diagnosis can be considered in patients presenting with dysphagia, vomiting, and a new epigastric abdominal wall mass. Prompt diagnosis is critical, and imaging with an urgent CT can help to determine the evolution of the disease process and the potential risk of complications. Dynamic studies such as fluoroscopy are a useful adjunct to a CT scan to determine the functional deficit to the patient because of a gastric outlet obstruction and help to guide their management, particularly in patients in whom nonsurgical intervention is being considered.\n\nPatient consent\n\nWritten informed consent was obtained from the patient for publication of this case review, including accompanying images.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 79-year-old female.\n- **Chief Complaint:** Dysphagia and vomiting for three weeks.\n- **History of Present Illness:** Dysphagia specifically related to solid foods, with vomiting occurring about an hour after eating. Significant weight loss of two stones over the past year. Presence of an upper abdominal mass for years that had significantly increased in size in the previous two weeks.\n- **Past Medical History:** Severe chronic obstructive pulmonary disease (COPD) requiring home oxygen.\n- **Personal History:** A history of significant smoking.\n- **Family History:** None noted in the report.\n- **Physical Examination:** Nonpulsatile upper abdominal mass, bowel sounds auscultated over the mass.\n- **Ancillary Tests:**  \n  - **CT Scan:** Identified an epigastric hernia containing the gastric antrum with partial gastric outlet obstruction. The gastric body and fundus were moderately distended.\n  - **Upper gastrointestinal endoscopy:** Unsuccessful in inserting a naso-jejunal tube due to external compression below the incisura angularis.\n  - **Fluoroscopy:** Gastric outlet obstruction confirmed as the stomach contents displayed delayed emptying, with the distal stomach located in the hernial sac.",
+        "differential_diagnosis": "1. **Initial Differential Diagnoses:**\n   - Gastric outlet obstruction.\n   - Gastric volvulus.\n   - Esophageal stricture.\n   - Malignancy (due to smoking history and weight loss).\n2. **Step-by-Step Evaluation:**\n   - **Malignancy:** Excluded as there were no specific findings on imaging or endoscopy suggestive of tumoral growth.\n   - **Esophageal stricture/Gastric volvulus:** No evidence of strictures or volvulus on imaging studies.\n   - **Primary gastric outlet obstruction:** CT revealed this was secondary to mechanical obstruction caused by the epigastric hernia.\n3. **Confirmation:** The CT findings of an epigastric hernia with partial obstruction, further corroborated by fluoroscopy showing delayed gastric emptying, confirmed that this was a hernia-related gastric outlet obstruction.",
+        "final_diagnosis": "Partial gastric outlet obstruction due to an epigastric anterior abdominal wall hernia containing the gastric antrum. This caused a functional deficit in gastric emptying.",
+        "diagnosis_results": "Partial gastric outlet obstruction secondary to epigastric hernia."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Injuries and Wounds"
+    ],
+    "receive_time": "2024-7-22",
+    "checked_rare_disease": [],
+    "id": "PMC11418109",
+    "results": {
+        "content": "### Resoning:\n<step 1> Analyze the chief complaint and history of present illness: The patient presents with dysphagia to solid foods and vomiting, suggesting a mechanical obstruction in the upper gastrointestinal tract. The vomiting occurring about an hour after eating points towards gastric outlet obstruction. Significant weight loss and a growing abdominal mass are concerning for a potentially serious underlying condition.\n\n<step 2> Review past medical history and personal history: Severe COPD and smoking history are relevant comorbidities. COPD might affect management, and smoking is a risk factor for various cancers, though in this case, the clinical picture is more suggestive of a mechanical issue.\n\n<step 3> Evaluate physical examination findings: A nonpulsatile upper abdominal mass with bowel sounds auscultated over it strongly suggests a hernia containing bowel. The nonpulsatile nature reduces the likelihood of vascular aneurysm.\n\n<step 4> Interpret ancillary tests results:\n    - **CT Scan:**  This is crucial and confirms an epigastric hernia containing the gastric antrum with partial gastric outlet obstruction. This explains the symptoms and physical findings. The distended gastric body and fundus are consistent with obstruction.\n    - **Upper GI Endoscopy:** Unsuccessful naso-jejunal tube insertion due to external compression below the incisura angularis supports external compression causing obstruction in the gastric outlet region.\n    - **Fluoroscopy:** Confirms delayed gastric emptying and distal stomach in the hernial sac, reinforcing the diagnosis of gastric outlet obstruction due to herniation.\n\n<step 5> Synthesize all findings to formulate a diagnosis: All the evidence converges on an epigastric hernia containing the gastric antrum causing gastric outlet obstruction. This explains the dysphagia, vomiting, weight loss, palpable mass, and ancillary test results.\n\n<step 6> Consider and exclude differential diagnoses: While gastric cancer could be considered in a 79-year-old with weight loss and vomiting, the CT scan findings are highly specific for a hernia. Other causes of gastric outlet obstruction are less likely given the palpable mass with bowel sounds and the CT confirmation of herniation.\n\n### Answer:\nEpigastric hernia containing gastric antrum causing gastric outlet obstruction."
+    },
+    "reasoning_eval": [
+        {
+            "step": "Analyze the chief complaint and history of present illness: The patient presents with dysphagia to solid foods and vomiting, suggesting a mechanical obstruction in the upper gastrointestinal tract. The vomiting occurring about an hour after eating points towards gastric outlet obstruction. Significant weight loss and a growing abdominal mass are concerning for a potentially serious underlying condition.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Review past medical history and personal history: Severe COPD and smoking history are relevant comorbidities. COPD might affect management, and smoking is a risk factor for various cancers, though in this case, the clinical picture is more suggestive of a mechanical issue.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Evaluate physical examination findings: A nonpulsatile upper abdominal mass with bowel sounds auscultated over it strongly suggests a hernia containing bowel. The nonpulsatile nature reduces the likelihood of vascular aneurysm.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Interpret ancillary tests results:\n    - **CT Scan:**  This is crucial and confirms an epigastric hernia containing the gastric antrum with partial gastric outlet obstruction. This explains the symptoms and physical findings. The distended gastric body and fundus are consistent with obstruction.\n    - **Upper GI Endoscopy:** Unsuccessful naso-jejunal tube insertion due to external compression below the incisura angularis supports external compression causing obstruction in the gastric outlet region.\n    - **Fluoroscopy:** Confirms delayed gastric emptying and distal stomach in the hernial sac, reinforcing the diagnosis of gastric outlet obstruction due to herniation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Synthesize all findings to formulate a diagnosis: All the evidence converges on an epigastric hernia containing the gastric antrum causing gastric outlet obstruction. This explains the dysphagia, vomiting, weight loss, palpable mass, and ancillary test results.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Consider and exclude differential diagnoses: While gastric cancer could be considered in a 79-year-old with weight loss and vomiting, the CT scan findings are highly specific for a hernia. Other causes of gastric outlet obstruction are less likely given the palpable mass with bowel sounds and the CT confirmation of herniation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Initial differential diagnoses include gastric outlet obstruction, gastric volvulus, esophageal stricture, and malignancy (due to smoking history and weight loss).",
+            "hit": true
+        },
+        {
+            "step": "Step 2: Malignancy was excluded as there were no specific findings on imaging or endoscopy suggestive of tumoral growth.",
+            "hit": false
+        },
+        {
+            "step": "Step 3: Esophageal stricture and gastric volvulus were ruled out as no evidence of strictures or volvulus was found on imaging studies.",
+            "hit": false
+        },
+        {
+            "step": "Step 4: Primary gastric outlet obstruction was identified as the CT revealed a mechanical obstruction caused by an epigastric hernia.",
+            "hit": true
+        },
+        {
+            "step": "Step 5: Confirmation of the diagnosis came from CT findings of an epigastric hernia with partial obstruction, corroborated by fluoroscopy showing delayed gastric emptying.",
+            "hit": true
+        },
+        {
+            "step": "Step 6: The final diagnosis is partial gastric outlet obstruction due to an epigastric anterior abdominal wall hernia containing the gastric antrum, causing a functional deficit in gastric emptying.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.5
+}

@@ -1,0 +1,104 @@
+{
+    "raw_case": "\nA case of refractory onychomycosis caused by Kloeckera apiculata: Successful treatment with itraconazole\nHere, we present the case of an otherwise healthy patient, without risk factors, who developed a refractory case of onychomycosis caused by Kloeckera apiculata, an uncommon human pathogen. The diagnosis was ultimately confirmed by fungal nail plate culture, histopathology, and PCR. Whereas prior treatments with topical 5 % tavaborole solution, oral terbinafine, and oral fluconazole were ineffective, complete clinical and mycological cure was achieved with a 3-month course of oral itraconazole.1\n\nIntroduction\n\nOnychomycosis is a common fungal infection of the nail unit with a worldwide prevalence of up to 10 % [1]. The infection can be caused by dermatophytes, saprophytic molds, and yeasts [2]. The condition typically presents with progressive thickening and discoloration of one or more affected nails involving the hands, feet, or both. In more than a third of with patients affected with pedal onychomycosis, concomitant cutaneous involvement (tinea pedis) is also present [3].Kloeckera apiculata is the anamorph of Hanseniaspora uvarum, an ascomycetes yeast originally described in 1870 [4]. It is commonly found in many fruits, soil, coffee, mollusks, and is naturally involved in the fermentation of certain wines, beer, and cider [5,6]. Despite its relative abundance in nature, Kloeckera apiculata is an exceedingly rare cause of human disease and an even rarer cause of onychomycosis, with only 3 previous cases having been reported [[7], [8], [9]]. Given the rarity of this infection, successful treatment options have not been formerly described.2\n\nCase presentation\n\nOn day 0, a 32 year-old white male presented to dermatology clinic for treatment of persistent thickening and discoloration of several toenails and his right thumbnail for the past 3 years (see Figs. 1 A,B). The patient had no significant past medical history and was otherwise in good health. The patient had previously been diagnosed with a “fungal nail infection” by another dermatologist, although no diagnostic testing had been performed. He had initially been treated with topical 5 % tavaborole solution daily for approximately 6 months with minimal improvement. When the topical treatment proved ineffective, the dermatologist subsequently prescribed a 3-month treatment of oral terbinafine, which resulted in only modest, temporary clinical improvement. Eventually several months later, the dermatologist prescribed a third treatment with oral fluconazole, which was similarly ineffectual.On physical examination, subungual thickening and whitish discoloration was evident on several toenails and the right thumbnail. Cutaneous involvement was not present. In order to establish the diagnosis, samples of nail plate keratin were trimmed from several affected digits and submitted for fungal culture and histopathological analysis. Histologic analysis of the nail plate specimens showed hyperkeratosis, parakeratosis, and multiple PAS-positive, elongated, septate hyphae and blastoconidia (Fig. 2, Fig. 3). Samples of nail plate keratin were also submitted for fungal culture (Labcorp, Burlington, NC). Colonies grown on Sabouraud agar were positive after 1 week of incubation. The colony surface was smooth and the color creamy white. Microscopic examination of the cultured colonies again showed blastoconidia. The culture was initially screened by MALDI-TOF mass spectrometry however the organism in question was not a validated species in the company's proprietary MALDI database at the time.Since the specimen could not be identified with MALDI-TOF MS, it was then sent for definitive PCR sequence analysis using a proprietary set of nuclear ribosomal internal transcribed spacer (ITS) region primers specific for yeasts and molds which confirmed Kloeckera apiculata as the causative agent.Given the patient's motivation to improve his nail condition and lack of response to multiple prior treatments, an oral course of itraconazole 200 mg daily for 3 months was prescribed on day +30. At the conclusion of the treatment, the patient noted marked improvement in all affected nails. At 6 months post-treatment with itraconazole (day +300), a follow-up fungal nail culture was obtained and was negative for fungal growth. The patient has had no recurrence of his nail condition in over 12 months of observation (day +480).3\n\nDiscussion\n\nThe differential diagnosis for nail dystrophy observed in this patient includes inflammatory, infectious, and traumatic etiologies. Common inflammatory causes of nail dystrophy include psoriasis, lichen planus, and atopic dermatitis [10]. Infections of the nail unit are most commonly fungal in origin, although bacterial infections typically from staphylococci do occur [10]. Most cases of onychomycosis are due to dermatophyte infection with Trichophyton rubrum being the predominant pathogen isolated [11]. Non-dermatophyte causes of onychomycosis include molds and yeasts and account for 10–25 % of all cases [11]. In order to differentiate Kloeckera apiculata from other yeasts, molecular techniques such as PCR and MALDI-TOF mass spectroscopy are most frequently employed [12,13].Currently FDA-approved treatments for onychomycosis are stated for those caused by dermatophyte infection only. Approved topical treatments include ciclopirox, efinaconazole, and tavaborole, while approved oral treatments consist of griseofulvin, terbinafine, and itraconazole [14]. Although not specifically indicated, evidence for the efficacy of itraconazole as a treatment for non-dermatophyte causes of onychomycosis including both yeasts and molds has been previously reported [15].Of the 3 previous reported cases of onychomycosis caused by Hanseniaspora uvarum, partial “clinical improvement” was observed in a single patient treated with 40 % urea ointment followed by ciclopirox nail lacquer [9]. Neither complete clinical, nor mycological cure for onychomycosis caused by Hanseniaspora uvarum (Kloeckera apiculata) has been previously reported.In summary, this case documents the fourth occurrence of onychomycosis caused by Kloeckera apiculata and its first-ever successful treatment with oral itraconazole. Given the patient's previous treatment failures and present durable response, oral itraconazole should be considered as first-line treatment for future cases of nail infection caused by Kloeckera apiculata.\n\nCRediT authorship contribution statement\n\nSamantha S. Ehrlich-Fein: Writing – review & editing, Writing – original draft, Formal analysis, Data curation, Conceptualization. Samir B. Patel: Writing – review & editing, Writing – original draft, Supervision, Resources, Methodology, Investigation, Formal analysis, Conceptualization.\n\nDeclaration of competing interest\n\nThere are none.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 32-year-old white male\n- **Chief Complaint:** Persistent thickening and discoloration of several toenails and the right thumbnail for 3 years.\n- **History of Present Illness:** The patient had previously been diagnosed with a fungal nail infection. Topical 5% tavaborole solution (6 months), oral terbinafine (3 months), and oral fluconazole treatments were all ineffective.\n- **Past Medical History:** None.\n- **Personal History:** None provided.\n- **Family History:** None provided.\n- **Physical Examination:** Subungual thickening and whitish discoloration of several toenails and the right thumbnail. No cutaneous involvement noted.\n- **Ancillary Tests:**\n  - Histologic analysis showed hyperkeratosis, parakeratosis, PAS-positive elongated septate hyphae, and blastoconidia.\n  - Fungal culture grew colonies on Sabouraud agar, which appeared creamy white and smooth. Microscopy confirmed blastoconidia.\n  - MALDI-TOF MS failed to identify the organism.\n  - PCR sequence analysis identified the causative agent as *Kloeckera apiculata*.",
+        "differential_diagnosis": "1. **Initial Suspected Diagnoses:**\n   - Common causes of nail dystrophy were considered, including psoriasis, lichen planus, atopic dermatitis (inflammatory), traumatic etiologies, and onychomycosis (infectious fungal origin).\n\n2. **Ruling out non-fungal etiologies:**\n   - Inflammatory and traumatic causes (e.g., psoriasis, lichen planus, trauma-induced nail dystrophy) were excluded due to the presence of fungal elements on histopathology and positive fungal culture results.\n\n3. **Identifying the cause of onychomycosis:**\n   - Common fungal pathogens: Dermatophytes like *Trichophyton rubrum* and non-dermatophytes (yeasts and molds) were considered.\n   - Yeast infection was diagnosed based on morphological findings (blastoconidia growth), and the organism was identified as *Kloeckera apiculata* using PCR.\n\n4. **Consideration of treatment failures:**\n   - Prior resistance to topical treatments (tavaborole) and oral antifungals (terbinafine, fluconazole) led to the consideration of itraconazole therapy, known for efficacy against non-dermatophyte fungi.",
+        "final_diagnosis": "Refractory onychomycosis caused by *Kloeckera apiculata.*",
+        "diagnosis_results": "Refractory onychomycosis caused by *Kloeckera apiculata.*"
+    },
+    "body_category": [
+        "Skin, Hair and Nails"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-7-24",
+    "checked_rare_disease": [],
+    "id": "PMC11418156",
+    "results": {
+        "thinking_process": "Okay, let me try to work through this case. The patient is a 32-year-old male with persistent nail changes for three years. The main issue is the thickening and whitish discoloration of several toenails and the right thumbnail. He's been treated for a fungal infection before, but the usual antifungals didn't work.\n\nFirst, I remember that onychomycosis is a common fungal nail infection, usually caused by dermatophytes like Trichophyton species. But sometimes yeasts or non-dermatophyte molds can be involved. The fact that terbinafine and fluconazole didn't work is interesting. Terbinafine is usually effective against dermatophytes, while fluconazole is more for Candida. So maybe the pathogen here isn't a typical dermatophyte or Candida.\n\nLooking at the tests: histology shows PAS-positive hyphae and blastoconidia. Hyphae might suggest a fungal element, but blastoconidia are yeast cells that bud. Fungal culture grew creamy white colonies. Microscopy confirmed blastoconidia. So the organism is a yeast that produces blastoconidia. MALDI-TOF couldn't identify it, which might mean it's a rare or less common species. PCR sequencing identified Kloeckera apiculata. Wait, I need to recall what that is. Kloeckera apiculata is a yeast, and I think it's an anamorph (asexual form) of Hanseniaspora uvarum. It's more commonly associated with plants and fruits, maybe environmental. But in humans, it's not a typical pathogen. However, there might be some case reports of it causing infections, especially in immunocompromised hosts. But this patient has no past medical history mentioned, so maybe he's immunocompetent.\n\nThe key here is that despite standard antifungal treatments, the infection persisted. Kloeckera might have inherent resistance to the antifungals used. Terbinafine targets squalene epoxidase, effective against dermatophytes. Fluconazole is a triazole, affecting ergosterol synthesis. Maybe Kloeckera is less susceptible to these. The fact that PCR identified it as the causative agent, despite the culture showing blastoconidia, points towards this being the correct organism. So the diagnosis would be onychomycosis caused by Kloeckera apiculata. But I need to check if this is a recognized pathogen. Also, the presence of both hyphae and blastoconidia in the histology might indicate a dimorphic fungus, but Kloeckera is a yeast. Wait, but some yeasts can form pseudohyphae. Maybe in the nail, it's growing in a hyphal form. Alternatively, could there be a co-infection? But the PCR result points to a single organism here.\n\nSo putting it all together: the patient has a rare yeast infection of the nails caused by Kloeckera apiculata, which is resistant to the standard antifungal therapies he received. The diagnostic tests, especially PCR, confirm this. Therefore, the final diagnosis should be onychomycosis due to Kloeckera apiculata.",
+        "content": "```\n### Resoning:\n<step 1> The patient presents with chronic nail thickening and discoloration resistant to multiple antifungals (terbinafine, fluconazole, tavaborole). Typical dermatophytes (e.g., *Trichophyton*) or *Candida* are unlikely due to treatment failure, suggesting an atypical pathogen.\n\n<step 2> Histologic findings (hyphae, blastoconidia) and fungal culture (creamy colonies with blastoconidia) indicate a yeast-like organism. PAS-positive hyphae suggest fungal invasion, while blastoconidia point to a yeast capable of pseudohyphal growth.\n\n<step 3> MALDI-TOF MS failure to identify the organism highlights its rarity or atypical biochemical profile. PCR sequencing definitively identifies *Kloeckera apiculata*, a environmental yeast rarely implicated in human infections but known for antifungal resistance.\n\n<step 4> *Kloeckera apiculata* (anamorph of *Hanseniaspora uvarum*) is not a common human pathogen, explaining the lack of response to standard antifungals targeting dermatophytes or *Candida*. Its intrinsic resistance mechanisms likely contributed to treatment failure.\n\n<step 5> The absence of cutaneous involvement and immunocompetent status aligns with localized, recalcitrant onychomycosis caused by this unusual yeast. Confirmatory molecular testing (PCR) solidifies the diagnosis despite initial challenges in identification.\n\n### Answer:\nOnychomycosis due to *Kloeckera apiculata*"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient presents with chronic nail thickening and discoloration resistant to multiple antifungals (terbinafine, fluconazole, tavaborole). Typical dermatophytes (e.g., *Trichophyton*) or *Candida* are unlikely due to treatment failure, suggesting an atypical pathogen.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Histologic findings (hyphae, blastoconidia) and fungal culture (creamy colonies with blastoconidia) indicate a yeast-like organism. PAS-positive hyphae suggest fungal invasion, while blastoconidia point to a yeast capable of pseudohyphal growth.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "MALDI-TOF MS failure to identify the organism highlights its rarity or atypical biochemical profile. PCR sequencing definitively identifies *Kloeckera apiculata*, a environmental yeast rarely implicated in human infections but known for antifungal resistance.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "*Kloeckera apiculata* (anamorph of *Hanseniaspora uvarum*) is not a common human pathogen, explaining the lack of response to standard antifungals targeting dermatophytes or *Candida*. Its intrinsic resistance mechanisms likely contributed to treatment failure.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The absence of cutaneous involvement and immunocompetent status aligns with localized, recalcitrant onychomycosis caused by this unusual yeast. Confirmatory molecular testing (PCR) solidifies the diagnosis despite initial challenges in identification.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Initial suspected diagnoses included common causes of nail dystrophy such as psoriasis, lichen planus, atopic dermatitis, traumatic etiologies, and onychomycosis.",
+            "hit": false
+        },
+        {
+            "step": "Step 2: Non-fungal etiologies (inflammatory and traumatic causes) were ruled out due to the presence of fungal elements on histopathology and positive fungal culture results.",
+            "hit": true
+        },
+        {
+            "step": "Step 3: The cause of onychomycosis was identified through consideration of common fungal pathogens, including dermatophytes like *Trichophyton rubrum* and non-dermatophytes (yeasts and molds). Yeast infection was diagnosed based on morphological findings and identified as *Kloeckera apiculata* via PCR.",
+            "hit": true
+        },
+        {
+            "step": "Step 4: Treatment failures to prior topical treatments (tavaborole) and oral antifungals (terbinafine, fluconazole) led to the consideration of itraconazole therapy for its efficacy against non-dermatophyte fungi.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Refractory onychomycosis caused by *Kloeckera apiculata.*",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.6
+}

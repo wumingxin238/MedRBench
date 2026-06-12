@@ -1,0 +1,133 @@
+{
+    "raw_case": "\nAcute mesenteric ischemia secondary to metastatic neuroendocrine tumor: a case analysis and review of the literature\n\n\nAbstract\n\nNeuroendocrine tumors (NETs) are notably rare and frequently arise from the gastrointestinal tract. Generally asymptomatic, NETs uncommonly result in acute abdominal pain. We present a case of known metastatic NET manifesting as acute-on-chronic mesenteric ischemia due to the involvement of the superior mesenteric artery (SMA) and vein (SMV). A 63-year-old female with metastatic NET presented with acute-onset abdominal pain. The patient was hemodynamically stable but uncomfortable appearing with significant pain. Imaging demonstrated decreased enhancement of several small bowel loops within the right lower quadrant concerning for bowel ischemia with a mesenteric mass encasing the SMA and SMV. Surgical intervention revealed a nonviable loop of small bowel. Second-look laparotomy was performed with viable remaining bowel, and an ileocolic anastomosis was successfully created. Acute-onset abdominal pain in a patient with NET warrants urgent. Mesenteric ischemia, while rare, should not be overlooked, as timely diagnosis and intervention are imperative.\n\nIntroduction\n\nNeuroendocrine tumors (NETs), or tumors originating from neuroendocrine cells, are rare tumors with an incidence of only 9 per 100 000 [1]. NETs most frequently arise from the gastrointestinal tract, particularly the small bowel [2]. The majority of NETs are indolent in nature and grow slowly; however, some are more aggressive and present with later stage disease. About 10%–20% of patients with NETs present with metastatic disease at the time of diagnosis [3].Given their location, small bowel neuroendocrine tumors (SBNETs) are often asymptomatic, allowing for a prolonged period of unrecognized growth. Symptoms, if present, most commonly manifest as non-specific abdominal pain. Delays in recognition may contribute to late-stage diagnosis [4]. Of patients with symptomatic SBNETs, only 25% to 35% present with acute symptoms with the most common presentation being intestinal obstruction (80%). Less common causes of acute-onset symptoms include pain due to mesenteric infiltration, intussusception, or mesenteric ischemia [5]. This study reports a rare case of metastatic SBNET manifesting as acute-on-chronic mesenteric ischemia due to the involvement of the superior mesenteric artery (SMA) and vein (SMV), necessitating urgent surgical intervention.\n\nCase report\n\nA 63-year-old female with metastatic SBNET presented to the emergency department with acute-onset abdominal pain. Her symptoms began a few hours prior to presentation with abrupt, ten-out-of-ten abdominal pain. She had associated nausea and one episode of emesis. Notably, she had been experiencing less severe, postprandial abdominal pain over the last several months and decreased oral intake secondary to fear of pain.Regarding her oncologic history, she was diagnosed with NET in October of 2017 when a computed tomography (CT) scan performed for intermittent abdominal cramping and diarrhea revealed a mass near the third portion of the duodenum and the root of the mesentery (Fig. 1). Biopsy of the mass revealed a well-differentiated NET. Further work-up with DOTATATE positron emission tomography (PET)/CT revealed a small bowel primary likely emanating from the terminal ileum as well as multiple lesions in the neck, chest, and liver (Figs 2 and 3). The periduodenal mass intimately involved the root of the mesentery, SMA, and SMV. She was initially treated with Lanreotide for many years with close monitoring and later underwent systemic treatment with Lutathera, a Peptide Receptor Radionuclide Therapy, from April 2020 to November 2020. She subsequently resumed Lanreotide in December of 2020, which she was on at the time of admission. Her disease remained largely stable on imaging over the next three years; however, her symptoms had been worsening over the few months leading up to her presentation.Upon arrival, she was afebrile with stable vital signs but appeared uncomfortable with significant abdominal pain. Her labs revealed leukocytosis, anemia, and absent lactic acidosis. CT demonstrated decreased enhancement and bowel wall thickening of several small bowel loops within the right lower quadrant, which were new compared to prior imaging (Fig. 4).Given her abrupt-onset abdominal pain in the setting of a tumor involvement of the SMA and imaging findings concerning for bowel ischemia, the decision was made to proceed with exploratory laparotomy after discussion regarding goals of care with the patient and her family.Upon entry into the abdomen, she was found to have chylous ascites and a foreshortened mesentery adherent to her large mesenteric mass. A 40 cm, nonviable loop of intestine was identified 10 cm from the ileocecal valve. A small bowel resection was performed, and she was left in discontinuity with temporary abdominal closure with plan for second-look surgery in 48 hours.Upon return to the operating room, all remaining bowel appeared viable. An additional 10 cm of ileum was resected proximally to ensure a healthy, tension-free anastomosis. An ileocecectomy was performed; however, her right colon could not be mobilized due to significant tethering to the mass. An ileocolic anastomosis was successfully created, and the middle colic pedicle as well as the small bowel mesentery at the site of the anastomosis had doppler signals at the end of the case.Final pathology revealed viable small bowel margins that were negative for dysplasia or malignancy. This patient’s post-operative course was complicated by Klebsiella bacteremia but was otherwise unremarkable, and she recovered appropriately.\n\nDiscussion\n\nAcute-onset abdominal pain in a patient with NET warrants urgent. Distinguishing between pain resulting from obstruction versus that arising from bowel ischemia may be challenging due to similarities in clinical presentations in the early stages. Mesenteric ischemia, while rare, should not be overlooked, as timely diagnosis and intervention are imperative.The pathogenesis of mesenteric ischemia secondary to SBNETs has been a point of controversy for many decades. The initial documentation of this association dates back to 1959 and attributes the finding to mass effect from mesenteric nodules inhibiting venous outflow [6]. Later, a fibrotic reaction in the mesenteric root was thought to cause extraluminal pressure to mesenteric vasculature [4, 7]. The idea that hormones secreted from the tumor, particularly 5-hydroxytryptamine, subsequently came about, bringing two new ideas: elastic sclerosis and vasospasm [8–11]. Obliterative elastic sclerosis refers to intraluminal narrowing and obstruction from proliferation of elastic tissue in the adventitia prompted by serotonin [12]. Vasospasm, contrarily, is secondary to direct effect of serotonin on the smooth muscle cells and fibroblasts of the vessel wall causing spasmodic contraction and intermittent vessel occlusion [11]. Others attributed ischemia to statis and thrombus formation as a result of a combination of the previously mentioned factors [13]. An extensive review of the topic done in 2004 could not definitively conclude the pathogenesis of NET-associated fibrosis [14].Treatment of mesenteric ischemia with complete oncologic resection in additional to ischemic bowel resection is optimal. However, in patients with advanced, unresectable disease, such as this patient, complete oncologic resection may compromise the main mesenteric vessels, resulting in worsening ischemia and short bowel syndrome. Therefore, limited resection of the ischemic bowel with careful dissection, preservation of threatened bowel, and second-look laparotomy may be necessary [15]. Bypass procedures are typically avoided as continued tumor growth may prompt ischemia in a disengaged segment. In patients with acute-on-chronic mesenteric ischemia, collateralization may mitigate the need for a more extensive resection.\n\nConflict of interest statement\n\nNone declared.\n\nFunding\n\nNone declared.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 63-year-old female\n- **Chief Complaint:** Acute-onset abdominal pain rated at 10 out of 10.\n- **History of Present Illness:** Abrupt and severe abdominal pain lasting a few hours before presentation, associated with nausea and one episode of vomiting. History of several months of postprandial abdominal pain and decreased oral intake.\n- **Past Medical History:** Diagnosed with metastatic small bowel neuroendocrine tumor (SBNET) in 2017, involving the duodenum and mesentery, with metastases to the neck, chest, and liver. Previously treated with Lanreotide and Lutathera. Disease stability confirmed on imaging but recent worsening symptoms.\n- **Personal History:** None provided.\n- **Family History:** None provided.\n- **Physical Examination:** Hemodynamically stable, afebrile, but in significant abdominal pain. \n- **Ancillary Tests:** Leukocytosis, anemia, no lactic acidosis; CT scan showed decreased bowel enhancement and wall thickening in small bowel loops within the right lower quadrant, raising concern for mesenteric ischemia due to tumor involvement of the superior mesenteric artery (SMA) and vein (SMV).",
+        "differential_diagnosis": "- The patient's presentation of acute abdominal pain warranted evaluation of primary causes, including but not limited to bowel obstruction, visceral ischemia, and perforation:\n  1. **Bowel Obstruction:** Considered given the metastatic history and fibrotic nature of NET involvement in the mesentery. Excluded as imaging demonstrated ischemic findings rather than a clear obstruction.\n  2. **Visceral Ischemia:** Strongly suspected due to symptoms, imaging findings, and documented tumor encasement of the SMA and SMV. This was confirmed during surgical intervention.\n  3. **Perforation or Peritonitis:** Excluded based on absence of generalized signs such as lactic acidosis or peritoneal findings on exam.\n  4. **Other Causes of Acute Abdominal Pain (e.g., diverticulitis, pancreatitis):** Unlikely given clinical history, presentation, and imaging findings.\n- Exploratory laparotomy was performed to confirm ischemic small bowel secondary to mesenteric vascular compromise from metastatic NET involvement.",
+        "final_diagnosis": "Acute-on-chronic mesenteric ischemia caused by metastatic small bowel neuroendocrine tumor with encasement of the superior mesenteric artery and vein.",
+        "diagnosis_results": "Acute-on-chronic mesenteric ischemia secondary to metastatic neuroendocrine tumor involvement of mesenteric vessels."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-9-15",
+    "checked_rare_disease": [],
+    "id": "PMC11601975",
+    "results": {
+        "content": "### Resoning:\n<step 1> **Analyze Chief Complaint and History of Present Illness:** The patient presents with acute, severe abdominal pain (10/10) of sudden onset, accompanied by nausea and vomiting.  The rapid onset and severity strongly suggest an acute abdominal pathology. The pre-existing history of postprandial pain and decreased oral intake for several months indicates a chronic underlying issue that might be related to the current acute exacerbation.\n\n<step 2> **Review Past Medical History:** The patient has a significant history of metastatic small bowel neuroendocrine tumor (SBNET). This is a critical piece of information. SBNETs can cause various complications, including bowel obstruction, mesenteric involvement, and vascular compromise. The prior treatment with Lanreotide and Lutathera indicates the tumor was hormonally active and potentially responsive to these therapies, but disease stability doesn't preclude new complications, especially given the worsening symptoms.\n\n<step 3> **Evaluate Physical Examination:** The patient is hemodynamically stable and afebrile, but in significant abdominal pain.  While hemodynamic stability is initially reassuring, the severe pain is the dominant clinical finding and necessitates urgent investigation.\n\n<step 4> **Interpret Ancillary Tests - Blood Work:** Leukocytosis and anemia are present. Leukocytosis suggests an inflammatory process or stress response. Anemia can be chronic or acute and requires further investigation but is less immediately concerning than leukocytosis in this acute setting. The absence of lactic acidosis is somewhat reassuring against widespread, established mesenteric ischemia *at the time of blood draw*, but does not rule it out, especially in early or localized ischemia.\n\n<step 5> **Interpret Ancillary Tests - CT Scan:** The CT scan is the most crucial diagnostic information.  The findings of decreased bowel enhancement and wall thickening in small bowel loops within the right lower quadrant are highly suggestive of **bowel ischemia**. The reported concern for mesenteric ischemia due to tumor involvement of the SMA and SMV directly links the patient's known SBNET to the acute abdominal pain and provides a plausible mechanism for the ischemia.  Tumor encasement or compression of mesenteric vessels is a known complication of SBNETs and can lead to mesenteric ischemia.\n\n<step 6> **Synthesize Information and Formulate Diagnosis:** Combining the acute onset of severe abdominal pain, the history of metastatic SBNET, and the CT scan findings of decreased bowel enhancement and concern for SMA/SMV involvement, the most likely diagnosis is **mesenteric ischemia secondary to SBNET involvement of the mesenteric vessels**.  The pre-existing postprandial pain likely represented chronic, subclinical mesenteric insufficiency, which has now acutely worsened to overt mesenteric ischemia.\n\n<step 7> **Final Diagnostic Conclusion:** The clinical picture and imaging findings strongly converge on mesenteric ischemia as the primary diagnosis.  The underlying cause is highly likely to be related to the patient's metastatic SBNET, specifically its involvement of the superior mesenteric artery and vein.\n\n### Answer:\nMesenteric ischemia due to tumor involvement of SMA/SMV"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Analyze Chief Complaint and History of Present Illness:** The patient presents with acute, severe abdominal pain (10/10) of sudden onset, accompanied by nausea and vomiting.  The rapid onset and severity strongly suggest an acute abdominal pathology. The pre-existing history of postprandial pain and decreased oral intake for several months indicates a chronic underlying issue that might be related to the current acute exacerbation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Review Past Medical History:** The patient has a significant history of metastatic small bowel neuroendocrine tumor (SBNET). This is a critical piece of information. SBNETs can cause various complications, including bowel obstruction, mesenteric involvement, and vascular compromise. The prior treatment with Lanreotide and Lutathera indicates the tumor was hormonally active and potentially responsive to these therapies, but disease stability doesn't preclude new complications, especially given the worsening symptoms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Evaluate Physical Examination:** The patient is hemodynamically stable and afebrile, but in significant abdominal pain.  While hemodynamic stability is initially reassuring, the severe pain is the dominant clinical finding and necessitates urgent investigation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpret Ancillary Tests - Blood Work:** Leukocytosis and anemia are present. Leukocytosis suggests an inflammatory process or stress response. Anemia can be chronic or acute and requires further investigation but is less immediately concerning than leukocytosis in this acute setting. The absence of lactic acidosis is somewhat reassuring against widespread, established mesenteric ischemia *at the time of blood draw*, but does not rule it out, especially in early or localized ischemia.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpret Ancillary Tests - CT Scan:** The CT scan is the most crucial diagnostic information.  The findings of decreased bowel enhancement and wall thickening in small bowel loops within the right lower quadrant are highly suggestive of **bowel ischemia**. The reported concern for mesenteric ischemia due to tumor involvement of the SMA and SMV directly links the patient's known SBNET to the acute abdominal pain and provides a plausible mechanism for the ischemia.  Tumor encasement or compression of mesenteric vessels is a known complication of SBNETs and can lead to mesenteric ischemia.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Synthesize Information and Formulate Diagnosis:** Combining the acute onset of severe abdominal pain, the history of metastatic SBNET, and the CT scan findings of decreased bowel enhancement and concern for SMA/SMV involvement, the most likely diagnosis is **mesenteric ischemia secondary to SBNET involvement of the mesenteric vessels**.  The pre-existing postprandial pain likely represented chronic, subclinical mesenteric insufficiency, which has now acutely worsened to overt mesenteric ischemia.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Final Diagnostic Conclusion:** The clinical picture and imaging findings strongly converge on mesenteric ischemia as the primary diagnosis.  The underlying cause is highly likely to be related to the patient's metastatic SBNET, specifically its involvement of the superior mesenteric artery and vein.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "The patient's acute abdominal pain necessitated evaluation for primary causes like bowel obstruction, visceral ischemia, and perforation.",
+            "hit": false
+        },
+        {
+            "step": "Bowel obstruction was considered due to metastatic history and fibrotic NET involvement in the mesentery but excluded as imaging showed ischemic findings instead of an obstruction.",
+            "hit": false
+        },
+        {
+            "step": "Visceral ischemia was strongly suspected based on symptoms, imaging, and tumor encasement of the SMA and SMV, confirmed during surgery.",
+            "hit": false
+        },
+        {
+            "step": "Perforation or peritonitis was excluded by absence of generalized signs like lactic acidosis or peritoneal findings on examination.",
+            "hit": false
+        },
+        {
+            "step": "Other causes of acute abdominal pain, such as diverticulitis or pancreatitis, were unlikely given the clinical history, presentation, and imaging findings.",
+            "hit": false
+        },
+        {
+            "step": "Exploratory laparotomy confirmed ischemic small bowel due to mesenteric vascular compromise from metastatic NET involvement.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Acute-on-chronic mesenteric ischemia caused by metastatic small bowel neuroendocrine tumor with encasement of the superior mesenteric artery and vein.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.14285714285714285
+}

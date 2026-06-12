@@ -10,11 +10,12 @@ from metrics.reasoning_eval import (
     eval_reasoning_efficiency_factuality,
     eval_reasoning_completeness
 )
+from metrics.utils import get_eval_model
+from eval_io import load_model_outputs
 
 # Configuration constants
-NUM_WORKERS = 8  # Number of worker processes for parallel execution
+NUM_WORKERS = 1  # Local Qwen judge: use 1 worker; increase for remote GPT
 MAX_RETRY_ATTEMPTS = 3  # Maximum retry attempts for API calls
-EVALUATION_MODEL = "gpt-4o-2024-11-20"  # Model to be used for evaluation
 
 # Set up logging
 logging.basicConfig(
@@ -25,7 +26,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-def evaluate_case(data, save_root, model_name):
+def evaluate_case(data, save_root, model_name, evaluation_model, use_web_search=True):
     """Evaluate reasoning quality for a specific model's output on a single case."""
     logger.info(f'Evaluating case {data["id"]} for model {model_name}')
     error_log_file = f'{model_name}_error.log'
@@ -52,7 +53,8 @@ def evaluate_case(data, save_root, model_name):
                     pred_reasoning_steps_list=reasoning_steps,
                     gt_answer=gt_answer,
                     is_treatment=False,
-                    evaluation_model=EVALUATION_MODEL
+                    evaluation_model=evaluation_model,
+                    use_web_search=use_web_search,
                 )
                 break
             except Exception as e:
@@ -69,7 +71,7 @@ def evaluate_case(data, save_root, model_name):
                 completeness_results = eval_reasoning_completeness(
                     gt_reasoning=gt_reasoning,
                     pred_reasoning_steps_string=combined_reasoning,
-                    evaluation_model=EVALUATION_MODEL
+                    evaluation_model=evaluation_model
                 )
                 break
             except Exception as e:
@@ -101,13 +103,22 @@ def worker(task_queue):
     """Worker process function to process evaluation tasks from queue."""
     while not task_queue.empty():
         try:
-            data, save_root, model_name = task_queue.get()
-            evaluate_case(data, save_root, model_name)
+            data, save_root, model_name, evaluation_model, use_web_search = task_queue.get()
+            evaluate_case(data, save_root, model_name, evaluation_model, use_web_search)
         except Exception as e:
             logger.error(f"Worker error: {str(e)}")
 
 
-def main(model_name, patient_case_filepath, model_output_filepath, output_directory, use_parallel=True):
+def main(
+    model_name,
+    patient_case_filepath,
+    model_output_filepath,
+    output_directory,
+    use_parallel=True,
+    embedded_outputs=False,
+    evaluation_model=None,
+    use_web_search=True,
+):
     """Main function to orchestrate the evaluation process."""
     # Create output directory if it doesn't exist
     if not os.path.exists(output_directory):
@@ -117,8 +128,12 @@ def main(model_name, patient_case_filepath, model_output_filepath, output_direct
     with open(patient_case_filepath, 'r', encoding='utf-8') as f:
         patient_cases = json.load(f)
     
-    with open(model_output_filepath, 'r', encoding='utf-8') as f:
-        model_outputs = json.load(f)
+    model_outputs = load_model_outputs(
+        model_output_filepath, model_name, embedded=embedded_outputs
+    )
+    eval_model = get_eval_model(evaluation_model)
+    logger.info(f'Evaluator model: {eval_model} (backend={os.environ.get("EVAL_BACKEND", "openai")})')
+    logger.info(f'Web search: {"on" if use_web_search else "off"}')
         
     # Filter already processed data
     cases_to_evaluate = []
@@ -141,7 +156,7 @@ def main(model_name, patient_case_filepath, model_output_filepath, output_direct
         task_queue = manager.Queue()
         
         for case_data in cases_to_evaluate:
-            task_queue.put((case_data, output_directory, model_name))
+            task_queue.put((case_data, output_directory, model_name, eval_model, use_web_search))
 
         # Start worker processes
         processes = []
@@ -159,7 +174,7 @@ def main(model_name, patient_case_filepath, model_output_filepath, output_direct
     else:
         logger.info("Processing cases sequentially")
         for case_data in cases_to_evaluate:
-            evaluate_case(case_data, output_directory, model_name)
+            evaluate_case(case_data, output_directory, model_name, eval_model, use_web_search)
             
     logger.info(f"Evaluation completed for model {model_name}")
 
@@ -167,20 +182,31 @@ def main(model_name, patient_case_filepath, model_output_filepath, output_direct
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Evaluate model reasoning on treatment planning tasks')
     parser.add_argument('--model', type=str, required=True, 
-                      choices=['qwq', 'o3-mini', 'gemini2-ft', 'deepseek-r1', 'baichuan-m1', 'deepseek-r1-thinkingprocess'],
+                      choices=['qwq', 'o3-mini', 'gemini2-ft', 'deepseek-r1', 'baichuan-m1', 'deepseek-r1-thinkingprocess', 'qwen3-14b', 'qwen3-8b'],
                       help='Model to evaluate')
     parser.add_argument('--sequential', action='store_true', 
                       help='Run sequentially instead of using parallel processing')
     parser.add_argument('--output-dir', type=str, default='./reasoning_results',
                       help='Base directory for evaluation results')
     parser.add_argument('--patient-cases', type=str,
-                      default='../../../data/MedRBench/diagnosis_957_cases_with_rare_disease_491.json',
-                      help='Path to patient cases file')
+                      default='../../data/MedRBench/test_cases.json',
+                      help='Path to patient cases file (35-sample subset: test_cases.json)')
     parser.add_argument('--model-outputs', type=str,
-                      default='../../../data/InferenceResults/oracle_diagnosis.json',
+                      default='../Inference/oracle_diagnosis_gemini.json',
                       help='Path to model outputs file')
+    parser.add_argument('--embedded-outputs', action='store_true',
+                      help='Model outputs embedded in inference JSON (oracle_diagnosis_gemini.json)')
+    parser.add_argument('--eval-model', type=str, default=None,
+                      help='Evaluator/judge model (overrides EVAL_MODEL env)')
+    parser.add_argument('--no-web-search', action='store_true',
+                      help='Disable Bing/web search during factuality evaluation (Judge-only)')
     
     args = parser.parse_args()
+
+    if args.no_web_search:
+        os.environ['EVAL_DISABLE_WEB_SEARCH'] = '1'
+    from metrics.eval_flags import web_search_enabled
+    use_web_search = web_search_enabled()
     
     # Define input and output file paths
     model_output_filepath = args.model_outputs
@@ -193,5 +219,8 @@ if __name__ == '__main__':
         patient_case_filepath, 
         model_output_filepath, 
         output_directory, 
-        not args.sequential
+        not args.sequential,
+        embedded_outputs=args.embedded_outputs,
+        evaluation_model=args.eval_model,
+        use_web_search=use_web_search,
     )

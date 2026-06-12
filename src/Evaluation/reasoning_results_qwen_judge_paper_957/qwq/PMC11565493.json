@@ -1,0 +1,158 @@
+{
+    "raw_case": "\nEosinophilic Duodenitis Presenting As Severe Iron Deficiency Anemia: A Rare Presentation\nEosinophilic gastrointestinal disorders (EGIDs) are representative of eosinophilic invasion of various sections of the gastrointestinal tract and do not pertain to any secondary causes. To affirm the diagnosis of eosinophilic infiltration of the gastrointestinal tract, tissue biopsy evidence must be demonstrated. Both iron deficiency anemia and gastritis symptoms may be brought on by mucosal eosinophilic infiltration. One of the most common dietary deficiencies globally is iron deficiency anemia which affects most developing populations. Reduced dietary iron and poor iron absorption are significant reasons for iron deficiency anemia (IDA), although the most common causes are menstruation and GI bleeding in women. Here, we describe a case of an 18-year-old female, with iron deficiency anemia, who was diagnosed with eosinophilic duodenitis.\n\nIntroduction\n\nEosinophilic gastrointestinal disorders (EGIDs) are a rare and poorly understood gastrointestinal disorder characterized by eosinophilic infiltration of the gastrointestinal tract, often corresponding to symptoms such as abdominal discomfort, vomiting, dizziness, and irregular bowel movements. Since Kajiser initially reported eosinophilic gastroenteritis (EGE) in 1937, the literature has documented roughly 300 instances. According to estimates, there are 8.4 to 28 cases of it for every 100,000 persons in the US [1]. EGE is believed to be brought on by an aberrant immunological response to environmental or dietary antigens, which causes an influx of eosinophils into the intestinal wall [2]. Numerous factors, including genetics, age, allergy comorbidities, and allergen exposures, have an impact on the mechanisms underlying the development and progression of EGIDs [3].One of the most common complications of EGE is iron deficiency anemia (IDA). 800,000 fatalities globally are attributed to IDA, a global public health issue that affects 7.21-13.96 persons per 1000 person-years [4]. IDA is a condition in which the body does not have enough iron to meet the metabolic and other requirements needed by the body. IDA is often caused by chronic bleeding or inadequate iron intake, but it can also be a consequence of malabsorption or impaired iron absorption. In patients with EGE, IDA may be due to chronic inflammation and mucosal damage in the gastrointestinal tract, leading to impaired iron absorption and increased iron loss.Despite its relatively rare occurrence, EGE can have significant consequences for patients' quality of life and overall health. Furthermore, IDA can exacerbate symptoms of EGE, such as fatigue, weakness, and shortness of breath. Therefore, it is essential to recognize the relationship between EGE and IDA and to develop effective treatments for these conditions.\n\nCase presentation\n\nAn 18-year-old woman presented to the internal medicine department with complaints of shortness of breath on exertion, tingling sensation in bilateral lower limbs, and generalized weakness. A patient has no significant past medical history and has a regular menstruation history. On general examination, pallor, glossitis, and koilonychia were present. Per abdomen examination, it did not reveal any organomegaly. Other system examinations were normal. Investigations are shown in Table 1.Peripheral smear showed a picture of microcytic hypochromic anemia with pencil cells, as shown in Figure 1.To evaluate the cause of iron deficiency anemia, the patient underwent gastroscopy, which revealed erythematous patches in the first and second part of the duodenum (Figure 2) and multiple biopsies were taken.Biopsy revealed eosinophilic duodenitis (EOD) (Figure 3).After calculating the iron requirement via Ganzoni's formula [5], which came out to be 950 mg iron, she was started on the treatment of injecting iron sucrose 200 mg IV for six doses along with folic acid 5 mg per oral once a day. The patient was later started on prednisolone 1 mg/kg body weight. The patient was also advised, and the need for dietary restriction was explained. Her weakness had improved significantly, and associated complaints were resolved. She was instructed to follow up on an outpatient basis and repeat gastroscopy after six weeks.\n\nDiscussion\n\nA group of immune-mediated chronic disorders known as eosinophilic gastrointestinal diseases (EGIDs) are distinguished by eosinophil pathologic infiltration of the GI tract and clinically manifested as gastrointestinal symptoms. Based on the location of eosinophilic infiltration, EGIDs are categorized as eosinophilic duodenitis and eosinophilic gastritis. Although the exact origin of eosinophilic duodenitis is unknown, prior research has shown that people with this condition frequently also have concomitant allergic conditions such as food allergies, asthma, or peripheral eosinophilia [6].When Jaffe et al. used flow cytometry on three patients with eosinophilic gastroenteritis, they observed increased IL-4 and IL-5 production, two cytokines closely linked to eosinophil activation and IgE synthesis, respectively [7]. The area of the GI tract affected and the tissue layer where eosinophils have invaded both affect how an EGID presents clinically. Typical non-specific symptoms of EGE include nausea, vomiting, diarrhea, abdominal pain, and weight loss. If the small intestine is involved, malabsorption can also be observed and can result in a variety of nutritional deficits [8]. Oral iron absorption by the gastrointestinal tract is inhibited in anemic patients due to the hepcidin response [5]. Our diagnosis is hinged on the fact that our patient despite nutritional supplements and a standard regimen treatment for iron deficiency treatment, did not show any response as well as the absence of any other pathological cause involving the gastrointestinal system or evidence of GI bleed.Endoscopy and the discovery of many eosinophils in a single HPF on the histopathologic assessment of biopsies are the gold standards for diagnosis. The current threshold values for the diagnosis of eosinophilic duodenitis in the duodenum are >30 eosinophils per HPF in >3 HPF, according to the Food and Drug Administration (FDA). The cornerstone of treatment other than dietary restrictions is corticosteroids, to which the majority of patients respond symptomatically. In most cases, symptom alleviation happens a few weeks after treatment starts [9]. However, their toxicity limits their long-term usage [10].\n\nConclusions\n\nIn addition to iron-deficiency anemia, protein-losing enteropathy, and malnourishment, mucosal eosinophilic infiltration can result in gastritis symptoms. Even blockage and perforation, as well as eosinophilic ascites or pleural effusion, can result from eosinophilic infiltration of the gut wall's deeper layers. Endoscopically acquired mucosal biopsies may fail to detect the diagnosis in such circumstances. A patient who presents with gastroenteritis should have eosinophilic gastritis taken into account in the broad differential diagnosis. It does, however, present a diagnostic issue. When mucosal biopsies taken by endoscopy are not diagnostic, full-thickness biopsies ought to be taken into consideration. Treatment alternatives like PPIs, steroids, leukotriene modifiers, and diet alterations cannot be used until the diagnosis has been made.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 18-year-old female.\n- **Chief Complaint:** Shortness of breath on exertion, tingling sensation in bilateral lower limbs, and generalized weakness.\n- **History of Present Illness:** None noted aside from current presentation.\n- **Past Medical History:** None.\n- **Personal History:** No significant details provided, but regular menstruation history was noted.\n- **Family History:** Not specified.\n- **Physical Examination:**\n  - **General Examination:** Pallor, glossitis, and koilonychia observed.\n  - **Abdominal Examination:** No organomegaly.\n  - **Other System Examinations:** Normal.\n- **Ancillary Tests:**\n  - Peripheral smear revealed microcytic hypochromic anemia with pencil cells.\n  - Gastroscopy demonstrated erythematous patches in the first and second parts of the duodenum.\n  - Duodenal biopsy confirmed eosinophilic duodenitis (EOD) with findings exceeding 30 eosinophils per high-power field (HPF) in more than 3 HPFs.",
+        "differential_diagnosis": "- Initially, **iron deficiency anemia (IDA)** was suspected due to classic symptoms (pallor, glossitis, koilonychia) with microcytic hypochromic anemia found on peripheral smear. Common causes such as menstruation-related iron loss and gastrointestinal bleeding were explored but ruled out on history and examination.\n- **A gastrointestinal cause for IDA** was considered due to poor response to standard treatments like nutritional supplements, prompting gastroscopy.\n- Gastroscopy findings of erythematous duodenal patches and subsequent biopsy pointing to **eosinophilic duodenitis (EOD)** finalized the diagnosis. The presence of >30 eosinophils/HPF in multiple HPFs was diagnostic, according to FDA thresholds.\n- Conditions like **Helicobacter pylori gastritis, celiac disease, or other causes of malabsorption** were implicitly excluded based on absence of clinical or histopathological evidence.",
+        "final_diagnosis": "Eosinophilic Duodenitis (EOD) causing severe Iron Deficiency Anemia (IDA). The diagnosis was based on clinical presentation of IDA, gastroscopy findings, and confirming biopsy results.",
+        "diagnosis_results": "Eosinophilic Duodenitis (EOD) causing Iron Deficiency Anemia (IDA)"
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Metabolic Problems"
+    ],
+    "receive_time": "2024-7-31",
+    "checked_rare_disease": [
+        "Eosinophilic gastroenteritis"
+    ],
+    "id": "PMC11565493",
+    "results": {
+        "content": "### Resoning:\n\n**Step 1: Reviewing the Patient's Chief Complaints**\n\nThe patient is an 18-year-old female presenting with shortness of breath on exertion, tingling sensation in bilateral lower limbs, and generalized weakness. These symptoms are nonspecific and can be associated with a wide range of medical conditions, from cardiovascular issues to neurological disorders. However, the presence of multiple symptoms suggests a systemic condition rather than a localized problem.\n\n**Step 2: Considering the Past Medical and Family History**\n\nThe patient has no past medical history or significant family history provided, which suggests that this presentation may be acute or related to recent exposures or habits. The regular menstruation history is noted, which could be relevant if considering conditions like iron-deficiency anemia, although no menorrhagia is mentioned.\n\n**Step 3: Analyzing the Physical Examination Findings**\n\nThe physical examination reveals pallor, glossitis, and koilonychia. Pallor is a sign of anemia, while glossitis can be associated with nutritional deficiencies, particularly iron, vitamin B12, or folate deficiency. Koilonychia, or spoon-shaped nails, is also commonly associated with iron deficiency. The absence of organomegaly and normal other system examinations suggest that the primary process may not be directly affecting the abdomen or other organs noticeably.\n\n**Step 4: Interpreting Ancillary Test Results**\n\nThe peripheral smear shows microcytic hypochromic anemia with pencil cells. Microcytic hypochromic anemia is typically indicative of iron deficiency anemia, although other causes like thalassemia can present similarly. Pencil cells are elongated red blood cells that can be seen in iron deficiency anemia.\n\nGastroscopy demonstrates erythematous patches in the first and second parts of the duodenum, and duodenal biopsy confirms eosinophilic duodenitis with more than 30 eosinophils per high-power field in more than 3 HPFs. Eosinophilic duodenitis is characterized by the presence of eosinophils in the duodenal mucosa and can be associated with various conditions, including allergic reactions, parasitic infections, or certain autoimmune diseases.\n\n**Step 5: Integrating Clinical Presentation with Test Results**\n\nGiven the clinical presentation of anemia-related symptoms (shortness of breath, weakness) and physical findings suggestive of iron deficiency (pallor, glossitis, koilonychia), along with the peripheral smear findings of microcytic hypochromic anemia and pencil cells, iron deficiency anemia is a likely diagnosis.\n\nHowever, the presence of eosinophilic duodenitis on biopsy adds another layer to the diagnosis. Eosinophilic gastroenteritis, including duodenitis, can be associated with malabsorption and nutrient deficiencies, which might explain the anemia if it's due to impaired iron absorption.\n\n**Step 6: Considering Differential Diagnoses**\n\nWhile iron deficiency anemia is a leading cause of microcytic hypochromic anemia, other causes such as thalassemia, anemia of chronic disease, or other nutritional deficiencies should be considered. The presence of eosinophilic duodenitis suggests that there may be an underlying inflammatory or allergic process affecting the duodenum, which could impact nutrient absorption.\n\n**Step 7: Formulating a Final Diagnosis**\n\nGiven the concordance of clinical symptoms, physical examination findings, and laboratory/test results, the most likely diagnosis is iron deficiency anemia secondary to eosinophilic duodenitis. The eosinophilic duodenitis may be causing impaired iron absorption, leading to the development of iron deficiency anemia.\n\n**Step 8: Considering Further Workup**\n\nTo confirm the diagnosis and guide management, further evaluations may be warranted, such as serum iron studies (serum iron, ferritin, TIBC), endoscopic ultrasound if eosinophilic gastroenteritis is suspected to involve deeper layers of the gastrointestinal tract, and allergy testing or parasitic workup depending on clinical suspicion.\n\n**Step 9: Planning Management**\n\nManagement would typically involve treating the underlying eosinophilic duodenitis, possibly with corticosteroids or other immunomodulatory therapies, along with iron supplementation to address the anemia. Dietary assessment and potential referral to a gastroenterologist may also be necessary.\n\n### Answer:\n\nIron deficiency anemia secondary to eosinophilic duodenitis"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Step 1: Reviewing the Patient's Chief Complaints**",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "The patient is an 18-year-old female presenting with shortness of breath on exertion, tingling sensation in bilateral lower limbs, and generalized weakness. These symptoms are nonspecific and can be associated with a wide range of medical conditions, from cardiovascular issues to neurological disorders. However, the presence of multiple symptoms suggests a systemic condition rather than a localized problem.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 2: Considering the Past Medical and Family History**",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "The patient has no past medical history or significant family history provided, which suggests that this presentation may be acute or related to recent exposures or habits. The regular menstruation history is noted, which could be relevant if considering conditions like iron-deficiency anemia, although no menorrhagia is mentioned.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 3: Analyzing the Physical Examination Findings**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The physical examination reveals pallor, glossitis, and koilonychia. Pallor is a sign of anemia, while glossitis can be associated with nutritional deficiencies, particularly iron, vitamin B12, or folate deficiency. Koilonychia, or spoon-shaped nails, is also commonly associated with iron deficiency. The absence of organomegaly and normal other system examinations suggest that the primary process may not be directly affecting the abdomen or other organs noticeably.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 4: Interpreting Ancillary Test Results**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The peripheral smear shows microcytic hypochromic anemia with pencil cells. Microcytic hypochromic anemia is typically indicative of iron deficiency anemia, although other causes like thalassemia can present similarly. Pencil cells are elongated red blood cells that can be seen in iron deficiency anemia.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Gastroscopy demonstrates erythematous patches in the first and second parts of the duodenum, and duodenal biopsy confirms eosinophilic duodenitis with more than 30 eosinophils per high-power field in more than 3 HPFs. Eosinophilic duodenitis is characterized by the presence of eosinophils in the duodenal mucosa and can be associated with various conditions, including allergic reactions, parasitic infections, or certain autoimmune diseases.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 5: Integrating Clinical Presentation with Test Results**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Iron deficiency anemia (IDA) was initially suspected due to classic symptoms such as pallor, glossitis, and koilonychia, along with microcytic hypochromic anemia observed on a peripheral smear.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Common causes of IDA, such as menstruation-related iron loss and gastrointestinal bleeding, were explored but ruled out based on history and examination.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> A gastrointestinal cause for IDA was considered due to the poor response to standard treatments like nutritional supplements, leading to the decision to perform a gastroscopy.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Gastroscopy revealed erythematous duodenal patches, prompting a biopsy for further investigation.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Biopsy findings confirmed eosinophilic duodenitis (EOD) with the presence of >30 eosinophils per high-power field (HPF) in multiple HPFs, meeting diagnostic thresholds.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> Other potential causes of malabsorption, such as Helicobacter pylori gastritis, celiac disease, or other conditions, were excluded based on the absence of clinical or histopathological evidence.",
+            "hit": true
+        },
+        {
+            "step": "<Step 7> The final diagnosis was eosinophilic duodenitis (EOD) causing severe iron deficiency anemia (IDA), based on the clinical presentation, gastroscopy findings, and biopsy results.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.8,
+    "factulity": 1.0,
+    "recall": 1.0
+}

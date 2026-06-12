@@ -1,0 +1,164 @@
+{
+    "raw_case": "\nPostsurgical pyoderma gangrenosum after mastectomy with a familial component\n\n\nAbstract\n\nPostsurgical pyoderma gangrenosum (PSPG) is a rare, ulcerative skin condition that presents a diagnostic challenge due to its similar presentation to infectious etiologies in the postsurgical period—often leading to gratuitous and unnecessary surgery and antibiotic use. We report a 37-year-old female with breast cancer who received neoadjuvant chemotherapy and immunotherapy and underwent bilateral skin-sparing mastectomies who developed delayed bilateral mastectomy skin flap necrosis secondary to PSPG. This case had rare factors associated with the development of PSPG such as preoperative systemic therapy and a familial component. This case underscores the importance of early recognition of this rare disease and appropriate management of PSPG to prevent unnecessary interventions and ensure an optimal outcome.\n\nIntroduction\n\nPostsurgical pyoderma gangrenosum (PSPG) is a subtype of pyoderma gangrenosum (PG), a diagnostically challenging and uncommon ulcerative skin disease characterized by innate immune system dysregulation and is autoinflammatory in nature [1]. The clinical presentation of PSPG is typically a painful lesion with a rapidly progressive bulla or necrotic ulcer that appears undermined with violaceous or erythematous borders following trauma of the skin [2]. The multiple types of PG include the most common ulcerative, and others such as bullous, vegetative, pustular, peristomal, and superficial granulomatous types [2]. Various presentations and similar appearance to other diseases can contribute to a delayed diagnosis [2, 3]. Histologic findings are important to further support the correct diagnosis and prompt treatment. These findings can be variable and depend on the age of the lesion and location of the specimen; typically, there is marked neutrophilic infiltrate, abscess formation and neutrophilic pustules within the epidermis and dermis [2]. PG is a diagnosis of elimination and is diagnosed with the constellation of characteristic histology and progressive ulceration with negative bacterial, mycobacterial, and fungal cultures [2]. Treatment includes wound care and analgesia with minor disease requiring topical corticosteroids, tacrolimus, and potential intralesional corticosteroid injections [2]. Severe disease requires oral corticosteroids [2]. Some patients require additional therapy with cyclosporine, colchicine, dapsone, minocycline, thalidomide, or biologics such as infliximab [2].Surgery is a well-known cause of pathergy in PG, and there have been multiple reports of PSPG following breast surgery [4]. Furthermore, these patients may be at greater risk for PSPG given their potential use of neoadjuvant chemotherapy with immunotherapy as cases of neutrophilic eruptions like PG have been documented in association with immune checkpoint inhibitors, such as pembrolizumab [5]. Additional risk may exist in patients with genetic predisposition to PG [2, 6]. Familial association of PG is documented in a minority of cases and causative mutations are not well delineated [2, 3, 6]. In this study, we present a 37-year-old female with a diagnosis of PSPG following neoadjuvant chemotherapy and immunotherapy who underwent bilateral skin-sparing mastectomies with a family history of PSPG.\n\nCase report\n\nA 37-year-old female diagnosed with clinical stage 3A (cT3 N0 M0), grade 3, triple-negative, invasive ductal carcinoma of the right breast received neoadjuvant carboplatin, paclitaxel, and pembrolizumab per current guidelines [7, 8]. She had an excellent response with clinical and radiologic disease regression. She elected to undergo bilateral skin-sparing mastectomies, axillary nodal staging, with delayed breast reconstruction.She experienced a normal postoperative course until postoperative day (POD) 6 when she became febrile and developed turbulent fluid in her surgical drains. She was empirically started on trimethoprim–sulfamethoxazole; drainage cultures grew pan-sensitive Staphylococcus lugdunensis. On POD 9, the patient was admitted with incisional changes (Fig. 1a). Concern for underlying infection prompted use of intravenous vancomycin, piperacillin, and tazobactam. Persistence of symptoms with minimal drain output raised concern for an undrained infectious fluid collection of her mastectomy beds prompting operative debridement of necrotic tissue and washout on POD 10 where full-thickness skin necrosis at the incision and beneath the skin bulla were seen. However, no purulent or undrained fluid was appreciated. Her skin was debrided to healthy tissue and closed primarily. Over the first 24 h, she did well; however, on POD 12, she became febrile with increased leukocytosis despite antibiotics, which were changed to piperacillin/tazobactam and linezolid. Repeat wound and blood cultures remained negative, but she developed progressive induration and wound breakdown (Fig. 1b). Given wound dehiscence, skin necrosis, and concern for PSPG, a punch biopsy was obtained.Histopathological findings, with negative tissue cultures, confirmed the diagnosis of PSPG and antibiotics were stopped. She started on prednisone 40 mg/day, which increased to 80 mg/day (roughly 1 mg/kg dosing) after three days with improvement. This steroid dose was continued for 21 days and was then tapered over four weeks.She was not a candidate for dapsone given persistent anemia following neoadjuvant chemotherapy and was treated with infliximab (started 5 weeks after completion of prednisone taper) as adjuvant pembrolizumab was planned per standard guidelines (Schmid, NCCN). Her wound improved with appropriate scarring (Fig. 1f). Notably, the patient’s daughter also had PSPG following a breast reduction years before—raising concern for a likely familial component to this patient’s case.\n\nDiscussion\n\nPSPG is a rare surgical complication that has frequent significant delays in diagnosis and can result in unnecessary surgical interventions and antibiotic use due to a broad differential diagnosis given the clinical picture of these patients [9]. As seen in this patient, PSPG is frequently misdiagnosed as a surgical site infection, skin necrosis, or wound dehiscence [9]. Once correctly diagnosed and patients receive correct therapy with immunosuppressants, recovery is often swift [2].Familial association of PG is rare and estimated to occur in approximately 1.7% of cases [6]. Not only are there thought to be genetic predisposing factors leading to PG in families but also an association between PG and other immune related conditions such as inflammatory bowel disease, polyarthritis, and hematological disorders [6]. Additionally, this patient underwent neoadjuvant chemotherapy and immunotherapy prior to developing PSPG, which has been reported in some cases [10]. PG is associated with certain medications such as immune checkpoint inhibitors which activate antitumor T cell responses and can alter immune tolerance and are associated with various cutaneous effects, however, neutrophilic dermatosis such as PG is rare [5, 11]. This patient case illustrates a rare picture of PG with multiple infrequently or anecdotally associated factors with the development of PSPG. Further investigation is required to understand the underlying factors associated with the development of PG and clinicians must remain highly suspicious of PG in patients with this clinical picture.Diagnosis of PSPG can be complex and requires a multidisciplinary team approach to diagnose and manage these patients to prevent gratuitous surgical intervention. Collaborations between surgeons, dermatologists, and pathologists are critical in cases where PG is suspected. Continued surgical site skin necrosis and infection despite surgical intervention and broad-spectrum antibiotics should prompt investigation for PSPG. PSPG should be considered in the differential diagnosis for patients with contributing factors such as familial predisposition, inciting tissue injury, and underlying malignancy treated with immunotherapy.",
+    "generate_case": {
+        "case_summary": "- **Patient Information**: 37-year-old female\n- **Chief Complaint**: Postsurgical wound complications after bilateral mastectomies.\n- **History of Present Illness**: The patient, diagnosed with stage 3A, triple-negative invasive ductal carcinoma of the right breast, underwent neoadjuvant chemotherapy (carboplatin, paclitaxel) and immunotherapy (pembrolizumab). She subsequently elected to have bilateral skin-sparing mastectomies with axillary nodal staging and delayed breast reconstruction. Postoperative complications arose on postoperative day (POD) 6, including fever, turbulent fluid in surgical drains, and later, progressive skin necrosis and wound breakdown. Initial antibiotics and debridement surgery failed to resolve symptoms.\n- **Past Medical History**: Breast cancer treated with neoadjuvant chemotherapy and immunotherapy.\n- **Personal History**: None.\n- **Family History**: Daughter with a history of postsurgical pyoderma gangrenosum (PSPG) following breast reduction surgery, suggesting a potential familial component.\n- **Physical Examination**: Incisional changes, febrile episodes, leukocytosis, persistent skin necrosis, wound dehiscence, and progressive induration.\n- **Ancillary Tests**: Negative cultures (bacterial, fungal, mycobacterial). Skin punch biopsy revealed histopathological findings consistent with pyoderma gangrenosum.",
+        "differential_diagnosis": "- **Initial Presentation**: Symptoms initially raised suspicion for surgical site infection or undrained fluid collection. This led to empirical antibiotic therapy (trimethoprim-sulfamethoxazole, vancomycin, piperacillin/tazobactam) and operative debridement. Negative cultures and lack of resolution suggested alternate diagnoses.\n- **Consideration of PSPG**: Persisting necrotic and undermined skin changes with violaceous borders and a failed response to antibiotics and surgery suggested a possible diagnosis of PSPG. The familial history of PSPG further supported this consideration.\n- **Exclusion of Alternatives**: Recurrent negative tissue and blood cultures excluded conventional infectious causes. Lack of improvement with surgical debridement and antibiotics ruled out uncomplicated surgical site necrosis.\n- **Confirmation of PSPG**: Diagnosis was confirmed with skin punch biopsy findings indicative of pyoderma gangrenosum in conjunction with clinical worsening despite standard infectious disease treatments.",
+        "final_diagnosis": "The patient was diagnosed with postsurgical pyoderma gangrenosum (PSPG), triggered by surgical trauma and potentially influenced by neoadjuvant chemotherapy, immunotherapy, and a familial predisposition. The diagnosis relied on a constellation of clinical findings, histopathological evidence, and exclusions of infectious causes.",
+        "diagnosis_results": "Postsurgical pyoderma gangrenosum (PSPG)."
+    },
+    "body_category": [
+        "Skin, Hair and Nails"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-8-14",
+    "checked_rare_disease": [],
+    "id": "PMC11495327",
+    "results": {
+        "content": "### Resoning:\n\n**Step 1: Understanding the Patient's Background and Initial Presentation**\n\nThe patient is a 37-year-old female who has undergone a series of treatments for stage 3A, triple-negative invasive ductal carcinoma of the right breast. She received neoadjuvant chemotherapy and immunotherapy before opting for bilateral skin-sparing mastectomies with axillary nodal staging and delayed breast reconstruction. Postoperatively, she developed complications on day 6, including fever, turbulent fluid in surgical drains, and later, skin necrosis and wound breakdown. Initial treatments with antibiotics and debridement did not resolve her symptoms.\n\n**Step 2: Analyzing the Postoperative Complications**\n\nThe postoperative complications started with fever and abnormal drain output, which could indicate an infection. However, despite antibiotic treatment and debridement, the symptoms persisted and worsened, leading to skin necrosis and wound dehiscence. This suggests that the underlying cause may not be solely infectious.\n\n**Step 3: Considering the Role of Family History**\n\nThe patient's daughter has a history of postsurgical pyoderma gangrenosum (PSPG) following breast reduction surgery. This raises the possibility of a familial predisposition to PSPG, which could be relevant in the differential diagnosis for the mother's current condition.\n\n**Step 4: Evaluating the Physical Examination Findings**\n\nThe physical examination revealed incisional changes, febrile episodes, leukocytosis, persistent skin necrosis, wound dehiscence, and progressive induration. These findings are nonspecific and can be associated with various postoperative complications, including infection, ischemia, or inflammatory conditions like pyoderma gangrenosum.\n\n**Step 5: Reviewing Ancillary Test Results**\n\nAll cultures (bacterial, fungal, mycobacterial) were negative, which makes an infectious etiology less likely. The skin punch biopsy showed histopathological findings consistent with pyoderma gangrenosum, which is a type of inflammatory skin condition that can occur in association with surgery or other precipitating factors.\n\n**Step 6: Differential Diagnosis Considerations**\n\nGiven the clinical presentation and test results, several conditions need to be considered:\n\n- **Infectious Causes:** Despite negative cultures, deep tissue or specific organism infections cannot be entirely ruled out. However, the persistence of symptoms despite antibiotic treatment makes this less likely.\n\n- **Ischemic Complications:** Such as flap necrosis, which could result from poor blood supply to the surgical sites. However, this typically presents acutely postoperatively and may not respond to standard treatments.\n\n- **Autoimmune or Inflammatory Disorders:** Pyoderma gangrenosum is a neutrophilic dermatosis that can occur in association with inflammatory bowel disease, rheumatoid arthritis, or other inflammatory conditions. It can also be associated with surgery, as seen in postsurgical pyoderma gangrenosum.\n\n- **Drug-Induced Skin Reactions:** Some medications can cause skin reactions that mimic pyoderma gangrenosum. Given the patient's history of chemotherapy and immunotherapy, this is a possible consideration.\n\n**Step 7: Weighing the Evidence for Pyoderma Gangrenosum**\n\nThe histopathological findings from the skin punch biopsy are consistent with pyoderma gangrenosum, which directly supports this diagnosis. Additionally, the clinical presentation of progressive skin necrosis and wound breakdown, along with the failure of antibiotic treatment, aligns with pyoderma gangrenosum. The familial history in the patient's daughter further suggests a possible genetic predisposition to this condition.\n\n**Step 8: Considering the Timing and Triggers**\n\nPyoderma gangrenosum can be triggered by surgery, and the timing of the patient's symptoms starting on postoperative day 6 is consistent with postsurgical pyoderma gangrenosum. The stress of surgery and the immunological changes associated with it may have precipitated the condition.\n\n**Step 9: Exploring Treatment Options for Pyoderma Gangrenosum**\n\nTreatment for pyoderma gangrenosum typically involves immunosuppressive therapies, such as corticosteroids, tacrolimus, or other immunomodulatory agents. Given that the patient has already received debridement and antibiotics without improvement, initiating treatment for pyoderma gangrenosum may be warranted.\n\n**Step 10: Consulting with Specialists**\n\nGiven the complexity of the case, involving specialists such as dermatologists and rheumatologists may be beneficial for confirming the diagnosis and optimizing treatment strategies. They can provide expertise in managing inflammatory skin conditions and guide the use of immunosuppressive therapies.\n\n**Step 11: Considering the Patient's Overall Health and Cancer History**\n\nThe patient has a history of triple-negative breast cancer and has undergone significant treatment, including chemotherapy and immunotherapy. It is essential to consider how any new treatment for pyoderma gangrenosum may interact with her cancer treatment and overall health status.\n\n**Step 12: Finalizing the Diagnosis**\n\nBased on the clinical presentation, negative cultures, histopathological findings consistent with pyoderma gangrenosum, and the presence of a familial history, the diagnosis of postsurgical pyoderma gangrenosum is most likely.\n\n### Answer:\n\nPostsurgical Pyoderma Gangrenosum"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Step 1: Understanding the Patient's Background and Initial Presentation**",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "The patient is a 37-year-old female who has undergone a series of treatments for stage 3A, triple-negative invasive ductal carcinoma of the right breast. She received neoadjuvant chemotherapy and immunotherapy before opting for bilateral skin-sparing mastectomies with axillary nodal staging and delayed breast reconstruction. Postoperatively, she developed complications on day 6, including fever, turbulent fluid in surgical drains, and later, skin necrosis and wound breakdown. Initial treatments with antibiotics and debridement did not resolve her symptoms.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "**Step 2: Analyzing the Postoperative Complications**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The postoperative complications started with fever and abnormal drain output, which could indicate an infection. However, despite antibiotic treatment and debridement, the symptoms persisted and worsened, leading to skin necrosis and wound dehiscence. This suggests that the underlying cause may not be solely infectious.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 3: Considering the Role of Family History**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The patient's daughter has a history of postsurgical pyoderma gangrenosum (PSPG) following breast reduction surgery. This raises the possibility of a familial predisposition to PSPG, which could be relevant in the differential diagnosis for the mother's current condition.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 4: Evaluating the Physical Examination Findings**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The physical examination revealed incisional changes, febrile episodes, leukocytosis, persistent skin necrosis, wound dehiscence, and progressive induration. These findings are nonspecific and can be associated with various postoperative complications, including infection, ischemia, or inflammatory conditions like pyoderma gangrenosum.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Step 5: Reviewing Ancillary Test Results**",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "All cultures (bacterial, fungal, mycobacterial) were negative, which makes an infectious etiology less likely. The skin punch biopsy showed histopathological findings consistent with pyoderma gangrenosum, which is a type of inflammatory skin condition that can occur in association with surgery or other precipitating factors.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Symptoms initially raised suspicion for surgical site infection or undrained fluid collection, leading to empirical antibiotic therapy and operative debridement.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Negative cultures and lack of resolution suggested alternate diagnoses.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Persisting necrotic and undermined skin changes with violaceous borders and a failed response to antibiotics and surgery suggested a possible diagnosis of PSPG.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Familial history of PSPG further supported the consideration of PSPG.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Recurrent negative tissue and blood cultures excluded conventional infectious causes.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> Lack of improvement with surgical debridement and antibiotics ruled out uncomplicated surgical site necrosis.",
+            "hit": true
+        },
+        {
+            "step": "<Step 7> Diagnosis of PSPG was confirmed with skin punch biopsy findings indicative of pyoderma gangrenosum and clinical worsening despite standard infectious disease treatments.",
+            "hit": true
+        },
+        {
+            "step": "<Step 8> The patient was diagnosed with postsurgical pyoderma gangrenosum (PSPG), triggered by surgical trauma and potentially influenced by neoadjuvant chemotherapy, immunotherapy, and a familial predisposition.",
+            "hit": true
+        },
+        {
+            "step": "<Step 9> The diagnosis relied on a constellation of clinical findings, histopathological evidence, and exclusions of infectious causes.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.8,
+    "factulity": 1.0,
+    "recall": 1.0
+}

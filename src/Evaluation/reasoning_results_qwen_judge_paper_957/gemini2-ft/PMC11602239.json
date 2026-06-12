@@ -1,0 +1,114 @@
+{
+    "raw_case": "\nSingle-port laparoscopic surgery as a useful diagnostic tool for primary ovarian lymphoma: a case report\n\n\nAbstract\n\nThe preoperative diagnosis of ovarian lymphoma, a rare pathology, is often difficult. Consequently, laparotomy is usually performed under the presumptive diagnosis of ovarian cancer. In cases where the initial curative surgery for ovarian cancer is challenging, diagnostic laparoscopy is performed. Herein, we report a case in which single-port laparoscopic surgery effectively diagnosed primary ovarian lymphoma. A 55-year-old woman presented with abnormal uterine bleeding. PET-CT findings suggested ovarian cancer with multiple metastases. Single-port laparoscopic surgery was performed because curative surgery was deemed difficult. She had an uneventful recovery and was discharged on the fourth postoperative day. After the pathological diagnosis was made, she was referred to the hematology department for treatment. Diagnostic laparoscopy is recommended for advanced ovarian cancer to facilitate early postoperative treatment. This case highlights the utility of single-port laparoscopic surgery in the accurate diagnosis and early treatment of intraperitoneal malignancies.\n\nIntroduction\n\nMalignant lymphoma is classified into Hodgkin and non-Hodgkin lymphoma, with the latter further categorized into nodal and extranodal types based on the site of origin. Primary ovarian malignant lymphoma, a rare condition, has nonspecific clinical manifestations. While biopsy with histopathology is essential for diagnosis, open biopsy is preferable because needle biopsy often procures insufficient samples [1].Diagnostic laparoscopic surgery for advanced ovarian cancer offers the advantage of avoiding unnecessary laparotomies and allowing for early initiation of chemotherapy following histopathological diagnosis [2]. Among the surgical approaches, single-port surgery has been shown to reduce postoperative pain, minimize analgesic use, and offer superior cosmetic outcomes [3].Herein, we report a case of primary ovarian malignant lymphoma in which single-port laparoscopic surgery was instrumental in the diagnosis and perform a review of the literature.\n\nCase report\n\nA 55-year-old nulligravid postmenopausal female whose medical history included a cholecystectomy at age 51 indicated for acute cholecystitis. She presented to her previous physician with abnormal uterine bleeding and was referred to our hospital after imaging studies revealed an ovarian mass with solid components.During her first visit, transvaginal ultrasonography revealed solid masses in both ovaries. Blood tests revealed unremarkable findings. Pelvic magnetic resonance imaging (MRI) revealed a mass measuring 2.3 cm in the right ovary and another one measuring 5 cm in the left ovary, both with a slightly high signal intensity on T2-weighted images and isointense with the myometrium on T1-weighted images, with smooth surfaces and homogeneous internal structures. There was also restricted diffusion, mild contrast enhancement, right external iliac lymph node enlargement, and disseminated mesenteric nodules (Fig. 1). CT revealed bilateral solid ovarian masses with mild contrast enhancement. The presence of multiple masses in the right pelvic cavity and mesentery suggested peritoneal dissemination. Positron emission tomography (PET-CT) revealed uptake in the ovaries and mesentery (Fig. 2). Upper and lower gastrointestinal endoscopy revealed unremarkable findings. Considerably, ovarian cancer with multiple metastases was suspected.Given the extensive mesenteric dissemination, primary debulking surgery was deemed infeasible, and a laparoscopic biopsy was programmed for her histopathological diagnosis. The surgical procedure was performed under general anesthesia with the patient in the lithotomy position. A 2.5 cm-long incision was made at the umbilicus, and single-port laparoscopy was performed using a Lap Protector (Hakko, Tokyo) and EZ access ports (Hakko, Tokyo). Intra-abdominal findings included a right ovary measuring 3 cm, a left ovary measuring 6 cm, and multiple enlarged mesenteric lymph nodes, findings that were inconsistent with epithelial ovarian tumors (Fig. 3). Bilateral salpingo-oophorectomy was performed, and the specimens were retrieved through the umbilical incision. The surgery duration was 52 min, and the estimated intraoperative blood loss was 2 ml. Intraoperative frozen histopathology revealed a diagnosis of malignant lymphoma.The resected specimens revealed lobulated, multiple nodular lesions. Histopathologically, hematoxylin and eosin (HE) staining revealed that the ovaries were entirely replaced by nodular lymphocytic proliferation, with a monotonous proliferation of medium-sized lymphocytes resembling centrocytes. Immunohistochemistry revealed that the plasmacytoid cells forming the nodules tested positive for CD20, CD79α, CD10, and Bcl-2, whereas CD21 and CD23 tested positive within the nodules. These findings led to the diagnosis of follicular lymphoma (Fig. 4).The patient’s postoperative course was uneventful, and she was discharged on postoperative day 4. She was transferred to the hematology department for further management. Based on the findings of a hematological evaluation, no pharmacological treatment was initiated, and the patient was placed under careful observation.\n\nDiscussion\n\nPrimary lymphoma of the female genital tract (PLFGT), a rare condition, accounts for 0.2%–1.1% of non-Hodgkin lymphomas [4]. The ovary (37%) is the most common of all female genital tract sites, followed by the cervix (21.4%) and uterus (16.5%) [5]. The most frequent histological type is diffuse large B-cell lymphoma, with follicular lymphoma being the second most common [6]. Follicular lymphoma is classified as a low-grade lymphoma with slow progression over several years; however, it can become more aggressive upon relapse, making it difficult to treat [1]. Treatment is determined based on the malignancy’s clinical classification per the Ann Arbor staging system, supported by histopathology, blood tests, and imaging findings [1]. For follicular lymphoma, treatment options include chemotherapy, radiotherapy, or careful observation without treatment, depending on the disease stage and tumor burden [1].In advanced ovarian cancer, the size of the residual tumors correlates with the prognosis, making complete tumor resection the main objective of surgery [2]. In cases where complete resection or optimal surgery (residual tumor <1 cm) is not feasible, neoadjuvant chemotherapy followed by interval debulking surgery is recommended [2]. Diagnostic laparoscopic surgery helps avoid unnecessary laparotomies in advanced ovarian cancer and allows for early initiation of chemotherapy after histological diagnosis, thereby reducing the likelihood of suboptimal surgery during the initial laparotomy [2]. As reported by Misawa et al. [7], our institution uses single-port laparoscopic surgery for the diagnosis of advanced ovarian cancer. Multiple tissue samples are taken from different locations (including the primary tumor) to enhance diagnostic accuracy [7]. Moreover, single-port laparoscopy offers advantages such as reduced invasiveness due to smaller incisions, fewer ports, and lower risk of tumor spread, allowing earlier initiation of chemotherapy [8].Immunohistochemistry and cytogenetic testing are required to diagnose malignant lymphoma. This necessitates adequate histopathological sampling for which open biopsy is preferred [1]. Because the clinical and imaging findings of primary ovarian lymphoma are nonspecific, the condition is challenging to diagnose before surgery [9]. Consequently, patients often have to undergo laparotomy for presumed ovarian cancer [10], and there are no reports of laparoscopic or single-port laparoscopic surgery for this condition.In this case, the patient’s clinical findings were consistent with ovarian cancer, leading us to suspect the latter, and we proceeded with a laparoscopic biopsy. Single-port laparoscopic surgery enabled sufficient tissue sampling for an accurate diagnosis and facilitated rapid postoperative recovery, enabling timely referral to a tertiary institution. Considerably, single-port laparoscopic surgery appears to be a minimally invasive and safe diagnostic option for malignant lymphoma.\n\nConclusion\n\nSingle-port laparoscopic surgery is a minimally invasive procedure, instrumental in accurately diagnosing primary ovarian lymphoma.",
+    "generate_case": {
+        "case_summary": "- **Patient Information**: 55-year-old postmenopausal nulligravid female.\n- **Chief Complaint**: Abnormal uterine bleeding.\n- **History of Present Illness**: Ovarian masses detected on imaging studies during evaluation for abnormal uterine bleeding.\n- **Past Medical History**: Cholecystectomy at age 51 for acute cholecystitis.\n- **Personal History**: None provided.\n- **Family History**: None provided.\n- **Physical Examination**: None provided.\n- **Ancillary Tests**: \n  - **Imaging**:\n    - Transvaginal ultrasonography: Bilateral solid ovarian masses.\n    - MRI: Right ovary mass (2.3 cm), left ovary mass (5 cm), isointensity with myometrium, restricted diffusion, mild contrast enhancement, right iliac lymph node enlargement, mesenteric nodules.\n    - CT: Bilateral solid ovarian masses with mild contrast enhancement, peritoneal dissemination suspected.\n    - PET-CT: Uptake in ovaries and mesentery.\n    - Gastrointestinal endoscopies: Unremarkable findings.\n  - **Surgical Findings**: Bilateral salpingo-oophorectomy via single-port laparoscopic surgery revealed nodular lesions in both ovaries and multiple enlarged mesenteric lymph nodes.\n  - **Histopathology**:\n    - Hematoxylin and eosin staining: Nodular lymphocytic proliferation replacing ovaries.\n    - Immunohistochemical markers positive for CD20, CD79α, CD10, Bcl-2, CD21, and CD23, consistent with follicular lymphoma.",
+        "differential_diagnosis": "1. **Initial Considerations**:\n   - Based on clinical and imaging features, ovarian cancer with metastases was the primary suspicion (commonly presenting with bilateral ovarian masses and peritoneal dissemination).\n   \n2. **Histopathological Investigation**:\n   - Diagnostic single-port laparoscopy was utilized to collect tissue samples. Intraoperative evaluation noted findings inconsistent with epithelial ovarian tumors (e.g., nodular, lymphocytic proliferation).\n   - Histopathological evaluation confirmed malignant lymphoma, excluding ovarian cancer.\n\n3. **Subtype Identification**:\n   - Immunohistochemical profiling identified follicular lymphoma based on characteristic markers (e.g., CD20 positivity), excluding other lymphoma subtypes like diffuse large B-cell lymphoma.",
+        "final_diagnosis": "Primary ovarian follicular lymphoma.",
+        "diagnosis_results": "Primary ovarian follicular lymphoma."
+    },
+    "body_category": [
+        "Immune System"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-10-16",
+    "checked_rare_disease": [],
+    "id": "PMC11602239",
+    "results": {
+        "content": "### Resoning:\n<step 1> Analyze the chief complaint and patient demographics: A 55-year-old postmenopausal woman presents with abnormal uterine bleeding. Postmenopausal bleeding is always concerning and requires investigation, often to rule out endometrial pathology.\n\n<step 2> Review the history of present illness and imaging findings:  Ovarian masses were detected during the evaluation for abnormal uterine bleeding. Imaging, including TVUS, MRI, CT, and PET-CT, consistently reveals bilateral solid ovarian masses with features suggestive of malignancy such as restricted diffusion, mild contrast enhancement, and evidence of lymph node involvement (right iliac and mesenteric) and suspected peritoneal dissemination. These findings broaden the differential diagnosis beyond typical gynecological causes of abnormal uterine bleeding to include ovarian malignancies and potentially metastatic disease.\n\n<step 3> Consider past medical history and family/personal history: The past medical history of cholecystectomy is likely not directly relevant to the current presentation.  The absence of provided personal and family history limits the ability to assess for hereditary cancer syndromes, but in this acute diagnostic context, it is less critical than the direct findings.\n\n<step 4> Evaluate surgical findings:  Laparoscopic bilateral salpingo-oophorectomy confirmed the presence of nodular lesions in both ovaries and enlarged mesenteric lymph nodes. This surgical exploration was crucial for obtaining tissue for definitive diagnosis.\n\n<step 5> Interpret histopathology and immunohistochemistry results: The histopathology report describes nodular lymphocytic proliferation replacing the ovaries. This is highly suggestive of a lymphoproliferative disorder, specifically lymphoma, rather than a typical epithelial ovarian cancer.  The immunohistochemical markers are key: positive staining for CD20, CD79α, CD10, Bcl-2, CD21, and CD23 is a characteristic immunophenotype for Follicular Lymphoma, a type of B-cell non-Hodgkin lymphoma. CD20 and CD79α are general B-cell markers. CD10, Bcl-2, CD21, and CD23 are frequently expressed in follicular lymphoma and help to distinguish it from other B-cell lymphomas.\n\n<step 6> Synthesize all findings to arrive at the final diagnosis:  Combining the clinical presentation (abnormal uterine bleeding, ovarian masses), imaging findings (bilateral solid ovarian masses, lymphadenopathy, peritoneal dissemination), surgical findings (nodular ovarian and mesenteric lesions), and, most importantly, the definitive histopathology and immunohistochemistry results (nodular lymphocytic proliferation with CD20+, CD79α+, CD10+, Bcl-2+, CD21+, CD23+), the final diagnosis is unequivocally **Follicular Lymphoma**. The ovarian involvement is likely secondary, given the mesenteric lymph node involvement, although primary ovarian lymphoma is also a possibility, albeit less common.  The IHC profile strongly supports Follicular Lymphoma.\n\n### Answer:\nFollicular Lymphoma"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Analyze the chief complaint and patient demographics: A 55-year-old postmenopausal woman presents with abnormal uterine bleeding. Postmenopausal bleeding is always concerning and requires investigation, often to rule out endometrial pathology.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Review the history of present illness and imaging findings:  Ovarian masses were detected during the evaluation for abnormal uterine bleeding. Imaging, including TVUS, MRI, CT, and PET-CT, consistently reveals bilateral solid ovarian masses with features suggestive of malignancy such as restricted diffusion, mild contrast enhancement, and evidence of lymph node involvement (right iliac and mesenteric) and suspected peritoneal dissemination. These findings broaden the differential diagnosis beyond typical gynecological causes of abnormal uterine bleeding to include ovarian malignancies and potentially metastatic disease.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Consider past medical history and family/personal history: The past medical history of cholecystectomy is likely not directly relevant to the current presentation.  The absence of provided personal and family history limits the ability to assess for hereditary cancer syndromes, but in this acute diagnostic context, it is less critical than the direct findings.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Evaluate surgical findings:  Laparoscopic bilateral salpingo-oophorectomy confirmed the presence of nodular lesions in both ovaries and enlarged mesenteric lymph nodes. This surgical exploration was crucial for obtaining tissue for definitive diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Interpret histopathology and immunohistochemistry results: The histopathology report describes nodular lymphocytic proliferation replacing the ovaries. This is highly suggestive of a lymphoproliferative disorder, specifically lymphoma, rather than a typical epithelial ovarian cancer.  The immunohistochemical markers are key: positive staining for CD20, CD79α, CD10, Bcl-2, CD21, and CD23 is a characteristic immunophenotype for Follicular Lymphoma, a type of B-cell non-Hodgkin lymphoma. CD20 and CD79α are general B-cell markers. CD10, Bcl-2, CD21, and CD23 are frequently expressed in follicular lymphoma and help to distinguish it from other B-cell lymphomas.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Synthesize all findings to arrive at the final diagnosis:  Combining the clinical presentation (abnormal uterine bleeding, ovarian masses), imaging findings (bilateral solid ovarian masses, lymphadenopathy, peritoneal dissemination), surgical findings (nodular ovarian and mesenteric lesions), and, most importantly, the definitive histopathology and immunohistochemistry results (nodular lymphocytic proliferation with CD20+, CD79α+, CD10+, Bcl-2+, CD21+, CD23+), the final diagnosis is unequivocally **Follicular Lymphoma**. The ovarian involvement is likely secondary, given the mesenteric lymph node involvement, although primary ovarian lymphoma is also a possibility, albeit less common.  The IHC profile strongly supports Follicular Lymphoma.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Based on clinical and imaging features, ovarian cancer with metastases was the primary suspicion (commonly presenting with bilateral ovarian masses and peritoneal dissemination).",
+            "hit": false
+        },
+        {
+            "step": "<Step 2> Diagnostic single-port laparoscopy was used to collect tissue samples; intraoperative evaluation noted findings inconsistent with epithelial ovarian tumors (e.g., nodular, lymphocytic proliferation).",
+            "hit": false
+        },
+        {
+            "step": "<Step 3> Histopathological evaluation confirmed malignant lymphoma, excluding ovarian cancer.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Immunohistochemical profiling identified follicular lymphoma based on characteristic markers (e.g., CD20 positivity), excluding other lymphoma subtypes like diffuse large B-cell lymphoma.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Final diagnosis: Primary ovarian follicular lymphoma.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.6
+}

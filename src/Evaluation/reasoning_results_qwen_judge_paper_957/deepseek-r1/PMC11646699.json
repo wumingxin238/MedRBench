@@ -1,0 +1,116 @@
+{
+    "raw_case": "\nForearm mystery: rare flexor carpi radialis muscle cysticercosis\n\n\nAbstract\n\nThis case report describes a rare instance of muscle cysticercosis in a 16-year-old vegetarian female from an endemic region, highlighting the challenges in diagnosing atypical presentations of the disease. The patient presented with a 2-month history of persistent pain and swelling in the right forearm, which did not respond to over-the-counter analgesics. A clinical examination identified a non-tender, immobile swelling, and imaging studies suggested cysticercosis. Despite treatment with albendazole and non steroidal anti-inflammatory drugs (NSAIDs), the swelling persisted, necessitating surgical intervention. The excised cyst was confirmed as cysticercosis through histopathological examination. This case underscores the importance of considering cysticercosis in the differential diagnosis of soft tissue swellings, particularly in endemic areas, and emphasizes the role of imaging and histopathology in ensuring accurate diagnosis. Preventive measures such as improved sanitation and hygiene are crucial in controlling the spread of cysticercosis.\n\nIntroduction\n\nHuman cysticercosis is commonly found across various regions, such as Africa, Southeast Asia, and Eastern Europe [1]. The prevalence is significantly greater in impoverished regions as a result of a convergence of factors including rural living conditions, high population density, and insufficient sanitation. These circumstances promote greater interaction between humans and pigs, hence increasing the likelihood of faecal contamination. Cysticercosis is highly prevalent in Northern India, specifically in the states of Bihar, Uttar Pradesh, and Punjab [2].Neurocysticercosis is a disease resulting from the larvae of the tapeworm Taenia solium, particularly the cysticercus cellulosae form [3]. Both humans and swine serve as hosts for this parasite during its lifecycle. The adult parasites are contained in the small intestines of humans, who are the primary hosts. Pigs are the secondary hosts, harbouring the larval stages [4]. Pigs in regions with inadequate sanitation consume eggs that are produced in the excrement of taenia-infected humans. Eggs are absorbed into the bloodstream after they are ingested and pass through the intestinal wall. In the tissues of the intermediate host, such as the striated muscles, they develop into oncospheres and subsequently into metacestodes. These embryonic forms, known as metacestodes, develop into cysticerci, which are vesicular structures that contain a scolex that is folded inward. Humans consume undercooked pork that contains cysticerci, which causes the larvae to enter the gastrointestinal tract, protrude, attach to the mucosa, and mature into adult worms. These mature worms subsequently produce eggs, which are ejected through human excrement, thereby maintaining the life cycle. The human host of the tapeworm is a source of infection for both humans and swine [5]. The human gut (Taeniasis), brain (neurocysticercosis, NCC), or musculature (cysticercosis) are where the parasites can be found, whether in their mature form or as larvae [6]. The mature T. solium exhibits a remarkable capacity for fecundity and reproduction, ensuring the species’ survival and longevity [7]. Because of this, it is imperative to concentrate on the individual who possesses the human tapeworm in order to implement control measures. In this report, we describe an unusual case of muscle cysticercosis, marked by persistent forearm swelling that remained despite conservative management.\n\nCase report\n\nA 16-year-old female student who adheres to a vegetarian diet and has no known comorbidities presented to the Plastic Surgery outpatient department with a 2-month history of pain and swelling in the right forearm. There was no history of headache, seizure, or blurred vision. Despite the administration of over-the-counter analgesics, she did not experience any relief. In the proximal third of the right forearm, she was found to have swelling measuring 3 × 3 cm during the examination. It was non-tender, immobile, and attached to the underlying muscle, with a firm to rigid consistency. She was referred to the radiologist for a soft tissue ultrasound, which revealed a 14.6 × 4 mm hypoechoic lesion in the flexor aspect of the proximal right forearm. The lesion was accompanied by moving linear internal echoes, which are indicative of worm infestation/cysticercosis. The soft tissue MRI was indicative of a well-defined cystic lesion with an eccentric mural nodule in the intramuscular plane, as well as mild perilesional oedema (Fig. 1). The patient received oral Albendazole at a dose of 400 mg twice daily combined with nonsteroidal anti-inflammatory medications for 6 weeks; however, the swelling did not improve with this treatment. She was subsequently admitted and planned for surgical excision. Biochemical tests yielded normal results, and after obtaining informed consent, she proceeded to surgery. The cyst was discovered intraoperatively, embedded between the muscle fibres (Fig. 2). It was excised on the table, revealing scolex (Fig. 3), and the cut specimen was subsequently sent for histopathological examination which confirmed the diagnosis (Fig. 4). Albendazole was also recommended to the patient’s family members in order to prevent recurrence and eliminate the carrier state. At the 2-month follow-up, the patient is asymptomatic and conducting all of her activities in the same manner as before.\n\nDiscussion\n\nThe significance of taking into account uncommon manifestations of cysticercosis, such as muscle involvement, is highlighted by the case studied. This is especially true in regions where the disease is prevalent. The most prevalent presentation is neurocysticercosis; however, extra neuronal involvement presents diagnostic challenges and necessitates a multidisciplinary approach for precise diagnosis and management. A comprehensive evaluation was initiated after the patient’s initial clinical presentation of isolated forearm swelling in order to exclude a variety of differential diagnoses, such as soft tissue tumours, abscesses, or inflammatory conditions. In 25% of cysticercosis cases, teniasis is associated. Prior to diagnoses of isolated cysticercosis, it is imperative to exclude this possibility [8]. The diagnostic accuracy of cysticercosis was significantly altered by the introduction of computed tomography (CT) and magnetic resonance imaging (MRI), as they offer confirmation of the number and topography of lesions, as well as their stage of involution [9]. Enzyme-linked immunoelectron transfer blot assays can be employed to identify antibodies to species-specific antigens of T. solium [10]. The laboratory findings of eosinophilia, increased IgG levels, and, most importantly, a positive enzyme-linked immunosorbent assay (ELISA) test for IgG antibodies against T. solium are crucial indicators [11]. Promoting the inspection of green leafy vegetables and meat, thoroughly washing produce, cooking meat completely, consuming boiled or filtered water, and washing hands thoroughly before meals should be practiced [12]. In addition, the prevention and management of cysticercosis in endemic regions are contingent upon the enhancement of public health measures, such as sanitation and hygiene practices.\n\nConclusion\n\nIn endemic regions, the case report of isolated muscle cysticercosis in the forearm emphasizes the necessity of being cognizant of uncommon cysticercosis presentations. This case serves as an example of the diagnostic obstacles that atypical manifestations present, necessitating a comprehensive assessment and a multidisciplinary approach to ensure exact diagnosis and treatment. Reducing the prevalence of cysticercosis necessitates preventive measures, such as educating the public on appropriate food handling and cooking practices, promoting hygiene, and enhancing sanitation. It is possible to achieve favourable outcomes and prevent complications by implementing early diagnosis and appropriate treatment.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 16-year-old female, vegetarian, student.\n- **Chief Complaint:** Persistent pain and swelling in the right forearm for 2 months.\n- **History of Present Illness:** Pain and swelling in the right forearm that was unresponsive to over-the-counter analgesics. No associated symptoms such as headache, seizure, or blurred vision.\n- **Past Medical History:** None.\n- **Personal History:** Vegetarian diet; resides in an endemic region.\n- **Family History:** None reported.\n- **Physical Examination:** Non-tender, immobile swelling measuring 3x3 cm in the proximal third of the right forearm. Firm to rigid consistency and attached to underlying muscle.\n- **Ancillary Tests:**\n  - Ultrasound: Hypoechoic lesion (14.6x4 mm) with linear internal echoes, suggestive of worm infestation/cysticercosis.\n  - MRI: Well-defined cystic lesion with eccentric mural nodule and mild perilesional edema in the intramuscular plane.\n  - Biochemical tests: Normal.\n  - Histopathology: Post-surgical confirmation of cysticercosis.",
+        "differential_diagnosis": "- **Initial Differential Diagnoses:**\n  1. **Soft tissue tumors (e.g., lipomas, sarcomas):** Considered due to the swelling and firm consistency but excluded based on imaging features inconsistent with neoplasms.\n  2. **Abscess or inflammatory conditions:** Non-tender swelling and imaging findings of a defined cyst were less consistent with infection or inflammation.\n  3. **Cysticercosis:** Highly considered due to the hypoechoic lesion with internal echoes on ultrasound, MRI findings of an eccentric mural nodule, and the endemic nature of the patient’s location.\n- **Further Evaluation and Confirmation:**\n  - Imaging findings strongly supported the diagnosis of muscle cysticercosis.\n  - Surgical excision and histopathological examination confirmed the presence of cysticercosis (presence of scolex).\n  - Excluded neurocysticercosis due to a lack of neurological symptoms and no imaging findings suggestive of CNS involvement.",
+        "final_diagnosis": "Isolated muscle cysticercosis localized to the flexor carpi radialis muscle in the right forearm.",
+        "diagnosis_results": "Muscle cysticercosis."
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-8-30",
+    "checked_rare_disease": [],
+    "id": "PMC11646699",
+    "results": {
+        "thinking_process": "Okay, let's start by going through the case step by step. The patient is a 16-year-old female vegetarian from an endemic region. Her main issue is a persistent right forearm swelling and pain for two months. The pain didn't respond to OTC meds, which is interesting because usually, if it's something like a muscle strain or minor injury, those might help. No other symptoms like headaches or seizures, which could point to neurocysticercosis, but maybe that's not the case here.\n\nLooking at her history, being a vegetarian might make me think about nutritional deficiencies, but the key here is that she's from an endemic region. Endemic for what? Well, cysticercosis is common in areas with poor sanitation where pork tapeworm (Taenia solium) is prevalent. Even though she's vegetarian, if the region has issues with contaminated food or water, she could ingest the eggs. So that's a possible link.\n\nPhysical exam shows a non-tender, immobile swelling attached to the underlying muscle. The firm consistency suggests it's not just a simple cyst or lipoma. The ultrasound points towards a hypoechoic lesion with linear echoes, which are signs of cysticercosis. The MRI showing a cystic lesion with an eccentric nodule (the scolex) is classic for cysticercosis. The perilesional edema could be due to inflammation around the dying larva. \n\nBiochemical tests being normal rules out other systemic issues, like infections or metabolic disorders. The histopathology after surgery confirmed cysticercosis, so that's the gold standard. Even though the initial presentation didn't involve neurological symptoms, the location in the muscle fits with muscular cysticercosis. \n\nPutting it all together: the endemic region, imaging findings, histopathology confirmation. The vegetarian diet might have thrown me off initially, but cysticercosis isn't about eating pork; it's about ingesting eggs from contaminated sources. So the diagnosis here is definitely cysticercosis.",
+        "content": "```\n### Resoning:\n<step 1> The patient is a 16-year-old female from an endemic region with a vegetarian diet, presenting with a persistent, non-tender, immobile right forearm swelling. The lack of systemic symptoms (e.g., headache, seizure) suggests a localized process rather than disseminated disease.  \n\n<step 2> Imaging findings (ultrasound and MRI) are characteristic of cysticercosis: a well-defined cystic lesion with an eccentric mural nodule (scolex) and perilesional edema. These features align with the larval stage of *Taenia solium*.  \n\n<step 3> The histopathological confirmation post-surgery eliminates other differentials (e.g., benign tumors, abscesses) and solidifies the diagnosis.  \n\n<step 4> Although the patient is vegetarian, cysticercosis transmission occurs via fecal-oral route (ingestion of *T. solium* eggs from contaminated food/water), not meat consumption, explaining the compatibility with her dietary history.  \n\n<step 5> The endemicity of the region further supports the likelihood of exposure to *T. solium* eggs.  \n\n### Answer:\nCysticercosis"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient is a 16-year-old female from an endemic region with a vegetarian diet, presenting with a persistent, non-tender, immobile right forearm swelling. The lack of systemic symptoms (e.g., headache, seizure) suggests a localized process rather than disseminated disease.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Imaging findings (ultrasound and MRI) are characteristic of cysticercosis: a well-defined cystic lesion with an eccentric mural nodule (scolex) and perilesional edema. These features align with the larval stage of *Taenia solium*.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The histopathological confirmation post-surgery eliminates other differentials (e.g., benign tumors, abscesses) and solidifies the diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Although the patient is vegetarian, cysticercosis transmission occurs via fecal-oral route (ingestion of *T. solium* eggs from contaminated food/water), not meat consumption, explaining the compatibility with her dietary history.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The endemicity of the region further supports the likelihood of exposure to *T. solium* eggs.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Initial differential diagnoses included soft tissue tumors (e.g., lipomas, sarcomas), abscess or inflammatory conditions, and cysticercosis.",
+            "hit": false
+        },
+        {
+            "step": "Step 2: Soft tissue tumors were excluded based on imaging features inconsistent with neoplasms.",
+            "hit": false
+        },
+        {
+            "step": "Step 3: Abscess or inflammatory conditions were less consistent with infection or inflammation given the non-tender swelling and imaging findings.",
+            "hit": true
+        },
+        {
+            "step": "Step 4: Cysticercosis was highly considered due to the hypoechoic lesion with internal echoes on ultrasound, MRI findings of an eccentric mural nodule, and the endemic nature of the patient's location.",
+            "hit": true
+        },
+        {
+            "step": "Step 5: Imaging findings strongly supported the diagnosis of muscle cysticercosis.",
+            "hit": true
+        },
+        {
+            "step": "Step 6: Surgical excision and histopathological examination confirmed the presence of cysticercosis (presence of scolex).",
+            "hit": true
+        },
+        {
+            "step": "Step 7: Neurocysticercosis was excluded due to the absence of neurological symptoms and lack of imaging findings suggestive of CNS involvement.",
+            "hit": false
+        },
+        {
+            "step": "Step 8: Final diagnosis: Isolated muscle cysticercosis localized to the flexor carpi radialis muscle in the right forearm.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.5
+}

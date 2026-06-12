@@ -1,0 +1,120 @@
+{
+    "raw_case": "\nGiant primary omental cyst: an unusual cause of pseudoascites and hydrocele in a child\n\n\nAbstract\n\nAbdominal lymphangiomas are benign congenital abnormal dilatation and proliferation of lymphatic spaces primarily seen in children. The wide spectrum of symptoms challenges preoperative diagnoses. We present a rare case of a 2-year-old boy presented to pediatrician with massive abdominal distention and left scrotal swelling since the age of 1½ years. Diagnosed and treated as ascites, the patient was referred to pediatric surgery for ascitic tap and hydrocele repair. An abdominal CT scan revealed a giant omental cyst. Laparotomy was performed to excise the cyst extending into left scrotum, and deep left inguinal ring was closed from within. Lymphangioma was histopathologically confirmed. To the best of our knowledge to date, only one case of an omental cystic lymphangioma presenting as bilateral hydroceles without abdominal symptoms has been reported. Nevertheless, this case is unique for the presentation of pseudoascites and a unilateral hydrocele.\n\nIntroduction\n\nOmental cysts are rare benign intra-abdominal lymphangiomas, formed due to malformations of the lymphatic system. Lymphangiomas are primarily (78%) seen in children <5 years old, with an incidence of 1: 250 000 [1]. These mainly (95%) occur in the head, neck or axilla, with a few (5%) found in the lungs, mediastinum, adrenal glands, kidney and bone. Even less common places include the mesentery, omentum, retroperitoneum, gastrointestinal tract, spleen, liver and pancreas [2].Omental cysts can be an incidental finding or may present as abdominal pain or a mass. The mass may be huge, simulating ascites. Rarely present as acute abdomen due to peritonitis, hemoperitoneum or volvulus. This varied spectrum of symptoms challenges diagnoses [1].Complete surgical excision remains the gold standard and the final diagnosis is histopathologically confirmed [3]. We present a rare case of a 2 years old boy, initially diagnosed and treated as ascites, but finally proved to have a giant omental cyst, presenting as pseudoascites and left sided hydrocele since the age of 6 months.\n\nCase presentation\n\nA 2 years old boy presented in pediatric emergency at his local hospital with painless abdominal distention and left scrotal swelling of gradual onset over the last 1½ years. The child was unable to walk. No history of infectious or other gastrointestinal symptoms. No history of trauma. His physical examination revealed a massively distended abdomen and visible veins without organomegaly (Fig. 1). Scrotal examination revealed gross left inguinoscrotal swelling, non-tender with normal overlying skin (Fig. 2). The swelling was partially reducible but would refill instantaneously on release of the pressure. Transillumination was positive. The left testis could not be felt. The rest of his examination was normal.His complete blood count, serum electrolytes, renal and liver function tests were within normal range. A large cystic multiloculated abdominoscrotal lesion was highlighted in the abdominal ultrasound. The abdomen and pelvis CT with contrast showed a huge hypodense cystic lesion around 25x30 cm with hyperdense multiple internal septations without solid component causing compression and posterior displacement of bowel loops (Fig. 3). It extended through the left inguinal canal into scrotum (Fig. 4). The patient was referred to the pediatric surgery department for reassessment. Subsequently, the decision was made to go for excision.The patient underwent a median laparotomy. After opening the peritoneum, a large cyst arising from the greater omentum was noted (Fig. 5). It extended from subhepatic space to the left scrotum through the left inguinal canal. Approximately 25×30 cm large, it was multiloculated and contained straw- colored fluid (Fig. 6). Around 7 L of turbid yellowish fluid were evacuated to facilitate excision. It was neither adherent to the bowel nor other structures. The cyst was gently mobilized from the scrotal space and completely excised. The left hernia orifice was closed at the level of the deep inguinal ring, using purse string sutures.Post-operatively, the patient was kept on antibiotics and IV fluid and allowed oral intake on the second postoperative day. The hospital course was uneventful. The patient was discharged on the 6th day. Histopathology confirmed the diagnosis of omental cystic lymphangioma. The patient received 3-monthly check-ups for an annum and annual thereafter. Currently, at the age of 5 years, the patient presents no signs of recurrence and is growing as a normal healthy child.\n\nDiscussion\n\nIntra-abdominal lymphangiomas are rare. Between the small bowel and retroperitoneal tissue, a lack of communication with the main lymphatic vessels forms a mass that may develop into mesenteric and omental lymphatic cysts [4]. Lesions located in the abdomen can grow without causing symptoms until later stages. [5].Giant omental cysts represent a challenge for radiologists and surgeons. A high index of suspicion is required. The present case was initially diagnosed as ascites of unknown origin with left hydrocele. Referred to pediatric surgery for ascitic tap and hydrocele repair, the surgeon clinically suspected intraabdominal lymphangioma based on age and absence of any specific causes of ascites in this age. The CT abdomen was reviewed and in correlation with clinical suspicion, the diagnosis was made.Despite the ability of ultrasound and computed tomography (CT) scans to assess the origin, size, and relationship of cysts with other structures, magnetic resonance imaging (MRI) is the most useful imaging modality. Intrinsic attenuation can vary from near water to fat attenuation, depending on the amount of chyle present [6]. US is suggestive of intra-abdominal cystic lymphangioma. However, in our case, the CT findings were sufficiently informative, and the findings were consistent with the CT report. Additionally, an MRI required patient transfer. Nevertheless, an MRI may have shortened the diagnosis and avoided multiple ascitic aspirations.Complete excision is the treatment of choice to avoid risk of recurrence [7]. Some recent studies have demonstrated successful resection of abdominal lymphatic malformations using laparoscopy [8]. Considering the technical difficulties of such a huge mass and rate of recurrence, laparotomy was the most appropriate choice for this case.Retroperitoneal lymphangioma is known to present as hydrocele, but the presentation of an omental cyst as abdominal distension and hydrocele is extremely rare. A case was initially diagnosed as retroperitoneal lymphangioma and intraoperatively found to originate from the greater omentum [9]. Another case reported an omental cyst with solely bilateral inguinoscrotal swelling without abdominal symptoms [10]. This first case from Libya is unique, as our patient presented an omental cyst with massive abdominal distension extending to the left scrotum, mimicking other causes of ascites and left hydrocele, the reason for its misdiagnosis as ascites of unknown origin. To the best of our knowledge, this is perhaps the first case of omental cystic lymphangioma presented with abdominal ascites and left hydrocele.\n\nConclusion\n\nOmental cystic lymphangioma is a rare cause of ascites in children. However, in the absence of hepatic, renal, or cardiac causes, there should be a high index of suspicion.Abdomen US and CT scans are common diagnostic tools. If available, MRI presents more details regarding the cyst contents and is helpful in characterizing soft tissues. The preferred treatment is complete excision through either a laparotomy or a laparoscopic approach.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 2-year-old boy.\n- **Chief Complaint:** Painless abdominal distension and left scrotal swelling.\n- **History of Present Illness:** Gradual onset of abdominal distension and left scrotal swelling over 1.5 years. No infectious or gastrointestinal symptoms. No history of trauma.\n- **Past Medical History:** None.\n- **Personal History:** None mentioned.\n- **Family History:** None mentioned.\n- **Physical Examination:** Massively distended abdomen with visible veins and no organomegaly. Gross left inguinoscrotal swelling, non-tender, with normal overlying skin. Swelling partially reducible and transilluminates positively. Left testis not palpable. Rest of the examination was normal.\n- **Ancillary Tests:** \n  - Complete blood count, serum electrolytes, renal, and liver function tests were within normal range. \n  - Abdominal ultrasound: Large multiloculated abdominoscrotal cystic lesion.\n  - CT abdomen and pelvis: 25 × 30 cm multiloculated hypodense cystic lesion with internal septations, extending through the left inguinal canal into the scrotum and displacing bowel loops posteriorly.\n  - Histopathology post-surgery confirmed omental cystic lymphangioma.",
+        "differential_diagnosis": "1. **Initial Presentation:**\n   - The symptoms of abdominal distension and left scrotal swelling initially led to a misdiagnosis of ascites with left hydrocele. A lack of hepatic, renal, or cardiac causes of ascites hinted at an alternative diagnosis.\n   \n2. **Consideration of Intra-Abdominal Lymphatic Malformations:**\n   - Given the patient’s age, clinical features, and imaging findings (large multiloculated cystic lesion extending from the abdomen to the scrotum), a diagnosis of intra-abdominal lymphangioma (specifically an omental cyst) was considered.\n   - Ultrasound and CT findings were consistent with an intra-abdominal cystic lymphangioma but required confirmation through surgery and histopathology.\n\n3. **Exclusion of Other Diagnoses:**\n   - **Neoplastic conditions:** Excluded based on the absence of solid components, normal lab results, and lack of systemic symptoms (e.g., fever, weight loss).\n   - **Infectious or inflammatory masses (e.g., abscesses):** Ruled out given the absence of infection signs and the nature of imaging findings.\n   - **Hydrocele as a primary diagnosis:** Excluded as it was secondary to cystic extension into the scrotum.\n   - **Other cystic conditions (e.g., mesenteric cysts):** Differentiated based on the cyst’s location and association with the omentum.\n   \n4. **Final Steps:**\n   - Complete surgical excision and histopathological confirmation of omental cystic lymphangioma finalized the diagnosis.",
+        "final_diagnosis": "Giant omental cystic lymphangioma presenting as pseudoascites and left hydrocele.",
+        "diagnosis_results": "Omental cystic lymphangioma."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-9-29",
+    "checked_rare_disease": [],
+    "id": "PMC11635821",
+    "results": {
+        "thinking_process": "Okay, let's start by looking at the patient's information. He's a 2-year-old boy with painless abdominal distension and left scrotal swelling that developed gradually over 1.5 years. So, the key here is that the symptoms are chronic and painless. No history of trauma, infection, or GI symptoms. \n\nFirst, I need to consider the possible causes of abdominal distension in a young child. Common things like hernias, hydroceles, or maybe tumors. The scrotal swelling being present and non-tender makes me think of inguinal hernia or hydrocele. But since it's partially reducible and transilluminates positive, hydrocele is a possibility. However, the abdominal distension adds another layer.\n\nThe imaging results show a large multiloculated cystic lesion extending from the abdomen into the scrotum via the inguinal canal. The CT scan describes it as hypodense with septations, which suggests a cystic structure, possibly lymphatic in origin. The histopathology after surgery confirmed omental cystic lymphangioma. Wait, but the question is to make the diagnosis before the histopathology, right? Because the case summary includes that as part of the data. So, the final diagnosis here is already known through histopathology, but the task is to go through the reasoning leading to that conclusion.\n\nSo, let's break it down. Lymphangiomas are benign malformations of the lymphatic system. Cystic lymphangioma, also known as cystic hygroma, typically occurs in the neck, but abdominal forms can occur. An abdominoscrotal cystic lesion that's multiloculated and extends through the inguinal canal. The fact that the left testis isn't palpable suggests that the swelling might be compressing or displacing the testis. The transillumination is positive, indicating fluid-filled structure. \n\nDifferential diagnoses would include inguinal hernia, hydrocele, testicular torsion (but that's usually painful), or a cystic mass like lymphangioma or mesenteric cyst. Since the swelling is partially reducible, maybe there's a connection to the abdomen through the inguinal canal, which is seen in hernias. But hernias in children are typically indirect and might present with reducible swelling, but the abdominal component here is a large cyst. \n\nThe imaging shows a multiloculated cyst extending into the scrotum. That's more consistent with a cystic lymphangioma, especially given the histopathology confirmation. So putting it all together, the painless nature, transillumination, imaging findings, and histopathology all point to omental cystic lymphangioma. That's the final diagnosis.\n",
+        "content": "\n\n```\n### Resoning:\n<step 1> The patient is a 2-year-old boy with chronic, painless abdominal distension and left scrotal swelling. The absence of infectious, gastrointestinal, or traumatic history suggests a congenital or structural anomaly.  \n<step 2> Physical examination findings—non-tender, transilluminating scrotal swelling with partial reducibility—indicate a fluid-filled lesion. The inability to palpate the left testis suggests mass displacement, ruling out primary testicular pathology.  \n<step 3> Imaging (ultrasound and CT) reveals a large multiloculated cystic lesion extending from the abdomen into the scrotum via the left inguinal canal. The septated cystic structure displacing bowel loops aligns with lymphatic malformations, such as lymphangioma.  \n<step 4> The differential includes hydrocele, inguinal hernia, or mesenteric cyst. However, hydroceles are typically isolated to the scrotum, hernias involve bowel/content protrusion (not multiloculated cysts), and mesenteric cysts rarely extend into the scrotum.  \n<step 5> Histopathology confirmation of omental cystic lymphangioma solidifies the diagnosis, as this benign lymphatic malformation commonly presents as multiloculated cysts in soft tissues, including the abdomen and inguinal regions.  \n\n### Answer:\nOmental cystic lymphangioma"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient is a 2-year-old boy with chronic, painless abdominal distension and left scrotal swelling. The absence of infectious, gastrointestinal, or traumatic history suggests a congenital or structural anomaly.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Physical examination findings—non-tender, transilluminating scrotal swelling with partial reducibility—indicate a fluid-filled lesion. The inability to palpate the left testis suggests mass displacement, ruling out primary testicular pathology.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Imaging (ultrasound and CT) reveals a large multiloculated cystic lesion extending from the abdomen into the scrotum via the left inguinal canal. The septated cystic structure displacing bowel loops aligns with lymphatic malformations, such as lymphangioma.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The differential includes hydrocele, inguinal hernia, or mesenteric cyst. However, hydroceles are typically isolated to the scrotum, hernias involve bowel/content protrusion (not multiloculated cysts), and mesenteric cysts rarely extend into the scrotum.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Histopathology confirmation of omental cystic lymphangioma solidifies the diagnosis, as this benign lymphatic malformation commonly presents as multiloculated cysts in soft tissues, including the abdomen and inguinal regions.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Initial presentation of symptoms (abdominal distension and left scrotal swelling) initially led to a misdiagnosis of ascites with left hydrocele; further investigation excluded hepatic, renal, or cardiac causes, suggesting an alternative diagnosis.",
+            "hit": false
+        },
+        {
+            "step": "Step 2: Considering the patient's age, clinical features, and imaging findings (a large multiloculated cystic lesion extending from the abdomen to the scrotum), a diagnosis of intra-abdominal lymphangioma (specifically an omental cyst) was considered.",
+            "hit": true
+        },
+        {
+            "step": "Step 3: Ultrasound and CT findings were consistent with an intra-abdominal cystic lymphangioma, requiring confirmation through surgery and histopathology.",
+            "hit": true
+        },
+        {
+            "step": "Step 4: Neoplastic conditions were excluded based on the absence of solid components, normal lab results, and lack of systemic symptoms such as fever or weight loss.",
+            "hit": false
+        },
+        {
+            "step": "Step 5: Infectious or inflammatory masses (e.g., abscesses) were ruled out due to the absence of infection signs and the nature of imaging findings.",
+            "hit": false
+        },
+        {
+            "step": "Step 6: Hydrocele was excluded as a primary diagnosis since it was secondary to cystic extension into the scrotum.",
+            "hit": true
+        },
+        {
+            "step": "Step 7: Other cystic conditions (e.g., mesenteric cysts) were differentiated based on the cyst's location and association with the omentum.",
+            "hit": false
+        },
+        {
+            "step": "Step 8: Complete surgical excision and histopathological confirmation of the omental cystic lymphangioma finalized the diagnosis.",
+            "hit": true
+        },
+        {
+            "step": "Step 9: Final diagnosis: Giant omental cystic lymphangioma presenting as pseudoascites and left hydrocele.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.5555555555555556
+}

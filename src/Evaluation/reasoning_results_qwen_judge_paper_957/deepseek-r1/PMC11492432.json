@@ -1,0 +1,110 @@
+{
+    "raw_case": "\nDiffuse B-cell lymphoma of the testis presenting as epididymo-orchitis\nB-cell lymphoma is the most common type of lymphoma, accounting for 85 percent of all lymphomas in the United States. It is more common in men and older adults, and typically presents with fever, night sweats, fatigue, weight loss, and swollen lymph nodes. Primary testicular lymphoma is rare, representing only 1–2% of non-Hodgkin's lymphomas, and can present a diagnostic challenge with its clinical presentation. We present an unusual presentation of testicular lymphoma in an elderly man, and discuss the challenges in the diagnosis and treatment of this condition.1\n\nIntroduction\n\nEpididymo-orchitis is the most common cause of intraoperative scrotal swelling in adults, accounting for more than 600,000 medical care visits a year in the United States.1 While most adults presenting with clinical symptoms of epididymo-orchitis will have uncomplicated clinical courses and good response to antibiotics, a high index of suspicion must be maintained in patients with atypical presentations and symptoms refractory to treatment, as rarely malignancy can be a present in this manner. Primary testicular lymphoma is exceedingly rare, but must be entertained in the differential diagnosis, particularly in elderly patients presenting with scrotal pain and swelling, as this potentially lethal condition requires prompt diagnosis and treatment.We present a case of an elderly male presenting with fairly classic symptoms and ultrasound findings of epididymo-orchitis, who was ultimately diagnosed with primary testicular lymphoma.2\n\nCase report\n\nAn 84-year-old male presented with left-sided scrotal swelling and pain to the outpatient clinic, on referral from urgent care. He had originally presented with clinical symptoms of epididymo-orchitis, including left scrotal swelling and discomfort. He was treated empirically with Rocephin as well as Bactrim. He initially had improvement in symptoms, but the symptoms subsequently returned. He was then treated with a 10-day course of Levaquin, with no improvement in symptoms. Scrotal ultrasound showed no distinct mass, and findings were consistent with epididymo-orchitis (Fig. 1).On referral to our clinic, he was noted to have a diffusely enlarged left testis, which was firm and indurated, with a firm mass palpable to the level of the external inguinal ring. No erythema or fluctuance of the scrotal wall was noted. A CT scan of the abdomen and pelvis was ordered, which demonstrated a left para-aortic retroperitoneal mass measuring 6 × 5 cm (Fig. 2). CT also showed enlargement and heterogeneous enhancement of the left testicle, with tissue density extending throughout the left inguinal canal (Fig. 3).A PET scan showed a large and markedly FDG avid left testicular mass, suspicious for testicular cancer as well as PET avid 6 cm retroperitoneal mass consistent with conglomerate of metastatic adenopathy. Standard tumor markers including AFP, bHCG, and LDH were negative. Given the findings, the patient was taken to the operating room for a left radical orchiectomy. During surgery, he was found to have a solid mass of the left testis, with mass extending to the internal ring. The tunica was not compromised, and the testicle and the spermatic cord were successfully removed. The patient had an uneventful recovery. Final pathology revealed diffuse large B-cell lymphoma with high ki67 80–90 %. He was referred to Medical Oncology for chemotherapy and completed 6 cycles of R-mini CHOP as well as radiation to the contralateral testicle.3\n\nDiscussion\n\nAnnually an estimated 1 in 1000 men develop epididymitis, and it accounts for more than 6000 medical visits a year in the United States. It is the most common cause of inter-scrotal inflammation and is therefore at the top of differential diagnosis with men presenting with scrotal pain and swelling. However, a high index of suspicion of neoplasm must be entertained if symptoms do not resolve with standard treatment, regardless of imaging findings. Testicular presentation of B-cell lymphoma is rare, accounting for only 1 to 2 percent of non-Hodgkin's lymphomas. It represents only 5 percent of all testicular malignancies.2 As demonstrated in our case, the initial ultrasound did not demonstrate a distinct mass, leading to a delay in diagnosis. Ultrasound may show local or diffuse areas of hypoechogenicity and hypervascularity in an enlarged testis in up to 57 % of testicular lymphoma cases, leaving a significant minority with nonspecific findings, such as in our case. CT imaging as well as PET scan can therefore be helpful in making a definitive diagnosis before proceeding to orchiectomy. The median age at presentation for testicular lymphoma is 62 years, and 80 % present with testicular swelling. Only 13 % have systemic symptoms.3 After orchiectomy, standard therapy includes chemotherapy, and occasionally external beam radiation. However, given the rarity of the condition, there is no standardized regimen. It generally has a poor prognosis, further highlighting the need for timely diagnosis and treatment.\n\nCRediT authorship contribution statement\n\nPatrick Davol: Writing – review & editing, Writing – original draft, Conceptualization. Callie Davol: Writing – review & editing, Writing – original draft, Conceptualization.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 84-year-old male  \n- **Chief Complaint:** Left-sided scrotal swelling and pain  \n- **History of Present Illness:** Recurrent left scrotal swelling and discomfort initially treated as epididymo-orchitis with Rocephin, Bactrim, and Levaquin. Symptoms persisted despite treatment.  \n- **Past Medical History:** None noted in the provided report.  \n- **Personal History:** None noted in the provided report.  \n- **Family History:** None noted in the provided report.  \n- **Physical Examination:** Diffusely enlarged, firm, and indurated left testis with a palpable firm mass extending to the level of the external inguinal ring. No erythema or fluctuance of the scrotal wall.  \n- **Ancillary Tests:**  \n  - Scrotal ultrasound: Findings consistent with epididymo-orchitis, no distinct mass identified.  \n  - CT scan: Left retroperitoneal para-aortic mass (6×5 cm), heterogeneous enhancement of the left testicle, and involvement extending to the left inguinal canal.  \n  - PET scan: Markedly FDG-avid left testicular mass and PET-avid retroperitoneal adenopathy.  \n  - Standard tumor markers (AFP, bHCG, LDH): Negative.  \n  - Histopathology: Left radical orchiectomy revealed diffuse large B-cell lymphoma with high Ki-67 (80–90%).",
+        "differential_diagnosis": "1. **Initial Considerations:**  \n   Presenting symptoms of scrotal swelling, pain, and ultrasound findings consistent with epididymo-orchitis pointed toward a diagnosis of infectious/inflammatory epididymo-orchitis. However, symptoms refractory to standard antibiotic treatment prompted consideration of other causes, including malignancy.  \n\n2. **Malignancy Suspected:**  \n   Persistent symptoms and findings on CT and PET scans raised suspicion of testicular or lymphatic malignancy, despite benign initial ultrasound findings. The involvement of retroperitoneal lymph nodes was consistent with metastatic or lymphoproliferative disease.  \n\n3. **Exclusion of Other Malignancies:**  \n   Negative tumor markers (AFP, bHCG) ruled out common germ cell tumors of the testis (e.g., seminoma, non-seminomatous germ cell tumors). Imaging features and the patient's age further supported a diagnosis of lymphoma rather than typical testicular malignancies.  \n\n4. **Confirmation with Histopathology:**  \n   Pathological examination post-orchiectomy confirmed diffuse large B-cell lymphoma, substantiated by high Ki-67 (80–90%), indicating high proliferative activity.",
+        "final_diagnosis": "Primary diffuse large B-cell lymphoma of the testis presenting as epididymo-orchitis. Diagnosis confirmed by histopathology and imaging findings, supported by the patient's clinical course and response to standard systemic therapy (chemotherapy and radiation).",
+        "diagnosis_results": "Diffuse large B-cell lymphoma of the testis."
+    },
+    "body_category": [
+        "Male Reproductive System"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-8-27",
+    "checked_rare_disease": [
+        "Non-Hodgkin lymphoma",
+        "Lymphoma"
+    ],
+    "id": "PMC11492432",
+    "results": {
+        "thinking_process": "Okay, let's start by looking at the patient's chief complaint. He's an 84-year-old male with left-sided scrotal swelling and pain. The initial treatment was for epididymo-orchitis, but the symptoms didn't improve with antibiotics like Rocephin, Bactrim, and Levaquin. That makes me think maybe the initial diagnosis was incorrect. \n\nNext, the physical exam shows an enlarged, firm left testis with a mass extending to the external inguinal ring. No erythema or fluctuance suggests it's not an acute infection anymore. The ultrasound didn't find a mass, which is confusing because the CT scan later showed a retroperitoneal mass and testicular involvement. So maybe the ultrasound missed something, or the mass wasn't clearly defined at that time.\n\nLooking at the imaging results: CT scan shows a left para-aortic mass, which is in the retroperitoneum. Testicular cancer often spreads to the retroperitoneal lymph nodes. The PET scan highlights FDG-avidity in the testicular mass and the lymph nodes, indicating high metabolic activity typical of malignancies. Negative tumor markers (AFP, hCG, LDH) are interesting because germ cell tumors usually have elevated markers, but lymphoma might not. \n\nThe histopathology from the orchiectomy confirms diffuse large B-cell lymphoma with a high Ki-67. That's a type of non-Hodgkin lymphoma. Testicular lymphoma is more common in older men, and primary testicular lymphoma can present like this with spread to retroperitoneal nodes. The high Ki-67 suggests it's aggressive. \n\nPutting it all together: The patient's age, the lack of response to antibiotics, imaging findings pointing to a malignant process, negative germ cell markers, and the biopsy results all lead to a diagnosis of primary testicular lymphoma, specifically diffuse large B-cell type. Other possibilities like germ cell tumors are less likely given the markers and histology.",
+        "content": "```\n### Resoning:\n<step 1> The patient is an elderly male with persistent left scrotal swelling and pain unresponsive to antibiotics targeting epididymo-orchitis. This suggests an alternative etiology, such as malignancy, given the failure of antimicrobial therapy.  \n<step 2> Physical examination reveals a firm, indurated left testicular mass extending to the inguinal canal. The absence of erythema or fluctuance further reduces suspicion for acute infectious processes.  \n<step 3> Imaging discrepancies are notable: scrotal ultrasound did not identify a distinct mass, but CT/PET demonstrated a retroperitoneal para-aortic mass, testicular heterogeneity, and FDG-avid lesions. This highlights the limitations of ultrasound in detecting infiltrative or retroperitoneal malignancies.  \n<step 4> Negative tumor markers (AFP, bHCG) argue against germ cell tumors, which typically elevate these markers. However, testicular lymphoma, a common primary testicular malignancy in elderly males, often presents with normal tumor markers.  \n<step 5> Definitive histopathology from orchiectomy confirms diffuse large B-cell lymphoma (DLBCL) with high proliferative activity (Ki-67 80–90%). This aligns with the imaging findings of aggressive retroperitoneal adenopathy and FDG avidity.  \n\n### Answer:\nPrimary testicular diffuse large B-cell lymphoma"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient is an elderly male with persistent left scrotal swelling and pain unresponsive to antibiotics targeting epididymo-orchitis. This suggests an alternative etiology, such as malignancy, given the failure of antimicrobial therapy.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Physical examination reveals a firm, indurated left testicular mass extending to the inguinal canal. The absence of erythema or fluctuance further reduces suspicion for acute infectious processes.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Imaging discrepancies are notable: scrotal ultrasound did not identify a distinct mass, but CT/PET demonstrated a retroperitoneal para-aortic mass, testicular heterogeneity, and FDG-avid lesions. This highlights the limitations of ultrasound in detecting infiltrative or retroperitoneal malignancies.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Negative tumor markers (AFP, bHCG) argue against germ cell tumors, which typically elevate these markers. However, testicular lymphoma, a common primary testicular malignancy in elderly males, often presents with normal tumor markers.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Definitive histopathology from orchiectomy confirms diffuse large B-cell lymphoma (DLBCL) with high proliferative activity (Ki-67 80–90%). This aligns with the imaging findings of aggressive retroperitoneal adenopathy and FDG avidity.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Presenting symptoms of scrotal swelling, pain, and ultrasound findings consistent with epididymo-orchitis initially suggested infectious/inflammatory epididymo-orchitis. However, symptoms refractory to standard antibiotic treatment prompted consideration of other causes, including malignancy.",
+            "hit": true
+        },
+        {
+            "step": "Step 2: Persistent symptoms and findings on CT and PET scans raised suspicion of testicular or lymphatic malignancy, despite benign initial ultrasound findings. The involvement of retroperitoneal lymph nodes was consistent with metastatic or lymphoproliferative disease.",
+            "hit": false
+        },
+        {
+            "step": "Step 3: Negative tumor markers (AFP, bHCG) ruled out common germ cell tumors of the testis (e.g., seminoma, non-seminomatous germ cell tumors).",
+            "hit": true
+        },
+        {
+            "step": "Step 4: Imaging features and the patient's age further supported a diagnosis of lymphoma rather than typical testicular malignancies.",
+            "hit": false
+        },
+        {
+            "step": "Step 5: Pathological examination post-orchiectomy confirmed diffuse large B-cell lymphoma, substantiated by high Ki-67 (80–90%), indicating high proliferative activity.",
+            "hit": true
+        },
+        {
+            "step": "Step 6: Final diagnosis: Primary diffuse large B-cell lymphoma of the testis presenting as epididymo-orchitis.",
+            "hit": false
+        },
+        {
+            "step": "Step 7: Diagnosis confirmed by histopathology and imaging findings, supported by the patient's clinical course and response to standard systemic therapy (chemotherapy and radiation).",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.8,
+    "factulity": 1.0,
+    "recall": 0.5714285714285714
+}

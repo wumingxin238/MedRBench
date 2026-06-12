@@ -1,0 +1,134 @@
+{
+    "raw_case": "\nDiffuse pulmonary lymphangiomatosis as a differential diagnosis of anterior mediastinal mass\n\n\nAbstract\n\nDiffuse pulmonary lymphangiomatosis (DLP) is an extremely rare silent disease, characterized by proliferation and thickening of abnormal pulmonary, pleural, and mediastinal soft tissue lymphatic channels. Its clinical presentation is nonspecific symptoms such as cough, dyspnea, and hemoptysis. Tomographic findings for DLP include thickening of the interlobular septa and peribronchovascular interstitium and ground glass opacities. Nevertheless, the anterior mediastinal mass, associated with thickening of interlobular septa and peribronchovascular interstitial, ground glass opacities, pleural effusion, diffuse infiltration of the mediastinum and pleural thickening in a patient with lymphangiomas, DLP should be suspected as a differential diagnosis.\n\nIntroduction\n\nThe most common anterior mediastinal masses are: thymoma, teratoma, endothoracic goiter, and lymphoma [1]. However, we must keep in mind other pathologies that could occur, such as an anterior mediastinal mass secondary to diffuse pulmonary lymphangiomatosis (DLP).The computed tomography (CT) imaging findings for DLP are thickening of interlobular septa and peribronchovascular interstitium, ground glass opacities, pleural effusion, diffuse infiltration of the mediastinum, and pleural thickening [2]; but it is not associated imaging with an anterior mediastinal mass, so if the diagnosis is suspected, magnetic resonance imaging should be considered, in which pulmonary and mediastinal cystic lesions are evident, associated with pulmonary linear opacities [3, 4], the presence of diffuse pulmonary lymphangiomatosis would be suspected. Cystic lesions are hypointense on T1W1 and hyperintense on T2W1 and do not enhance contrast or very little peripheral contrast enhancement is evident [5].DLP involves both lungs and does not present extrathoracic lymphatic involvement. The average age of diagnosis of these patients is 48 years of age and 40% are men [2]. The pathogenesis of this disease remains to be elucidated. The main cause of this disease is caused by congenital factors and acquired diseases [6]. Once the disease is suspected, the diagnosis is confirmed by taking a lung or pleural biopsy by thoracoscopy and/or mediastinal biopsy with histological diagnosis. Its medical management is with immunosuppressants, biological compounds, vascular endothelial growth factors, among others to control symptoms and control the progression of the disease [7].Therefore, we present the case of a patient with a history of cutaneous lymphangiomas, with an anterior mediastinal mass with thickening of interlobular septa and peribronchovascular interstitium, which was confirmed as DLP with pulmonary wedge by thoracoscopy and histology, which must be within the differential diagnosis of anterior mediastinal mass.\n\nCase report\n\nWe present the case of a 29-year-old woman with a history of cutaneous lymphangiomas, consulted for a 3-month history of clinical symptoms characterized by hemoptysis, nocturnal diaphoresis, 6 kg weight loss, and in the last 10 days she presented dyspnea and chest pain. On physical examination, cutaneous vascular lesions in the left cervical area, anterior wall of the left hemithorax and deltoid area (Fig. 1), without palpable lymphadenopathy.CT imaging, an anterior mediastinal mass was evident (Fig. 2), associated with the presence of thickening of interlobular septa in both lungs (Fig. 3). Surgery is carried out with diagnostic intent with suspicion of lymphoma vs DLP. A mass with cystic characteristics was found, thickening of interlobular septa and lymphatic channels that extended from the lung parenchyma to the mediastinum through the peribronchovascular space, dark serohematic pleural effusion without pleural lesions (Fig. 4).A two pulmonary wedge was performed. In the microscopic findings, lung parenchyma with the presence of dilated lymphatic vessels, subpleural location, that extend through the interlobular septa, of varying sizes, with peribronchovascular involvement, with positive marking for Masson stain. Histological examination showed and confirmed DLP (Fig. 5).\n\nDiscussion\n\nDLP is extremely rare in adults [8]. The symptoms of this disease are wheezing, dyspnea, hemoptysis, chyloptysis; more common in adolescence [9]. It is thought that when chyloptysis occurs it is secondary to lymphatic flow stasis, generating reflux to the tracheobronchial tree. It may also present chylopericardium, chylous ascites, protein-losing enteropathy, lymphopenia, among others [10]. It can be associated with other pathologies, for example, cirrhosis and hepatic encephalopathy, or with skin lesions with or without lymphadenopathy, as evidenced in our case [6].The tomographic findings of DLP are interlobular septal thickening (70%), peribronchovascular interstitial thickening, ground glass opacities (80%), pleural effusion (40%), diffuse mediastinal infiltration (90%), and pleural thickening [2, 4], but no mediastinal mass is documented on CT. The radiological differential diagnoses of this disease are pulmonary edema, pulmonary veno-occlusive disease, pulmonary lymphangitic carcinomatosis, sarcoidosis, amyloidosis, primary pulmonary lymphoma, Erdheim-Chester disease, but these are not associated with mediastinal abnormalities [2].Given the above, it is important to use other diagnostic methods that allow obtaining findings with greater precision; for example, using multidetector CT images after direct lymphangiography, obtaining findings such as large accumulation of contrast in the mediastinum, in bronchovascular septa and in pleural and extrapleural soft tissues; suggesting that the abnormal soft tissue thickening was caused by dilation of lymphatic vessels or retrograde lymph flow associated with edema [11]. Magnetic resonance imaging is also important, which is a precise and safe, non-invasive study [12], in which the lymphatic vessels can be clearly differentiated in the T2 sequence, given that lymphatic flow is very slow in lymphangiomatous malformations [13, 14].Surgery in DLP has three objectives (Fig. 6): (i) Diagnostic surgery: The definitive diagnosis is obtained by histopathology; Minimally invasive mediastinal biopsy or thoracoscopy lung biopsy [7]. Characteristic of these is the proliferation and increase of lymphatic channels that have a connection between the mediastinum and the lungs [15]. Associated with this, hemosiderin–laden macrophages can be found adjacent to the lung parenchyma [4].(ii) Resection surgery: Regarding surgical treatment consider only for small or localized lymphangiomas, it is sometimes challenging to differentiate between diseased and healthy lymphatic tissue. It is also very important to be able to completely resect the lesions, given that, if there is residual tissue, it can proliferate and cause the symptoms to appear again; this is technically challenging, given the proximity of diseased tissue to vital structures and organs [4]. Resections can be performed by thoracoscopy or thoracotomy.(iii) Palliative surgery: relieve symptoms, with parietal pleurectomy, pleurodesis, and ligation of the thoracic duct, to reduce recurrent pleural effusion [4] (Fig. 6).There is no specific treatment for DLP, nevertheless, the anterior mediastinal mass, associated with thickening of interlobular septa and peribronchovascular interstitial, ground glass opacities, pleural effusion, diffuse infiltration of the mediastinum, and pleural thickening in a patient with lymphangiomas, DLP should be suspected as a differential diagnosis.",
+    "generate_case": {
+        "case_summary": "- Patient Information: 29-year-old woman\n- Chief Complaint: Hemoptysis\n- History of Present Illness: Three months of hemoptysis, nocturnal diaphoresis, 6 kg weight loss, dyspnea, and chest pain in the last 10 days.\n- Past Medical History: Cutaneous lymphangiomas\n- Personal History: Not provided\n- Family History: Not provided\n- Physical Examination: Cutaneous vascular lesions in the left cervical area, anterior wall of the left hemithorax, and deltoid area; no palpable lymphadenopathy.\n- Ancillary Tests: CT imaging showed an anterior mediastinal mass, thickening of interlobular septa in both lungs, and associated findings. Histology of lung biopsy confirmed dilated lymphatic vessels involving the interlobular septa, peribronchovascular area, and subpleural lungs, with positive Masson stain, confirming diffuse pulmonary lymphangiomatosis (DLP).",
+        "differential_diagnosis": "1. **Initial Differential Diagnoses**:\n   - Lymphoma: Considered initially due to the mediastinal mass, weight loss, and systemic symptoms. Ruled out after histology showed findings inconsistent with lymphoma.\n   - Pulmonary lymphangitic carcinomatosis: Excluded based on histological findings indicative of lymphatic vessel proliferation rather than metastatic disease.\n   - Pulmonary edema and veno-occlusive disease: Excluded due to absence of relevant clinical or radiological signs (e.g., cardiac causes).\n   - Sarcoidosis, amyloidosis, primary pulmonary lymphoma, and Erdheim-Chester disease: Ruled out based on histopathological findings and lack of typical disease-specific features.\n2. **Diagnostic Workup**:\n   - Imaging findings (CT: anterior mediastinal mass, interlobular septal thickening, and pleural effusion) suggested a lymphatic abnormality.\n   - Histology confirmed DLP by demonstrating dilated lymphatic channels, extending from lung parenchyma to the mediastinum, consistent with DLP in a patient with cutaneous lymphangiomas.",
+        "final_diagnosis": "Diffuse Pulmonary Lymphangiomatosis (DLP) was diagnosed based on histological findings of dilated interlobular and peribronchovascular lymphatic vessels, consistent imaging, and the patient’s cutaneous lymphangiomas. This is an extremely rare disorder, making clinical suspicion crucial.",
+        "diagnosis_results": "Diffuse Pulmonary Lymphangiomatosis (DLP)"
+    },
+    "body_category": [
+        "Lungs and Breathing"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-8-01",
+    "checked_rare_disease": [
+        "Diffuse lymphatic malformation"
+    ],
+    "id": "PMC11393567",
+    "results": {
+        "content": "### Resoning:\n<step 1> The patient presents with hemoptysis, a serious symptom indicating bleeding from the respiratory tract. This is the primary concern and requires thorough investigation.\n\n<step 2>  The associated symptoms of nocturnal diaphoresis, weight loss, dyspnea, and chest pain, experienced over three months, suggest a chronic and progressive underlying condition, rather than an acute, self-limiting illness. These symptoms raise suspicion for conditions like pulmonary infections (tuberculosis, fungal infections), malignancy, inflammatory or autoimmune diseases, and vascular disorders.\n\n<step 3> The past medical history of cutaneous lymphangiomas is highly significant. Lymphangiomas are benign malformations of lymphatic vessels. The presence of cutaneous lymphangiomas suggests a potential systemic lymphatic abnormality, making lymphatic disorders a more likely diagnostic category.\n\n<step 4> Physical examination findings of cutaneous vascular lesions in the cervical, thoracic, and deltoid areas further support the suspicion of a lymphatic vascular anomaly. These lesions are consistent with lymphangiomas or related vascular malformations.  The absence of palpable lymphadenopathy, while noted, does not exclude lymphatic disorders, as some lymphatic diseases do not primarily involve lymph nodes, or the affected nodes may not be palpable.\n\n<step 5> CT imaging reveals an anterior mediastinal mass and thickening of interlobular septa in both lungs.  An anterior mediastinal mass could represent various conditions, including thymic tumors, lymphomas, germ cell tumors, or, in the context of lymphatic abnormalities, a lymphatic malformation or lymphangioma.  Thickening of interlobular septa in the lungs is a crucial finding that is often associated with interstitial lung diseases, pulmonary edema, and importantly, pulmonary lymphatic disorders, including lymphangiomatosis.\n\n<step 6> The lung biopsy histology is the definitive diagnostic step. The confirmation of dilated lymphatic vessels involving the interlobular septa, peribronchovascular area, and subpleural lungs, combined with a positive Masson stain (which typically stains collagen and can highlight the thickened septa in lymphangiomatosis), and the explicit pathological diagnosis of \"diffuse pulmonary lymphangiomatosis (DLP)\" is conclusive.  DLP perfectly explains all the clinical findings, past medical history, and imaging results.\n\n<step 7>  Synthesizing all the information: the hemoptysis, related symptoms, history of cutaneous lymphangiomas, cutaneous vascular lesions, CT findings (mediastinal mass and septal thickening), and the definitive histological diagnosis of diffuse pulmonary lymphangiomatosis (DLP), leads to the final diagnosis of Diffuse Pulmonary Lymphangiomatosis. DLP is a rare condition characterized by abnormal proliferation of pulmonary lymphatic vessels, which directly accounts for the patient's symptoms and findings.\n\n### Answer:\nDiffuse Pulmonary Lymphangiomatosis (DLP)"
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient presents with hemoptysis, a serious symptom indicating bleeding from the respiratory tract. This is the primary concern and requires thorough investigation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The associated symptoms of nocturnal diaphoresis, weight loss, dyspnea, and chest pain, experienced over three months, suggest a chronic and progressive underlying condition, rather than an acute, self-limiting illness. These symptoms raise suspicion for conditions like pulmonary infections (tuberculosis, fungal infections), malignancy, inflammatory or autoimmune diseases, and vascular disorders.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The past medical history of cutaneous lymphangiomas is highly significant. Lymphangiomas are benign malformations of lymphatic vessels. The presence of cutaneous lymphangiomas suggests a potential systemic lymphatic abnormality, making lymphatic disorders a more likely diagnostic category.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Physical examination findings of cutaneous vascular lesions in the cervical, thoracic, and deltoid areas further support the suspicion of a lymphatic vascular anomaly. These lesions are consistent with lymphangiomas or related vascular malformations.  The absence of palpable lymphadenopathy, while noted, does not exclude lymphatic disorders, as some lymphatic diseases do not primarily involve lymph nodes, or the affected nodes may not be palpable.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "CT imaging reveals an anterior mediastinal mass and thickening of interlobular septa in both lungs.  An anterior mediastinal mass could represent various conditions, including thymic tumors, lymphomas, germ cell tumors, or, in the context of lymphatic abnormalities, a lymphatic malformation or lymphangioma.  Thickening of interlobular septa in the lungs is a crucial finding that is often associated with interstitial lung diseases, pulmonary edema, and importantly, pulmonary lymphatic disorders, including lymphangiomatosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The lung biopsy histology is the definitive diagnostic step. The confirmation of dilated lymphatic vessels involving the interlobular septa, peribronchovascular area, and subpleural lungs, combined with a positive Masson stain (which typically stains collagen and can highlight the thickened septa in lymphangiomatosis), and the explicit pathological diagnosis of \"diffuse pulmonary lymphangiomatosis (DLP)\" is conclusive.  DLP perfectly explains all the clinical findings, past medical history, and imaging results.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Synthesizing all the information: the hemoptysis, related symptoms, history of cutaneous lymphangiomas, cutaneous vascular lesions, CT findings (mediastinal mass and septal thickening), and the definitive histological diagnosis of diffuse pulmonary lymphangiomatosis (DLP), leads to the final diagnosis of Diffuse Pulmonary Lymphangiomatosis. DLP is a rare condition characterized by abnormal proliferation of pulmonary lymphatic vessels, which directly accounts for the patient's symptoms and findings.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Lymphoma was initially considered due to the mediastinal mass, weight loss, and systemic symptoms but was ruled out after histology showed findings inconsistent with lymphoma.",
+            "hit": false
+        },
+        {
+            "step": "<Step 2> Pulmonary lymphangitic carcinomatosis was excluded based on histological findings showing lymphatic vessel proliferation rather than metastatic disease.",
+            "hit": false
+        },
+        {
+            "step": "<Step 3> Pulmonary edema and veno-occlusive disease were excluded due to the absence of relevant clinical or radiological signs such as cardiac causes.",
+            "hit": false
+        },
+        {
+            "step": "<Step 4> Sarcoidosis, amyloidosis, primary pulmonary lymphoma, and Erdheim-Chester disease were ruled out based on histopathological findings and the lack of typical disease-specific features.",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> Imaging findings (CT: anterior mediastinal mass, interlobular septal thickening, and pleural effusion) suggested a lymphatic abnormality.",
+            "hit": false
+        },
+        {
+            "step": "<Step 6> Histology confirmed Diffuse Pulmonary Lymphangiomatosis (DLP) by demonstrating dilated lymphatic channels extending from lung parenchyma to the mediastinum, consistent with DLP in a patient with cutaneous lymphangiomas.",
+            "hit": false
+        },
+        {
+            "step": "<Step 7> The final diagnosis was Diffuse Pulmonary Lymphangiomatosis (DLP) based on histological findings of dilated interlobular and peribronchovascular lymphatic vessels, consistent imaging, and the patient’s cutaneous lymphangiomas.",
+            "hit": true
+        },
+        {
+            "step": "<Step 8> DLP is an extremely rare disorder, emphasizing the importance of clinical suspicion in diagnosis.",
+            "hit": false
+        }
+    ],
+    "efficiency": 0.8571428571428571,
+    "factulity": 1.0,
+    "recall": 0.125
+}

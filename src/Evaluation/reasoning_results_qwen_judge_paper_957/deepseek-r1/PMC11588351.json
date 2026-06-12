@@ -1,0 +1,95 @@
+{
+    "raw_case": "\nPrimary pulmonary follicular lymphoma\n\n\nAbstract\n\nPrimary pulmonary follicular lymphoma is an extremely rare subset of extra-nodal non-Hodgkin’s lymphoma. We present a successful work-up and surgical management of this disease entity. The patient is a 74-year-old man who presented with an enlarging ground glass opacity on his computed tomography scan. Percutaneous biopsy was not diagnostic for malignancy, but given the underlying malignant potential, he underwent definitive operative resection rather than additional invasive diagnostic testing. Our case highlights challenges in the management of nondiagnostic preliminary pathology as well as the role of a multidisciplinary approach to treatment of a rare lung pathology.\n\nIntroduction\n\nPrimary pulmonary lymphomas (PPL) represent only 3%–4% of extranodal non-Hodgkin’s lymphoma and <0.5%–1% of primary pulmonary malignancies [1]. We present a case with the finding of a primary pulmonary follicular lymphoma. Our patient presented with an enlarging ground glass opacity in the right upper lobe of the lung that had been followed with serial imaging for over 2 years; he ultimately underwent a surgical resection after a nondiagnostic pathologic result from a CT-guided biopsy.\n\nCase report\n\nA 74-year-old man with medical history notable for long-term tobacco use and prostate cancer status post radical prostatectomy and radiation who was found on CT scan to have a ground glass opacity measuring 1.2 cm in his right upper lobe of his lung. Further imaging with positron emission tomography (PET)/CT scan showed an elevated standardized uptake at the site of the right upper lung nodule. A CT-guided biopsy showed atypical cells, however, was not diagnostic for malignancy. Due to the possibility of underlying malignancy, the patient elected to undergo operative resection.He underwent a right posterolateral thoracotomy, right upper lobe wedge resection, and mediastinal node biopsy. Upon entering the chest, the patient was found to have several areas of filamentous adhesions that were divided. The inferior pulmonary ligament and the pleural reflection around the hilum were divided, and the lymphatic nodal tissue was sampled. The nodule was readily palpable in the posterior segment of the upper lobe, and a stapled wedge resection was performed. Gross examination of the specimen in the operating room revealed a well-circumscribed nodule from which material was collected for culture. A section of a wedge resection along with the nodule was sent to pathology for a frozen section and showed only lymphoid tissue without evidence of gross malignancy. Palpation of the remainder of the lungs did not yield any additional suspicious nodules. The patient was extubated in the operating room having tolerated the procedure well and discharged after several days after an uneventful postoperative course.Final pathology with immunostaining ultimately revealed a follicular lymphoma. Figure 1 highlights the neoplastic follicles within the lung tissue with decreased macrophage bodies. Immunostains for CD 20 and CD3 highlighted B cells and reactive T cells around the neoplastic follicles (Fig. 2a and b). Other immunohistochemistry findings were notable for negative BCL2 and CD10. Molecular fluorescence in situ hybridization testing also detected BCL6 gene rearrangements. Overall, the histology and immunohistochemical findings are diagnostic of atypical follicular process combined with monoclonal IgH gene and BCL6 positive gene rearrangements, consistent with follicular lymphoma.The hematology/oncology service was consulted given pathology findings of follicular lymphoma, with plans for post-operative surveillance laboratory testing every 3–6 months for 5 years and then annually or as clinically indicated. He was also recommended to undergo surveillance CT scans every 6 months for 5 years, followed by annual surveillance CT imaging.\n\nDiscussion\n\nPPL is currently defined as a clonal lymphoid proliferation affecting the lungs without any detectable extrapulmonary involvement from diagnosis to 3 months after diagnosis [1]. A majority (nearly 58%–87%) of these cases are low-grade non-Hodgkin’s lymphoma with 90% of these cases corresponding to the MALT type [2]. Follicular subtypes are thought to have many similar clinical and radiographic findings as the MALT type and thus are often difficult to differentiate from follicular lymphoma from the MALT type.Many patients with low-grade PPL are often asymptomatic at the time of diagnosis with the disease process identified solely by radiographic findings. Common findings include a localized alveolar opacity with a diameter of <5 cm. Computed tomography is more sensitive; however, adequate tissue sampling is required for diagnosis. Bronchoalveolar lavage can be particularly useful if findings yield lymphocytic alveolitis and can be considered a specific sign when there is >10% of B lymphocytes [3]. The usual manner of diagnosis is performing immunohistochemical chemical analysis on tissue sampling. Common histological findings include absence of tangible body macrophages and positive immunostains for CD20, BCL2, CD 10, CD19, CD22, BCL6, CD21, and CD23 [4]. Additionally, extrapulmonary nodal extension is ruled out with PET CT imaging.Current treatment options include surgery, chemotherapy, and radiation. Surgery is often preferred for localized treatment, with chemotherapy being reserved for bilateral or extrapulmonary involvement, progression, or relapse. Radiation is rarely used but can be considered for local control.In conclusion, the lung is a common site of secondary involvement of non-Hodgkin lymphoma; however, PPLs are rare, especially the follicular subtype. This case with a rare pathologic subtype of lymphoma illustrates the importance of preoperative workup of primary lung nodules, but especially the need to consider early operative intervention rather than prolonged surveillance imaging even in the setting of nondiagnostic initial pathology in patients with higher risks of malignancy. Given this elevated risk, we elected to proceed with not only an excisional surgical biopsy of the suspicious nodule, but additionally performing a mediastinal lymph node dissection to ensure the disease was truly solitary in nature. This patient was found to have a rare extra-nodal primary pulmonary follicular lymphoma, which generally suggests an excellent prognosis with complete surgical extirpation and careful surveillance imaging.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 74-year-old male.\n- **Chief Complaint:** None. Incidentally noted ground glass opacity in the lung.\n- **History of Present Illness:** Serial imaging for over 2 years showed an enlarging ground glass opacity in the right upper lobe of the lung. PET/CT scan revealed elevated uptake in this region, raising suspicion for malignancy. CT-guided biopsy showed atypical cells but was nondiagnostic for malignancy.\n- **Past Medical History:** Long-term tobacco use, prostate cancer status post radical prostatectomy and radiation therapy.\n- **Personal History:** None.\n- **Family History:** None.\n- **Physical Examination:** Not specifically detailed but no mention of significant abnormalities or symptoms.\n- **Ancillary Tests:** CT and PET/CT imaging demonstrated a ground glass lung nodule with increased uptake. Biopsy showed atypical lymphoid tissue but lacked definitive features of malignancy. Final pathology after surgical resection and immunostaining revealed follicular lymphoma. Immunohistochemistry showed BCL6 positivity and characteristic histological features.",
+        "differential_diagnosis": "- **Initial Considerations:** The patient's ground glass opacity and elevated PET uptake raised concern for malignancy. Differential included:\n  - **Primary lung malignancy (e.g., adenocarcinoma):** Common in smokers; excluded due to lymphoma histology on biopsy.\n  - **Lymphoproliferative disorder (e.g., follicular or MALT lymphoma):** Supported by lymphoid features on pathology and immunohistochemistry.\n  - **Infectious or inflammatory etiology:** Less likely given patient's imaging and lack of infectious/inflammatory history or symptoms.\n- **Pathology Assessment:** Immunohistochemistry ruled out markers for adenocarcinoma but revealed lymphoid neoplasia consistent with follicular lymphoma (CD20 positive, BCL6 positive, negative for CD10 and BCL2).\n- **Exclusion of Extrapulmonary Involvement:** PET/CT showed no systemic lymphadenopathy or extrapulmonary disease, meeting criteria for primary pulmonary lymphoma.\n- **Final Steps:** Based on operative findings and pathology, the diagnosis was narrowed to primary pulmonary follicular lymphoma, a rare, low-grade non-Hodgkin lymphoma subtype.",
+        "final_diagnosis": "Primary pulmonary follicular lymphoma. Diagnosis was based on the patient's radiologic findings, histopathology, and immunohistochemical markers consistent with follicular lymphoma, without evidence of extrapulmonary involvement.",
+        "diagnosis_results": "Primary pulmonary follicular lymphoma."
+    },
+    "body_category": [
+        "Lungs and Breathing"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-9-20",
+    "checked_rare_disease": [
+        "Primary pulmonary lymphoma"
+    ],
+    "id": "PMC11588351",
+    "results": {
+        "thinking_process": "Okay, let's tackle this case. The patient is a 74-year-old male with a history of long-term tobacco use and treated prostate cancer. The main issue here is the ground glass opacity (GGO) in the right upper lobe that's been enlarging over two years. PET/CT shows increased uptake, which is suspicious for malignancy. The biopsy initially showed atypical cells but wasn't conclusive. Then after surgical resection, the pathology came back as follicular lymphoma with BCL6 positivity.\n\nFirst, considering the GGO. Ground glass opacities can be due to various causes like infections, inflammation, or neoplasms. Since it's been growing for two years, chronic processes are more likely. Infections would typically resolve or change more quickly, so maybe something indolent. The PET/CT uptake suggests increased metabolic activity, which is often seen in malignancies but can also occur in inflammatory conditions. \n\nHis history of tobacco use puts lung cancer high on the differential. But the biopsy didn't confirm malignancy initially. Wait, but the biopsy showed atypical lymphoid tissue. That's a clue. Lymphoid tissue in the lung could point towards a lymphoproliferative disorder. Follicular lymphoma is a type of B-cell lymphoma, which can present as nodules. \n\nThe patient's past prostate cancer treated with surgery and radiation is relevant. Secondary cancers are possible, especially with prior radiation. But prostate cancer metastasis to the lung usually presents differently, like solid nodules. The biopsy didn't show adenocarcinoma, which would be more typical for prostate metastasis. \n\nThe immunostaining results are key here. BCL6 positivity is a marker seen in certain lymphomas, including follicular lymphoma. The histology showing follicular structures would support that. Follicular lymphoma in the lung is rare but possible. Primary pulmonary lymphoma is uncommon, and follicular type is even rarer, but it can present as a solitary nodule or mass. \n\nThe initial nondiagnostic biopsy might have been due to sampling error or the nature of the lesion. Surgical resection provides a larger sample, making the diagnosis clearer. So integrating all the data—imaging showing enlarging GGO with high PET activity, atypical lymphoid cells on biopsy, and definitive immunostaining after resection—points towards follicular lymphoma as the final diagnosis.",
+        "content": "```\n### Resoning:\n<step 1> The patient is a 74-year-old male with a history of tobacco use and prostate cancer, presenting with a persistent, enlarging right upper lobe ground glass opacity (GGO) over two years. PET/CT shows elevated metabolic activity, raising suspicion for malignancy.  \n<step 2> Initial CT-guided biopsy revealed atypical lymphoid tissue but was nondiagnostic for malignancy. This suggests a lymphoproliferative disorder, though further characterization was needed.  \n<step 3> Surgical resection with immunohistochemistry confirmed follicular lymphoma through BCL6 positivity and characteristic histological features. Follicular lymphoma, though rare in the lung, can present as a solitary nodule with indolent growth, aligning with the imaging timeline.  \n<step 4> The absence of typical epithelial malignancy markers and the lymphoid nature of the lesion rule out metastatic prostate cancer or primary lung carcinoma. The final pathology definitively establishes the diagnosis.  \n\n### Answer:\nFollicular lymphoma of the lung."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient is a 74-year-old male with a history of tobacco use and prostate cancer, presenting with a persistent, enlarging right upper lobe ground glass opacity (GGO) over two years. PET/CT shows elevated metabolic activity, raising suspicion for malignancy.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Initial CT-guided biopsy revealed atypical lymphoid tissue but was nondiagnostic for malignancy. This suggests a lymphoproliferative disorder, though further characterization was needed.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Surgical resection with immunohistochemistry confirmed follicular lymphoma through BCL6 positivity and characteristic histological features. Follicular lymphoma, though rare in the lung, can present as a solitary nodule with indolent growth, aligning with the imaging timeline.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The absence of typical epithelial malignancy markers and the lymphoid nature of the lesion rule out metastatic prostate cancer or primary lung carcinoma. The final pathology definitively establishes the diagnosis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Initial considerations raised concern for malignancy due to ground glass opacity and elevated PET uptake, with differential including primary lung malignancy, lymphoproliferative disorder, and infectious/inflammatory etiology.",
+            "hit": true
+        },
+        {
+            "step": "Pathology assessment via biopsy showed lymphoid neoplasia consistent with follicular lymphoma, confirmed by immunohistochemistry (CD20 positive, BCL6 positive, negative for CD10 and BCL2).",
+            "hit": false
+        },
+        {
+            "step": "Exclusion of extrapulmonary involvement through PET/CT showed no systemic lymphadenopathy or extrapulmonary disease, supporting primary pulmonary lymphoma.",
+            "hit": true
+        },
+        {
+            "step": "Diagnosis was narrowed to primary pulmonary follicular lymphoma based on operative findings and pathology, a rare, low-grade non-Hodgkin lymphoma subtype.",
+            "hit": true
+        },
+        {
+            "step": "Final diagnosis: Primary pulmonary follicular lymphoma, based on radiologic findings, histopathology, and immunohistochemical markers, without extrapulmonary involvement.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.8
+}

@@ -1,0 +1,166 @@
+{
+    "raw_case": "\nCase report of central serous chorioretinopathy with intraretinal fluid and normal fundus fluorescein and indocyanine green angiography\n\n\nAbstract\n\nA 73-year-old man was diagnosed with central serous chorioretinopathy (CSCR). He had atypical features including a normal indocyanine green angiography (ICG) and fundus fluorescein angiography (FFA), uncommon age group for initial diagnosis and a finding of intraretinal fluid. This case report is the first of our knowledge that exemplifies this type of unusual clinical presentation for CSCR.\n\nIntroduction\n\nCentral serous chorioretinopathy (CSCR) is the fourth most common retinal disease with 9.9 of 100 000 men and 1.7 of 100 000 women affected [1]. Despite its high incidence, the pathophysiology isn’t well understood. A pathophysiology proposed is that the hyperpermeability of choroid capillaries results in retinal pigment epithelial (RPE) dysfunction [2]. CSCR is correlated with prior steroid use, Helicobacter pylori infection, Type A personality, pregnancy, and hyperopia [3].The most common presenting symptoms are central scotoma, reduced contrast sensitivity, micropsia, reduced colour saturation, refraction shift, metamorphopsia [1].The natural course of acute CSCR is self-limiting within 2–3 months [1]. Chronic CSCR is defined as persistent subretinal fluid for more than 6 months [4].We present an atypical case of unilateral chronic CSCR. To our knowledge, there is no previous literature demonstrating this.\n\nCase report\n\nA 73-year-old male self-presented to the eye emergency with 2 weeks of left blurred vision and loss of contrast. The onset of symptoms were a few days following chemotherapy for diffuse, large B cell lymphoma. He had a known history of poor vision in his right eye since childhood. Otherwise, his background included hypertension.On examination, his corrected visual acuity on Snellen chart was 6/9.6-2 for his left eye and 6/60 for his right eye (baseline). Anterior segment examination was unremarkable. On dilated fundus exam, his right eye had longstanding macular atrophy. His left eye had a 0.3 pink disc, no swelling, with a blunted macular reflex. This can be seen in Fig. 1.Optical coherence tomography (OCT) demonstrated an atrophied right macular. Whilst the left eye showed a thickened choroid, multiple pigment epithelial detachments (PED), subretinal fluid and intraretinal fluid nasally. This is shown in Figs 2 and 3.The patient had normal macular FFA and ICG as seen in Fig. 4.The patient was diagnosed with CSCR.In the first instance, it was presumed that the CSCR was secondary to prednisone from his chemotherapy regime. He had no family history of CSCR, no symptoms of H. pylori infection and no underlying refractory error. In discussion with his haematologist, the steroid therapy was weaned and ceased.Despite 9 months since cessation of steroid therapy, the patient had persistent left subretinal and intraretinal fluid and fluctuating corrected visual acuity ranging from 6/6-2 to 6/9. His ophthalmologist opted against invasive treatment as it was the patient’s better seeing eye. This was now called chronic CSCR, and the decision was made to monitor.Finally, the patient was seen 12 months later. His left eye vision was 6/9 and his OCT showed a serous PED, with resolution of subretinal or intraretinal fluid as seen in Fig. 5.\n\nDiscussion\n\nThe diagnosis of CSCR was made by the patient’s ophthalmologist, meeting diagnostic criteria as seen in Table 1. The patient meets major criteria with an OCT showing serous retinal detachment, and RPE alterations seen in Figs 2 and 3, respectively. Figure 2 displays a subfoveal choroidal thickness of 454 μm meeting the minor criteria.Importantly, this patient had clinical features inconsistent with intraocular lymphoma with no anterior or posterior segment inflammation, no optic nerve swelling and no retinal or subretinal lesions across multiple visits in 2 years [6]. Intracerebral disease was excluded on magnetic resonance brain imaging. Hypergammaglobinaemia disorders were considered due to the normal FFA and ICG and the history of B cell lymphoma. However, the patient had normal serum immunoglobulins. Additionally, a bone marrow aspirate demonstrated normal plasma cells and morphology.There are a few aspects of his case that makes it an atypical chronic CSCR.Firstly, he was outside of the mean age of incidence for CSCR which was found to be 41 and 39 years of age in two cohort studies, respectively [7, 8]. This exemplifies the importance of still considering CSCR in older age groups.Secondly, CSCR usually has supporting features for the diagnosis on ICG and FFA which are not demonstrated in this case. The most common signs on FFA at the macular are a pinpoint leak in the early phase, at the mid-phase, the hyper-fluorescence increases in intensity and in the late-phase evolves into a ‘smokestack’ or ‘ink-blot’ pattern [9]. ICG, in CSCR, displays choroidal filing delay in the early phase, hyperpermeability of choroidal vessels with multi-focal hyper-fluorescence around the macular in the mid-phase and fading of this hyper-fluorescence in the late phase [9, 10]. As demonstrated in Fig. 4, the patient had a normal FFA and ICG in mid-phase.Finally, the patient had intraretinal fluid. A study found that hyper-reflectivity in the outer nuclear layers was described in over 90% of CSCR patients and this correlated with subretinal fluid. Intraretinal fluid wasn’t seen [11]. This demonstrates the importance of still considering CSCR in patients with intraretinal fluid.Treatment for CSCR doesn’t have a consensus amongst clinicians. Management includes laser photocoagulation, intravitreal anti-vascular endothelial growth factor injections, and mineralocorticoid or glucocorticoid receptor antagonist [12]. Treatment options are limited for this individual. Firstly, steroid receptor antagonist therapy cannot be implemented given the patient’s co-existing medical condition of diffuse large B cell lymphoma. Additionally, laser therapy or intravitreal injections were considered; however, the treating ophthalmologist believed it was high risk due to the contralateral eye having longstanding poor vision.Although the patient’s subretinal and intraretinal fluid has resolved; It’s possible that he will have a recurrence of CSCR as a previous study found that 31% of patients had recurrence [7].\n\nConclusion\n\nThe key points from this case are to consider CSCR as a differential in older patients, those with a normal ICG or FFA and those with intraretinal fluid. It’s important to consider CSCR for patients presenting similarly as it can be self-resolving and not require invasive treatment.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 73-year-old male\n- **Chief Complaint:** 2 weeks of left blurred vision and loss of contrast\n- **History of Present Illness:** Symptoms began a few days after chemotherapy for diffuse large B-cell lymphoma. Known history of poor right eye vision since childhood.\n- **Past Medical History:** Diffuse large B-cell lymphoma, hypertension, longstanding right macular atrophy\n- **Personal History:** None provided\n- **Family History:** No family history of CSCR\n- **Physical Examination:** \n  - Left eye: Corrected visual acuity 6/9.6-2, pink optic disc (0.3), blunted macular reflex\n  - Right eye: Corrected visual acuity 6/60, longstanding macular atrophy\n- **Ancillary Tests:**\n  - OCT (Optical Coherence Tomography): Left eye showed thickened choroid, multiple pigment epithelial detachments, subretinal fluid, and nasal intraretinal fluid. Right eye showed macular atrophy.\n  - Fundus fluorescein angiography (FFA) and indocyanine green angiography (ICG): Normal findings\n  - MRI of the brain: Excluded intracerebral disease\n  - Bone marrow aspirate: Normal plasma cell morphology; no hypergammaglobulinemia disorders\n- **Other Relevant Information:** Steroid therapy suspected as a contributing factor, which was subsequently weaned off. Chronic CSCR persisted despite steroid cessation but eventually showed resolution of fluid on a 12-month follow-up.\n\n---",
+        "differential_diagnosis": "1. **Initial Considerations:**\n   - The presenting symptoms and OCT findings initially pointed to central serous chorioretinopathy (CSCR). Despite the atypical findings (normal FFA/ICG and old age), it was included in the differential diagnosis because of the presence of subretinal fluid and pigment epithelial detachments.\n\n2. **Exclusions Based on Clinical Features:**\n   - **Intraocular lymphoma:** Excluded due to lack of anterior/posterior segment inflammation, optic nerve swelling, or retinal/subretinal lesions across two years, along with normal MRI findings.\n   - **Hypergammaglobulinemia disorders:** Excluded based on normal serum immunoglobulin levels and bone marrow aspirate.\n   - **Other retinal conditions (e.g., age-related macular degeneration):** Excluded based on the unilateral presentation, absence of drusen, and findings inconsistent with other retinal pathologies.\n\n3. **Final Diagnosis Selection:**\n   - CSCR was diagnosed based on OCT evidence of serous retinal detachment and RPE changes, as well as supportive findings such as thickened choroid. The absence of FFA/ICG abnormalities, intraretinal fluid, and the patient’s age made this an unusual case. However, the self-limiting course and absence of alternative conditions supported the diagnosis.\n\n---",
+        "final_diagnosis": "Chronic central serous chorioretinopathy (CSCR) with atypical features, including older age, normal FFA/ICG, and intraretinal fluid.\n\n---",
+        "diagnosis_results": "Chronic central serous chorioretinopathy (CSCR)"
+    },
+    "body_category": [
+        "Eyes and Vision"
+    ],
+    "disorder_category": [],
+    "receive_time": "2024-9-08",
+    "checked_rare_disease": [
+        "Central serous chorioretinopathy"
+    ],
+    "id": "PMC11602201",
+    "results": {
+        "content": "### Resoning:\nTo approach this case, I need to consider the patient's symptoms, medical history, and the results from various diagnostic tests to arrive at a diagnosis. Let's break this down step by step.\n\nFirst, the patient is a 73-year-old male with a chief complaint of left blurred vision and loss of contrast for 2 weeks. This symptom onset is recent, and it's important to note that it began a few days after chemotherapy for diffuse large B-cell lymphoma. This temporal relationship suggests a possible link between the chemotherapy and the visual symptoms.\n\nThe patient has a past medical history of diffuse large B-cell lymphoma, hypertension, and longstanding right macular atrophy. The right eye has poor vision since childhood, which is not relevant to the current issue in the left eye. However, the chemotherapy for lymphoma could potentially affect ocular health, so this needs to be considered.\n\nOn physical examination, the left eye has a corrected visual acuity of 6/9.6-2, with a pink optic disc and blunted macular reflex. The right eye has a significantly poorer visual acuity of 6/60 due to longstanding macular atrophy. The OCT of the left eye shows thickened choroid, multiple pigment epithelial detachments, subretinal fluid, and nasal intraretinal fluid. The right eye shows macular atrophy, which is consistent with the patient's history.\n\nFundus fluorescein angiography (FFA) and indocyanine green angiography (ICG) were normal, which is interesting because these tests often show leakage or other abnormalities in conditions affecting the retina and choroid. The MRI of the brain excluded intracerebral disease, which is reassuring. The bone marrow aspirate was normal, with no evidence of hypergammaglobulinemia disorders.\n\nGiven the patient's history of chemotherapy and the ocular findings, one condition that comes to mind is central serous chorioretinopathy (CSCR). CSCR is characterized by serous detachment of the retina at the level of the retinal pigment epithelium (RPE), often causing blurred vision and loss of visual acuity. It is more common in males and can be associated with steroid use, although in this case, the patient was on chemotherapy for lymphoma.\n\nHowever, the patient's symptoms started after chemotherapy, and steroid therapy was suspected as a contributing factor. Steroids are known to precipitate or exacerbate CSCR. The fact that steroid therapy was weaned off, and the chronic CSCR persisted but eventually resolved over 12 months, suggests that the condition was related to the steroid exposure but had a prolonged course.\n\nAnother consideration is that chemotherapy itself can have ocular side effects, including retinotoxicity, which could manifest as visual disturbances. However, the specific findings on OCT, such as thickened choroid and multiple pigment epithelial detachments, are more suggestive of CSCR.\n\nIt's also important to consider that the patient is elderly, and age-related macular degeneration could be a differential diagnosis. However, the patient has a history of longstanding right macular atrophy, but the left eye's changes are acute, which makes age-related macular degeneration less likely as the primary cause.\n\nGiven the normal FFA and ICG angiography, which typically show leakage in CSCR, this could be atypical CSCR or another condition. However, OCT findings are highly suggestive of CSCR.\n\nIn summary, considering the patient's history of chemotherapy, recent onset of visual symptoms, OCT findings of thickened choroid, pigment epithelial detachments, and subretinal fluid, along with the resolution of symptoms over time, the most likely diagnosis is steroid-induced chronic central serous chorioretinopathy.\n\n### Answer:\nSteroid-induced chronic central serous chorioretinopathy"
+    },
+    "reasoning_eval": [
+        {
+            "step": "To approach this case, I need to consider the patient's symptoms, medical history, and the results from various diagnostic tests to arrive at a diagnosis. Let's break this down step by step.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "First, the patient is a 73-year-old male with a chief complaint of left blurred vision and loss of contrast for 2 weeks. This symptom onset is recent, and it's important to note that it began a few days after chemotherapy for diffuse large B-cell lymphoma. This temporal relationship suggests a possible link between the chemotherapy and the visual symptoms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The patient has a past medical history of diffuse large B-cell lymphoma, hypertension, and longstanding right macular atrophy. The right eye has poor vision since childhood, which is not relevant to the current issue in the left eye. However, the chemotherapy for lymphoma could potentially affect ocular health, so this needs to be considered.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "On physical examination, the left eye has a corrected visual acuity of 6/9.6-2, with a pink optic disc and blunted macular reflex. The right eye has a significantly poorer visual acuity of 6/60 due to longstanding macular atrophy. The OCT of the left eye shows thickened choroid, multiple pigment epithelial detachments, subretinal fluid, and nasal intraretinal fluid. The right eye shows macular atrophy, which is consistent with the patient's history.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Fundus fluorescein angiography (FFA) and indocyanine green angiography (ICG) were normal, which is interesting because these tests often show leakage or other abnormalities in conditions affecting the retina and choroid. The MRI of the brain excluded intracerebral disease, which is reassuring. The bone marrow aspirate was normal, with no evidence of hypergammaglobulinemia disorders.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Given the patient's history of chemotherapy and the ocular findings, one condition that comes to mind is central serous chorioretinopathy (CSCR). CSCR is characterized by serous detachment of the retina at the level of the retinal pigment epithelium (RPE), often causing blurred vision and loss of visual acuity. It is more common in males and can be associated with steroid use, although in this case, the patient was on chemotherapy for lymphoma.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "However, the patient's symptoms started after chemotherapy, and steroid therapy was suspected as a contributing factor. Steroids are known to precipitate or exacerbate CSCR. The fact that steroid therapy was weaned off, and the chronic CSCR persisted but eventually resolved over 12 months, suggests that the condition was related to the steroid exposure but had a prolonged course.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Another consideration is that chemotherapy itself can have ocular side effects, including retinotoxicity, which could manifest as visual disturbances. However, the specific findings on OCT, such as thickened choroid and multiple pigment epithelial detachments, are more suggestive of CSCR.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "It's also important to consider that the patient is elderly, and age-related macular degeneration could be a differential diagnosis. However, the patient has a history of longstanding right macular atrophy, but the left eye's changes are acute, which makes age-related macular degeneration less likely as the primary cause.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Given the normal FFA and ICG angiography, which typically show leakage in CSCR, this could be atypical CSCR or another condition. However, OCT findings are highly suggestive of CSCR.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Initial considerations: The presenting symptoms and OCT findings initially pointed to central serous chorioretinopathy (CSCR). Atypical findings (normal FFA/ICG and old age) were considered due to the presence of subretinal fluid and pigment epithelial detachments.",
+            "hit": false
+        },
+        {
+            "step": "<Step 2> Exclusions: Intraocular lymphoma was excluded due to the absence of anterior/posterior segment inflammation, optic nerve swelling, or retinal/subretinal lesions over two years, along with normal MRI findings.",
+            "hit": false
+        },
+        {
+            "step": "<Step 3> Exclusions continued: Hypergammaglobulinemia disorders were ruled out based on normal serum immunoglobulin levels and bone marrow aspirate results.",
+            "hit": false
+        },
+        {
+            "step": "<Step 4> Exclusions concluded: Other retinal conditions (e.g., age-related macular degeneration) were excluded based on unilateral presentation, absence of drusen, and findings inconsistent with other retinal pathologies.",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> Diagnosis: CSCR was diagnosed based on OCT evidence of serous retinal detachment and RPE changes, along with thickened choroid. The absence of FFA/ICG abnormalities, intraretinal fluid, and the patient's age made this an unusual case.",
+            "hit": false
+        },
+        {
+            "step": "<Step 6> Supportive findings: The self-limiting course and absence of alternative conditions further supported the diagnosis of CSCR.",
+            "hit": false
+        },
+        {
+            "step": "<Step 7> Final diagnosis: Chronic central serous chorioretinopathy (CSCR) with atypical features, including older age, normal FFA/ICG, and intraretinal fluid.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.0
+}

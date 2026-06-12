@@ -1,0 +1,108 @@
+{
+    "raw_case": "\nFibroepithelial polyp in the urethra: Diagnostic challenges and endoscopic treatment outcomes\nFibroepithelial polyps (FEPs) are rare benign tumors that can occur in the urinary tract and are especially uncommon in the urethra. This report presents a case of a young man with obstructive symptoms caused by a urethral polyp, which was treated endoscopically. Fibroepithelial polyps can be a cause of urethral stenosis in young men and may also be encountered during the treatment of other causes of urethral narrowing.\n\nIntroduction\n\nFibroepithelial polyps (FEPs) are rare benign tumors that can occur in the urinary tract, with a reported incidence of 0.5% in adults [1]. FEPs of the urethra are particularly uncommon in adults and are most frequently observed in males during the first decade of life [2,3].When occurring in the urethra, these polyps may cause urinary retention or hematuria and commonly arise from the verumontanum or posterior urethra [4,5]. Voiding cystourethrogram (VCUG) may demonstrate a filling defect indicative of urethral obstruction [6]. This report presents a rare and unusual case of urethral obstruction caused by a fibroepithelial polyp and its successful endoscopic treatment.\n\nCase presentation\n\nA 25-year-old male patient presented to the urology clinic with a 6-month history of lower urinary tract symptoms (LUTS), predominantly characterized by progressively worsening voiding symptoms. The patient denied any comorbidities or use of any medications, had no history of sexually transmitted infections, and had not experienced any urethral trauma. Physical examination of the external genitalia was unremarkable. Serum tests showed no abnormalities, and STI testing was negative.Initial evaluation included uroflowmetry, which demonstrated a significantly reduced maximum flow rate of 4 mL/s (Fig. 1). Attempts to perform urethral catheterization with a 6Fr catheter were unsuccessful, indicating a significant obstruction. Further investigation through retrograde urethrocystography revealed a stenotic segment in the bulbar urethra (Fig. 2). During urethrocystoscopy, an annular stenosis in the bulbar urethra was identified, and a direct-optical endoscopic urethrotomy was performed using a guide catheter and a cold-knife incision at the 12 o'clock position (Sachse urethrotomy) (Fig. 3). Behind the stenotic segment, a polypoid lesion was identified (Fig. 4). The lesion was resected during the same operative session using a foreign body forceps. The Foley catheter was removed 7 days postoperatively, and a follow-up uroflowmetry conducted 90 days later showed an improvement in the maximum flow rate to 28 mL/s (Fig. 5). Histological examination confirmed the lesion to be a fibroepithelial polyp (Fig. 6).\n\nDiscussion\n\nFibroepithelial polyps (FEPs) located in the lower urinary tract typically develop in the posterior urethra and are observed more commonly in children than in adults. The etiology of FEPs is controversial; however, congenital, irritative, infectious, obstructive, and traumatic causes have been proposed. Other causative factors described in the literature include allergies, trauma, exogenous carcinogens, and hormonal imbalances [4,7].The most common symptom of FEPs is hematuria, with a reported incidence ranging from 30% to 60%, but obstruction and acute urinary retention are also frequently observed [8]. Endoscopic resection using electrocautery or laser energy is usually successful, and open cystotomy is rarely required [9]. Microscopically, these lesions consist of a cone of fibrovascular stroma emerging from the submucosa and covered with normal transitional epithelium without papillary formation [10].The etiology of urethral strictures varies significantly across different regions of the world, influenced by differences in healthcare quality, environmental factors, and clinical practices. Urethritis due to sexually transmitted infections (STIs), particularly gonorrhea, was previously a major cause of urethral strictures in well-resourced countries, accounting for 40% of all cases. Other causes include inflammation (such as lichen sclerosus), external urethral trauma, iatrogenic urethral injury, congenital factors, and idiopathic origins [11]. The origin of fibroepithelial polyps remains unclear. Factors such as obstruction, trauma, irritation, infection, exogenous carcinogens, hormonal imbalance, and allergies have been suggested as potential causes. Stones may lead to chronic irritation of the ureteral wall, with or without urinary infection, but their exact role is still uncertain [12].The use of voiding cystourethrogram (VCUG) as a diagnostic tool can be crucial in the investigation of obstructive symptoms in young adult male patients. VCUG provides valuable imaging that can reveal urethral defects, aiding in the identification of underlying causes such as fibroepithelial polyps (FEPs) [13]. The presence of polypoid lesions in scenarios of trauma, local irritation, or urethral obstruction should prompt consideration of FEPs as a differential diagnosis.Minimally invasive treatments, such as endoscopic resection, are often effective. However, a biopsy is essential to confirm the benign nature of the lesion and rule out malignancy. Studies have shown that endoscopic management of urethral polyps is associated with excellent outcomes and minimal complications [14]. Endoscopic resection using electrocautery or laser energy is usually successful, and open cystotomy is rarely required, whether by a suprapubic approach or excision via perineal urethrostomy [15]. This case underscores the importance of Voiding Cystourethrography (VCUG) in the diagnostic arsenal and highlights the need for a thorough evaluation and appropriate management of urethral obstructions in young adults.FEPs should be considered in the differential diagnosis of hematuria and lower urinary tract symptoms (LUTS) in young adult patients, particularly when imaging studies reveal urethral defects. Epidemiologically, this case highlights the rarity of FEPs in adults, emphasizing the need for awareness among clinicians to avoid misdiagnosis or delayed diagnosis. Therapeutically, the successful endoscopic management of this case underscores the efficacy of minimally invasive techniques in treating urethral obstructions caused by FEPs.\n\nEthical statement\n\nThis work has been carried out in accordance with The Code of Ethics of the World Medical Association (Declaration of Helsinki).\n\nPatient consent\n\nPatient´s permission was obtained for this case report.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 25-year-old male.\n- **Chief Complaint:** Lower urinary tract symptoms (LUTS), predominantly progressive worsening of voiding symptoms for 6 months.\n- **History of Present Illness:** Progressive urinary obstruction symptoms. No history of sexually transmitted infections (STIs), urethral trauma, or medication use.\n- **Past Medical History:** None.\n- **Personal History:** None relevant provided.\n- **Family History:** None provided.\n- **Physical Examination:** External genitalia examination was unremarkable.\n- **Ancillary Tests:** \n  - Uroflowmetry: Reduced maximum flow rate of 4 mL/s.\n  - Urethral catheterization: Unsuccessful with a 6Fr catheter.\n  - Retrograde urethrocystography: Revealed stenotic segment in the bulbar urethra.\n  - Urethrocystoscopy: Found an annular stenosis in the bulbar urethra and a polypoid lesion behind the stenotic segment.\n  - Histological examination post-resection: Confirmed fibroepithelial polyp.\n  - Follow-up uroflowmetry after treatment: Maximum flow rate improved to 28 mL/s.\n\n---",
+        "differential_diagnosis": "1. **Initial Consideration of Obstructive Urinary Pathologies:**  \n   Based on the LUTS and failed catheterization, urethral obstruction was considered. Possible causes included urethral stricture, benign urethral tumors, trauma-induced obstruction, or congenital anomalies.\n\n2. **Ruling Out Other Common Causes of Urethral Obstruction:**  \n   - STIs: Negative test results excluded infectious causes, such as gonococcal urethritis or strictures secondary to inflammation.  \n   - Trauma: No history of injury ruled out trauma-related obstruction.\n   - Congenital anomalies: Deemed less likely due to the patient’s age and lack of earlier symptoms.\n\n3. **Narrowing Down to Mechanical Obstruction and Tumors:**  \n   Findings from retrograde urethrocystography confirmed a stenotic segment, suggesting mechanical obstruction. Urethrocystoscopy revealed an annular stenosis and a polypoid lesion.\n\n4. **Histological Confirmation of Fibroepithelial Polyp (FEP):**  \n   The polypoid lesion was resected endoscopically and histologically confirmed as a benign fibroepithelial polyp. No signs of malignancy were noted.\n\n5. **Exclusion of Other Urethral Lesions or Neoplasms:**  \n   The absence of atypical cellular changes ensured it was not a malignant lesion. Endoscopic resection confirmed that obstruction was caused by the polyp, ruling out additional pathology.\n\n---",
+        "final_diagnosis": "The patient was diagnosed with **urethral obstruction caused by a fibroepithelial polyp (FEP)** in the bulbar urethra. The diagnosis was supported by clinical symptoms of LUTS, findings from imaging and endoscopic evaluations, and histological confirmation of the polyp.\n\n---",
+        "diagnosis_results": "Urethral obstruction caused by a fibroepithelial polyp (FEP)."
+    },
+    "body_category": [
+        "Kidneys and Urinary System"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-9-21",
+    "checked_rare_disease": [],
+    "id": "PMC11550627",
+    "results": {
+        "thinking_process": "Okay, let me try to work through this case. So, the patient is a 25-year-old male with lower urinary tract symptoms, mainly worsening voiding issues over six months. He doesn't have a history of STIs, urethral trauma, or medication use. That's interesting because common causes of urethral stricture in young men often include trauma or infections like STIs. But here, both are ruled out. \n\nThe physical exam didn't show anything wrong externally. The uroflowmetry shows a reduced max flow rate of 4 mL/s, which is quite low. Normal is usually above 15 mL/s, I think. Then they tried catheterization with a 6Fr catheter and failed. That suggests a blockage or stricture in the urethra. \n\nRetrograde urethrocystography showed a stenotic segment in the bulbar urethra. Bulbar is a common site for strictures. Then urethrocystoscopy found an annular stenosis there and a polypoid lesion behind it. The histology after resection was a fibroepithelial polyp. After treatment, his flow rate improved to 28 mL/s, which is great.\n\nSo, putting this together: the main issue is the stenosis in the bulbar urethra. The polyp was behind the stricture. But the key here is the cause. Since there's no history of trauma or infection, and the histology shows a fibroepithelial polyp, that polyp might have been causing the obstruction. Fibroepithelial polyps are benign growths, and in the urethra, they can lead to obstruction and secondary strictures. \n\nWait, but why the stenosis? Maybe the polyp caused chronic irritation or obstruction, leading to scarring and stenosis. Or maybe the polyp was congenital? Fibroepithelial polyps are sometimes congenital, especially in younger patients. So the primary problem here could be the fibroepithelial polyp leading to the stricture. Therefore, the diagnosis would be a urethral stricture secondary to a fibroepithelial polyp. Or maybe the polyp itself was the main lesion causing the symptoms, and the stenosis was part of that. \n\nBut according to the tests, the stenosis was present, and the polyp was behind it. So perhaps the polyp was causing the stenosis. Alternatively, maybe the stenosis was a separate issue, but the presence of the polyp suggests that it's the primary etiology. Since the treatment involved resection, and after that the flow improved, the main diagnosis would be fibroepithelial polyp of the urethra causing obstructive symptoms and secondary stenosis. \n\nI think the final answer here is that the patient has a fibroepithelial polyp in the bulbar urethra leading to urethral stenosis. That's the primary diagnosis because the histology confirms the polyp, and after its resection, the flow improved significantly. The stenosis was likely due to the presence of the polyp causing obstruction and maybe some inflammatory reaction leading to scarring.",
+        "content": "```\n### Resoning:\n<step 1> The patient is a young male with progressive voiding symptoms and no history of STIs, trauma, or medication use, which rules out common causes of urethral strictures like infections or iatrogenic injury.  \n<step 2> Uroflowmetry showing a markedly reduced flow rate (4 mL/s) and failed catheterization suggest mechanical obstruction, likely due to urethral pathology.  \n<step 3> Retrograde urethrocystography and urethrocystoscopy localize the obstruction to the bulbar urethra, revealing both a stenotic segment and a polypoid lesion.  \n<step 4> Histological confirmation of a fibroepithelial polyp behind the stenosis indicates this lesion is the primary pathology. Fibroepithelial polyps are rare benign congenital/developmental lesions that can cause obstruction and secondary strictures.  \n<step 5> Post-resection normalization of uroflowmetry (28 mL/s) confirms that the polyp was the underlying cause of the stenosis and urinary obstruction.  \n\n### Answer:\nFibroepithelial polyp of the bulbar urethra with secondary urethral stenosis."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient is a young male with progressive voiding symptoms and no history of STIs, trauma, or medication use, which rules out common causes of urethral strictures like infections or iatrogenic injury.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Uroflowmetry showing a markedly reduced flow rate (4 mL/s) and failed catheterization suggest mechanical obstruction, likely due to urethral pathology.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Retrograde urethrocystography and urethrocystoscopy localize the obstruction to the bulbar urethra, revealing both a stenotic segment and a polypoid lesion.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Histological confirmation of a fibroepithelial polyp behind the stenosis indicates this lesion is the primary pathology. Fibroepithelial polyps are rare benign congenital/developmental lesions that can cause obstruction and secondary strictures.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Post-resection normalization of uroflowmetry (28 mL/s) confirms that the polyp was the underlying cause of the stenosis and urinary obstruction.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Initial consideration of obstructive urinary pathologies based on LUTS and failed catheterization, considering urethral stricture, benign urethral tumors, trauma-induced obstruction, or congenital anomalies.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Ruling out other common causes of urethral obstruction, including negative STI tests, no history of trauma, and congenital anomalies deemed unlikely due to patient age and lack of earlier symptoms.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Confirming mechanical obstruction via retrograde urethrocystography and identifying an annular stenosis and polypoid lesion through urethrocystoscopy.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Histological confirmation of the polypoid lesion as a benign fibroepithelial polyp (FEP) without signs of malignancy.",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> Excluding other urethral lesions or neoplasms by confirming the obstruction was caused solely by the polyp and no atypical cellular changes were present.",
+            "hit": false
+        },
+        {
+            "step": "<Step 6> Final diagnosis: Urethral obstruction caused by a fibroepithelial polyp (FEP) in the bulbar urethra, supported by clinical symptoms, imaging, endoscopic evaluations, and histological confirmation.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.6666666666666666
+}

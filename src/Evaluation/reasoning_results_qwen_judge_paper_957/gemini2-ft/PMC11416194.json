@@ -1,0 +1,121 @@
+{
+    "raw_case": "\nOvarian Torsion Leading to Necrosis: A Case Report of Acute Abdominal Pain in a 25-Year-Old Female\nOvarian torsion is a critical gynecological emergency that presents with sudden-onset abdominal pain and requires immediate intervention to prevent irreversible ovarian damage. This case report describes a 25-year-old female who presented with acute right lower quadrant pain, which had escalated to excruciating levels over the past 45 minutes, accompanied by persistent nausea and vomiting. She had no fever, vaginal bleeding, or dysuria, and her urine pregnancy test was negative. A physical examination revealed significant tenderness and guarding in the right lower abdomen, with no evidence of organomegaly or abnormal pelvic findings. Imaging studies, including ultrasound, confirmed the diagnosis of a complete ovarian torsion with associated necrosis. The patient underwent successful laparoscopic surgery, which involved the removal of the necrotic ovary and affected fallopian tube. Postoperative recovery was uneventful, and the patient fully recovered within a week. This case underscores the importance of early diagnosis and surgical intervention in managing ovarian torsion to preserve ovarian function and prevent complications.\n\nIntroduction\n\nOvarian torsion is a critical gynecological emergency characterized by the twisting of the ovary around its supporting ligaments, often leading to compromised blood flow and subsequent ischemia. This condition is most frequently associated with ovarian cysts or tumors, but it can also occur in the absence of any obvious pathology [1]. The incidence of ovarian torsion is estimated to be 2.7 to 7.4 cases per 100,000 women annually, with a peak incidence occurring between the ages of 20 and 40 [2]. The presentation of ovarian torsion can be insidious, with symptoms ranging from acute abdominal pain to nausea and vomiting. The pain is often sudden and localized to the lower abdomen or pelvis. Patients may also experience nausea, vomiting, and, less commonly, fever [3]. Due to the nonspecific nature of the symptoms, ovarian torsion can be challenging to diagnose, particularly in the absence of classic findings on physical examination and imaging studies [4].Ultrasound imaging, often augmented with Doppler studies, is the primary diagnostic tool for ovarian torsion. Gray-scale ultrasound may reveal an enlarged, edematous ovary with or without an associated cyst, while Doppler studies can identify the absence of venous and arterial blood flow to the affected ovary [5]. Early diagnosis and intervention are crucial, as delayed treatment can result in ovarian necrosis and loss of ovarian function, with potential long-term implications for fertility [6]. Surgical intervention is the definitive treatment for ovarian torsion and typically involves laparoscopic detorsion and stabilization of the affected ovary. In cases where the ovary has undergone significant necrosis, oophorectomy may be necessary [7]. Prompt recognition and surgical management are essential to prevent adverse outcomes and preserve ovarian function.\n\nCase presentation\n\nA 25-year-old female presented with acute abdominal pain localized to the right lower quadrant. She reported experiencing intermittent episodes of pain over the past several weeks, but in the last 45 minutes, the pain had become unbearable and excruciating. She also complained of persistent nausea and multiple episodes of vomiting. There was no history of fever, vaginal bleeding, discharge, dysuria, or changes in bowel habits. She denied any history of substance use. A urine pregnancy test (UPT) was negative.On general examination, the patient appeared distressed and was clutching her right lower abdomen. Her vital signs were unstable, with a blood pressure of 145/90 mmHg and a pulse rate of 110 beats per minute. A gastrointestinal examination revealed tenderness and guarding in the right lower quadrant, with normal bowel sounds and no organomegaly. Pelvic examination demonstrated right adnexal fullness and significant pain on palpation but no evidence of bleeding or discharge.The patient underwent surgical management via emergency laparoscopy. Intraoperative findings revealed a right ovarian cyst with complete torsion of the right ovary and fallopian tube, leading to necrosis. These findings were consistent with the ultrasound results depicted in Figure 1. The right fallopian tube and the ovarian ligaments were clamped, cut, ligated, and transfixed (Figure 2). The right ovary was removed, and specimens of these structures were collected. The procedure was uneventful, and the patient fully recovered within a week.\n\nDiscussion\n\nOvarian torsion is a critical gynecological emergency characterized by the twisting of the ovary, which can lead to compromised blood flow and potential necrosis if not promptly addressed. The condition is typically associated with the presence of an ovarian cyst or mass, although it can occur in the absence of these findings [8,9]. This case highlights several key aspects of ovarian torsion, including its presentation, diagnostic approach, and management. The presentation of ovarian torsion can be insidious, often mimicking other abdominal conditions. The patient, in this case, reported acute, severe right lower quadrant pain, which had escalated in intensity over a short period. This rapid onset of severe pain, combined with nausea and vomiting, is consistent with the typical presentation of ovarian torsion [10]. The absence of fever, vaginal bleeding, or urinary symptoms can often lead to a delay in diagnosis, as these findings are not always present in cases of torsion [6].Ultrasound imaging is a crucial diagnostic tool in suspected cases of ovarian torsion. In this patient, a gray-scale B-mode ultrasound revealed a bulky right ovary with a non-vascular cystic lesion and minimal pericystic fluid collection, which are typical signs of torsion [11]. The lack of blood flow on Doppler imaging further supported the diagnosis. Imaging studies are essential for distinguishing ovarian torsion from other abdominal conditions, such as appendicitis or ectopic pregnancy, which can present with similar symptoms [6]. Timely surgical intervention is critical in managing ovarian torsion. The primary goal of surgery is to restore blood flow to the affected ovary and, if necessary, to remove necrotic tissue. In this case, laparoscopic surgery was employed, allowing for direct visualization and correction of the torsion. The findings of a twisted pedicle and necrotic ovary corroborated the preoperative imaging results and underscored the importance of prompt surgical treatment [6]. Laparoscopy is the preferred approach for managing ovarian torsion due to its minimally invasive nature and effectiveness in both diagnosing and treating the condition [12]. In this case, the procedure was uneventful, and the patient recovered fully within a week, highlighting the positive outcomes associated with early intervention and appropriate surgical management.\n\nConclusions\n\nIn conclusion, this case highlights the critical importance of prompt recognition and intervention in cases of ovarian torsion, a rare but serious gynecological emergency. The rapid escalation of symptoms and targeted imaging played a pivotal role in the timely diagnosis and management of this condition. Surgical intervention via laparoscopy confirmed the diagnosis and effectively treated the torsion, preventing further complications such as widespread necrosis and potential infertility. This case underscores the need for heightened clinical awareness of ovarian torsion in women presenting with acute lower abdominal pain, as early surgical management is essential for preserving ovarian function and ensuring favorable patient outcomes.",
+    "generate_case": {
+        "case_summary": "- Patient Information: 25-year-old female.\n- Chief Complaint: Acute right lower quadrant abdominal pain.\n- History of Present Illness: Severe escalating abdominal pain over the past 45 minutes, accompanied by persistent nausea and vomiting. Intermittent episodes of abdominal pain in previous weeks.\n- Past Medical History: None specified.\n- Personal History: No history of substance use.\n- Family History: None provided.\n- Physical Examination: Tenderness and guarding in the right lower quadrant, right adnexal fullness on pelvic examination, and significant pain on palpation. No fever, vaginal bleeding, dysuria, or discharge. Normal bowel sounds, no organomegaly.\n- Ancillary Tests: Negative urine pregnancy test (UPT). Ultrasound imaging revealed a bulky, edematous right ovary with an avascular cystic lesion, minimal pericystic fluid, and absence of venous and arterial blood flow (confirmed by Doppler).",
+        "differential_diagnosis": "1. **Initial Differential Diagnoses**:\n   - **Ovarian torsion**: Sudden severe localized pain, nausea, and imaging findings are classic for ovarian torsion with ischemia/necrosis.\n   - **Appendicitis**: Also presents with right lower quadrant pain; however, no fever, anorexia, or rebound tenderness observed. Imaging findings did not support this.\n   - **Ectopic pregnancy**: Ruled out by negative UPT and absence of vaginal bleeding.\n   - **Pelvic inflammatory disease**: Excluded due to the absence of fever, abnormal pelvic findings, or supportive clinical/imaging findings.\n\n2. **Diagnostic Refinement**:\n   - Doppler ultrasound findings (absence of blood flow) strongly supported ovarian torsion over other causes of acute abdominal pain.\n   - The lack of other systemic or infectious symptoms reduced the likelihood of alternative diagnoses.\n\n3. **Confirmation**:\n   - Laparoscopic findings confirmed ovarian torsion with necrosis, consistent with preoperative imaging and clinical presentation.",
+        "final_diagnosis": "Ovarian torsion with complete necrosis of the right ovary secondary to a cyst. Diagnosis confirmed by imaging and laparoscopic surgical findings.",
+        "diagnosis_results": "Ovarian torsion with necrosis."
+    },
+    "body_category": [],
+    "disorder_category": [
+        "Pregnancy and Reproduction"
+    ],
+    "receive_time": "2024-8-13",
+    "checked_rare_disease": [],
+    "id": "PMC11416194",
+    "results": {
+        "content": "### Resoning:\n<step 1> Analyze the chief complaint and history of present illness. The patient is a 25-year-old female presenting with acute onset of severe, escalating right lower quadrant abdominal pain, accompanied by nausea and vomiting. The rapid onset and severity suggest an acute abdominal condition requiring prompt attention. The history of intermittent abdominal pain in previous weeks is also significant and suggests a possible pre-existing underlying issue.\n\n<step 2> Evaluate the physical examination findings.  Right lower quadrant tenderness and guarding are consistent with localized peritoneal irritation in the RLQ. The finding of right adnexal fullness on pelvic examination is crucial, pointing towards a gynecological origin of the pain, specifically involving the ovary or fallopian tube on the right side. The absence of fever reduces the likelihood of a purely infectious process like appendicitis, although it doesn't rule it out completely. The absence of vaginal bleeding or discharge makes ectopic pregnancy or pelvic inflammatory disease less likely but not definitively excluded. Normal bowel sounds are less suggestive of bowel obstruction.\n\n<step 3> Interpret the ancillary test results. The negative urine pregnancy test (UPT) effectively rules out pregnancy as the primary cause of acute abdominal pain, including a ruptured ectopic pregnancy, although some early ectopic pregnancies can have negative UPT. The ultrasound imaging is the most critical piece of information. The findings of a bulky, edematous right ovary with an avascular cystic lesion, minimal pericystic fluid, and *absence of venous and arterial blood flow* confirmed by Doppler are highly specific and concerning.\n\n<step 4> Synthesize the findings to formulate a differential diagnosis and narrow it down to the most likely diagnosis. Based on the RLQ pain, adnexal fullness, and the crucial ultrasound findings of an avascular ovarian cyst, the most probable diagnosis is **ovarian torsion**.  Other differential diagnoses to consider initially, based on RLQ pain, could include appendicitis, ovarian cyst rupture/hemorrhage, ectopic pregnancy (less likely with negative UPT and no bleeding), pelvic inflammatory disease (less likely without fever or discharge), and less likely, but still considered, ureteric colic. However, the ultrasound findings of absent blood flow to the ovary strongly favor ovarian torsion. The intermittent pain history could be related to intermittent torsion episodes or the underlying ovarian cyst predisposing to torsion.\n\n<step 5>  Conclude on the final diagnosis based on the weight of evidence, particularly the ultrasound findings. The combination of acute onset RLQ pain, right adnexal fullness, and definitive ultrasound evidence of avascularity of the right ovary with a cystic lesion leads to a clear diagnosis of **ovarian torsion**. This is a surgical emergency due to the risk of ovarian necrosis from ischemia.\n\n### Answer:\nOvarian Torsion"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Analyze the chief complaint and history of present illness. The patient is a 25-year-old female presenting with acute onset of severe, escalating right lower quadrant abdominal pain, accompanied by nausea and vomiting. The rapid onset and severity suggest an acute abdominal condition requiring prompt attention. The history of intermittent abdominal pain in previous weeks is also significant and suggests a possible pre-existing underlying issue.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Evaluate the physical examination findings.  Right lower quadrant tenderness and guarding are consistent with localized peritoneal irritation in the RLQ. The finding of right adnexal fullness on pelvic examination is crucial, pointing towards a gynecological origin of the pain, specifically involving the ovary or fallopian tube on the right side. The absence of fever reduces the likelihood of a purely infectious process like appendicitis, although it doesn't rule it out completely. The absence of vaginal bleeding or discharge makes ectopic pregnancy or pelvic inflammatory disease less likely but not definitively excluded. Normal bowel sounds are less suggestive of bowel obstruction.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Interpret the ancillary test results. The negative urine pregnancy test (UPT) effectively rules out pregnancy as the primary cause of acute abdominal pain, including a ruptured ectopic pregnancy, although some early ectopic pregnancies can have negative UPT. The ultrasound imaging is the most critical piece of information. The findings of a bulky, edematous right ovary with an avascular cystic lesion, minimal pericystic fluid, and *absence of venous and arterial blood flow* confirmed by Doppler are highly specific and concerning.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Synthesize the findings to formulate a differential diagnosis and narrow it down to the most likely diagnosis. Based on the RLQ pain, adnexal fullness, and the crucial ultrasound findings of an avascular ovarian cyst, the most probable diagnosis is **ovarian torsion**.  Other differential diagnoses to consider initially, based on RLQ pain, could include appendicitis, ovarian cyst rupture/hemorrhage, ectopic pregnancy (less likely with negative UPT and no bleeding), pelvic inflammatory disease (less likely without fever or discharge), and less likely, but still considered, ureteric colic. However, the ultrasound findings of absent blood flow to the ovary strongly favor ovarian torsion. The intermittent pain history could be related to intermittent torsion episodes or the underlying ovarian cyst predisposing to torsion.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Conclude on the final diagnosis based on the weight of evidence, particularly the ultrasound findings. The combination of acute onset RLQ pain, right adnexal fullness, and definitive ultrasound evidence of avascularity of the right ovary with a cystic lesion leads to a clear diagnosis of **ovarian torsion**. This is a surgical emergency due to the risk of ovarian necrosis from ischemia.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Initial differential diagnoses included ovarian torsion, appendicitis, ectopic pregnancy, and pelvic inflammatory disease based on clinical presentations and imaging findings.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Ovarian torsion was suspected due to sudden severe localized pain, nausea, and imaging findings indicating ischemia/necrosis.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Appendicitis was ruled out as there were no signs of fever, anorexia, or rebound tenderness, and imaging did not support this diagnosis.",
+            "hit": false
+        },
+        {
+            "step": "<Step 4> Ectopic pregnancy was excluded by a negative urine pregnancy test (UPT) and absence of vaginal bleeding.",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> Pelvic inflammatory disease was ruled out due to the absence of fever, abnormal pelvic findings, or supportive clinical/imaging findings.",
+            "hit": false
+        },
+        {
+            "step": "<Step 6> Doppler ultrasound findings (absence of blood flow) strongly supported ovarian torsion over other causes of acute abdominal pain.",
+            "hit": true
+        },
+        {
+            "step": "<Step 7> The lack of other systemic or infectious symptoms further reduced the likelihood of alternative diagnoses.",
+            "hit": false
+        },
+        {
+            "step": "<Step 8> Laparoscopic findings confirmed ovarian torsion with necrosis, consistent with preoperative imaging and clinical presentation.",
+            "hit": false
+        },
+        {
+            "step": "<Step 9> Final diagnosis: Ovarian torsion with complete necrosis of the right ovary secondary to a cyst.",
+            "hit": false
+        },
+        {
+            "step": "<Step 10> Diagnosis confirmed by imaging and laparoscopic surgical findings.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.3
+}

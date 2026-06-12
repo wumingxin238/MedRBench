@@ -1,0 +1,153 @@
+{
+    "raw_case": "\nAtypical presentation of Wilms’ tumor in an adult: a case report and diagnostic considerations\n\n\nAbstract\n\nWilms’ tumor (WT), while common in pediatric populations, is exceedingly rare in adults, accounting for only 0.5% of renal neoplasms. This report describes a 44-year-old patient diagnosed with stage II WT in the left kidney who underwent a radical nephrectomy, illustrating the diagnostic challenges encountered in adult cases. The patient’s symptoms and radiological findings were non-specific, complicating early detection. Histopathological analysis revealed a mixed-type tumor with a 60% blastemal component. Accurate histopathological evaluation is crucial for determining prognosis and guiding treatment. This case is rare due to its early-stage (stage II) diagnosis in an adult, which is almost unheard of in the literature, where most adult WT are advanced. This highlights the critical need for heightened clinical suspicion, early diagnostic efforts, and pivotal surgery-based treatment to improve outcomes in such rare cases.\n\nIntroduction\n\nWilms’ tumor (WT), also referred to as nephroblastoma is the most common primary malignant renal tumor in children, accounting for ~5%–6% of childhood neoplasms. However, it is extremely rare in adults, making up only 0.5% of all renal neoplasms [1]. The incidence in adults is exceptionally low, with fewer than 0.2 cases per million people annually. Because of its rarity, WT is rarely considered in older patients, often leading to delayed diagnosis and management, and it typically presents at a more advanced stage [2]. Clinically and radiologically, it is indistinguishable from renal cell carcinoma (RCC), making its diagnosis unexpected and often overdue. Additionally, the rarity of adult WT results in delayed application of appropriate and risk-adapted treatments based on international pediatric oncology protocols. This delay contributes to historically poorer survival outcomes in adults compared to children with Wilms’ tumor [3].\n\nCase report\n\nA 44-year-old patient presents to a urologist with gross hematuria and left flank pain that has been ongoing for the last 4 months. An ultrasound was followed by a thoraco-abdominopelvic computed tomography (CT) scan, which revealed a large renal mass centered on the middle and lower third of the left kidney, infiltrating the entire calyceal system up to the left ureter. Additionally, there is perirenal fat infiltration (Fig. 1). The patient underwent a radical nephrectomy, and the specimen was sent to the pathology laboratory for histopathological examination. Gross examination of the radical nephrectomy specimen revealed a polylobulated, firm, white yellow tumor appearing to infiltrate the renal sinus and hilum, reaching the renal capsule without perirenal fat infiltration (Fig. 2). No macroscopic tumor embolus was observed in the renal vein. Lymphadenectomy of the perirenal fat revealed a lymph node measuring 1.1 × 0.8 × 0.5 cm.Microscopic examination identified a triphasic WT with mixed components: 60% blastemal, 35% epithelial, and a very focal mesenchymal component. The tumor was classified as stage II according to the National Wilms’ Tumor Study (NWTS) Group staging system. There was no evidence of anaplasia or nephrogenic rests. The tumor infiltrated the renal sinus without lymph node metastasis. Immunohistochemical staining revealed positive expression for cytokeratin, WT1, and cyclin D1, while CD10, CK7, and AMARC were negative (Fig. 3).\n\nDiscussion\n\nWT is an embryonal neoplasm that originates from nephrogenic blastemal cells and mimics the histology of the kidneys, often showing various patterns of differentiation. This disease affects ~1 in every 7000 children. It occurs equally in both genders and in both kidneys, with the average age of onset being 35 months for males and 45 months for females. Notably, 98% of cases are diagnosed in children under the age of 10. While WT has been reported in adults, it remains extremely rare [4]. The clinical presentation of WT in adults differs from that in children. In adults, the main symptom is often flank pain, accompanied by a history of weight loss and a sudden decline in performance status. Occasionally, the tumor may be asymptomatic and detected incidentally through CT scans and ultrasound. In contrast, children typically present with a painless, palpable abdominal mass. Metastatic disease at diagnosis is more common in adults, occurring in 30% of cases compared with 10% in the pediatric population. Staging criteria of WT are based on the anatomic extent of the tumor at nephrectomy piece. There are two main classifications: NWTS, which proposes a pre-chemotherapy nephrectomy; and the International Society of Pediatric Oncology (SIOP) classification which advises four to six cycles of chemotherapy previous to nephrectomy. Up to 50% of adult cases are diagnosed at an advanced stage (III–V) [5]. Whereas our current case is classified as stage II with no lymph node or distant metastasis.Kilton et al. [6] have established six strict diagnostic criteria for adult WT: it must be a primary renal tumor; it must have a primitive blastemal spindle or round cell component; it should form abortive or embryonal tubules or glomerular structures; the tumor must not show any areas diagnostic of RCC; there must be pictorial confirmation of histology; and the patient must be over 15 years old. Our case met all these criteria. Although rare, WT and RCC can occasionally be found simultaneously in the same kidney [1].There is no histopathologic difference between adult and child WT. WT consists of blastemal, stromal, and epithelial components, present in varying proportions that influence prognosis. A predominance of blastemal components is associated with poor outcomes despite therapy, while epithelial and stromal components represent intermediate risk tumors [7].Anaplasia, characterized by multipolar mitotic figures, enlarged nuclei at least three times the normal size, and hyperchromatic nuclei, is seen in ~10% of WT cases. Identifying anaplasia and describing its focal or diffuse distribution is crucial, as diffuse anaplasia is linked to higher relapse rates and worse outcomes [7].Immunohistochemistry analysis is typically not required, but markers such as cytokeratin, vimentin, desmin, actin, and WT1 can help distinguish predominant blastemal tumors from rare ones. WT1 is expressed in some blastemal and epithelial elements but not in the stromal components [8].Nephroblastoma is categorized into one of three risk groups based on histopathologic features, which is essential for determining appropriate therapeutic approaches. Blastemal-predominant WT are more aggressive and have a poorer prognosis, placing them in the high-risk group. Tumors with predominantly epithelial and stromal features are classified as intermediate risk. Tumors with a predominance of mesoblastic features fall into the low-risk group [7].The staging criteria for WT are determined by the anatomical extent of the tumor. There are two main staging systems: the prechemotherapy, surgery-based system developed by NWTSG and the postchemotherapy-based system developed by SIOP. The NWTSG and the Children’s Oncology Group recommend resecting the primary tumor before administering chemotherapy. In contrast, SIOP advocates for administering chemotherapy for four weeks prior to surgery [3].Although there are no established treatment guidelines for adult WT, radical nephrectomy followed by adjuvant chemotherapy, with or without radiotherapy, is recommended [9].\n\nConclusion\n\nWT in adults is exceptionally rare and is often considered more aggressive than in children. However, recent evidence suggests that poorer outcomes may result from delayed diagnosis and lack of codified treatment protocols. This stage II case challenges the assumption of a poor prognosis in adults, emphasizing the importance of early detection, accurate staging, and timely surgical intervention. Such management may yield outcomes similar to pediatric cases, highlighting the need for increased clinical awareness and standardized treatment.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 44-year-old patient.\n- **Chief Complaint:** Gross hematuria and left flank pain.\n- **History of Present Illness:** Symptoms of gross hematuria and left flank pain lasting 4 months.\n- **Past Medical History:** None provided.\n- **Personal History:** None provided.\n- **Family History:** None provided.\n- **Physical Examination:** None provided.\n- **Ancillary Tests:** \n  - Thoraco-abdominopelvic CT revealed a large renal mass in the left kidney infiltrating the calyceal system and ureter, with perirenal fat infiltration.\n  - Histopathology of radical nephrectomy showed triphasic Wilms’ tumor (60% blastemal, 35% epithelial, focal mesenchymal components) classified as stage II according to the NWTS staging system. No anaplasia, lymph node metastasis, or perirenal fat invasion was observed.\n  - Immunohistochemistry: Positive for cytokeratin, WT1, and cyclin D1; negative for CD10, CK7, and AMARC.\n\n---",
+        "differential_diagnosis": "1. **Initial Considerations:**\n   - The main differential diagnosis for a renal mass in adults includes renal cell carcinoma (RCC), Wilms’ tumor (rare in adults), urothelial carcinoma, and other rare renal masses such as sarcoma.\n\n2. **Evaluation of RCC:**\n   - RCC was considered initially due to the patient’s age and non-specific imaging and clinical findings. However, histopathological examination did not show diagnostic features of RCC, such as clear cell or papillary histology, ruling it out.\n\n3. **Evaluation of Wilms’ Tumor:**\n   - Although uncommon in adults, Wilms’ tumor was considered based on histological findings of triphasic components (blastemal, epithelial, mesenchymal) and immunohistochemical positivity for WT1. The patient met diagnostic criteria for adult Wilms’ tumor, including the absence of RCC features and presence of embryonal patterns.\n\n4. **Other Diagnoses Considered:**\n   - Urothelial carcinoma was excluded due to the lack of transitional epithelial features and per the immunohistochemical profile. \n   - Sarcoma was ruled out given the lack of predominant stromal findings and negative staining markers.\n\n5. **Final Diagnosis Determination:**\n   - Adult Wilms’ tumor (stage II) was confirmed based on the histopathological and immunohistochemical findings, fulfilling all diagnostic criteria.\n\n---",
+        "final_diagnosis": "Stage II Wilms’ tumor (adult nephroblastoma) located in the left kidney. Diagnosis was substantiated by histopathologic and immunohistochemical findings, excluding other potential renal neoplasms.\n\n---",
+        "diagnosis_results": "Stage II Wilms’ tumor (adult nephroblastoma)."
+    },
+    "body_category": [
+        "Kidneys and Urinary System"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-7-26",
+    "checked_rare_disease": [
+        "Nephroblastoma"
+    ],
+    "id": "PMC11539902",
+    "results": {
+        "content": "### Reasoning:\n\nStep 1: Begin with the patient's chief complaints and history.\n\nThe patient is a 44-year-old presenting with gross hematuria and left flank pain lasting for 4 months. These symptoms are concerning for a urinary tract pathology, possibly involving the kidneys.\n\nStep 2: Consider possible causes of hematuria and flank pain.\n\nCommon causes include kidney stones, infections, cysts, and tumors. Given the duration and the presence of a mass on imaging, a neoplasm is a likely consideration.\n\nStep 3: Review the imaging findings.\n\nA thoraco-abdominopelvic CT scan shows a large renal mass in the left kidney infiltrating the calyceal system and ureter, with perirenal fat infiltration. This suggests a malignant process originating from the kidney.\n\nStep 4: Examine the surgical and pathological findings.\n\nThe patient underwent a radical nephrectomy, and histopathology revealed a triphasic Wilms’ tumor composed of 60% blastemal, 35% epithelial, and focal mesenchymal components. The tumor is classified as stage II according to the NWTS (National Wilms Tumor Study) staging system, with no anaplasia, lymph node metastasis, or perirenal fat invasion observed.\n\nStep 5: Consider the age of the patient.\n\nWilms’ tumor is typically a pediatric cancer, most commonly diagnosed in children under 5 years of age. Its presentation in a 44-year-old is highly unusual, as adult Wilms’ tumor is extremely rare.\n\nStep 6: Evaluate the histopathological description.\n\nThe tumor has triphasic features, which is characteristic of Wilms’ tumor, consisting of blastemal, epithelial, and mesenchymal components. The staging according to NWTS is stage II, indicating the tumor is completely resected with invasion into the renal sinus but no extension beyond the renal capsule.\n\nStep 7: Review immunohistochemistry findings.\n\nThe tumor is positive for cytokeratin, WT1, and cyclin D1, and negative for CD10, CK7, and AMCAR. WT1 is a commonly expressed marker in Wilms’ tumor, and cytokeratin positivity suggests epithelial differentiation.\n\nStep 8: Consider differential diagnoses.\n\nGiven the patient's age and the histological appearance, other possibilities include renal cell carcinoma, particularly of the epithelial type, or other renal tumors that can mimic Wilms’ tumor histologically.\n\nStep 9: Assess the rarity of adult Wilms’ tumor.\n\nAdult Wilms’ tumor is exceedingly rare, with most cases occurring in children. However, the histopathological features and immunophenotype support this diagnosis. It is important to consider that误diagnosis is possible due to the rarity in adults.\n\nStep 10: Consider genetic associations.\n\nWilms’ tumor in children is often associated with genetic syndromes such as WAGR syndrome, Denys-Drash syndrome, and Beckwith-Wiedemann syndrome. In adults, the etiology may differ, and genetic testing may be warranted to rule out hereditary predispositions.\n\nStep 11: Think about postoperative management.\n\nGiven that this is a stage II Wilms’ tumor with no evidence of metastasis, and considering it was completely resected, adjuvant therapy may be considered based on the risk stratification. However, treatment protocols for adult Wilms’ tumor may differ from those in pediatrics.\n\nStep 12: Summarize the diagnostic process.\n\nStarting with the patient's symptoms of hematuria and flank pain, imaging revealed a large renal mass with infiltration, leading to a radical nephrectomy. Histopathology confirmed a triphasic Wilms’ tumor, which is atypical for a 44-year-old but supported by the histological features and immunohistochemistry.\n\nStep 13: Consider consulting with pediatric oncology experts.\n\nGiven the rarity of Wilms’ tumor in adults, consultation with pediatric oncology experts may be beneficial for treatment planning, as they have more experience with this type of tumor.\n\nStep 14: Reflect on potential research implications.\n\nThis case may be of interest for research, given the unusual age of presentation, and could contribute to understanding the epidemiology and biology of Wilms’ tumor in adults.\n\n### Answer:\n\nWilms' tumor, stage II, triphasic morphology."
+    },
+    "reasoning_eval": [
+        {
+            "step": "Step 1: Begin with the patient's chief complaints and history.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "The patient is a 44-year-old presenting with gross hematuria and left flank pain lasting for 4 months. These symptoms are concerning for a urinary tract pathology, possibly involving the kidneys.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 2: Consider possible causes of hematuria and flank pain.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Common causes include kidney stones, infections, cysts, and tumors. Given the duration and the presence of a mass on imaging, a neoplasm is a likely consideration.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 3: Review the imaging findings.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "A thoraco-abdominopelvic CT scan shows a large renal mass in the left kidney infiltrating the calyceal system and ureter, with perirenal fat infiltration. This suggests a malignant process originating from the kidney.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 4: Examine the surgical and pathological findings.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "The patient underwent a radical nephrectomy, and histopathology revealed a triphasic Wilms’ tumor composed of 60% blastemal, 35% epithelial, and focal mesenchymal components. The tumor is classified as stage II according to the NWTS (National Wilms Tumor Study) staging system, with no anaplasia, lymph node metastasis, or perirenal fat invasion observed.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Step 5: Consider the age of the patient.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Wilms’ tumor is typically a pediatric cancer, most commonly diagnosed in children under 5 years of age. Its presentation in a 44-year-old is highly unusual, as adult Wilms’ tumor is extremely rare.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> The main differential diagnosis for a renal mass in adults includes renal cell carcinoma (RCC), Wilms’ tumor, urothelial carcinoma, and other rare renal masses such as sarcoma.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> RCC was initially considered due to the patient’s age and non-specific imaging and clinical findings, but histopathological examination ruled it out by showing no diagnostic features such as clear cell or papillary histology.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Wilms’ tumor was considered based on histological findings of triphasic components (blastemal, epithelial, mesenchymal) and immunohistochemical positivity for WT1, meeting diagnostic criteria for adult Wilms’ tumor.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Urothelial carcinoma was excluded due to the lack of transitional epithelial features and the immunohistochemical profile.",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> Sarcoma was ruled out given the lack of predominant stromal findings and negative staining markers.",
+            "hit": false
+        },
+        {
+            "step": "<Step 6> Adult Wilms’ tumor (stage II) was confirmed based on histopathological and immunohistochemical findings, fulfilling all diagnostic criteria.",
+            "hit": true
+        },
+        {
+            "step": "<Step 7> The final diagnosis is stage II Wilms’ tumor (adult nephroblastoma) located in the left kidney, substantiated by histopathologic and immunohistochemical findings, excluding other potential renal neoplasms.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.7,
+    "factulity": 0.8571428571428571,
+    "recall": 0.7142857142857143
+}

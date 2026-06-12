@@ -1,0 +1,147 @@
+{
+    "raw_case": "\nNecrotizing Scleritis Post Cataract Surgery: A Diagnostic Dilemma\nScleral necrosis following ocular surgery can lead to significant ocular and systemic complications. The two most prevalent procedures associated with surgically-induced scleral necrosis are pterygium excision and cataract surgery. This condition represents a rare delayed hypersensitivity reaction. We present a case of a male patient in his late 60s from India who experienced progressive scleral necrosis in his right eye six months after undergoing small-incision cataract surgery (SICS). The patient exhibited pain and redness without any decline in vision, and all systemic evaluations returned normal results. Ultimately, he was scheduled for a scleral patch graft.This case emphasizes the necessity for rapid diagnosis of surgically-induced necrotizing scleritis (SINS) and timely intervention.\n\nIntroduction\n\nSurgically-induced necrotizing scleritis (SINS) is an uncommon autoimmune response affecting the sclera at the site of previous surgical incisions [1]. Its incidence is reported to be extremely low, often cited as less than one in 10,000 cases, with some estimates suggesting it may be even rarer, at fewer than one in 100,000 [2]. This condition is more frequently observed in women, typically occurring in individuals during their fifth decade of life [3]. Surgically-induced necrotizing scleritis has been documented following various procedures, including cataract and pterygium surgeries, strabismus surgery, and trabeculectomy. The pathogenesis generally involves ocular trauma as a triggering factor that leads to scleral necrosis, influenced by unusual local and systemic factors [4]. In this case report, we present a patient who developed SINS six months after cataract surgery, resulting in a diagnostic challenge.\n\nCase presentation\n\nA male in his late 60s came to the ophthalmology outpatient department with complaints of sudden pain and redness in his right eye six months after small-incision cataract surgery (SICS). The surgery included the placement of a 6 mm rigid polymethyl methacrylate (PMMA) intra-ocular lens. His ocular history included left eye cataract surgery done one year back by the same surgeon in the same hospital, while the right eye was operated on for mature cataract through a 6.5 mm scleral incision. Intra-operatively, three interrupted sutures were taken at the incision site. He was asymptomatic for five months after surgery. His medical history included uncontrolled diabetes with neuropathic and nephropathic complications. He also had a history of cardiac surgery.On examination, the best corrected visual acuity (BCVA) was 20/32 in the right eye and 20/20 in the left eye, with near vision N6 in both. Intraocular pressures were recorded at 16 mm Hg in the right eye and 14 mm Hg in the left. Slit lamp examination revealed generalized conjunctival hyperemia, circumcorneal congestion, and episcleral and scleral congestion with tortuous vessels at the incision site, measuring 4x6 mm in the right eye (Figure 1).Scleral thinning was also noticed in the right eye (Figure 2).The anterior segment of the left eye was within normal limits (Figure 3).Fundus examination of both eyes revealed mild non-proliferative diabetic retinopathy, with no signs of macular edema. Based on the clinical findings, anterior necrotizing scleritis was diagnosed, though it remained uncertain whether the condition was due to an infection or related to previous surgery. The initial treatment regimen included prednisolone eye drops every six hours and moxifloxacin 0.5% eye drops administered four times daily. A thorough systemic evaluation was performed, which encompassed a complete blood count, biochemical analysis, and serological tests for HLA-B27, HLA-B51, and HLA-A29, along with autoantibody testing, rheumatoid factor, and C-reactive protein. Additional assessments included a tuberculin skin test and a chest X-ray. Both polymerase chain reaction (PCR) analysis of conjunctival scraping and an aqueous humor sample for microbiological culture returned negative results. Despite antibiotic treatment, the patient's condition worsened, necessitating scleral patch graft surgery. Unfortunately, the patient was lost to follow-up due to financial constraints.\n\nDiscussion\n\nSurgically-induced necrotizing scleritis is a rare yet serious complication following ocular surgery, which can occur anywhere from the first postoperative day to several years later. This condition presents diagnostic challenges, as scleral thinning may be overlooked. Patients may initially report mild discomfort and conjunctival congestion, which can be mistaken for dry eye or conjunctivitis, leading to delays in treatment. In advanced cases, significant visual impairment, scleral necrosis, anterior staphylomas, and peripheral corneal ulcers may develop. To rule out infectious causes, it is crucial to perform a scleral biopsy and intraocular samples for PCR analysis and wound scraping for microbiological culture. Given the potential impact on vision, early intervention is vital. Diabetes mellitus may exacerbate this condition by creating a pro-ischemic inflammatory environment [5].Oral prednisolone is often considered the first-line treatment for non-infectious necrotizing scleritis, while intravenous methylprednisolone may be used in severe cases. Additional therapies may include non-steroidal immunotherapy, monoclonal antibodies against tumor necrosis factor-alpha, interleukin-6 inhibitors, and anti-CD20 targeted drugs. For cases with progressive scleral necrosis, surgical options such as conjunctival debridement, conjunctival and Tenon's flap grafts, amniotic membrane transplantation, and scleral patch grafts may be necessary [6].Mártires et al. documented a rare instance of SINS following intraocular lens replacement, emphasizing the importance of early recognition and treatment. The combination of systemic corticosteroids and scleral patch grafting effectively managed the condition, leading to symptom relief and partial visual recovery [3]. Das et al. provided insights into the presentation and management of postoperative necrotizing scleritis, demonstrating the necessity of prompt diagnosis and intervention. Their findings underscored the variability in patient outcomes, highlighting the need for tailored treatment plans and ongoing monitoring [7].\n\nConclusions\n\nInadequate pre-operative assessment for any type of ocular surgery can lead to SINS, making it a challenging condition to diagnose, prevent, and manage. Factors such as previous ocular surgery, excessive cautery use, extensive surgical manipulation, associated systemic autoimmune disorders, and toxic adjunctive therapies require careful consideration. Scleral inflammation can be both self-limiting and vision-threatening, complicating the diagnosis of SINS. Further research and large randomized controlled trials on postoperative scleral necrosis are necessary to identify contributing factors, at-risk patients, and the safety of various medical and surgical interventions for this condition.",
+    "generate_case": {
+        "case_summary": "- **Patient Information**: Male, late 60s, from India.\n- **Chief Complaint**: Sudden pain and redness in the right eye.\n- **History of Present Illness**: Symptoms appeared six months after small-incision cataract surgery (SICS) with placement of a 6 mm PMMA intraocular lens. No vision decline reported. Asymptomatic for five months post-surgery.\n- **Past Medical History**: Uncontrolled diabetes with neuropathic and nephropathic complications, history of cardiac surgery.\n- **Personal History**: None provided.\n- **Family History**: None provided.\n- **Physical Examination**: \n  - **Right Eye**: Best corrected visual acuity (BCVA) 20/32, intraocular pressure 16 mm Hg. Findings include generalized conjunctival hyperemia, circumcorneal congestion, episcleral and scleral congestion, and scleral thinning at the incision site (4x6 mm).\n  - **Left Eye**: BCVA 20/20, intraocular pressure 14 mm Hg, anterior segment normal, fundus showed mild non-proliferative diabetic retinopathy. \n- **Ancillary Tests**: \n  - Complete blood count, biochemical analysis, serological studies (HLA typing, autoantibodies, rheumatoid factor, C-reactive protein) normal.\n  - Tuberculin skin test and chest X-ray normal.\n  - PCR analysis of conjunctival scraping and aqueous humor sample negative for infection.\n  - Initial treatment with prednisolone and moxifloxacin drops showed no improvement.\n  - Worsened condition led to scleral patch graft surgery, but follow-up was lost due to financial constraints.",
+        "differential_diagnosis": "1. **Anterior Necrotizing Scleritis**:\n   - Supported by the patient’s presentation with redness, pain, conjunctival hyperemia, episcleral/scleral congestion, and scleral thinning.\n   - Uncertainty remained regarding infectious or autoimmune etiology until lab tests ruled out infection. \n\n2. **Infectious Etiology**:\n   - PCR and microbiological cultures were negative, excluding infectious scleral necrosis.\n\n3. **Surgically-Induced Necrotizing Scleritis (SINS)**:\n   - The timeline (onset six months post-surgery), location (scleral thinning localized to incision site), and absence of other systemic autoimmune conditions support this diagnosis.\n   - Uncontrolled diabetes likely exacerbated the condition by contributing to a pro-ischemic inflammatory environment.\n\n4. **Other Non-Scleral Ophthalmic Conditions (Dry Eye, Conjunctivitis)**:\n   - Excluded due to focal scleral thinning and necrosis, features incompatible with benign conditions such as dry eye or conjunctivitis.",
+        "final_diagnosis": "Surgically-Induced Necrotizing Scleritis (SINS) following cataract surgery. Diagnosis is based on the patient's clinical presentation, lack of infectious etiology, and characteristic findings of anterior necrotizing scleritis localized to the site of prior surgical incision.",
+        "diagnosis_results": "Surgically-Induced Necrotizing Scleritis (SINS)."
+    },
+    "body_category": [
+        "Eyes and Vision"
+    ],
+    "disorder_category": [
+        "Injuries and Wounds"
+    ],
+    "receive_time": "2024-9-7",
+    "checked_rare_disease": [],
+    "id": "PMC11531864",
+    "results": {
+        "content": "### Reasoning:\n\nStep 1: Understanding the Patient's Presentation\n\nThe patient is a male in his late 60s from India who underwent small-incision cataract surgery (SICS) with placement of a 6 mm PMMA intraocular lens six months prior to presenting with sudden pain and redness in his right eye. Notably, there was no vision decline reported, and the patient was asymptomatic for five months post-surgery. Given that, the sudden onset of symptoms after a period of asymptomaticity suggests a possible delayed complication related to the surgery.\n\nStep 2: Reviewing the Past Medical History\n\nThe patient has a significant past medical history, including uncontrolled diabetes with neuropathic and nephropathic complications, as well as a history of cardiac surgery. Uncontrolled diabetes can lead to various ocular complications, including those related to wound healing and immune function, which could potentially impact post-surgical outcomes.\n\nStep 3: Analyzing the Physical Examination Findings\n\nIn the right eye, the patient has best corrected visual acuity of 20/32, intraocular pressure of 16 mm Hg, generalized conjunctival hyperemia, circumcorneal congestion, episcleral and scleral congestion, and scleral thinning at the incision site measuring 4x6 mm. The left eye has normal anterior segment findings with mild non-proliferative diabetic retinopathy.\n\nThe presence of hyperemia, congestion, and scleral thinning localized to the incision site suggests a possible surgical complication, possibly related to the wound or the implanted intraocular lens.\n\nStep 4: Considering Ancillary Test Results\n\nAll laboratory tests, including complete blood count, biochemical analysis, serological studies (HLA typing, autoantibodies, rheumatoid factor, C-reactive protein), tuberculin skin test, chest X-ray, and PCR analysis of conjunctival scraping and aqueous humor sample were normal or negative. This rules out infectious and autoimmune causes, as well as systemic diseases that could be contributing to the eye symptoms.\n\nStep 5: Evaluating Treatment Response\n\nInitial treatment with prednisolone and moxifloxacin drops showed no improvement, and the condition worsened, leading to scleral patch graft surgery. The lack of response to antibiotic and steroid therapy suggests that the underlying issue may not be infectious or inflammatory in nature.\n\nStep 6: Considering Differential Diagnoses\n\nGiven the symptoms and test results, possible differential diagnoses include:\n\n- Scleral melt or thinning due to poor wound healing, possibly related to diabetes.\n\n- Exposure keratopathy if there is eyelid malposition or lagophthalmos.\n\n- Hypersensitivity or immune reaction to the intraocular lens or surgical materials.\n\n- Necrotizing scleritis, although the lack of systemic symptoms and normal lab tests make this less likely.\n\n- Orbital pseudotumor or other inflammatory conditions, but again, the normal lab tests and lack of response to steroids make this less probable.\n\nStep 7: Evaluating the Role of Diabetes\n\nGiven the patient's uncontrolled diabetes and its complications, poor wound healing is a significant concern. Diabetes can impair collagen synthesis and immune function, leading to delayed wound healing and increased susceptibility to infections, although infections were ruled out in this case.\n\nStep 8: Considering the Surgical Intervention\n\nThe fact that scleral patch graft surgery was performed suggests that the ophthalmologist believed there was significant scleral thinning or weakening that required reinforcement. The loss of follow-up due to financial constraints complicates the management and prognosis.\n\nStep 9: Integrating all Information\n\nTaking into account the patient's history, examination findings, test results, and treatment responses, the most plausible diagnosis is scleral thinning with possible melt due to poor wound healing, likely related to the patient's uncontrolled diabetes.\n\n### Answer:\n\nScleral thinning with possible melt secondary to poor wound healing in the context of uncontrolled diabetes, post-small-incision cataract surgery."
+    },
+    "reasoning_eval": [
+        {
+            "step": "Step 1: Understanding the Patient's Presentation",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "The patient is a male in his late 60s from India who underwent small-incision cataract surgery (SICS) with placement of a 6 mm PMMA intraocular lens six months prior to presenting with sudden pain and redness in his right eye. Notably, there was no vision decline reported, and the patient was asymptomatic for five months post-surgery. Given that, the sudden onset of symptoms after a period of asymptomaticity suggests a possible delayed complication related to the surgery.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 2: Reviewing the Past Medical History",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "The patient has a significant past medical history, including uncontrolled diabetes with neuropathic and nephropathic complications, as well as a history of cardiac surgery. Uncontrolled diabetes can lead to various ocular complications, including those related to wound healing and immune function, which could potentially impact post-surgical outcomes.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 3: Analyzing the Physical Examination Findings",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "In the right eye, the patient has best corrected visual acuity of 20/32, intraocular pressure of 16 mm Hg, generalized conjunctival hyperemia, circumcorneal congestion, episcleral and scleral congestion, and scleral thinning at the incision site measuring 4x6 mm. The left eye has normal anterior segment findings with mild non-proliferative diabetic retinopathy.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "The presence of hyperemia, congestion, and scleral thinning localized to the incision site suggests a possible surgical complication, possibly related to the wound or the implanted intraocular lens.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 4: Considering Ancillary Test Results",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "All laboratory tests, including complete blood count, biochemical analysis, serological studies (HLA typing, autoantibodies, rheumatoid factor, C-reactive protein), tuberculin skin test, chest X-ray, and PCR analysis of conjunctival scraping and aqueous humor sample were normal or negative. This rules out infectious and autoimmune causes, as well as systemic diseases that could be contributing to the eye symptoms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Step 5: Evaluating Treatment Response",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> The patient presented with redness, pain, conjunctival hyperemia, episcleral/scleral congestion, and scleral thinning, consistent with anterior necrotizing scleritis.",
+            "hit": true
+        },
+        {
+            "step": "<Step 2> Lab tests ruled out an infectious etiology as PCR and microbiological cultures were negative for infectious scleral necrosis.",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> The diagnosis of surgically-induced necrotizing scleritis (SINS) is supported by the timeline of onset (six months post-surgery), the location of scleral thinning (localized to the incision site), and the absence of systemic autoimmune conditions.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Uncontrolled diabetes likely contributed to the condition by creating a pro-ischemic inflammatory environment.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Other non-scleral ophthalmic conditions, such as dry eye or conjunctivitis, were excluded due to the presence of focal scleral thinning and necrosis, which are incompatible with these benign conditions.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> The final diagnosis is surgically-induced necrotizing scleritis (SINS) following cataract surgery, based on the clinical presentation, exclusion of infectious etiology, and characteristic findings of anterior necrotizing scleritis localized to the site of prior surgical incision.",
+            "hit": true
+        }
+    ],
+    "efficiency": 0.7,
+    "factulity": 1.0,
+    "recall": 1.0
+}

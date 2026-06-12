@@ -1,0 +1,119 @@
+{
+    "raw_case": "\nA case report of a colouterine fistula due to sigmoid diverticulitis\n\n\nAbstract\n\nColouterine fistulas are generally seen in post-menopausal patients and present with abdominal pain and non-physiologic vaginal drainage. A history of uterine pathology or diverticulitis is generally lacking. Visualization of the passage of contrast from the gastrointestinal tract to the uterus is not necessary to make the diagnosis. We present the case of a 44-year-old woman successfully treated for a colouterine fistula due to sigmoid diverticulitis. A variety of surgical approaches have been described to correct this fistula, and a minimally invasive colectomy without ileostomy or colostomy appears to be a safe approach.\n\nIntroduction\n\nSigmoid diverticulitis can result in fistula formation in any organ in the pelvis. Colouterine fistulas constitute only 3% of such connections and are rare compared to colovesicular (65%), colovaginal (25%), and coloenteric (7%) disease [1]. The relatively thick myometrium is presumed to protect the uterus from an eroding infection. This infrequent occurrence can complicate standard diagnostic and therapeutic maneuvers. We describe the management of a younger patient found to have a colouterine fistula and compare her presentation and management to that of previously reported cases.\n\nCase report\n\nA 44-year-old woman presented to our emergency department with severe abdominal pain and malodorous, feculent-appearing vaginal drainage. The patient had a 3-year history of intermittent abdominal pain, but never as intractable as this presentation. She had undergone global thermal endometrial ablation for dysfunctional uterine bleeding 3 years prior. She had long-standing type II diabetes treated with glipizide and metformin. On exam, the patient’s body mass index was 41.6 kg/m2. Her temperature was 39.4°C. Her abdomen was diffusely tender on palpation.A complete blood count was normal. CT imaging demonstrated fluid and air in the uterus, associated with a phlegmon that communicated with the sigmoid colon (Fig. 1). An ovarian cyst was incidentally noted posterior to the uterus.On colonoscopy, diverticula were seen within the descending and sigmoid colon, but no malignancy nor inflammation. An endometrial biopsy demonstrated a fragmented endometrial polyp and fecal material but no malignancy.The patient’s fevers and pain resolved with a course of intravenous and oral antibiotics. She was placed on a very low carbohydrate diet, resulting in a 55-pound weight loss and a drop in her hemoglobin A1c from 6.9% to 5.6%.Three months following her initial presentation, the patient underwent a robotic-assisted laparoscopic sigmoid colectomy, hysterectomy, bilateral salpingectomy, and right oophorectomy. Bilateral retrograde indocyanine green ureteral injection facilitated intraoperative ureteral visualization. Cystoscopy demonstrated that the bladder was not injured during the hysterectomy. Feculent cervical discharge was seen during placement of the uterine manipulator. The sigmoid colon was inflamed and densely adherent to the body of the uterus; the uterus was bulky and mildly hyperemic. The sigmoid colon and the uterus were extracted through the vagina, obviating the need for a Pfannenstiel incision. The coloproctostomy was constructed in an end-to-end fashion using a 29 mm EEA stapler.Final pathology results showed a grossly evident fistula tract measuring 1.7 cm in length in the lower anterior uterine segment extending through the myometrium and into the endometrial cavity (Fig. 2). This was accompanied by a benign leiomyoma with inflammation and a proliferative-type endometrium. Her cervix and bilateral fallopian tubes were normal. The sigmoid colon showed gross areas of perforation and diverticulosis (Fig. 3). Two areas of perforation were identified, 3.0 and 12.0 cm from the proximal surgical margin.She recovered uneventfully and was discharged 3 days after surgery.\n\nDiscussion\n\nWe performed a literature review using PubMed with the search terms ‘diverticulitis’ and ‘colouterine fistula’. We evaluated all 37 previously reported cases since 1957, described either in abstract or full manuscript form (Table 1). Abdominal pain and vaginal drainage were the most frequent symptoms noted in 21 and 23 of the 37 patients. Vaginal drainage was generally malodorous or clearly feculent. Three patients described vaginal flatulence. Nine patients were febrile. Our patient’s age of 44 was atypical, since only 2 of the 37 previous patients were under 60. The average age at presentation was 71 years.One patient had adenocarcinoma of the colon, and another had a retained sponge from a prior operation, which played a role in the fistula formation. In most reports, diverticulitis was the presumed etiology. Fistula formation <6 months after ablation is rare [2, 3], so our patient’s endometrial ablation 3 years prior is not likely to have directly caused fistula formation but may have increased susceptibility. Our concern for malignancy led to a preoperative colonoscopy and endometrial biopsy, but these maneuvers were performed in only eight and four of the previous cases. CT imaging was performed in 24 of 37 patients. Seven patients had sonography (six transvaginal, one transabdominal). Of the nine patients who received gastrografin either per os or by enema, contrast was seen in the uterus of six.Surgery need not be emergent. Despite our patient’s abdominal pain and fever, we were able to perform elective surgery after a 3-month period of prehabilitation, during which she lost weight and decreased her hemoglobin A1c. Of the 13 prior cases in which an abscess was noted, eight patients underwent an image-guided drainage procedure, and in one, the drain and antibiotics led to resolution of the fistula.Three patients had laparoscopic surgery, and the remainder had open surgery. Eight patients underwent a Hartmann’s procedure with an end colostomy and closure of the rectum, and the remainder had a primary anastomosis. Only 23 patients had a hysterectomy, suggesting removal of the uterus is not mandatory when the colon is the culprit organ. Fourteen patients had a bilateral oophorectomy and one had a unilateral oophorectomy. In our patient, one ovary was removed due to a large cyst and involvement in the inflammation around the fistula, and the other ovary was left in situ to prevent systemic symptoms of menopause. Our patient was the first published case report of a colouterine fistula to be treated with a robotic sigmoid colectomy and hysterectomy with vaginal extraction and an intracorporeal anastomosis without the need of an extraction incision, but prior reports have established the safety of a minimally invasive approach and of a primary anastomosis. Complications in the literature were minimal and included a postoperative UTI, a postoperative ileus, and one vaginal cuff dehiscence.Colouterine fistulas are uncommon, generally nonmalignant, and can usually be diagnosed by CT imaging. Not all patients undergo colonoscopy or endometrial biopsy. Surgical approaches vary, but almost always include a sigmoid colectomy. Our patient is the first to be treated with robot-assisted laparoscopic sigmoid colectomy and hysterectomy with vaginal extraction and an intracorporeal anastomosis, showing the feasibility of this advantageous approach.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 44-year-old woman.\n- **Chief Complaint:** Severe abdominal pain and malodorous, feculent-appearing vaginal drainage.\n- **History of Present Illness:** 3-year history of intermittent abdominal pain, worsened significantly during this presentation.\n- **Past Medical History:** Type II diabetes mellitus managed with glipizide and metformin; global thermal endometrial ablation 3 years ago for dysfunctional uterine bleeding.\n- **Personal History:** Body mass index (BMI) of 41.6 kg/m2.\n- **Family History:** None reported.\n- **Physical Examination:** Diffusely tender abdomen; fever with a temperature of 39.4°C.\n- **Ancillary Tests:**\n  - **Laboratory:** Complete blood count was normal.\n  - **Imaging:** CT scan showed fluid and air in the uterus, with a phlegmon communicating with the sigmoid colon; incidental ovarian cyst posterior to the uterus.\n  - **Colonoscopy:** Diverticula in the descending and sigmoid colon; no malignancy or acute inflammation.\n  - **Endometrial Biopsy:** Fragmented endometrial polyp with fecal material, but no malignancy.\n  - **Surgical Findings:** Feculent cervical discharge noted; inflamed and adherent sigmoid colon to the uterus; pathology confirmed a colouterine fistula (1.7 cm tract) with benign leiomyoma and evidence of sigmoid colon perforation and diverticulosis.",
+        "differential_diagnosis": "1. **Initial List of Possible Diagnoses:**\n   - Colouterine fistula.\n   - Colovesical fistula.\n   - Malignancy (colon or uterine cancer).\n   - Inflammatory bowel disease (e.g., Crohn's disease).\n   - Pelvic abscess.\n\n2. **Rationale for Inclusion/Exclusion:**\n   - **Colouterine Fistula:** Strongly supported by feculent discharge, CT imaging findings of a phlegmon connecting the sigmoid colon to the uterus, history of diverticulosis, and pathology confirmation of a fistula tract. Became the leading diagnosis.\n   - **Colovesical Fistula:** Excluded based on cystoscopy, which showed no bladder involvement, and absence of urinary symptoms.\n   - **Malignancy:** Considered due to the patient's history and age, but excluded based on clear colonoscopy and endometrial biopsy findings.\n   - **Inflammatory Bowel Disease:** Excluded due to lack of systemic symptoms (e.g., chronic diarrhea, weight loss, perianal disease) and no evidence on imaging or colonoscopy.\n   - **Pelvic Abscess:** Likely present as part of the colouterine fistula process but not an independent diagnosis; resolved with antibiotics and did not require drainage.\n\n3. **Further Testing and Management:**\n   - CT imaging and colonoscopy clarified the absence of malignancy while highlighting diverticulosis as the underlying etiology.\n   - Preoperative weight loss and diabetes management optimized the patient for surgery.",
+        "final_diagnosis": "Colouterine fistula secondary to sigmoid diverticulitis, with contributing factors including diverticulosis and prior uterine ablation.",
+        "diagnosis_results": "Colouterine fistula due to sigmoid diverticulitis."
+    },
+    "body_category": [
+        "Digestive System"
+    ],
+    "disorder_category": [
+        "Infections"
+    ],
+    "receive_time": "2024-7-22",
+    "checked_rare_disease": [],
+    "id": "PMC11419314",
+    "results": {
+        "content": "### Resoning:\n<step 1> Initial Assessment based on Chief Complaint and History: The patient presents with severe abdominal pain and malodorous, feculent-appearing vaginal drainage. This combination strongly suggests a fistula, specifically between the bowel and the vagina or uterus, given the feculent nature of the drainage and vaginal location. The 3-year history of intermittent abdominal pain indicates a chronic or subacute process, which has now significantly worsened.\n\n<step 2> Considering Past Medical History and Risk Factors: The patient has Type II diabetes, which can increase the risk of infections and complications, but is not directly causative of a fistula itself.  The global thermal endometrial ablation is a more relevant past medical history. While it is performed to treat dysfunctional uterine bleeding, it carries a potential risk of uterine damage and, in rare cases, could contribute to fistula formation, especially if there was subsequent infection or inflammation. The patient's obesity (BMI 41.6 kg/m2) can also increase the risk of surgical complications and infections in general.\n\n<step 3> Analyzing Physical Examination and Ancillary Tests: The physical examination finding of a diffusely tender abdomen and fever (39.4°C) points towards an inflammatory or infectious process within the abdomen and pelvis, consistent with a fistula and potential secondary infection. The CT scan is crucial and reveals fluid and air in the uterus, with a phlegmon communicating with the sigmoid colon. This imaging evidence almost definitively confirms a fistula between the sigmoid colon and the uterus (colouterine fistula). The incidental ovarian cyst is less relevant to the current presentation. Colonoscopy ruled out malignancy and acute inflammation in the colon but identified diverticulosis, which is a common condition and a potential risk factor for fistula formation. The endometrial biopsy finding of fecal material within a polyp further supports the presence of a communication between the bowel and the uterus, and rules out malignancy as the primary cause of symptoms.\n\n<step 4> Integrating Surgical and Pathological Findings: The surgical findings of feculent cervical discharge observed intraoperatively clinically confirms the suspected fistula. The description of an inflamed and adherent sigmoid colon to the uterus during surgery further elucidates the pathophysiology.  The pathology report confirming a colouterine fistula (1.7 cm tract) with benign leiomyoma and evidence of sigmoid colon perforation and diverticulosis provides the definitive diagnosis and etiology. The sigmoid colon perforation and diverticulosis are identified as the likely cause of the fistula. The presence of a benign leiomyoma is an incidental finding and not directly related to the fistula formation.\n\n<step 5> Final Diagnosis and Etiology: Based on the comprehensive assessment of clinical presentation, imaging, endoscopic, surgical, and pathological findings, the final diagnosis is a colouterine fistula. The etiology of this fistula is determined to be secondary to sigmoid colon perforation and diverticulosis. The prior endometrial ablation may have predisposed the uterus to this complication, but the primary cause is clearly related to the sigmoid diverticulosis and subsequent perforation leading to fistula formation between the sigmoid colon and the uterus.\n\n### Answer:\nColouterine Fistula secondary to Sigmoid Diverticulosis and Perforation"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Initial Assessment based on Chief Complaint and History: The patient presents with severe abdominal pain and malodorous, feculent-appearing vaginal drainage. This combination strongly suggests a fistula, specifically between the bowel and the vagina or uterus, given the feculent nature of the drainage and vaginal location. The 3-year history of intermittent abdominal pain indicates a chronic or subacute process, which has now significantly worsened.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Considering Past Medical History and Risk Factors: The patient has Type II diabetes, which can increase the risk of infections and complications, but is not directly causative of a fistula itself.  The global thermal endometrial ablation is a more relevant past medical history. While it is performed to treat dysfunctional uterine bleeding, it carries a potential risk of uterine damage and, in rare cases, could contribute to fistula formation, especially if there was subsequent infection or inflammation. The patient's obesity (BMI 41.6 kg/m2) can also increase the risk of surgical complications and infections in general.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Analyzing Physical Examination and Ancillary Tests: The physical examination finding of a diffusely tender abdomen and fever (39.4°C) points towards an inflammatory or infectious process within the abdomen and pelvis, consistent with a fistula and potential secondary infection. The CT scan is crucial and reveals fluid and air in the uterus, with a phlegmon communicating with the sigmoid colon. This imaging evidence almost definitively confirms a fistula between the sigmoid colon and the uterus (colouterine fistula). The incidental ovarian cyst is less relevant to the current presentation. Colonoscopy ruled out malignancy and acute inflammation in the colon but identified diverticulosis, which is a common condition and a potential risk factor for fistula formation. The endometrial biopsy finding of fecal material within a polyp further supports the presence of a communication between the bowel and the uterus, and rules out malignancy as the primary cause of symptoms.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Integrating Surgical and Pathological Findings: The surgical findings of feculent cervical discharge observed intraoperatively clinically confirms the suspected fistula. The description of an inflamed and adherent sigmoid colon to the uterus during surgery further elucidates the pathophysiology.  The pathology report confirming a colouterine fistula (1.7 cm tract) with benign leiomyoma and evidence of sigmoid colon perforation and diverticulosis provides the definitive diagnosis and etiology. The sigmoid colon perforation and diverticulosis are identified as the likely cause of the fistula. The presence of a benign leiomyoma is an incidental finding and not directly related to the fistula formation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Final Diagnosis and Etiology: Based on the comprehensive assessment of clinical presentation, imaging, endoscopic, surgical, and pathological findings, the final diagnosis is a colouterine fistula. The etiology of this fistula is determined to be secondary to sigmoid colon perforation and diverticulosis. The prior endometrial ablation may have predisposed the uterus to this complication, but the primary cause is clearly related to the sigmoid diverticulosis and subsequent perforation leading to fistula formation between the sigmoid colon and the uterus.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Initial list of possible diagnoses includes colouterine fistula, colovesical fistula, malignancy (colon or uterine cancer), inflammatory bowel disease (e.g., Crohn's disease), and pelvic abscess.",
+            "hit": false
+        },
+        {
+            "step": "Step 2: Colouterine fistula is strongly supported by feculent discharge, CT imaging findings of a phlegmon connecting the sigmoid colon to the uterus, history of diverticulosis, and pathology confirmation of a fistula tract, becoming the leading diagnosis.",
+            "hit": true
+        },
+        {
+            "step": "Step 3: Colovesical fistula is excluded based on cystoscopy showing no bladder involvement and absence of urinary symptoms.",
+            "hit": false
+        },
+        {
+            "step": "Step 4: Malignancy is considered due to patient history and age but excluded based on clear colonoscopy and endometrial biopsy findings.",
+            "hit": false
+        },
+        {
+            "step": "Step 5: Inflammatory bowel disease is excluded due to lack of systemic symptoms such as chronic diarrhea, weight loss, and perianal disease, and no evidence on imaging or colonoscopy.",
+            "hit": false
+        },
+        {
+            "step": "Step 6: Pelvic abscess is likely present as part of the colouterine fistula process but not an independent diagnosis; resolved with antibiotics without requiring drainage.",
+            "hit": false
+        },
+        {
+            "step": "Step 7: CT imaging and colonoscopy clarify the absence of malignancy while highlighting diverticulosis as the underlying etiology.",
+            "hit": false
+        },
+        {
+            "step": "Step 8: Preoperative weight loss and diabetes management optimize the patient for surgery.",
+            "hit": false
+        },
+        {
+            "step": "Step 9: Final diagnosis is colouterine fistula secondary to sigmoid diverticulitis, with contributing factors including diverticulosis and prior uterine ablation.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.2222222222222222
+}

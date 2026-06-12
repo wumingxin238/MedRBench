@@ -1,0 +1,146 @@
+{
+    "raw_case": "\nEpithelioid angiomyolipoma with vascular invasion: An aggressive presentation of an unusual AML variant\nRenal angiomyolipoma (AML) is a typically benign renal tumor that is divided into 2 classes, the classical variant and the more aggressive epithelioid variant. It is extremely rare for an AML to exhibit aggressive features such as vascular invasion. We present the case of a 36-year-old female who presented with right lower quadrant pain for 9 months and was found to have an AML with tumor extension into the renal vein and the IVC. Diagnosis was confirmed with histopathology and the patient was treated with a total nephrectomy. The epithelioid subtype of AML is a rare variant that should be considered in the differential of a renal mass with vascular invasion.\n\nIntroduction\n\nAngiomyolipoma (AML), though rare, is the most common mesenchymal tumor of the kidney and belongs to a larger group of neoplasms defined as perivascular epithelioid cell tumors (PEComas). PEComas are a rare group of neoplasms which include renal angiomyolipoma, lymphangioleiomyomatosis (LAM), and clear cell (sugar) tumor of the lung. These tumors are characterized by distinctive cells that are often closely related to vascular structures and usually express melanocytic and smooth muscle markers [2].AML is typically a benign disease and usually encompasses 3 components: mature adipose tissues, dysmorphic blood vessels, and smooth muscle fibers [3,4]. AML is characterized into 2 main subtypes: the classical subtype, as previously described, and the more aggressive epithelioid variant. Epithelioid angiomyolipoma (EAML) is predominantly composed of sheets of epithelioid cells that can have a high degree of cytoplasmic pleomorphism and atypia [[5], [6], [7]]. This histological presentation of EAML differentiates it from classical AML, which is solely composed of dysmorphic blood vessels, smooth muscle, and adipose tissue. EAMLs often have similar features to malignant renal cell tumors such as renal cell carcinoma [5,8].It is uncommon for an AML to invade into the renal vasculature given its typically indolent nature [1]. In this case study we present a 38-year-old female with an epithelioid angiomyolipoma invading into the renal vein and extending to the inferior vena cava.\n\nCase Report\n\nA 36-year-old female with no significant past medical history presented with complaints of intermittent right lower quadrant pain for approximately 9 months. A complete abdominal ultrasound was performed, which revealed a mass in the left kidney (Fig. 1A). The mass appeared largely hyperechoic and measured approximately 3.6×3.1×3.9 cm. Additionally, within the inferior vena cava (IVC), there was a mobile echogenic filling defect initially suspected to be a thrombus (Fig. 1B).A follow-up computed tomography (CT) scan of the abdomen and pelvis, with and without contrast was performed. The CT revealed a mass originating from the mid left kidney (Fig. 2A). The mass measured 4.6×2.8×3.1 cm and demonstrated predominant internal fat density. This fat density was observed to extend directly from this lesion into the left renal vein (Fig. 2B) and across the midline to the inferior vena cava (Fig. 2C and D).A subsequent magnetic resonance imaging (MRI) scan of the abdomen, with and without contrast, was conducted (Fig. 3). The MRI demonstrates the presence of the renal mass with invasion of the renal vein. The mass demonstrated high signal intensity on both T1 and T2 weighted sequences with loss of signal on fat saturated images, indicative of internal fat composition, a typical imaging appearance of renal AML. As seen on the prior CT and ultrasound, there was fat signal extending into the left renal vein, reaching the margin of the inferior vena cava.The patient then underwent a left total nephrectomy with tumor thrombectomy. During surgery, a tumor extending from the left renal vein orifice to the IVC was identified.Histologic examination of the left kidney mass demonstrated an admixture of thick-walled blood vessels, smooth muscle and adipose tissue (Fig. 4). The smooth muscle cells demonstrated a round to oval architecture with prominent nuclei consistent with epithelioid morphology. Immunohistochemical staining revealed positive cathepsin-K, smooth muscle actin (SMA) and Mel C, supporting the diagnosis of epithelioid variant of AML (Fig. 5)\n\nDiscussion\n\nEAML is a rare subtype of AML that exhibits more aggressive features than the classical subtype [9]. Renal AMLs can develop sporadically or be associated with other conditions, most commonly tuberous sclerosis [10]. AMLs are often found incidentally, and typical imaging appearances have been thoroughly described in the literature. These appearances often depend on the fat content, which may vary with the epithelioid variant. This patient had a significant fat component within the EAML, which aided the diagnosis prior to the pathology report, though this is not always the case.The classic ultrasound appearance of AMLs is hyperechoic with posterior acoustic shadowing. On CT, AMLs are often well circumscribed and typically measure -10 HU or less. Intralesional necrosis on CT is rare but is rather typical for epithelioid variants. Necrosis was not evident on imaging in this case. AMLs have a variety of appearances on MRI depending on the sequence used. A typical fat rich AML would appear T1-hyperintense without fat suppression and T1-hypointense with fat saturation. The India ink artifact seen in out-of-phase imaging at the junction of the fat in the AML cells and the water in the renal parenchyma results in sharp delineation of these lesions on this sequence. This can be helpful when AMLs have low fat content or with very small lesions. If there is no fat in the lesion, this artifact will not be present [11]. Due to the EAML often having low fat content, many of the classic radiographic features of AML are sometimes absent and histology is relied on for an accurate diagnosis.AML usually encompasses 3 components: mature adipose tissues, dysmorphic blood vessels, and smooth muscle fibers. Epithelioid angiomyolipoma (EAML) often consists predominantly of sheets of epithelioid cells that can have a high degree of cytoplasmic pleomorphism and atypia. Often stains for Cathepsin-K, smooth muscle markers and melanocytic markers are positive, as in our case [12].Given the nature of vascular involvement and the risk of thromboembolism, radical nephrectomy is typically performed [13]. Alternative treatment methods such as embolization have been recorded in the existing literature [14]. There is currently no long-term data on the surgical prognosis and outcomes. Our patient at the time of this paper is in good health and recovered without complications.\n\nConclusion\n\nThis case report conveys the rarity of vascular invasion with AMLs and highlights the subtle differences between classical and the more aggressive epithelioid AML variant. Three modalities of imaging as well as histology are provided and discussed. This report provides further information to existing literature of vascular invasive epithelioid angiomyolipoma to assist practitioners with future research and clinical endeavors.\n\nPatient consent\n\nThe patient who is the subject of this case report was contacted via telephone and informed of the case report. The patient agreed to the case report being written using nonidentifying information such as patient history, imaging and pathology. A verbal consent with witness was taken over the phone and uploaded to the patient's electronic medical record.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 36-year-old female\n- **Chief Complaint:** Intermittent right lower quadrant pain for 9 months\n- **History of Present Illness:** 9 months of intermittent right lower quadrant pain\n- **Past Medical History:** None\n- **Personal History:** None provided\n- **Family History:** None provided\n- **Physical Examination:** Not explicitly described\n- **Ancillary Tests:**\n  - **Ultrasound:** Left renal mass (3.6×3.1×3.9 cm) with hyperechoic features; mobile echogenic filling defect in the inferior vena cava (IVC) suspected to be a thrombus.\n  - **CT Scan:** Left kidney mass (4.6×2.8×3.1 cm) with internal fat density, extending into the renal vein and across to the IVC.\n  - **MRI Scan:** Renal mass with fat composition and vascular invasion consistent with AML. High signal on T1/T2-weighted sequences, with signal loss on fat-saturated images.\n  - **Histopathology:** Left kidney mass containing thick-walled blood vessels, smooth muscle, and adipose tissue, with epithelioid cell morphology. Immunohistochemistry positive for cathepsin-K, SMA, and melanocytic marker Mel C, consistent with epithelioid angiomyolipoma.\n\n---",
+        "differential_diagnosis": "- **Step 1:** The ultrasound findings of a hyperechoic renal mass with vascular involvement suggested a differential of renal tumors with possible vascular invasion, including renal cell carcinoma (RCC), transitional cell carcinoma, or thrombus-associated lesions. \n  - RCC was initially considered but excluded due to the internal fat composition observed on imaging and characteristic immunohistochemistry findings consistent with AML.\n  \n- **Step 2:** Classical angiomyolipoma (AML) was considered due to the presence of mixed tissue types (fat, smooth muscle, dysmorphic blood vessels). However, the features of epithelioid morphology and vascular invasion are atypical for the classical subtype, leading to suspicion of an epithelioid variant.\n  \n- **Step 3:** Epithelioid angiomyolipoma (EAML) became the leading diagnosis due to the combination of histopathological findings (epithelioid cells with pleomorphism, immunohistochemical profile) and aggressive vascular invasion. The positive immunostaining for SMA and melanocytic markers supported this conclusion.\n\n---",
+        "final_diagnosis": "The patient was diagnosed with **epithelioid angiomyolipoma (EAML)** of the left kidney with vascular invasion into the left renal vein and IVC. This diagnosis was based on imaging (suggesting a fat-rich renal mass with vascular invasion), histology (epithelioid characteristics), and positive immunohistochemical staining. A total nephrectomy was performed to treat the condition.\n\n---",
+        "diagnosis_results": "Epithelioid angiomyolipoma (EAML) with vascular invasion."
+    },
+    "body_category": [
+        "Kidneys and Urinary System"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-7-15",
+    "checked_rare_disease": [],
+    "id": "PMC11367480",
+    "results": {
+        "content": "### Resoning:\n\nSo, I have this patient who's a 36-year-old female complaining about intermittent right lower quadrant pain for 9 months. That's quite a long duration for pain, and it's in the lower right quadrant, which often makes us think of conditions like appendicitis, but since it's intermittent and she's had it for nine months, it's probably not acute appendicitis. But let's see what other information we have.\n\nFirst, her past medical history is none, and there's no personal or family history provided, which means she doesn't have any known chronic diseases or familial conditions that might relate to her symptoms.\n\nPhysical examination isn't explicitly described, which is a bit unusual because in real clinical practice, the physical exam can provide crucial clues. Maybe the examiner didn't find anything specific or thought it was normal. Or perhaps it's just not mentioned in this summary. Either way, we'll have to rely more on the ancillary tests.\n\nNow, looking at the ancillary tests:\n\n1. **Ultrasound:** It shows a left renal mass that's 3.6 x 3.1 x 3.9 cm in size, with hyperechoic features. Also, there's a mobile echogenic filling defect in the inferior vena cava (IVC), suspected to be a thrombus.\n\nOkay, so there's a mass on the left kidney and something in the IVC that might be a thrombus. Interesting. The mass is hyperechoic, which usually means it's more reflective than the surrounding tissue, which can suggest certain types of lesions.\n\n2. **CT Scan:** It shows a left kidney mass that's slightly larger at 4.6 x 2.8 x 3.1 cm, with internal fat density, extending into the renal vein and across to the IVC.\n\nSo, the CT scan confirms the mass and adds that it has fat density, which is important because not all renal masses contain fat. This could point towards a specific type of tumor.\n\n3. **MRI Scan:** It describes the renal mass as having fat composition and vascular invasion, consistent with angiomyolipoma (AML). It also mentions high signals on T1 and T2-weighted sequences, with signal loss on fat-saturated images.\n\nMRI is great for soft tissue contrast and can better characterize the composition of the mass, especially when it comes to fat content.\n\n4. **Histopathology:** The left kidney mass contains thick-walled blood vessels, smooth muscle, and adipose tissue, with epithelioid cell morphology. Immunohistochemistry is positive for cathepsin-K, SMA, and melanocytic marker Mel C, consistent with epithelioid angiomyolipoma.\n\nThis is the gold standard for diagnosis, as it looks directly at the tissue under the microscope and tests for specific markers.\n\nSo, putting all this together:\n\n- There's a left renal mass with fat density, which is characteristic of angiomyolipoma (AML).\n\n- The mass is extending into the renal vein and IVC, which suggests vascular invasion.\n\n- The histopathology confirms it's an AML with epithelioid features.\n\nNow, regarding her symptom of intermittent right lower quadrant pain for nine months, it's a bit puzzling because the mass is on the left kidney. Maybe there's a connection, or perhaps it's unrelated.\n\nPossible connections could be:\n\n- Referral of pain from the abdomen to the quadrants, but usually, kidney-related pain would be more toward the flank area, not necessarily the lower quadrant.\n\n- Maybe the mass is causing some vascular issues that are leading to pain in the lower quadrant.\n\n- Or perhaps it's a coincidental finding, and her pain is due to another condition altogether.\n\nBut given that the focus of the ancillary tests is on the left kidney mass, and the histopathology confirms it as an epithelioid angiomyolipoma, I think the primary diagnosis should revolve around that.\n\nAngiomyolipomas are benign tumors composed of blood vessels, smooth muscle, and fat tissue. They're more common in patients with tuberous sclerosis, but can occur sporadically as well.\n\nThe fact that it's extending into the renal vein and IVC suggests that it might be a larger or more aggressive form, although AMLs are generally benign.\n\nThe epithelioid variant is less common and can sometimes behave more aggressively or be misdiagnosed as a malignant tumor.\n\nGiven that there's a thrombus suspected in the IVC on ultrasound, which is confirmed by the CT and MRI showing extension into the IVC, there might be a thrombotic complication related to the AML.\n\nSo, in summary, the patient has a left renal epithelioid angiomyolipoma with vascular invasion into the renal vein and IVC, possibly with a thrombus.\n\nAs for the right lower quadrant pain, it might be related to the renal mass via some vascular connection or could be due to another condition. Perhaps further evaluation is needed to determine the cause of the pain.\n\nBut based on the information provided, the primary diagnosis is clear.\n\n### Answer:\n\nLeft renal epithelioid angiomyolipoma with vascular invasion into the renal vein and inferior vena cava."
+    },
+    "reasoning_eval": [
+        {
+            "step": "So, I have this patient who's a 36-year-old female complaining about intermittent right lower quadrant pain for 9 months. That's quite a long duration for pain, and it's in the lower right quadrant, which often makes us think of conditions like appendicitis, but since it's intermittent and she's had it for nine months, it's probably not acute appendicitis. But let's see what other information we have.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "First, her past medical history is none, and there's no personal or family history provided, which means she doesn't have any known chronic diseases or familial conditions that might relate to her symptoms.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Physical examination isn't explicitly described, which is a bit unusual because in real clinical practice, the physical exam can provide crucial clues. Maybe the examiner didn't find anything specific or thought it was normal. Or perhaps it's just not mentioned in this summary. Either way, we'll have to rely more on the ancillary tests.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Now, looking at the ancillary tests:",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "1. **Ultrasound:** It shows a left renal mass that's 3.6 x 3.1 x 3.9 cm in size, with hyperechoic features. Also, there's a mobile echogenic filling defect in the inferior vena cava (IVC), suspected to be a thrombus.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "Okay, so there's a mass on the left kidney and something in the IVC that might be a thrombus. Interesting. The mass is hyperechoic, which usually means it's more reflective than the surrounding tissue, which can suggest certain types of lesions.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "2. **CT Scan:** It shows a left kidney mass that's slightly larger at 4.6 x 2.8 x 3.1 cm, with internal fat density, extending into the renal vein and across to the IVC.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "So, the CT scan confirms the mass and adds that it has fat density, which is important because not all renal masses contain fat. This could point towards a specific type of tumor.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "3. **MRI Scan:** It describes the renal mass as having fat composition and vascular invasion, consistent with angiomyolipoma (AML). It also mentions high signals on T1 and T2-weighted sequences, with signal loss on fat-saturated images.",
+            "efficiency": "Citation",
+            "factulity": null,
+            "judgment_path": []
+        },
+        {
+            "step": "MRI is great for soft tissue contrast and can better characterize the composition of the mass, especially when it comes to fat content.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> The ultrasound findings of a hyperechoic renal mass with vascular involvement suggested a differential diagnosis of renal tumors with possible vascular invasion, including renal cell carcinoma (RCC), transitional cell carcinoma, or thrombus-associated lesions.",
+            "hit": false
+        },
+        {
+            "step": "<Step 2> RCC was excluded due to the internal fat composition observed on imaging and characteristic immunohistochemistry findings consistent with angiomyolipoma (AML).",
+            "hit": true
+        },
+        {
+            "step": "<Step 3> Classical angiomyolipoma (AML) was considered due to the presence of mixed tissue types, including fat, smooth muscle, and dysmorphic blood vessels, but the epithelioid morphology and vascular invasion were atypical for the classical subtype.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Epithelioid angiomyolipoma (EAML) became the leading diagnosis based on histopathological findings, including epithelioid cells with pleomorphism, aggressive vascular invasion, and an immunohistochemical profile.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Positive immunostaining for SMA and melanocytic markers further supported the diagnosis of epithelioid angiomyolipoma (EAML).",
+            "hit": false
+        },
+        {
+            "step": "<Step 6> The patient was diagnosed with epithelioid angiomyolipoma (EAML) of the left kidney with vascular invasion into the left renal vein and IVC based on imaging, histology, and immunohistochemical findings.",
+            "hit": true
+        },
+        {
+            "step": "<Step 7> A total nephrectomy was performed to treat the condition.",
+            "hit": false
+        }
+    ],
+    "efficiency": 0.6,
+    "factulity": 1.0,
+    "recall": 0.5714285714285714
+}

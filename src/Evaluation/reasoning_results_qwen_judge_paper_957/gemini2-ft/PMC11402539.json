@@ -1,0 +1,124 @@
+{
+    "raw_case": "\nUsefulness of fat attenuation index in postmortem CT for identifying responsible vessels in acute coronary syndromes: A case report\nPostmortem imaging, particularly unenhanced postmortem computed tomography (PMCT), has been increasingly utilized for pathological or judicial examination as a substitute for conventional autopsy, to compensate very low autopsy rates. While unenhanced PMCT has a limitation in diagnosing acute coronary syndromes, the fat attenuation index (FAI) which is a novel imaging biomarker measured by clinical coronary CT angiography (CCTA), has been known to noninvasively detect coronary artery inflammation. We investigated the postmortem diagnostic usefulness of perivascular FAI measured by CCTA in a 61-year-old male who died suddenly after chest pain. PMCT and autopsy were conducted 92 hours after death. FAI measurement results were -57 Hounsfield units (HU) in the right coronary artery (RCA), -73 HU in the left anterior descending artery (LAD), and -64 HU in the left circumflex artery (LCX). Autopsy revealed significant stenosis in the RCA and LCX, but no significant stenosis was found in the LAD. The elevated FAI in the RCA suggested acute inflammation, which agreed with the autopsy findings. This case is the first to demonstrate effectiveness of FAI measured with PMCT for identifying the vessels responsible for acute coronary syndromes, indicating its potential in postmortem diagnosis.\n\nGraphical abstract\n\n\n\nIntroduction\n\nPostmortem imaging has been increasingly used for pathological or judicial examination as an alternative to declining autopsy rates. Unenhanced postmortem computed tomography (PMCT) has demonstrated considerable efficacy in detecting a range of hemorrhagic lesions [1]. Despite the advantages, studies indicate that the diagnostic accuracy for acute coronary syndromes (ACS) by PMCT alone remains inadequate [[2], [3], [4]]. According to Khan et al. [5], ischemic heart disease was the leading cause of death globally in 2017, affecting 126 million people and causing 9 million deaths, with prevalence expected to rise by 2030.The fat attenuation index (FAI), which measures changes in perivascular fat on coronary CT angiography (CCTA), is a new noninvasive imaging index for detection of coronary artery inflammation [[6], [7], [8]]. The cardiovascular risk prediction study using computed tomography (CRISP-CT) by Oikonomou et al. showed cardiac mortality predictive value based on perivascular FAI when the value was elevated in the major coronary arteries [6]. Recent case studies have illustrated the utility of FAI in identifying ischemia-causing lesions, especially in cases where traditional coronary angiography fails to identify stenosis [9], emphasizing its role in diagnosing cardiac conditions including spontaneous coronary artery dissection [10].We hypothesized that the FAI may offer a diagnostic utility in postmortem setting also, and examined a corpse that died suddenly after complaining chest pain, although PMCT alone is generally difficult to identify ACS. Herein, we report a case in which PMCT-measured FAI was useful and the results agreed with autopsy findings.\n\nCase report\n\nA 61-year-old male truck driver was found in a state of cardiopulmonary arrest on a driver's cab seat approximately 30 minutes after complaining of chest pain at the office. He had a history of hypertension. Although cardiopulmonary resuscitation was performed by emergency physicians, he was pronounced dead subsequently. The corpse was kept in cold storage at 4°C after death. At approximately 92 hours after death, cardiac PMCT examination was performed with a 16-row-detector CT scanner (Aquilion Lightning, Canon Medical Systems, Otawara, Japan) at the Medical Examiner's Office before autopsy.A dedicated workstation (AZE VirtualPlace, Canon Medical Systems, Otawara, Japan) was used for the FAI evaluation. Since measurement of vascular lumen is difficult on PMCT with no enhancement, the adventitia of the 3 main coronary artery branches on the CCTA images were manually traced along the total length at a 3-mm width using a previously reported method by Okamoto et al. [10]. Perivascular fat was defined as adipose tissue surrounding the vessel wall within a distance equal to the vessel diameter. Based on the method of Antonopoulos et al. [8], we identified perivascular FAI using the attenuation histogram of perivascular fat, within the range of -30 to -190 (Hounsfield Units: HU) that were measured by CCTA (Fig. 2). The FAI results were -57 HU in the right coronary artery (RCA), -73 HU in the left anterior descending branch (LAD) and -64 HU in the left circumflex branch (LCX) (Fig. 2), showing that the FAI of RCA is higher than that of LAD and LCX. This suggests presence of inflammation in the epicardial fat surrounding the RCA. The LCX also shows higher CT numbers than the cut-off value of -70.1 HU, which is the risk factor for coronary artery pathology [6].Autopsy revealed a right-dominant coronary artery which had around 90% luminal stenosis at approximately 4.0 cm distal from the origin of the RCA (Fig. 3); around 70% luminal stenosis at approximately 3.0 cm distal from the origin of the LCX; no significant luminal stenosis in the LAD. In the myocardium, mild changes suggestive of acute myocardial ischemia were observed from the ventricular septum to the posterior wall of the left ventricle, including contractile zone necrosis, myocardial tears, and myocardial wave-like running (Fig. 4). A whitish discoloration of approximately 1.5 × 1.5 cm in size was seen from the anterior to lateral myocardial wall, with histological evidence of fibrosis without inflammatory cell infiltration (Fig. 4, white arrowheads). The absence of stenotic lesions in the LAD led us to suspect an old myocardial infarction without cardiomyopathy or coronary artery stenosis [11]. No obvious lesions were detected in other organs by macroscopical observation and histological examination. The cause of death was determined as ischemic heart failure due to arterial sclerosis.\n\nDiscussion\n\nDeath cause detection provides important information in improving public health issues and in criminal investigations. However, identifying the cause of death from ischemic heart disease generally requires an autopsy, as it is difficult to assess by PMCT alone [2,3]. Evaluation of pericoronary adipose tissue attenuation by CT has emerged as a highly sensitive method for assessing coronary artery inflammation, and biopsy-proven results support its validity [12]. Paracrine signaling occurred from inflammatory coronary arteries spread to perivascular fatty tissues, and inhibits local adipogenesis. This changes the composition of the perivascular fat around the inflamed artery, altering it from a lipid component to a water component, resulting in increased CT numbers [13]. Cross-sectional observational studies have also confirmed that higher CT numbers of pericoronary fat are associated with the presence of coronary arterial plaque and ruptured coronary artery lesions in ACS [6].In our case, the cause of death was successfully identified with PMCT for the characteristic findings in the measured FAI. In particular, the lesion showed elevated FAI in RCA, which was more prominent than in LAD, where no atherosclerotic changes were observed at autopsy, suggesting that elevated FAI in the RCA reflected acute inflammation. The LCX also showed a higher FAI value (-64 HU) than the cut-off value (-70.1 HU) by CTTA [6] and the autopsy revealed 70% stenosis.To our knowledge, this is the first case in which measured FAI values with PMCT led to the identification of the responsible vessels for acute coronary syndrome. FAI assessment with PMCT is considered useful in detecting the cause of sudden cardiac death. To further verify our conclusion, assessment with greater number of cases and various times elapsed after death are desired in the future.\n\nEthical approval\n\nThis study was approved by the ethics committee of Tohoku University (approval no.2023-1-674).\n\nPatient consent\n\nWritten informed consent from bereaved families was obtained.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 61-year-old male truck driver.\n- **Chief Complaint:** Sudden cardiopulmonary arrest following chest pain.\n- **History of Present Illness:** Complained of chest pain before being found in cardiopulmonary arrest.\n- **Past Medical History:** Hypertension.\n- **Personal History:** None.\n- **Family History:** None.\n- **Physical Examination:** postmortem examination conducted 92 hours after death; body in cold storage at 4°C.\n- **Ancillary Tests:** \n  - PMCT revealed fat attenuation index (FAI) measurements:\n    - RCA: -57 HU (elevated, indicative of coronary inflammation).\n    - LAD: -73 HU (no significant stenosis or inflammation).\n    - LCX: -64 HU (slightly elevated FAI; indicative of stenosis/inflammation risk).\n  - Autopsy findings:\n    - RCA: 90% luminal stenosis with acute inflammation findings.\n    - LCX: 70% luminal stenosis.\n    - LAD: No significant stenosis or active pathology.\n    - Evidence of ischemic myocardial changes predominantly in the septum and posterior wall of the left ventricle.\n    - Fibrotic changes in the anterior and lateral myocardial wall, suggesting old myocardial infarction.",
+        "differential_diagnosis": "- Acute coronary syndrome was suspected due to the sudden onset of chest pain followed by cardiopulmonary arrest. Possible causes were evaluated:\n  1. **RCA-related ischemia:** Elevated FAI (-57 HU) and 90% stenosis observed on autopsy strongly pointed to active inflammation and acute myocardial ischemia caused by the RCA.\n  2. **LCX-related ischemia:** Mildly elevated FAI (-64 HU) and 70% stenosis suggested a significant degree of atherosclerosis but less likely to be the primary culprit compared to the RCA.\n  3. **LAD-related ischemia:** Normal FAI (-73 HU) and no significant stenosis ruled out an active pathological process in this artery, although old myocardial infarction was evidenced by fibrotic changes.\n  4. Other potential non-cardiac causes of sudden death (e.g., pulmonary or neurological events) were ruled out based on the absence of relevant findings during autopsy or PMCT.\n\n- An elevated FAI in the RCA correlated with acute inflammation, supporting the likelihood that the RCA was the responsible vessel in this case of acute coronary syndrome. The LCX findings contributed to chronic ischemic changes rather than the immediate cause of death.",
+        "final_diagnosis": "Ischemic heart failure due to acute myocardial ischemia originating from significant RCA atherosclerotic stenosis, supported by PMCT FAI findings and autopsy results.",
+        "diagnosis_results": "Ischemic heart failure due to acute myocardial ischemia from RCA stenosis."
+    },
+    "body_category": [],
+    "disorder_category": [
+        "Metabolic Problems"
+    ],
+    "receive_time": "2024-7-26",
+    "checked_rare_disease": [],
+    "id": "PMC11402539",
+    "results": {
+        "content": "### Resoning:\n<step 1> **Initial Assessment and Problem Identification:** The patient is a 61-year-old male truck driver who experienced sudden cardiopulmonary arrest preceded by chest pain. This immediately raises suspicion for a cardiac event, most likely acute myocardial infarction (AMI). His history of hypertension further increases the likelihood of cardiovascular disease.\n\n<step 2> **Analyzing PMCT Findings:** The PMCT reveals elevated Fat Attenuation Index (FAI) in the RCA (-57 HU) and LCX (-64 HU), but not in the LAD (-73 HU). Elevated FAI is a marker of perivascular inflammation around coronary arteries and is associated with unstable plaques and increased risk of acute coronary events. The significantly elevated FAI in the RCA is particularly concerning, suggesting active inflammation and potential plaque vulnerability in this artery. The LCX also shows elevated FAI, indicating potential risk. The LAD appears less inflamed based on FAI.\n\n<step 3> **Interpreting Autopsy Results:** The autopsy confirms significant coronary artery disease, specifically: 90% luminal stenosis with acute inflammation in the RCA, and 70% stenosis in the LCX. The LAD shows no significant stenosis. These findings directly correlate with the PMCT FAI results, reinforcing the presence of inflammation and stenosis, especially in the RCA.  The autopsy further confirms ischemic myocardial changes predominantly in the septum and posterior wall of the left ventricle. This distribution of ischemia is consistent with occlusion of the Right Coronary Artery (RCA), as the RCA typically supplies blood to these regions of the heart.  The presence of fibrotic changes in the anterior and lateral myocardial wall indicates a prior myocardial infarction, suggesting pre-existing coronary artery disease.\n\n<step 4> **Integrating PMCT and Autopsy Findings:** The PMCT and autopsy findings are highly concordant. The elevated FAI in RCA and LCX predicted inflammation, which was confirmed by autopsy along with significant stenosis. The location of ischemic changes (septum and posterior wall) aligns with RCA territory infarction. The absence of significant LAD pathology in both PMCT and autopsy is also consistent.\n\n<step 5> **Determining the Cause of Cardiopulmonary Arrest:** The sudden cardiopulmonary arrest following chest pain, combined with the autopsy findings of acute RCA occlusion with inflammation and associated ischemic myocardial changes, strongly points to acute myocardial infarction as the cause of death. The 90% stenosis and acute inflammation in the RCA are consistent with plaque rupture and acute thrombus formation, leading to complete or near-complete occlusion of the RCA and subsequent myocardial ischemia and cardiac arrest. The pre-existing 70% stenosis in the LCX and the evidence of old myocardial infarction indicate underlying coronary artery disease that predisposed the patient to this acute event.\n\n<step 6> **Formulating the Final Diagnosis:** Based on the comprehensive analysis, the final diagnosis is Acute Myocardial Infarction due to acute thrombotic occlusion of the Right Coronary Artery, secondary to underlying coronary artery disease. The location of the infarction is consistent with RCA territory involvement (inferior/posterior wall and septum). The pre-existing hypertension and prior myocardial infarction are contributing factors.\n\n### Answer:\nAcute Myocardial Infarction due to acute thrombotic occlusion of the Right Coronary Artery, secondary to coronary artery disease."
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Initial Assessment and Problem Identification:** The patient is a 61-year-old male truck driver who experienced sudden cardiopulmonary arrest preceded by chest pain. This immediately raises suspicion for a cardiac event, most likely acute myocardial infarction (AMI). His history of hypertension further increases the likelihood of cardiovascular disease.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Analyzing PMCT Findings:** The PMCT reveals elevated Fat Attenuation Index (FAI) in the RCA (-57 HU) and LCX (-64 HU), but not in the LAD (-73 HU). Elevated FAI is a marker of perivascular inflammation around coronary arteries and is associated with unstable plaques and increased risk of acute coronary events. The significantly elevated FAI in the RCA is particularly concerning, suggesting active inflammation and potential plaque vulnerability in this artery. The LCX also shows elevated FAI, indicating potential risk. The LAD appears less inflamed based on FAI.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpreting Autopsy Results:** The autopsy confirms significant coronary artery disease, specifically: 90% luminal stenosis with acute inflammation in the RCA, and 70% stenosis in the LCX. The LAD shows no significant stenosis. These findings directly correlate with the PMCT FAI results, reinforcing the presence of inflammation and stenosis, especially in the RCA.  The autopsy further confirms ischemic myocardial changes predominantly in the septum and posterior wall of the left ventricle. This distribution of ischemia is consistent with occlusion of the Right Coronary Artery (RCA), as the RCA typically supplies blood to these regions of the heart.  The presence of fibrotic changes in the anterior and lateral myocardial wall indicates a prior myocardial infarction, suggesting pre-existing coronary artery disease.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Integrating PMCT and Autopsy Findings:** The PMCT and autopsy findings are highly concordant. The elevated FAI in RCA and LCX predicted inflammation, which was confirmed by autopsy along with significant stenosis. The location of ischemic changes (septum and posterior wall) aligns with RCA territory infarction. The absence of significant LAD pathology in both PMCT and autopsy is also consistent.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Determining the Cause of Cardiopulmonary Arrest:** The sudden cardiopulmonary arrest following chest pain, combined with the autopsy findings of acute RCA occlusion with inflammation and associated ischemic myocardial changes, strongly points to acute myocardial infarction as the cause of death. The 90% stenosis and acute inflammation in the RCA are consistent with plaque rupture and acute thrombus formation, leading to complete or near-complete occlusion of the RCA and subsequent myocardial ischemia and cardiac arrest. The pre-existing 70% stenosis in the LCX and the evidence of old myocardial infarction indicate underlying coronary artery disease that predisposed the patient to this acute event.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Formulating the Final Diagnosis:** Based on the comprehensive analysis, the final diagnosis is Acute Myocardial Infarction due to acute thrombotic occlusion of the Right Coronary Artery, secondary to underlying coronary artery disease. The location of the infarction is consistent with RCA territory involvement (inferior/posterior wall and septum). The pre-existing hypertension and prior myocardial infarction are contributing factors.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Acute coronary syndrome was suspected due to sudden onset chest pain followed by cardiopulmonary arrest.",
+            "hit": true
+        },
+        {
+            "step": "Elevated FAI (-57 HU) and 90% stenosis in RCA indicated active inflammation and acute myocardial ischemia.",
+            "hit": true
+        },
+        {
+            "step": "Mildly elevated FAI (-64 HU) and 70% stenosis in LCX suggested significant atherosclerosis but less likely primary cause.",
+            "hit": false
+        },
+        {
+            "step": "Normal FAI (-73 HU) and no significant stenosis in LAD ruled out active pathological process; old myocardial infarction evidenced by fibrotic changes.",
+            "hit": false
+        },
+        {
+            "step": "Other non-cardiac causes of sudden death (pulmonary or neurological events) were ruled out based on absence of relevant findings.",
+            "hit": false
+        },
+        {
+            "step": "Elevated FAI in RCA correlated with acute inflammation, supporting RCA as the responsible vessel.",
+            "hit": true
+        },
+        {
+            "step": "LCX findings indicated chronic ischemic changes rather than immediate cause of death.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Ischemic heart failure due to acute myocardial ischemia from significant RCA atherosclerotic stenosis, supported by PMCT FAI findings and autopsy results.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.5
+}

@@ -1,0 +1,149 @@
+{
+    "raw_case": "\nA case of the Abernethy malformation: An exceptionally rare clinical entity\nI review a case of a 30-year-old woman who presented with diarrhea, nausea and vomiting for several days. She was ultimately diagnosed with acute gastroenteritis but was incidentally found to have a congenital extrahepatic portosystemic shunt, also known as the Abernethy malformation. The Abernethy malformation, first described by Dr John Abernethy in the year 1793, is an exceptionally rare clinical entity.\n\nIntroduction\n\nThe congenital extrahepatic portosystemic shunt (CEPS), termed the Abernethy Malformation, was first described by Dr. John Abernethy in the year 1793 as he performed a postmortem examination on a 10-monthold girl who died of an unknown cause [1]. In patients with the Abernethy malformation, the splanchnic veins drain directly into the systemic vasculature, often via the inferior vena cava. The underlying cause is thought to be secondary to aberrant embryological development of the peri-intestine venous loop, ultimately resulting in an absent or hypoplastic portal vein with abnormal mesenteric-caval communication [2]. The clinical presentation is variable. Although some patients present in the neonatal period with manifestations of hepatic dysfunction, many remain asymptomatic or minimally symptomatic into adulthood.\n\nCase summary\n\nA 30-year-old woman presented to the emergency department with diarrhea, nausea and vomiting for several days. She also described multiple prior episodes of mental fogging or confusion. She reported no chronic medical conditions, however, as a child required median sternotomy due to congenital heart disease. The specific cardiac anomaly requiring repair was unknown by the patient. She was on no medications. She reported a family history of hypertension and diabetes.She had a blood pressure of 103/65 mmHg. Her heart rate was mildly elevated at 112 beats per minute. She had a normal respiratory rate and oxygen saturation. On physical examination, she had dry mucous membranes. She had a normal cardiopulmonary exam. Her bowel sounds were hyperactive, but the abdomen was nontender. Her laboratory studies, including complete blood count, comprehensive metabolic panel and urinalysis, were normal. A serum ammonia level was not checked by the clinical team.A computed tomography (CT) scan of the abdomen and pelvis was obtained. This showed an absence of the portal vein with the splenic vein and superior mesenteric veins combining into a singular trunk which joined the inferior vena cava, therefore bypassing the liver entirely (Fig. 1). The entirety of the hepatic vascular supply arose from the hepatic artery. The hepatic parenchyma was heterogeneous, which was thought to be secondary to the above-described vascular anomalies. The patient was diagnosed with viral gastroenteritis and discharged from the emergency department. Prior to discharge, she was instructed to follow up with hepatology as an outpatient.She was seen by hepatology, at which time contrast-enhanced magnetic resonance imaging (MRI) of the abdomen was also completed. In addition to the congenital portosystemic shunt, the MRI showed a 2.5 cm lesion within the left hepatic lobe most compatible with a hepatic adenoma (Fig. 2). There were numerous additional lesions that were subsequently characterized as focal nodular hyperplasia on a subsequent MRI with Eovist contrast (Fig. 3). The patient's described episodes of confusion were thought to represent hepatic encephalopathy. Therefore, she was started on lactulose. Given the high coexistence of congenital heart disease in patients with the Abernethy malformation, she was referred to cardiology. Transthoracic echocardiography showed a normal heart in both structure and function.\n\nDiscussion\n\nThe Abernathy malformation can be divided into two subtypes. In Type 1, there is complete diversion of blood from the splanchnic system into the systemic venous system with absence of the portal vein. The Type 1 cases are further subclassified as either Type 1a or Type 1b. In patients characterized as Type 1a, the splenic and superior mesenteric veins drain separately into the inferior vena cava, renal vein or iliac vein. On the contrary, in Type 1b the superior mesenteric vein and splenic vein join together to form a common trunk that drains into a systemic vein, typically the inferior vena cava or the right atrium. Type 2 shunts are characterized by an intact, though hypoplastic, intrahepatic portal venous system with partial systemic shunting of portal blood through a side-to-side extrahepatic communication [3].The clinical presentation of CEPS is variable. Patients may present in the neonatal period with growth restriction, cholestasis and hepatic encephalopathy; others may remain asymptomatic or minimally symptomatic into adulthood [[4], [5], [6]]. Many patients are diagnosed after being evaluated for other developmental abnormalities, since there is a high coincidence of comorbid processes such as congenital heart disease [1]. Biliary atresia, situs inversus, polysplenia and malrotation are other frequently reported associations [7].With portosystemic shunting of blood, there is deranged metabolism of many substances, such as ammonia, leading to various clinical manifestations including hepatic encephalopathy [2]. The liver in patients with CEPS undergoes regenerative nodular hyperplasia as a response to absent or altered portal venous flow, which ultimately may progress to the development of hepatic neoplasms such as hepatocellular carcinoma, hepatoblastoma, and hepatic adenoma [8]. The development of hepatopulmonary syndrome has been reported in some patients [2].Patients with CEPS can be diagnosed noninvasively though either ultrasound, CT or MRI. Treatment of such patients depends on the underlying type of shunting, either complete (Type 1) or partial (Type 2). In patients with Type 1 shunting, intervention with occlusion or embolization of the shunt is not performed, as the shunt is the only pathway of blood flow for the splanchnic vessels. Clinical, biochemical and imaging follow-up with medical management is the only treatment option unless liver transplantation is possible [2]. In patients with Type 2 shunting, however, there is a role for either surgical or transcatheter shunt occlusion with or without surgical reconstruction of the portal vein [9,10].\n\nConclusion\n\nThe Abernethy malformation is an exceptionally rare clinical entity with fewer than 200 cases reported in the literature to date [11]. Patients may present in the neonatal period or remain asymptomatic to minimally symptomatic into adulthood. Treatment is variable and depends on the degree of portosystemic shunting, with medical management and eventual liver transplantation serving as the only options for patients with Type 1 disease. A coordinated approach with multiple subspecialists is necessary in the management of such patients given the high incidence of comorbid congenital anomalies affecting other organ systems.\n\nPatient consent\n\nWritten consent for publication was obtained from the patient. Approval to publish this manuscript has been given by my institution, its legal representative and an ethics committee. Publication of this document is in accordance with the local legislation.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 30-year-old woman.\n- **Chief Complaint:** Diarrhea, nausea, and vomiting for several days.\n- **History of Present Illness:** Multiple prior episodes of mental fogging or confusion.\n- **Past Medical History:** Congenital heart disease requiring median sternotomy during childhood; specifics unknown.\n- **Personal History:** No medications reported.\n- **Family History:** Hypertension and diabetes.\n- **Physical Examination:** Blood pressure: 103/65 mmHg; heart rate: 112 bpm; normal respiratory rate and oxygen saturation. Dry mucous membranes, hyperactive bowel sounds, nontender abdomen, and normal cardiopulmonary exam.\n- **Ancillary Tests:**\n    - Laboratory studies (CBC, CMP, urinalysis): Normal.\n    - Abdominal and pelvic CT: Absence of the portal vein; splenic and superior mesenteric veins joining into a trunk bypassing the liver and draining into the IVC. Heterogeneous hepatic parenchyma.\n    - Contrast-enhanced MRI: 2.5 cm hepatic adenoma and additional lesions identified as focal nodular hyperplasia (MRI with Eovist contrast).\n    - Transthoracic echocardiography: Normal heart structure and function.",
+        "differential_diagnosis": "1. **Evaluation of gastrointestinal symptoms:** Initial diagnosis of acute gastroenteritis aligns with diarrhea, nausea, and vomiting for several days. No evidence of structural or functional abnormalities related directly to gut pathology during the workup.\n2. **Assessment of repeated confusion (mental fogging):** Likely represents hepatic encephalopathy given the elevated likelihood of ammonia accumulation in the Abernethy malformation. Serum ammonia levels, though not checked, strengthen suspicion in the context of portosystemic shunting.\n3. **Characterization of vascular and hepatic anomalies:** CT and MRI findings, including absent portal vein and hepatic lesions (adenoma and focal nodular hyperplasia), confirmed the congenital extrahepatic portosystemic shunt (Abernethy malformation). Features align with Type 1b classification due to common trunk drainage of the mesenteric and splenic veins into the IVC.\n4. **Congenital anomaly associations:** History of congenital heart disease with normal echocardiography suggests historical resolution or unrelated anomaly. High prevalence of other associated systemic abnormalities (e.g., situs inversus, polysplenia) is considered but ruled out based on clinical and imaging findings.",
+        "final_diagnosis": "Abernethy malformation (congenital extrahepatic portosystemic shunt, Type 1b) with secondary hepatic encephalopathy, hepatic adenoma, and focal nodular hyperplasia.",
+        "diagnosis_results": "Abernethy malformation (Type 1b)."
+    },
+    "body_category": [
+        "Blood, Heart and Circulation"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-8-25",
+    "checked_rare_disease": [
+        "Congenital portosystemic shunt"
+    ],
+    "id": "PMC11456782",
+    "results": {
+        "content": "### Reasoning:\n<step 1> Analyze the Chief Complaint and History of Present Illness: The patient presents with acute diarrhea, nausea, and vomiting, suggesting a gastrointestinal illness, possibly infectious or dietary. However, the history of \"mental fogging or confusion\" is a significant red flag that points towards a broader systemic issue or a condition affecting the central nervous system, potentially related to metabolic or toxic causes.\n\n<step 2> Review Past Medical History:  Congenital heart disease requiring median sternotomy in childhood is crucial. While the specifics are unknown, congenital conditions can be associated with other developmental anomalies, including vascular abnormalities. This history raises the suspicion of a possible syndrome or multi-system involvement rather than isolated gastroenteritis.\n\n<step 3> Evaluate Personal and Family History: No reported medications simplifies the differential diagnosis in terms of drug-induced causes. Family history of hypertension and diabetes is less directly relevant to the acute presentation but may indicate general metabolic predispositions.\n\n<step 4> Assess Physical Examination Findings:  Low blood pressure (103/65 mmHg) and elevated heart rate (112 bpm) indicate dehydration and potential hypovolemia, consistent with diarrhea and vomiting. Dry mucous membranes and hyperactive bowel sounds further support dehydration and gastrointestinal involvement.  A nontender abdomen makes acute surgical causes less likely. Normal cardiopulmonary exam is somewhat reassuring for current acute cardiac decompensation, but the past cardiac history remains important.\n\n<step 5> Critically Examine Ancillary Tests - Laboratory Studies: Normal CBC, CMP, and urinalysis are somewhat non-specific but rule out common acute issues like infection (elevated WBC in CBC), electrolyte imbalances (CMP), and urinary tract infection (urinalysis) as the primary drivers of the acute symptoms. However, they do not exclude more complex or chronic conditions.\n\n<step 6> Critically Examine Ancillary Tests - Abdominal and Pelvic CT: The CT findings are the most crucial piece of information.  \"Absence of the portal vein; splenic and superior mesenteric veins joining into a trunk bypassing the liver and draining into the IVC\" is pathognomonic for a **congenital portosystemic shunt (CPSS) or Abernethy malformation**. This is a rare congenital anomaly where blood from the splanchnic circulation bypasses the liver and drains directly into the systemic circulation (IVC). \"Heterogeneous hepatic parenchyma\" is also consistent with altered liver perfusion and architecture due to the abnormal venous drainage.\n\n<step 7> Critically Examine Ancillary Tests - Contrast-enhanced MRI: The MRI findings of a \"2.5 cm hepatic adenoma and additional lesions identified as focal nodular hyperplasia (FNH)\" are also significant and directly related to the CPSS.  FNH is often associated with congenital vascular anomalies and altered blood flow. Hepatic adenomas can also occur in this setting, although they can be related to other factors as well. These liver lesions are not unexpected in the context of abnormal hepatic perfusion from a CPSS.\n\n<step 8> Critically Examine Ancillary Tests - Transthoracic echocardiography:  A normal echocardiogram, while reassuring regarding current cardiac function, needs to be interpreted in the context of the past history of congenital heart disease. It may mean the prior cardiac condition is now well-compensated or corrected, or it could be a separate issue from the current presentation and CPSS.\n\n<step 9> Synthesize all findings to formulate the final diagnosis: The constellation of findings – especially the CT showing absent portal vein and the MRI showing liver lesions in a young woman with a history of mental fogging and childhood cardiac surgery – strongly points towards **Congenital Portosystemic Shunt (Abernethy malformation)**. The acute symptoms of diarrhea, nausea, and vomiting are likely due to acute gastroenteritis, but the underlying and more significant diagnosis is the CPSS, which is responsible for the hepatic lesions and likely contributes to the history of mental fogging (due to hepatic encephalopathy from bypassing liver detoxification). The congenital heart disease history might be a coincidental finding or part of a broader syndrome involving congenital anomalies, but the CPSS is the most pertinent diagnosis derived from the provided data.\n\n### Answer:\nCongenital Portosystemic Shunt (Abernethy malformation)"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Analyze the Chief Complaint and History of Present Illness: The patient presents with acute diarrhea, nausea, and vomiting, suggesting a gastrointestinal illness, possibly infectious or dietary. However, the history of \"mental fogging or confusion\" is a significant red flag that points towards a broader systemic issue or a condition affecting the central nervous system, potentially related to metabolic or toxic causes.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Review Past Medical History:  Congenital heart disease requiring median sternotomy in childhood is crucial. While the specifics are unknown, congenital conditions can be associated with other developmental anomalies, including vascular abnormalities. This history raises the suspicion of a possible syndrome or multi-system involvement rather than isolated gastroenteritis.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Evaluate Personal and Family History: No reported medications simplifies the differential diagnosis in terms of drug-induced causes. Family history of hypertension and diabetes is less directly relevant to the acute presentation but may indicate general metabolic predispositions.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Assess Physical Examination Findings:  Low blood pressure (103/65 mmHg) and elevated heart rate (112 bpm) indicate dehydration and potential hypovolemia, consistent with diarrhea and vomiting. Dry mucous membranes and hyperactive bowel sounds further support dehydration and gastrointestinal involvement.  A nontender abdomen makes acute surgical causes less likely. Normal cardiopulmonary exam is somewhat reassuring for current acute cardiac decompensation, but the past cardiac history remains important.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Critically Examine Ancillary Tests - Laboratory Studies: Normal CBC, CMP, and urinalysis are somewhat non-specific but rule out common acute issues like infection (elevated WBC in CBC), electrolyte imbalances (CMP), and urinary tract infection (urinalysis) as the primary drivers of the acute symptoms. However, they do not exclude more complex or chronic conditions.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Critically Examine Ancillary Tests - Abdominal and Pelvic CT: The CT findings are the most crucial piece of information.  \"Absence of the portal vein; splenic and superior mesenteric veins joining into a trunk bypassing the liver and draining into the IVC\" is pathognomonic for a **congenital portosystemic shunt (CPSS) or Abernethy malformation**. This is a rare congenital anomaly where blood from the splanchnic circulation bypasses the liver and drains directly into the systemic circulation (IVC). \"Heterogeneous hepatic parenchyma\" is also consistent with altered liver perfusion and architecture due to the abnormal venous drainage.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Critically Examine Ancillary Tests - Contrast-enhanced MRI: The MRI findings of a \"2.5 cm hepatic adenoma and additional lesions identified as focal nodular hyperplasia (FNH)\" are also significant and directly related to the CPSS.  FNH is often associated with congenital vascular anomalies and altered blood flow. Hepatic adenomas can also occur in this setting, although they can be related to other factors as well. These liver lesions are not unexpected in the context of abnormal hepatic perfusion from a CPSS.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Critically Examine Ancillary Tests - Transthoracic echocardiography:  A normal echocardiogram, while reassuring regarding current cardiac function, needs to be interpreted in the context of the past history of congenital heart disease. It may mean the prior cardiac condition is now well-compensated or corrected, or it could be a separate issue from the current presentation and CPSS.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Synthesize all findings to formulate the final diagnosis: The constellation of findings – especially the CT showing absent portal vein and the MRI showing liver lesions in a young woman with a history of mental fogging and childhood cardiac surgery – strongly points towards **Congenital Portosystemic Shunt (Abernethy malformation)**. The acute symptoms of diarrhea, nausea, and vomiting are likely due to acute gastroenteritis, but the underlying and more significant diagnosis is the CPSS, which is responsible for the hepatic lesions and likely contributes to the history of mental fogging (due to hepatic encephalopathy from bypassing liver detoxification). The congenital heart disease history might be a coincidental finding or part of a broader syndrome involving congenital anomalies, but the CPSS is the most pertinent diagnosis derived from the provided data.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Initial diagnosis of acute gastroenteritis aligns with diarrhea, nausea, and vomiting for several days; no evidence of structural or functional abnormalities related directly to gut pathology during the workup.",
+            "hit": false
+        },
+        {
+            "step": "<Step 2> Likely representation of hepatic encephalopathy given the elevated likelihood of ammonia accumulation in the Abernethy malformation; serum ammonia levels, though not checked, strengthen suspicion in the context of portosystemic shunting.",
+            "hit": false
+        },
+        {
+            "step": "<Step 3> CT and MRI findings, including absent portal vein and hepatic lesions (adenoma and focal nodular hyperplasia), confirm the congenital extrahepatic portosystemic shunt (Abernethy malformation); features align with Type 1b classification due to common trunk drainage of the mesenteric and splenic veins into the IVC.",
+            "hit": false
+        },
+        {
+            "step": "<Step 4> History of congenital heart disease with normal echocardiography suggests historical resolution or unrelated anomaly; high prevalence of other associated systemic abnormalities (e.g., situs inversus, polysplenia) considered but ruled out based on clinical and imaging findings.",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> Final diagnosis: Abernethy malformation (congenital extrahepatic portosystemic shunt, Type 1b) with secondary hepatic encephalopathy, hepatic adenoma, and focal nodular hyperplasia.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.2
+}

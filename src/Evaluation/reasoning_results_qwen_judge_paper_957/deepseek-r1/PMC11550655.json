@@ -1,0 +1,95 @@
+{
+    "raw_case": "\nKartagener's syndrome incidentally detected by imaging in adult: A case report\nWe report the case of a 38-year-old patient with an undocumented history of lung disease who presented with Kartagener's syndrome diagnosed on CT scan in the context of lupus erythematosus. Kartagener's syndrome is a distinct entity among primary ciliary dyskinesias, but its association with lupus has not been described in the literature.\n\nIntroduction\n\nKartagener's syndrome is a unique entity among primary ciliary dyskinesias (PCD), characterized by a triad: sinusitis, bronchiectasis, and complete or incomplete situs inversus [1]. It is a rare congenital disease with autosomal recessive inheritance, occurring in approximately 1 in 15,000 individuals [2]. Airway infections associated with this pathology typically manifest in childhood [2]. We report the case of a 38-year-old female patient with a history of pulmonary pathology, lupus and Kartagener syndrome diagnosed by CT scan.\n\nCase report\n\nThe patient, a 38-year-old woman with a history of undocumented respiratory pathology, presented with productive cough and respiratory distress, necessitating a thoracic CT scan.Clinical examination revealed a fever of 38°C, bronchial rales and skin lesions of lupus origin.Biological investigations revealed leukopenia with a leukocyte count of 2000/µL and high antinuclear antibodies.The thoracic CT revealed dextrocardia (Fig. 1) associated with cylindrical bronchiectasis (Fig. 2). Given these anomalies, an additional abdominal scan was performed, showing complete situs inversus with the liver on the left and the spleen on the right (Fig. 3). These findings led to the suspicion of Kartagener's syndrome, prompting a sinus CT scan, which confirmed pansinusitis (Fig. 4). The diagnosis of Kartagener's syndrome in the context of lupus was therefore made on the basis of the triad of bronchiectasis, situs inversus and sinusitis.Treatment consisted of respiratory physiotherapy, antibiotic therapy based on amoxicillin-clavulanic acid 1 g x 3/day and hydroxycloroquine 200 mg: 2 tablets/day.\n\nDiscussion\n\nKartagener's syndrome was first described by Manes Kartagener in 1935. The syndrome, named after him, includes chronic sinusitis, situs inversus, and bronchiectasis [3]. Kartagener's syndrome accounts for 50% of primary ciliary dyskinesias (PCD). It is a rare genetic disorder with autosomal recessive inheritance, although X-linked or dominant inheritance patterns have also been described [3]. It involves mutations in genes encoding dynein on chromosomes 5, 9, and 7, leading to morphological and/or functional ciliary anomalies [4]. The age at diagnosis varies, with the disease typically being identified in childhood [[5], [6], [7]]. In our case, the diagnosis was made at the age of 38. The clinical presentation of Kartagener's syndrome is dominated by respiratory symptoms beginning in childhood. These symptoms, present in all patients, are characterized by their chronicity and annual recurrence [1]. They include chronic bronchial congestion, daily productive cough with mucopurulent secretions, and phases of exacerbations and superinfections. Imaging, particularly thoraco-abdominal and sinus CT scans, is crucial for diagnosis, revealing the diagnostic triad of bronchiectasis, complete or incomplete situs inversus, and chronic sinusitis. The association between Kartagener syndrome and lupus has not been described in the literature, despite our searches in pub Med and Google scholar.Comprehensive management of Kartagener's syndrome primarily involves bronchial drainage physiotherapy, antibiotics for superinfection, and appropriate vaccination against influenza and pneumococci [3,5].\n\nConclusion\n\nKartagener's syndrome is a rare congenital pathology with nonspecific clinical presentation. Imaging, particularly CT, is essential for diagnosis, as demonstrated in our patient. However, it is not known to be associated with lupus, according to the literature.\n\nPatient consent\n\nWritten informed consent for the publication of this case report was obtained from the patient.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 38-year-old female\n- **Chief Complaint:** Productive cough and respiratory distress\n- **History of Present Illness:** Long-standing but undocumented history of respiratory pathology\n- **Past Medical History:** Lupus erythematosus\n- **Personal History:** None\n- **Family History:** None provided\n- **Physical Examination:** Fever of 38°C, bronchial rales, and skin lesions consistent with lupus.\n- **Ancillary Tests:** \n  - Blood tests revealed leukopenia (leukocyte count: 2000/µL) and positive high antinuclear antibodies.\n  - Thoracic CT showed dextrocardia and cylindrical bronchiectasis.\n  - Abdominal CT revealed complete situs inversus.\n  - Sinus CT confirmed pansinusitis.",
+        "differential_diagnosis": "1. **Initial Possibilities:**\n   - Respiratory tract infection (bacterial or viral) as a likely explanation of productive cough and respiratory distress.\n   - Consideration of an autoimmune-related pulmonary manifestation due to history of lupus.\n   - Assessment for congenital disorders such as primary ciliary dyskinesias (including Kartagener's syndrome) based on imaging findings (dextrocardia, situs inversus, and bronchiectasis).\n   \n2. **Supporting Evidence and Exclusion:**\n   - The thoracic imaging findings of dextrocardia and bronchiectasis, combined with pansinusitis, fulfill the clinical triad consistent with Kartagener's syndrome.\n   - Complete situs inversus on abdominal imaging confirms a key feature of Kartagener's syndrome, further supporting the diagnosis.\n   - No indications of other pulmonary autoimmune disorders were documented beyond chronic findings consistent with this syndrome.\n   - The positive antinuclear antibodies and leukopenia reflect lupus activity, but these findings are separate from the features of Kartagener's syndrome and do not offer an alternative diagnosis.",
+        "final_diagnosis": "Kartagener's syndrome, characterized by the triad of bronchiectasis, situs inversus, and sinusitis, was diagnosed on CT imaging in the context of lupus erythematosus. The diagnosis was supported by consistent clinical and radiological findings.",
+        "diagnosis_results": "Kartagener's syndrome."
+    },
+    "body_category": [
+        "Lungs and Breathing"
+    ],
+    "disorder_category": [
+        "Genetics/Birth Defects"
+    ],
+    "receive_time": "2024-8-10",
+    "checked_rare_disease": [
+        "Systemic lupus erythematosus"
+    ],
+    "id": "PMC11550655",
+    "results": {
+        "thinking_process": "Okay, let's start by looking at all the information given. The patient is a 38-year-old woman with a productive cough and respiratory distress. She has a history of lupus, which is important. Her physical exam shows fever, bronchial rales, and lupus-related skin lesions. The blood tests show leukopenia and positive ANA, which makes sense with her lupus diagnosis since lupus can cause leukopenia. But the key here is the ancillary tests. The thoracic CT shows dextrocardia and cylindrical bronchiectasis. The abdominal CT has complete situs inversus, meaning her organs are mirrored. The sinus CT shows pansinusitis.\n\nHmm, situs inversus is a congenital condition where the organs are reversed. Dextrocardia is part of that. Now, the combination of situs inversus, bronchiectasis, and chronic sinusitis makes me think of Kartagener's syndrome. But wait, Kartagener's is a subtype of primary ciliary dyskinesia (PCD). PCD affects cilia function, leading to recurrent respiratory infections, bronchiectasis, sinusitis, and in about 50% of cases, situs inversus (which is Kartagener's). \n\nBut the patient also has lupus. Could these conditions coexist? Lupus is an autoimmune disease, and PCD is a genetic disorder. They're separate, but possible. However, I need to check if there's another connection. The leukopenia here is probably from lupus, as that's a common hematological manifestation. The positive ANA also supports lupus. \n\nWait, but situs inversus is a key clue here. Along with the bronchiectasis and sinusitis, the triad for Kartagener's is there. So even though she has lupus, the structural issues point to Kartagener's. However, Kartagener's is part of PCD, so maybe the final diagnosis includes both? But the main issue causing her current symptoms (productive cough, respiratory distress) is likely the bronchiectasis and sinusitis from PCD. Lupus could complicate things, but the situs inversus with bronchiectasis and sinusitis is classic for Kartagener's. \n\nSo putting it all together: the patient has systemic lupus erythematosus (based on history, skin lesions, ANA, leukopenia) and Kartagener's syndrome (situs inversus, bronchiectasis, sinusitis). Therefore, the final diagnoses would be both conditions. But the question is asking for the diagnostic result. Sometimes, in such cases, the primary issue might be the combination, but each is a separate diagnosis. Alternatively, if the situs inversus is part of Kartagener's, which is a subset of PCD, then PCD with Kartagener's triad would be the main diagnosis alongside lupus. \n\nYes, the answer here should include both conditions as they are distinct but present in the patient. So the final answer would be Kartagener's syndrome and systemic lupus erythematosus.",
+        "content": "```\n### Resoning:\n<step 1> The patient’s situs inversus (dextrocardia and mirrored abdominal organs) is a congenital anomaly often associated with primary ciliary dyskinesia (PCD). Combined with bronchiectasis and chronic sinusitis (pansinusitis), this triad defines Kartagener syndrome, a subtype of PCD.  \n<step 2> Her productive cough, respiratory distress, and bronchial rales align with chronic respiratory complications from bronchiectasis and recurrent infections due to impaired mucociliary clearance in PCD.  \n<step 3> Concurrent systemic lupus erythematosus (SLE) is supported by her history, leukopenia (common in SLE), positive antinuclear antibodies, and lupus-related skin lesions. SLE and PCD/Kartagener syndrome are distinct diagnoses but can coexist.  \n<step 4> Leukopenia in this case is more likely attributable to SLE than infection, given the absence of reported neutrophilia or elevated inflammatory markers.  \n\n### Answer:\nKartagener syndrome and systemic lupus erythematosus."
+    },
+    "reasoning_eval": [
+        {
+            "step": "The patient’s situs inversus (dextrocardia and mirrored abdominal organs) is a congenital anomaly often associated with primary ciliary dyskinesia (PCD). Combined with bronchiectasis and chronic sinusitis (pansinusitis), this triad defines Kartagener syndrome, a subtype of PCD.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Her productive cough, respiratory distress, and bronchial rales align with chronic respiratory complications from bronchiectasis and recurrent infections due to impaired mucociliary clearance in PCD.",
+            "efficiency": "Reasoning",
+            "factulity": false,
+            "judgment_path": [
+                {
+                    "judgment": "Wrong",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Concurrent systemic lupus erythematosus (SLE) is supported by her history, leukopenia (common in SLE), positive antinuclear antibodies, and lupus-related skin lesions. SLE and PCD/Kartagener syndrome are distinct diagnoses but can coexist.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Leukopenia in this case is more likely attributable to SLE than infection, given the absence of reported neutrophilia or elevated inflammatory markers.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Initial possibilities include respiratory tract infection (bacterial or viral), autoimmune-related pulmonary manifestation due to lupus, and congenital disorders like primary ciliary dyskinesias (including Kartagener's syndrome).",
+            "hit": false
+        },
+        {
+            "step": "Step 2: Thoracic imaging findings of dextrocardia, bronchiectasis, and pansinusitis, along with complete situs inversus on abdominal imaging, fulfill the clinical triad consistent with Kartagener's syndrome.",
+            "hit": true
+        },
+        {
+            "step": "Step 3: No other pulmonary autoimmune disorders were indicated beyond chronic findings consistent with Kartagener's syndrome.",
+            "hit": false
+        },
+        {
+            "step": "Step 4: Positive antinuclear antibodies and leukopenia reflect lupus activity but do not offer an alternative diagnosis to Kartagener's syndrome.",
+            "hit": false
+        },
+        {
+            "step": "Final diagnosis: Kartagener's syndrome, characterized by the triad of bronchiectasis, situs inversus, and sinusitis, was diagnosed on CT imaging in the context of lupus erythematosus, supported by consistent clinical and radiological findings.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 0.75,
+    "recall": 0.4
+}

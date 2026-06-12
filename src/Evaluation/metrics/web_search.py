@@ -17,7 +17,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 
-from utils import workflow
+from metrics.utils import workflow
 
 os.environ['DISPLAY'] = ':99'
 

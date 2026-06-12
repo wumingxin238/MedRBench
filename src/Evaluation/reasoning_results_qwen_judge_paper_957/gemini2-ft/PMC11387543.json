@@ -1,0 +1,114 @@
+{
+    "raw_case": "\nBreast cylindroma: A rare and unexpected diagnosis\nCylindroma is a benign adnexal tumor histologically characterized by clusters of small basaloid cells arranged in a pattern resembling a jigsaw puzzle. Breast cylindromas are extremely rare with approximately 20 reported cases throughout literature. We present a case of a 71-year-old female with a slow growing cystic breast mass, originally identified 8 years prior to biopsy. Mammography and ultrasound demonstrated features of a simple cyst with circumscribed margins and anechoic internal echogenicity, respectively. Biopsy was performed due to increase in size, revealing the pathologic entity of cylindroma. The patient ultimately underwent surgical excision, which confirmed the diagnosis. We discuss the radiology, pathology and clinical course of breast cylindroma.\n\nIntroduction\n\nCylindromas, are rare, benign tumors originating either from apocrine sweat glands or hair follicles [1]. However, their exact etiology is unknown. Cylindromas are more common in middle-aged or elderly females, often appearing in the head, neck, or scalp [2]. They rarely undergo malignant transformation. Cylindromas may occur as a single tumor, or as multiple tumors associated with the CYLD gene mutation or Brooke-Spiegler syndrome (BSS) [3,4]. Cylindroma of the breast is a very rare lesion. Since its first description in 2001, 20 cases of cylindromas of the breast have been reported in the literature [2].\n\nCase presentation\n\nA 71-year-old female presented to clinic with a pea-sized palpable breast mass. The patient notes that it has been present for many years. The patient had no prior history of breast cancer. She had no history of benign or atypical breast biopsies. Her past medical history was significant for 2 treated cancers, including primary squamous cell carcinoma of the nasal root and squamous cell carcinoma of the anus. Physical examination was otherwise unremarkable with no additional breast mass, tenderness, asymmetry, or nipple discharge.An oval mass was identified in the lower inner quadrant posterior depth in the left breast on mammogram (Fig. 1), corresponding to a sonographic finding resembling a simple cyst (anechoic, circumscribed, posterior acoustic enhancement, no internal vascularity) adjacent to skin on ultrasound measuring up to 7 mm at 8 o'clock, 12 cm from the nipple (Fig. 2). Review of an MRI performed 8-years prior to presentation demonstrated a circumscribed oval homogeneously enhancing T2-hyperintense mass (Fig. 3). The patient underwent core needle biopsy using ultrasound guidance (Fig. 4). Pathology of core biopsy showed islands of epithelial cells composed of peripheral basaloid cells and central larger cells with oval vesicular nuclei, which surrounded by thickened membrane material and focally containing hyalin globules, consistent with a cylindroma (Fig. 5).With the past history of 2 separate site of squamous cell carcinoma, the patient desired excision. Excision with clear margins was performed due to patient preference. Further immunohistochemical staining was performed on excision with ER negative, CK5/6, CK7, and GATA3 focally positive in the ductal cells, smooth muscle myosin focally positive in the palisading cells, and p63 positive in majority of the lesional cells, supporting cylindroma.\n\nDiscussion\n\nMalignant cylindroma was initially identified by Ancell in 1842, when multiple members of a family exhibited numerous scalp tumors [5]. These lesions appear as smooth-surfaced nodules ranging in color from pink to purple and can be solitary or multiple, predominantly affecting middle-aged or older women [2]. The malignant transformation of these tumors is very rare, particularly in solitary forms compared to multiple variants. Multiple cylindromas are often linked to mutations in the CYLD gene or associated with BSS. The CYLD gene, found on chromosome 16, acts as a tumor suppressor and is involved in post-translational protein modification [2]. This gene plays a crucial role in various cellular processes, including DNA repair, endocytosis, proteasomal degradation, and the regulation of several cell signaling pathways [2]. Cylindromas is the most frequent manifestation of documented CYLD gene mutations [2]. The presence of a somatic CYLD mutation along with the loss of heterozygosity (LOH) of the wild-type allele at the CYLD locus is associated with sporadic mammary cylindroma. In contrast, a germline mutation in this gene usually results in familial cylindromatosis, multiple familial trichoepitheliomas, and BSS [2].Breast cylindroma was initially documented in 2001 by Gokaslan et al. [6]. Mammary glands, or breasts, are essentially modified sweat glands influenced by hormonal stimulation, allowing them to develop various types of neoplasms similar to sweat gland tissue, including cylindroma of the breast [7]. Differentiating breast cylindroma from the solid-type adenoid cystic carcinoma of the breast is crucial but can be difficult due to their similar imaging features [8]. Nevertheless, there are distinct characteristics that can aid in distinguishing between these 2 conditions [9,10].On mammography, breast cylindroma typically appears as a round or oval mass with circumscribed margins and has variable density. On ultrasound, cylindroma has been reported as a solid, hypoechoic mass with circumscribed margins and may have a variable internal echotexture but typically lacks cystic components or calcifications. On MRI, breast cylindroma may show low to intermediate signal intensity on T1-weighted images and variable signal intensity on T2-weighted images. Enhancement patterns can vary but typically demonstrate persistent enhancement. Cylindromas often have a ductal distribution pattern due to their origin from the apocrine glands.In contrast, on mammography, ACC may also present as a circumscribed mass, often with irregular margins and associated microcalcifications. On ultrasound, ACC can appear as a hypoechoic or isoechoic mass with circumscribed or irregular margins and may contain cystic components, demonstrating posterior acoustic enhancement. ACC may demonstrate heterogeneous enhancement on dynamic contrast-enhanced MRI and can exhibit high signal intensity on T2-weighted images due to its cystic components. ACC may show more random or infiltrative growth patterns.While both breast cylindroma and ACC can appear as circumscribed masses on mammography, cylindroma typically lacks microcalcifications and has a more consistent appearance with circumscribed margins, whereas ACC often has irregular margins and may present with microcalcifications. On ultrasound, cylindroma is generally solid and hypoechoic with circumscribed margins, while ACC can be hypoechoic or isoechoic with circumscribed or irregular margins and may contain cystic components. On MRI, cylindroma shows low to intermediate signal intensity on T1-weighted images and variable signal intensity on T2-weighted images with persistent enhancement, whereas ACC may show heterogenous enhancement and high signal intensity on T2-weighted images due to its cystic components. It is important to note that imaging characteristics alone do not definitively distinguish between these 2 entities, and histopathological analysis is often necessary for a conclusive diagnosis.Pathologically, cylindroma is a benign adnexal neoplasm with a mosaic microscopic pattern. It usually consists of multiple aggregates of basaloid cells in a jigsaw-puzzle arrangement and surrounded by a prominent basement membrane. Ductal structure can also be seen. Cylindromas do not exhibit cytologic atypia or mitoses and do not infiltrate the adjacent breast tissue. Differential diagnoses of cylindromas include ACC and rarely basal cell carcinoma.\n\nConclusion\n\nRadiologically, cylindromas of the breast can resemble other benign and malignant breast masses. They may be challenging to differentiate morphologically from similar tumors, such as solid-type ACC. Diagnostic mammography and ultrasound are the recommended initial imaging modalities. Biopsy is needed for diagnosis. Thus, radiologists should be familiar with imaging characteristics of rare mimickers of common breast pathologies, including cylindromas, as they may need to refer patients to a breast surgeon for definitive diagnosis and to rule out concurrent malignancy.\n\nPatient consent\n\nWritten informed consent was obtained from this patient for publication. The patient's identity is concealed with information de-identified for maintaining privacy. A copy of the written consent is available for review if needed.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 71-year-old female.\n- **Chief Complaint:** Pea-sized palpable breast mass.\n- **History of Present Illness:** Slow-growing cystic breast mass, present for many years, without significant associated symptoms.\n- **Past Medical History:** Primary squamous cell carcinoma of the nasal root and squamous cell carcinoma of the anus (both treated).\n- **Personal History:** None stated.\n- **Family History:** None reported.\n- **Physical Examination:** Unremarkable except for the palpable breast mass; no tenderness, asymmetry, nipple discharge, or additional masses.\n- **Ancillary Tests:** \n  - Mammography: Oval circumscribed mass with simple cystic features.\n  - Ultrasound: Anechoic mass with circumscribed margins, posterior acoustic enhancement, and no internal vascularity.\n  - MRI (8 years prior): Circumscribed, homogeneously-enhancing T2-hyperintense mass.\n  - Pathology (core needle biopsy): Histologic findings consistent with cylindroma, including epithelial cell islands with a jigsaw puzzle-like arrangement.\n  - Immunohistochemistry: ER negative, CK5/6, CK7, and GATA3 focally positive; p63 positive in majority of lesional cells.",
+        "differential_diagnosis": "1. **Adenoid Cystic Carcinoma (ACC):** Considered due to overlapping imaging and histologic features; excluded due to lack of cystic components, microcalcifications, irregular margins, and infiltrative growth patterns on imaging and pathology.\n2. **Basal Cell Carcinoma:** Considered given rare breast involvement; excluded due to lack of cytologic atypia, mitoses, and invasive properties in histopathological findings.\n3. **Breast Cylindroma:** Favored given classic histologic features of basaloid cells in a jigsaw puzzle-like pattern surrounded by a basement membrane and immunohistochemical findings significant for p63 positivity.\n4. **Other Benign Breast Lesions (e.g., fibroadenoma):** Excluded due to absence of typical imaging and histological features.",
+        "final_diagnosis": "Breast cylindroma definitively diagnosed based on the clinical presentation of a long-standing slow-growing cystic mass, characteristic imaging findings, and confirmatory histopathological and immunohistochemical results.",
+        "diagnosis_results": "Breast cylindroma."
+    },
+    "body_category": [
+        "Skin, Hair and Nails"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-7-21",
+    "checked_rare_disease": [],
+    "id": "PMC11387543",
+    "results": {
+        "content": "### Resoning:\n<step 1> Initial assessment based on chief complaint and history of present illness: The patient is a 71-year-old female presenting with a pea-sized, palpable breast mass that has been slow-growing and present for many years. The slow growth and long duration are suggestive of a benign process. The description \"cystic breast mass\" further leans towards benignity.\n\n<step 2> Considering past medical history: The patient has a history of two squamous cell carcinomas (nasal root and anus). While this raises the index of suspicion for malignancy in general, it is less directly relevant to a cystic breast mass.  It's important to keep in mind the possibility of metastasis or a new primary malignancy, but the description of the current mass as slow-growing and cystic makes this less likely.\n\n<step 3> Analyzing physical examination findings: The physical examination is unremarkable except for the palpable breast mass, which is described as non-tender, without asymmetry, nipple discharge, or additional masses. This further supports a benign or at least indolent process.\n\n<step 4> Interpreting ancillary tests - Imaging (Mammography, Ultrasound, MRI): Mammography and ultrasound describe the mass as having simple cystic features, being anechoic, with circumscribed margins, posterior acoustic enhancement, and no internal vascularity. These are all classic features of a simple benign cyst.  The MRI from 8 years prior describes a circumscribed, homogeneously-enhancing T2-hyperintense mass. While enhancement might raise a slight concern, the circumscribed nature and T2-hyperintensity can be seen in benign lesions, including cysts and certain benign tumors. The fact that this mass was noted 8 years ago and is still present and slow-growing also points towards a benign or very indolent lesion.\n\n<step 5>  Crucial interpretation of pathology and immunohistochemistry (Core needle biopsy): The core needle biopsy is the most definitive piece of information. The histologic findings are consistent with cylindroma. This diagnosis is further supported by the immunohistochemistry results: ER negative, CK5/6, CK7, and GATA3 focally positive, and p63 positive in the majority of lesional cells. This immunohistochemical profile is characteristic of cylindroma.  While GATA3 is often associated with breast carcinoma, it can also be expressed in cylindromas, particularly those of salivary gland origin, which share histologic similarities with some breast tumors. CK5/6 and p63 are markers often seen in basal-like lesions and myoepithelial cells, which are components of cylindromas. CK7 can also be positive in cylindromas.  ER negativity is also typical for cylindroma.\n\n<step 6> Synthesizing all findings to reach a final diagnosis:  Combining the clinical presentation (slow-growing, long-standing, cystic mass), benign imaging features, and definitive pathology confirming cylindroma, the final diagnosis is benign cylindroma of the breast.  Although cylindromas are more commonly found in the head and neck, they can occur in the breast as a rare benign tumor. The immunohistochemical profile strongly supports this diagnosis.  The history of squamous cell carcinomas is likely unrelated to this breast lesion.\n\n### Answer:\nCylindroma of the breast"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Initial assessment based on chief complaint and history of present illness: The patient is a 71-year-old female presenting with a pea-sized, palpable breast mass that has been slow-growing and present for many years. The slow growth and long duration are suggestive of a benign process. The description \"cystic breast mass\" further leans towards benignity.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Considering past medical history: The patient has a history of two squamous cell carcinomas (nasal root and anus). While this raises the index of suspicion for malignancy in general, it is less directly relevant to a cystic breast mass.  It's important to keep in mind the possibility of metastasis or a new primary malignancy, but the description of the current mass as slow-growing and cystic makes this less likely.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Analyzing physical examination findings: The physical examination is unremarkable except for the palpable breast mass, which is described as non-tender, without asymmetry, nipple discharge, or additional masses. This further supports a benign or at least indolent process.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Interpreting ancillary tests - Imaging (Mammography, Ultrasound, MRI): Mammography and ultrasound describe the mass as having simple cystic features, being anechoic, with circumscribed margins, posterior acoustic enhancement, and no internal vascularity. These are all classic features of a simple benign cyst.  The MRI from 8 years prior describes a circumscribed, homogeneously-enhancing T2-hyperintense mass. While enhancement might raise a slight concern, the circumscribed nature and T2-hyperintensity can be seen in benign lesions, including cysts and certain benign tumors. The fact that this mass was noted 8 years ago and is still present and slow-growing also points towards a benign or very indolent lesion.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Crucial interpretation of pathology and immunohistochemistry (Core needle biopsy): The core needle biopsy is the most definitive piece of information. The histologic findings are consistent with cylindroma. This diagnosis is further supported by the immunohistochemistry results: ER negative, CK5/6, CK7, and GATA3 focally positive, and p63 positive in the majority of lesional cells. This immunohistochemical profile is characteristic of cylindroma.  While GATA3 is often associated with breast carcinoma, it can also be expressed in cylindromas, particularly those of salivary gland origin, which share histologic similarities with some breast tumors. CK5/6 and p63 are markers often seen in basal-like lesions and myoepithelial cells, which are components of cylindromas. CK7 can also be positive in cylindromas.  ER negativity is also typical for cylindroma.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Synthesizing all findings to reach a final diagnosis:  Combining the clinical presentation (slow-growing, long-standing, cystic mass), benign imaging features, and definitive pathology confirming cylindroma, the final diagnosis is benign cylindroma of the breast.  Although cylindromas are more commonly found in the head and neck, they can occur in the breast as a rare benign tumor. The immunohistochemical profile strongly supports this diagnosis.  The history of squamous cell carcinomas is likely unrelated to this breast lesion.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "Step 1: Adenoid Cystic Carcinoma (ACC) considered due to overlapping imaging and histologic features; excluded due to lack of cystic components, microcalcifications, irregular margins, and infiltrative growth patterns on imaging and pathology.",
+            "hit": false
+        },
+        {
+            "step": "Step 2: Basal Cell Carcinoma considered given rare breast involvement; excluded due to lack of cytologic atypia, mitoses, and invasive properties in histopathological findings.",
+            "hit": false
+        },
+        {
+            "step": "Step 3: Breast Cylindroma favored given classic histologic features of basaloid cells in a jigsaw puzzle-like pattern surrounded by a basement membrane and immunohistochemical findings significant for p63 positivity.",
+            "hit": false
+        },
+        {
+            "step": "Step 4: Other benign breast lesions (e.g., fibroadenoma) excluded due to absence of typical imaging and histological features.",
+            "hit": false
+        },
+        {
+            "step": "Step 5: Final diagnosis: Breast cylindroma definitively diagnosed based on the clinical presentation of a long-standing slow-growing cystic mass, characteristic imaging findings, and confirmatory histopathological and immunohistochemical results.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.2
+}

@@ -1,0 +1,111 @@
+{
+    "raw_case": "\nUnilateral Virginal Breast Hypertrophy: A Report of a Rare Condition With an Unknown Etiology\nUnilateral virginal hypertrophy of the breast is a rare condition with an unknown etiology, though it is thought to result from hypersensitivity of the end organs to normal levels of gonadal hormones. We present the case of a 17-year-old girl who initially showed gradual growth after thelarche; however, in the last three to four months, there was a rapid increase in size, leading to psychological and physical problems that also impacted her social life. A clinical examination revealed that her left breast was markedly enlarged compared to the right, and she exhibited a drooping posture. Radiological investigations and a true-cut biopsy were performed to detect any underlying pathology, which revealed normocellular stroma consistent with virginal breast hypertrophy.\n\nIntroduction\n\nVirginal hypertrophy of the breast or gigantomastia is a rare, benign condition of unknown etiology that typically occurs in young pubescent girls. Durston first described it in 1669 [1]. Breast hypertrophy usually occurs in puberty or following pregnancy. It is defined as massive enlargement of the breast tissue requiring a reduction of 1800 g per side of breast volume [2]. Most of these cases are sporadic, and glandular tissue is abnormally sensitive to the pubertal hormones [3]. Although it usually affects both breasts, cases of unilateral growth have also been observed. This condition differs from unilateral breast enlargement caused by underlying pathologies such as fibroadenoma, cystosarcoma phyllodes, or breast cancer, which present with palpable lumps. The most common clinical presentation is a rapid increase in breast size, which further stretches the overlying skin and may cause areolar abnormality, ulceration, and pain. Unilateral breast enlargement can lead to various problems, including abnormal posture, breast discomfort, neck pain, and abnormal spinal curvature, as well as significant impacts on the patient's psychological and social life [3]. We are presenting a case of unilateral virginal hypertrophy of the breast in a pubertal girl.\n\nCase presentation\n\nA young, 17-year-old girl presented with complaints of a marked enlargement of her left breast, and she suspected a lump in her left breast that had been increasing in size for the past three months. She had her menarche and thelarche at the age of 11, and her menstrual cycles had been regular. There was no significant genetic, medical, or family history. On clinical examination, there was a marked enlargement of the left breast compared to the contralateral breast (Figure 1). There was enlargement of the areola as well on the left side. Both breasts were soft with no palpable lumps, pain, or tenderness. No abnormal skin changes were noted.She had no history of nipple discharge or constitutional symptoms. Her parents and the girl were concerned about the asymmetry of the breast size and its impact on social life associated with the possibility of a cancerous lump. She was therefore recommended a breast ultrasound scan and Tru-cut biopsy. The ultrasound (USG) examination of the breast revealed a significantly enlarged left breast. High-resolution USG of the left breast showed an asymmetrical distribution of fibro-glandular tissue, which was seen more in the upper outer quadrant (Figure 2A). The rest of the left breast showed predominantly fatty breast tissue ( Figure 2B, 2C). The right breast appeared normal according to her age (Tanner stage 5) and physical constitution. The USG examination of the right breast revealed normal fibro-glandular tissue (Figure 2D). No cystic or solid mass was noted in either breast. Both axillae appeared normal.A non-contrast magnetic resonance imaging (MRI) scan was performed for screening and to confirm the USG findings. The MRI revealed significant enlargement of the left breast compared to the right, with predominantly fatty and fibrous tissue throughout. Glandular tissue was primarily scattered in the upper outer quadrant (Figure 3). No cystic or solid masses were observed, and there was no ductal dilatation. The fibrous-glandular pattern in the contralateral right breast was consistent with the patient's age.For further evaluation and pathological diagnosis, a USG-guided needle biopsy of the left breast was performed under local anesthesia. Three gray-white linear tissue cores, measuring 0.5 cm to 1.2 cm, were obtained and placed in 10% neutral buffered formalin (Figure 4). The tissue was routinely processed for histopathology, with slides prepared and stained using hematoxylin and eosin (H&E). The microscopic examination revealed fibrous and fibrocollagenous tissue with a few breast acini lined by cuboidal cells and an outer myoepithelial cell layer. The stroma was normocellular and unremarkable.After multiple investigations, it was well established that the patient did not have any underlying pathology causing enlargement of the breast. Traditionally, treatment options include breast reduction, mastectomy, reconstruction, hormone therapy, or a combination of these. In this case, the patient was financially unable to afford surgery. She also expressed hesitation about undergoing a surgical procedure; hence, surgery was not performed.\n\nDiscussion\n\nVirginal mammary hypertrophy, also known as juvenile mammary hypertrophy or juvenile gigantomastia, is characterized by the rapid enlargement of one or both breasts during adolescence. Very few cases of unilateral breast enlargement have been reported [4-6]. The development of virginal breast hypertrophy (VBH) is believed to be influenced by hormonal imbalances, genetic factors, and local factors [2]. It typically appears in early adolescence, coinciding with hormonal changes. The excessive growth of the breast is influenced by hormones such as estrogen, progesterone, prolactin, and growth hormones during this rapid growth phase [7]. Excessive breast enlargement can result in physical discomfort, back pain, and poor posture. Additionally, individuals affected by this condition may experience emotional distress, body image issues, and diminished self-esteem [7,8]. Imaging studies play a limited role in diagnosing juvenile breast hypertrophy but are essential for ruling out tumors. Mammography can present challenges in interpretation for young women due to dense breast tissue [9]. Breast USG provides valuable information for differential diagnosis and is particularly useful when discrete masses are present and their nature is uncertain. However, excessive breast enlargement can sometimes make USG challenging. Despite this, USG can guide percutaneous biopsy of suspected lesions. MRI is more effective in defining breast architecture and identifying pathological lesions [10]. It is crucial to rule out other causes of unilateral breast enlargement, such as large fibroadenoma, cystosarcoma phyllodes, lipoma, or breast hamartoma. Additionally, a distinction must be made between gravid and virginal gigantomastia. Imaging studies are important for treatment planning and preventing long-term complications. Traditionally, treatment options include breast reduction, mastectomy, reconstruction, hormone therapy, or a combination of these. The use of hormonal agents such as tamoxifen in patients who have not yet reached sexual and physical maturity carries risks. These potential adverse effects include endometrial hyperplasia, endometrial cancer, an increased risk of venous thrombosis, and the possibility of triggering depression [10-12]. Surgery is considered the primary treatment approach. Subcutaneous mastectomy involves the complete removal of breast tissue and is least likely to lead to recurrence, but it may deform the breast shape. Reduction mammoplasty offers better aesthetic outcomes but has a higher likelihood of recurrence, which should be communicated to the patient.\n\nConclusions\n\nVBH is a relatively rare but significant female health problem, particularly in developing countries where poverty and delayed medical intervention are common problems. The considerable cosmetic impact and associated self-esteem issues are exacerbated in resource-poor settings where delayed medical treatment and inadequate follow-up care are common. Proper assessment of VBH in conjunction with other benign breast conditions is critical to rule out malignancy and ensure timely and appropriate treatment to minimize complications. A comprehensive, multidisciplinary approach is essential for adequate management.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 17-year-old female.\n- **Chief Complaint:** Rapid enlargement of the left breast over the past three to four months.\n- **History of Present Illness:** Gradual growth in breast size since thelarche, progressing rapidly in the left breast over the last three to four months. No lumps, pain, nipple discharge, or constitutional symptoms.\n- **Past Medical History:** None.\n- **Personal History:** Regular menstrual cycles since menarche at age 11; socially and psychologically impacted by asymmetry.\n- **Family History:** None.\n- **Physical Examination:** Marked unilateral enlargement of the left breast with areolar enlargement. Breasts were soft, non-tender, with no palpable lumps or abnormal skin changes.\n- **Ancillary Tests:**\n  - **Breast Ultrasound:** Left breast significantly enlarged with asymmetrical fibro-glandular tissue. No cystic or solid mass. Right breast normal.\n  - **MRI:** Confirmed left breast enlargement with predominantly fatty and fibrous tissue; no masses or ductal dilatation. Normal contralateral breast pattern for age (Tanner stage 5).\n  - **True-cut Biopsy:** Normocellular stroma, fibrous and fibrocollagenous tissue with benign breast acini. No evidence of malignancy.",
+        "differential_diagnosis": "1. **Initial list of potential diagnoses:**\n   - Fibroadenoma\n   - Cystosarcoma phyllodes\n   - Lipoma\n   - Breast hamartoma\n   - Juvenile hypertrophy\n   - Malignancy\n\n2. **Rationale for inclusion and exclusion:**\n   - **Fibroadenoma and cystosarcoma phyllodes:** Excluded due to lack of discrete palpable masses or abnormal findings on USG, MRI, and histopathology.\n   - **Lipoma and breast hamartoma:** Excluded as imaging and biopsy failed to show fat or benign mixed elements typical of hamartoma.\n   - **Malignancy:** Excluded as there were no suspicious findings on imaging or biopsy, and the condition was consistent with benign stroma.\n   - **Juvenile hypertrophy (VBH):** Strongly considered due to unilateral breast enlargement in a pubertal female, absence of underlying mass or pathology, and normocellular stroma on biopsy.\n\n3. Final determination of VBH was based on clinical presentation, imaging, and histopathological confirmation of benign tissue with no underlying pathology.",
+        "final_diagnosis": "Unilateral virginal breast hypertrophy (juvenile mammary hypertrophy) of the left breast.",
+        "diagnosis_results": "Unilateral virginal breast hypertrophy."
+    },
+    "body_category": [
+        "Skin, Hair and Nails"
+    ],
+    "disorder_category": [
+        "Pregnancy and Reproduction"
+    ],
+    "receive_time": "2024-8-27",
+    "checked_rare_disease": [],
+    "id": "PMC11570433",
+    "results": {
+        "content": "### Resoning:\n<step 1> Analyze the chief complaint and history of present illness: The patient is a 17-year-old female presenting with rapid enlargement of the left breast over 3-4 months. This rapid unilateral growth is the most striking feature.  The absence of pain, lumps, nipple discharge, or systemic symptoms is also important to note as it reduces the likelihood of infectious or malignant etiologies. The gradual growth since thelarche is normal breast development, but the recent accelerated growth specifically in the left breast is the key concern.\n\n<step 2> Review past medical history, personal history, and family history:  No significant past medical or family history is provided. Regular menstrual cycles are noted, which suggests hormonal function is generally normal, but doesn't rule out localized breast tissue sensitivity to hormones. The patient's psychological distress due to asymmetry highlights the clinical significance of the condition.\n\n<step 3> Evaluate the physical examination findings:  The physical exam confirms marked unilateral left breast enlargement with areolar enlargement. The breasts are soft, non-tender, and without palpable masses or skin changes. This further supports a benign, non-inflammatory process and reduces the likelihood of malignancy or infection.\n\n<step 4> Scrutinize the ancillary test results:\n    - **Breast Ultrasound:** Shows asymmetrical fibro-glandular tissue enlargement in the left breast, without masses or cysts. This is consistent with benign breast tissue proliferation and rules out large cysts or solid tumors as the primary cause of enlargement.\n    - **MRI:** Confirms the ultrasound findings, specifying the tissue composition as predominantly fatty and fibrous, and again excludes masses or ductal dilatation. The normal contralateral breast pattern for Tanner stage 5 reinforces the asymmetry and benign nature of the changes.\n    - **True-cut Biopsy:**  This is crucial. The biopsy reveals normocellular stroma, fibrous and fibrocollagenous tissue with benign breast acini, and crucially, *no evidence of malignancy*. This definitively rules out malignancy and confirms the benign nature of the breast tissue.\n\n<step 5> Synthesize all findings and formulate the most likely diagnosis:  Considering the rapid, unilateral, and significant breast enlargement in a young woman, in the absence of pain, masses, and with benign histopathology, the most probable diagnosis is **Unilateral Gigantomastia**. While other conditions like fibroadenoma or breast cyst were considered, they are less likely given the diffuse enlargement and lack of discrete masses.  The benign biopsy specifically supports a non-neoplastic process. Gigantomastia, although rare, is characterized by excessive breast growth due to hormonal sensitivity, and while typically bilateral, unilateral presentation is possible, albeit less common. The rapid onset and significant enlargement fit the description of gigantomastia.\n\n### Answer:\nUnilateral Gigantomastia"
+    },
+    "reasoning_eval": [
+        {
+            "step": "Analyze the chief complaint and history of present illness: The patient is a 17-year-old female presenting with rapid enlargement of the left breast over 3-4 months. This rapid unilateral growth is the most striking feature.  The absence of pain, lumps, nipple discharge, or systemic symptoms is also important to note as it reduces the likelihood of infectious or malignant etiologies. The gradual growth since thelarche is normal breast development, but the recent accelerated growth specifically in the left breast is the key concern.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Review past medical history, personal history, and family history:  No significant past medical or family history is provided. Regular menstrual cycles are noted, which suggests hormonal function is generally normal, but doesn't rule out localized breast tissue sensitivity to hormones. The patient's psychological distress due to asymmetry highlights the clinical significance of the condition.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Evaluate the physical examination findings:  The physical exam confirms marked unilateral left breast enlargement with areolar enlargement. The breasts are soft, non-tender, and without palpable masses or skin changes. This further supports a benign, non-inflammatory process and reduces the likelihood of malignancy or infection.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Scrutinize the ancillary test results:\n    - **Breast Ultrasound:** Shows asymmetrical fibro-glandular tissue enlargement in the left breast, without masses or cysts. This is consistent with benign breast tissue proliferation and rules out large cysts or solid tumors as the primary cause of enlargement.\n    - **MRI:** Confirms the ultrasound findings, specifying the tissue composition as predominantly fatty and fibrous, and again excludes masses or ductal dilatation. The normal contralateral breast pattern for Tanner stage 5 reinforces the asymmetry and benign nature of the changes.\n    - **True-cut Biopsy:**  This is crucial. The biopsy reveals normocellular stroma, fibrous and fibrocollagenous tissue with benign breast acini, and crucially, *no evidence of malignancy*. This definitively rules out malignancy and confirms the benign nature of the breast tissue.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "Synthesize all findings and formulate the most likely diagnosis:  Considering the rapid, unilateral, and significant breast enlargement in a young woman, in the absence of pain, masses, and with benign histopathology, the most probable diagnosis is **Unilateral Gigantomastia**. While other conditions like fibroadenoma or breast cyst were considered, they are less likely given the diffuse enlargement and lack of discrete masses.  The benign biopsy specifically supports a non-neoplastic process. Gigantomastia, although rare, is characterized by excessive breast growth due to hormonal sensitivity, and while typically bilateral, unilateral presentation is possible, albeit less common. The rapid onset and significant enlargement fit the description of gigantomastia.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Initial list of potential diagnoses: Fibroadenoma, cystosarcoma phyllodes, lipoma, breast hamartoma, juvenile hypertrophy, and malignancy.",
+            "hit": false
+        },
+        {
+            "step": "<Step 2> Rationale for exclusion: Excluded fibroadenoma and cystosarcoma phyllodes due to lack of discrete palpable masses or abnormal findings on USG, MRI, and histopathology.",
+            "hit": false
+        },
+        {
+            "step": "<Step 3> Rationale for exclusion: Excluded lipoma and breast hamartoma as imaging and biopsy did not show fat or benign mixed elements typical of hamartoma.",
+            "hit": false
+        },
+        {
+            "step": "<Step 4> Rationale for exclusion: Excluded malignancy as there were no suspicious findings on imaging or biopsy, and the condition was consistent with benign stroma.",
+            "hit": true
+        },
+        {
+            "step": "<Step 5> Rationale for consideration: Juvenile hypertrophy (VBH) strongly considered due to unilateral breast enlargement in a pubertal female, absence of underlying mass or pathology, and normocellular stroma on biopsy.",
+            "hit": true
+        },
+        {
+            "step": "<Step 6> Final determination: Final diagnosis based on clinical presentation, imaging, and histopathological confirmation of benign tissue with no underlying pathology.",
+            "hit": false
+        },
+        {
+            "step": "<Step 7> Final diagnosis: Unilateral virginal breast hypertrophy (juvenile mammary hypertrophy) of the left breast.",
+            "hit": true
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.42857142857142855
+}

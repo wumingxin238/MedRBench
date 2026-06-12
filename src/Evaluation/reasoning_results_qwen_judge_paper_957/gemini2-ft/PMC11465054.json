@@ -1,0 +1,176 @@
+{
+    "raw_case": "\nA rare case of inflammatory myofibroblastic tumour of the thigh : A case report and literature review\nTowards the beginning of the twentieth century, inflammatory myofibroblastic tumors were described as neoplasms characterized by myofibroblastic spindle cells with an infiltrate of inflammatory cells. These rare tumors occur mainly in children and young adults with a preferential pulmonary and abdominal location. They have intermediate biological potency with a tendency to local recurrence and rarely metastasize. We describe the case of an adolescent who presented with an inflammatory myofibroblastic tumor of the thigh, a very rare entity that has only been reported in the literature as case reports, and its clinical, radiological, echographic and MRI appearance. The patient underwent complete surgical resection of the mass with healthy margins and did not receive any additional treatment. No sign of recurrence was detected after 6 months of follow-up.\n\nIntroduction\n\nInflammatory myofibroblastic tumors (IMTs) are intermediate biological potential neoplasms with a tendency to local recurrence and rare cases of metastasis. According to the World Health Organisation, they represent an entity of lesions composed of myofibroblastic spindle cells alongside an inflammatory infiltrate of plasmocytes, lymphocytes and eosinophils [1]. These tumors occur most often in the first 2 decades of life, mainly affecting the lung and digestive tract, although some rare localizations in the extremities have been described as case reports [2].The lack of specificity of the clinical and biological findings explains why this diagnosis is rarely mentioned [3], although MRI, anatomopathological and immunhistochemical studies provide a great contribution to the diagnosis [4].Surgical resection with healthy margins is the rule to reduce the higher risk of local recurrence without the need for neoadjuvant radiotherapy or chemotherapy [5].\n\nOur case\n\nA 16-year-old adolescent with no previous medical history presented with a painless mass on the medial aspect of the left thigh that had been progressively increasing in size over the past 2 months, with no history of trauma, fever or deterioration of general condition. Clinically, the mass measured approximately 4 × 3 cm, with firm consistency, mobile in relation to the deep and superficial tissues, painless, without inflammatory cutaneous signs, and the lymph nodes were free (Fig. 1).The standard X-ray examination revealed no bone or soft tissue abnormalities. Additional ultrasound revealed an irregular hypoechoic soft tissue mass on the medial aspect of the upper third of the thigh, with spiculated contours, measuring 24 × 16 × 20 cm, showing mixed vascularization on Doppler with infiltration of the surrounding fat and respect of contiguous muscles (Fig. 2). The magnetic resonance imaging (MRI) confirmed the presence of a soft tissue mass anterior to the gracilis and medial to the adductor longus. This formation showed a hyposignal on T1 weighted images, hypersignal on T2 and Fat Saturation (FAT SAT) sequences (Fig. 3), heterogeneous hypersignal on Short Tau Inversion Recovery (STIR) sequence (Fig. 4) with intense contrast enhancement and diffuse infiltration of the adjacent soft tissues (Fig. 5). Surgical biopsy was in favor of an inflammatory myofibroblastic tumor due to the presence of a proliferation of spindle cells with spindle and round nucleus associated with inflammatory elements. The mass was resected as a monobloc carcinological procedure with cutaneous-musculo-fatty safety margins (Fig. 6).Macroscopic examination of the resection specimen revealed a grey-white mass with calcific deposits. Microscopically, it had the same biopsy findings, with proliferation of spindle-shaped cells with spindle-shaped nuclei alongside a proliferation of inflammatory cells (Fig. 7), with healthy surgical resection margins.A thoracic-abdominal-pelvic scan was performed and did not reveal any secondary locations, in particular the lung. Our patient did not undergo adjuvant therapy, and no signs of clinico-radiological recurrence were reported after 6 months.\n\nDiscussion\n\nIMTs were recently described around the beginning of the twentieth century as a distinct entity with characteristic anatomopathological and molecular features [6], these neoplasms have always been recognized with a broad spectrum of lesions under the name of inflammatory pseudotumor [7]. They are characterized by myofibroblastic spindle cells with the presence of an inflammatory infiltrate [1]. These tumors are rarely found in the limbs and more rarely in the soft tissues of the extremities, their preferential sites being the lungs and in the abdominal cavity [8]. The pediatric population and young adults are the most commonly concerned, with an average age of 10 years [9], with no sexual predominance [3].IMTs are classified as benign tumors with a remarkable potential for local recurrence (up to 25% in extra-pulmonary locations according to Coffin [10], infiltration of adjacent tissues and a minor risk of sarcomatous transformation, although they rarely metastasize to distant sites [11].Clinical features differ according to location; in the extremities there are no specific signs other than a mass which is sometimes painful without fever or weight loss [12].Ultrasonographic findings are not specific; the lesion may be hypoechoic or hyperechoic, well or poorly defined with hyper vascularization on Doppler [13]. The magnetic resonance imaging (MRI) findings of soft tissue IMT are not specific. It has been reported that these lesions often occur in the medial region of the thigh as a progressively growing mass, hypointense in T1 sequence and variable intensity in T2 sequence [3]. In our case, the mass was located in the upper third of the thigh, medial to the adductor fossa, which is hyposignal in T1 and hypersignal in T2. The literature reports that these lesions show variable enhancement after injection of gadolinium depending on the cellular and fibrous component of the mass [3]; high enhancement was observed in our case. It is essential to highlight that the diagnosis cannot be made on MRI studies only, as several lesions such as MFH (malignant fibrous histiocytoma), fibro sarcomas and MPNST (Malignant Peripheral Nerve Sheath Tumors) can present the same characteristics [6].Confirmation of the diagnosis is based on a histological study of the biopsy or surgical resection specimen, which shows myofibroblastic and fibroblastic spindle cells with the presence of an inflammatory infiltrate of lymphocytes, plasma cells, eosinophils and histiocytes [3]. Immunihistochemical studies can detect the ALK (anaplastic lymphoma kinase) marker in 50% of cases of IMT, especially in children; the positivity of this factor may be associated with the risk of local recurrence, but its presence is not specific to IMT [7].Treatment of localized forms of IMT is primarily surgical, involving resection of the entire mass with R0 margins, and does not require any adjuvant therapy [14]. Chemotherapy and radiotherapy are of interest in advanced, multifocal and recurrent forms [3,15].\n\nConclusion\n\nIMT of the extremities is a rare entity with no specific clinical, biological or radiological features, and it is the histological study that generally makes the diagnosis. Monobloc resection with healthy margins is the mainstay of treatment to eradicate the tumor and prevent local recurrence.\n\nPatient consent\n\nConsent was obtained from the patient for publication of this case report and accompanying images.",
+    "generate_case": {
+        "case_summary": "- **Patient Information:** 16-year-old adolescent\n- **Chief Complaint:** Painless mass on the medial aspect of the left thigh\n- **History of Present Illness:** Progressive increase in size of the mass over 2 months; no history of trauma, fever, or deterioration of general condition.\n- **Past Medical History:** None\n- **Personal History:** None\n- **Family History:** None\n- **Physical Examination:** Painless, firm, mobile mass (measuring 4 × 3 cm) on the medial aspect of the left thigh; no inflammatory cutaneous signs, no lymphadenopathy.\n- **Ancillary Tests:**\n  - **X-ray:** No bone or soft tissue abnormalities.\n  - **Ultrasound:** Irregular hypoechoic mass (24 × 16 × 20 cm) with spiculated contours, mixed vascularization, fat infiltration, and no muscle invasion.\n  - **MRI:** Soft tissue mass anterior to gracilis and medial to adductor longus; hyposignal on T1, hypersignal on T2, Fat Saturation, and STIR sequences; intense contrast enhancement with adjacent soft tissue infiltration.\n  - **Histology (Biopsy and Resection):** Proliferation of spindle-shaped cells with spindle-shaped nuclei and an inflammatory infiltrate (lymphocytes, plasma cells, eosinophils).\n  - **Macroscopic Resection Specimen:** Grey-white mass with calcific deposits; surgical margins were healthy.\n  - **Thoracic-Abdominal-Pelvic CT:** No evidence of metastasis or secondary locations.",
+        "differential_diagnosis": "- **Initial List of Potential Diagnoses:**\n  - Inflammatory Myofibroblastic Tumor (IMT)\n  - Malignant Fibrous Histiocytoma (MFH)\n  - Fibrosarcomas\n  - Malignant Peripheral Nerve Sheath Tumor (MPNST)\n\n- **Differentiation Process:**\n  1. **Reject MFH, Fibrosarcomas, and MPNST:** These typically demonstrate more aggressive local and systemic progression than observed in this case. Histologically, they lack the inflammatory cell infiltrate characteristic of IMT.\n  2. **Confirm IMT Diagnosis:** Histological examination revealed spindle-shaped myofibroblastic cells with inflammatory infiltrates including lymphocytes, plasma cells, and eosinophils. Immunohistochemistry results also align with IMT features (though ALK positivity wasn't explicitly mentioned, it aligns with noted characteristics of similar cases).\n\n- **Rationale for IMT Diagnosis:** IMTs typically affect children/young adults, as is the case here, and the histological, MRI, and clinical data strongly favor this diagnosis. No evidence of systemic spread or aggressive behavior argues against malignancies like MFH or sarcomas.",
+        "final_diagnosis": "Inflammatory Myofibroblastic Tumor (IMT) of the left thigh. The diagnosis was confirmed via histological assessment of the tumor after complete surgical excision and correlated findings from imaging and clinical presentation. The case exhibited no signs of recurrence or metastasis at 6-month follow-up.",
+        "diagnosis_results": "Inflammatory Myofibroblastic Tumor (IMT) of the left thigh."
+    },
+    "body_category": [
+        "Bones, Joints and Muscles"
+    ],
+    "disorder_category": [
+        "Cancers"
+    ],
+    "receive_time": "2024-8-6",
+    "checked_rare_disease": [
+        "Inflammatory myofibroblastic tumor"
+    ],
+    "id": "PMC11465054",
+    "results": {
+        "content": "### Resoning:\n<step 1> **Initial Assessment of Patient Demographics and Complaint:** A 16-year-old adolescent presenting with a painless mass on the medial thigh is the starting point. This age group can be affected by various soft tissue lesions, including benign and malignant tumors. The painless nature of the mass is important to note, although it doesn't rule out malignancy.\n\n<step 2> **Analyzing History of Present Illness:** The progressive increase in size over 2 months suggests a growing lesion, which could be neoplastic, inflammatory, or reactive. The absence of trauma, fever, or systemic symptoms makes infectious or typical inflammatory processes less likely, but certain inflammatory conditions and neoplasms should still be considered.\n\n<step 3> **Reviewing Past Medical, Personal, and Family History:** The unremarkable past medical, personal, and family history doesn't provide specific clues but helps to exclude predisposing factors linked to known genetic conditions or prior illnesses.\n\n<step 4> **Interpreting Physical Examination Findings:** A painless, firm, mobile mass of 4x3 cm on the medial thigh, without inflammatory cutaneous signs or lymphadenopathy, suggests a localized soft tissue lesion. The mobility indicates it may not be deeply fixed initially, and the absence of lymphadenopathy is somewhat reassuring regarding regional spread, but doesn't exclude malignancy entirely. The palpated size is important but will be contrasted with imaging findings.\n\n<step 5> **Evaluating X-ray Results:** The X-ray showing no bone or soft tissue abnormalities is useful in excluding primary bone tumors and significant calcifications visible on plain radiography. However, many soft tissue masses are not readily visible on X-ray, particularly smaller ones or those without calcification.\n\n<step 6> **Analyzing Ultrasound Findings:** The ultrasound reveals a significantly larger, irregular hypoechoic mass (24 × 16 × 20 cm, much larger than the 4x3cm palpated size - this discrepancy needs consideration, possibly due to different measurement techniques or the ultrasound revealing the full extent) with spiculated contours and mixed vascularization, raising suspicion for a non-benign process.  \"Fat infiltration\" is an interesting finding and needs to be correlated with other imaging and histology. The absence of muscle invasion is a relatively favorable finding at this stage.\n\n<step 7> **Interpreting MRI Findings:** The MRI further characterizes the mass in detail. Its location anterior to gracilis and medial to adductor longus anatomically defines its position. The signal characteristics (hyposignal on T1, hypersignal on T2, Fat Sat, and STIR) are consistent with many soft tissue lesions, including tumors and inflammatory processes. Intense contrast enhancement indicates rich vascularity and active cellularity, suggestive of neoplasm or inflammation. \"Adjacent soft tissue infiltration\" implies local extension and is a concerning feature.\n\n<step 8> **Crucial Analysis of Histology (Biopsy and Resection):** The histology is key. \"Proliferation of spindle-shaped cells\" points towards a spindle cell lesion, which is a broad category including various benign and malignant entities. \"Spindle-shaped nuclei\" reinforces this morphology. The critical finding is \"an inflammatory infiltrate (lymphocytes, plasma cells, eosinophils).\" The presence of eosinophils is a significant clue and narrows down the differential diagnosis considerably in the context of spindle cell proliferation.\n\n<step 9> **Reviewing Macroscopic Resection Specimen:** The \"grey-white mass with calcific deposits\" is consistent with several soft tissue tumors, including some benign and low-grade malignant lesions. \"Surgical margins were healthy\" is a positive prognostic indicator, suggesting complete local excision.\n\n<step 10> **Assessing Thoracic-Abdominal-Pelvic CT Results:** The CT showing \"no evidence of metastasis or secondary locations\" indicates that at the time of diagnosis, there is no detectable distant spread of the lesion, which is a favorable prognostic sign.\n\n<step 11> **Synthesizing all findings to reach a diagnosis:**  Considering the age, location, painless mass, imaging characteristics (especially on ultrasound and MRI showing a vascular, infiltrating soft tissue mass), and most importantly, the histology (spindle cells with inflammatory infiltrate rich in eosinophils), the most likely diagnosis is **Inflammatory Myofibroblastic Tumor (IMT)**.  IMT is known to present with spindle cells and a prominent inflammatory infiltrate, characteristically including lymphocytes, plasma cells, and notably, eosinophils. The imaging findings and macroscopic description also fit IMT. While other spindle cell lesions (like sarcomas) are in the differential, the prominent eosinophilic infiltrate is a strong discriminator favoring IMT.\n\n### Answer:\nInflammatory Myofibroblastic Tumor (IMT)"
+    },
+    "reasoning_eval": [
+        {
+            "step": "**Initial Assessment of Patient Demographics and Complaint:** A 16-year-old adolescent presenting with a painless mass on the medial thigh is the starting point. This age group can be affected by various soft tissue lesions, including benign and malignant tumors. The painless nature of the mass is important to note, although it doesn't rule out malignancy.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Analyzing History of Present Illness:** The progressive increase in size over 2 months suggests a growing lesion, which could be neoplastic, inflammatory, or reactive. The absence of trauma, fever, or systemic symptoms makes infectious or typical inflammatory processes less likely, but certain inflammatory conditions and neoplasms should still be considered.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Reviewing Past Medical, Personal, and Family History:** The unremarkable past medical, personal, and family history doesn't provide specific clues but helps to exclude predisposing factors linked to known genetic conditions or prior illnesses.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpreting Physical Examination Findings:** A painless, firm, mobile mass of 4x3 cm on the medial thigh, without inflammatory cutaneous signs or lymphadenopathy, suggests a localized soft tissue lesion. The mobility indicates it may not be deeply fixed initially, and the absence of lymphadenopathy is somewhat reassuring regarding regional spread, but doesn't exclude malignancy entirely. The palpated size is important but will be contrasted with imaging findings.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Evaluating X-ray Results:** The X-ray showing no bone or soft tissue abnormalities is useful in excluding primary bone tumors and significant calcifications visible on plain radiography. However, many soft tissue masses are not readily visible on X-ray, particularly smaller ones or those without calcification.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Analyzing Ultrasound Findings:** The ultrasound reveals a significantly larger, irregular hypoechoic mass (24 × 16 × 20 cm, much larger than the 4x3cm palpated size - this discrepancy needs consideration, possibly due to different measurement techniques or the ultrasound revealing the full extent) with spiculated contours and mixed vascularization, raising suspicion for a non-benign process.  \"Fat infiltration\" is an interesting finding and needs to be correlated with other imaging and histology. The absence of muscle invasion is a relatively favorable finding at this stage.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Interpreting MRI Findings:** The MRI further characterizes the mass in detail. Its location anterior to gracilis and medial to adductor longus anatomically defines its position. The signal characteristics (hyposignal on T1, hypersignal on T2, Fat Sat, and STIR) are consistent with many soft tissue lesions, including tumors and inflammatory processes. Intense contrast enhancement indicates rich vascularity and active cellularity, suggestive of neoplasm or inflammation. \"Adjacent soft tissue infiltration\" implies local extension and is a concerning feature.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Crucial Analysis of Histology (Biopsy and Resection):** The histology is key. \"Proliferation of spindle-shaped cells\" points towards a spindle cell lesion, which is a broad category including various benign and malignant entities. \"Spindle-shaped nuclei\" reinforces this morphology. The critical finding is \"an inflammatory infiltrate (lymphocytes, plasma cells, eosinophils).\" The presence of eosinophils is a significant clue and narrows down the differential diagnosis considerably in the context of spindle cell proliferation.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Reviewing Macroscopic Resection Specimen:** The \"grey-white mass with calcific deposits\" is consistent with several soft tissue tumors, including some benign and low-grade malignant lesions. \"Surgical margins were healthy\" is a positive prognostic indicator, suggesting complete local excision.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        },
+        {
+            "step": "**Assessing Thoracic-Abdominal-Pelvic CT Results:** The CT showing \"no evidence of metastasis or secondary locations\" indicates that at the time of diagnosis, there is no detectable distant spread of the lesion, which is a favorable prognostic sign.",
+            "efficiency": "Reasoning",
+            "factulity": true,
+            "judgment_path": [
+                {
+                    "judgment": "Correct",
+                    "keywords_to_search": "None"
+                }
+            ]
+        }
+    ],
+    "gt_reasoning_eval": [
+        {
+            "step": "<Step 1> Initial list of potential diagnoses includes Inflammatory Myofibroblastic Tumor (IMT), Malignant Fibrous Histiocytoma (MFH), Fibrosarcomas, and Malignant Peripheral Nerve Sheath Tumor (MPNST).",
+            "hit": false
+        },
+        {
+            "step": "<Step 2> Reject MFH, Fibrosarcomas, and MPNST due to their more aggressive local and systemic progression, and lack of inflammatory cell infiltrate characteristic of IMT.",
+            "hit": false
+        },
+        {
+            "step": "<Step 3> Confirm IMT diagnosis based on histological examination showing spindle-shaped myofibroblastic cells with inflammatory infiltrates including lymphocytes, plasma cells, and eosinophils.",
+            "hit": true
+        },
+        {
+            "step": "<Step 4> Final diagnosis is Inflammatory Myofibroblastic Tumor (IMT) of the left thigh.",
+            "hit": false
+        },
+        {
+            "step": "<Step 5> Diagnosis confirmed via histological assessment of the tumor after complete surgical excision.",
+            "hit": false
+        },
+        {
+            "step": "<Step 6> Correlated findings from imaging and clinical presentation support the IMT diagnosis.",
+            "hit": false
+        },
+        {
+            "step": "<Step 7> Case affects a child/young adult, consistent with IMT typical patient age group.",
+            "hit": true
+        },
+        {
+            "step": "<Step 8> No evidence of systemic spread or aggressive behavior rules out MFH or sarcomas.",
+            "hit": false
+        },
+        {
+            "step": "<Step 9> Case exhibited no signs of recurrence or metastasis at 6-month follow-up.",
+            "hit": false
+        }
+    ],
+    "efficiency": 1.0,
+    "factulity": 1.0,
+    "recall": 0.2222222222222222
+}
