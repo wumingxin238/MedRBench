@@ -28,11 +28,11 @@ conda install -c conda-forge sentencepiece -y
 
 echo "==> transformers + deps (4.51.x — Qwen3 needs >=4.51; avoid 5.x on torch 2.1)"
 pip install \
-  "numpy<2" \
+  "numpy==1.26.4" \
   "transformers>=4.51.0,<5.0" \
   "tokenizers>=0.21,<0.22" \
   accelerate \
-  bitsandbytes \
+  "bitsandbytes==0.42.0" \
   tqdm \
   "huggingface_hub>=0.26,<1.0" \
   --only-binary :all:

@@ -52,6 +52,9 @@ case "$PHASE" in
   qwen-diagnosis-14b)
     python scripts/stage1/run_qwen_inference.py --task diagnosis --model qwen3-14b
     ;;
+  qwen-diagnosis-14b-gpu1)
+    CUDA_VISIBLE_DEVICES=1 bash scripts/stage1/run_qwen14b_diagnosis_gpu1.sh
+    ;;
   qwen-treatment-8b)
     python scripts/stage1/run_qwen_inference.py --task treatment --model qwen3-8b
     ;;
@@ -76,6 +79,7 @@ Phases:
   prepare-treatment     Same for treatment (needs ORACLE_TREATMENT=path)
   qwen-diagnosis-8b     Local Qwen3-8B on demo diagnosis 100
   qwen-diagnosis-14b    Local Qwen3-14B on demo diagnosis 100
+  qwen-diagnosis-14b-gpu1  Same, pinned to GPU 1 (qwen3_infer env)
   qwen-treatment-8b     Local Qwen3-8B on demo treatment 100
   qwen-treatment-14b    Local Qwen3-14B on demo treatment 100
   gemma-diagnosis-2b    Gemma 2B eval: 4 models x 2 groups x 100 cases
