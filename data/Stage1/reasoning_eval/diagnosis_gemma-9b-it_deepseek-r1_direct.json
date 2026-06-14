@@ -1,0 +1,2678 @@
+{
+  "meta": {
+    "updated_at": "2026-06-14T02:10:59.070795+00:00",
+    "task": "diagnosis",
+    "subject_model": "deepseek-r1",
+    "group": "direct",
+    "judge": "gemma-local",
+    "judge_model": "gemma-9b-it",
+    "gemma_size": "9b",
+    "metrics": [
+      "efficiency",
+      "factulity",
+      "recall"
+    ],
+    "web_search": false,
+    "completed_ok": 28,
+    "total_cases": 100,
+    "mean_efficiency": 0.9839285714285715,
+    "mean_factulity": 0.9375,
+    "mean_recall": 0.9181547619047619
+  },
+  "cases": {
+    "PMC11625232": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 5,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient presents with severe left eye pain, eyelid edema, erythema, and localized warmth, all indicative of orbital inflammation. Systemic signs (fever, elevated CRP, leukocytosis, neutrophilia) strongly suggest a severe bacterial infection.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The recent severe nasal congestion and headaches, combined with imaging-confirmed left maxillary sinusitis, imply a sinus origin. Sinusitis is a common precursor to orbital complications due to anatomical proximity.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "NCCT and NCMRI reveal thickened orbital/periorbital tissue, air pockets, and frontal epidural empyema. Air along the orbital roof suggests gas-forming infection or abscess formation. The epidural empyema indicates intracranial extension of the infection.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The progression from sinusitis to orbital cellulitis and subsequent intracranial involvement (epidural empyema) aligns with the pathophysiology of untreated or aggressive bacterial sinusitis, often involving pathogens like *Staphylococcus aureus* or *Streptococcus* species.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The constellation of orbital inflammation, sinusitis, and intracranial empyema confirms a contiguous spread of infection, ruling out isolated preseptal cellulitis or non-infectious causes.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. The patient presented with severe eye pain, erythema, eyelid swelling, and fever, strongly suggesting orbital cellulitis. Imaging confirmed periorbital inflammation and air pockets, supporting this diagnosis.",
+          "hit": true
+        },
+        {
+          "step": "2. Imaging revealed maxillary sinusitis with inflammatory obliteration, indicating the primary source of infection.",
+          "hit": true
+        },
+        {
+          "step": "3.  NCCT and NCMRI identified a small epidural empyema, a recognized complication of sinusitis.",
+          "hit": true
+        },
+        {
+          "step": "4. While cavernous sinus thrombosis and meningitis were considered as possibilities, they were excluded due to the absence of altered consciousness or neurological deficits.",
+          "hit": true
+        },
+        {
+          "step": "5. The combination of left eye symptoms and imaging findings pointed towards orbital cellulitis and sinusitis as primary drivers.",
+          "hit": true
+        },
+        {
+          "step": "6.  Epidural empyema was identified on imaging and matched the clinical scenario.",
+          "hit": true
+        },
+        {
+          "step": "7. No evidence supported a thrombotic or meningeal process.",
+          "hit": true
+        },
+        {
+          "step": "8. Laboratory markers supported the diagnosis.",
+          "hit": true
+        },
+        {
+          "step": "9.  Clinical findings, laboratory markers, and imaging studies supported the diagnosis.",
+          "hit": true
+        },
+        {
+          "step": "10. The patient was diagnosed with orbital cellulitis secondary to acute sinusitis, complicated by a small frontal epidural empyema.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11544788": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 5,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient’s neonate presented with severe anemia (hemoglobin 4.0 g/dL) and hypovolemic shock, necessitating urgent transfusion. This indicates significant blood loss, likely due to fetomaternal hemorrhage (FMH), as other causes (trauma, abruption, RBC disorders) were excluded.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The placental histopathology identified a ~3 mm intraplacental choriocarcinoma (IC) lesion. IC is a rare, malignant gestational trophoblastic tumor that can cause placental vascular disruption, leading to chronic or acute FMH.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The absence of maternal or fetal metastases and normal post-delivery β-hCG levels suggest the choriocarcinoma was confined to the placenta, explaining the lack of systemic hormonal secretion or metastatic spread.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The sinusoidal CTG pattern is classically associated with severe fetal anemia, aligning with the hemorrhage caused by the IC lesion. Green-tinged amniotic fluid and placental hemorrhage further support acute/chronic bleeding events.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "No other FMH etiology was identified, solidifying IC as the definitive cause of the neonate’s anemia and subsequent complications.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "Initial differential diagnosis focused on causes of fetal anemia associated with hypovolemic shock and poor neonatal outcomes.",
+          "hit": true
+        },
+        {
+          "step": "Fetomaternal Hemorrhage (FMH) was supported by neonatal severe anemia and confirmed by placental findings consistent with massive FMH, with no maternal trauma or other abnormalities detected.",
+          "hit": true
+        },
+        {
+          "step": "Placental pathologies, such as placenta previa or accreta, were considered but excluded based on imaging and clinical findings of a morphologically normal placenta aside from fibroids.",
+          "hit": true
+        },
+        {
+          "step": "Infections and genetic disorders were excluded by maternal and neonatal testing.",
+          "hit": true
+        },
+        {
+          "step": "Histological examination of the placenta confirmed intraplacental choriocarcinoma (IC), explaining the FMH as it is known to disrupt the placental barrier.",
+          "hit": true
+        },
+        {
+          "step": "The final diagnosis was intraplacental choriocarcinoma (IC) as the cause of massive fetomaternal hemorrhage (FMH) and resulting neonatal anemia and hypovolemic shock.",
+          "hit": true
+        },
+        {
+          "step": "No evidence of maternal or fetal metastases was found on imaging and biochemical follow-up.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11418098": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 4,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 0.5,
+      "reasoning_eval": [
+        {
+          "step": "The patient is from an endemic area and has occupational exposure to Burkholderia spp., a key risk factor for melioidosis or Burkholderia-related infections. Persistent fever, pleuritic chest pain, and tamponade signs (hypotension, JVP engorgement, distant heart sounds) suggest pericardial involvement with effusion.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Imaging (chest X-ray, CTA, echocardiography) confirms pericardial effusion, thickened pericardium, and necrotic mediastinal lymph nodes, consistent with infective pericarditis. Cardiac tamponade is evidenced by RA/RV collapse, IVC plethora, and pulsus paradoxus.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Surgical findings of necrotic lymph nodes with abscess pockets and microbiological confirmation of Burkholderia thailandensis in cultures directly link the etiology to this pathogen. B. thailandensis, though less virulent than B. pseudomallei, can mimic melioidosis in endemic regions.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Clinical resolution with pericardiectomy and targeted antibiotics (ceftazidime followed by TMP-SMX) aligns with Burkholderia infection management, reinforcing the diagnosis.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. Differential diagnoses included aortic disease, tuberculosis, malignancy, fungal infections, or autoimmune conditions due to mediastinal lymphadenopathy and pericarditis.",
+          "hit": true
+        },
+        {
+          "step": "2. Aortic disease was excluded because CTA findings were inconsistent with aortic abnormalities.",
+          "hit": false
+        },
+        {
+          "step": "3. Tuberculosis was excluded due to the absence of exposure history, constitutional symptoms, or typical imaging findings.",
+          "hit": false
+        },
+        {
+          "step": "4. Malignancy was excluded due to the absence of primary cancer signs or imaging features like irregular enhancing nodal masses.",
+          "hit": false
+        },
+        {
+          "step": "5. Autoimmune conditions were excluded due to the absence of systemic symptoms or clinical history associated with sarcoidosis or autoimmune diseases and unspecific imaging findings.",
+          "hit": false
+        },
+        {
+          "step": "6. Melioidosis was considered due to the patient's exposure as a farmer and the presentation of mediastinal necrotic lymphadenopathy with pericarditis and cardiac tamponade resembling rare melioidosis complications.",
+          "hit": true
+        },
+        {
+          "step": "7. Culture of lymph nodes/pericardial fluid identified Burkholderia thailandensis, confirming the diagnosis of melioidosis.",
+          "hit": true
+        },
+        {
+          "step": "8. Burkholderia thailandensis is a known but rare cause of melioidosis.",
+          "hit": true
+        },
+        {
+          "step": "9.",
+          "hit": false
+        },
+        {
+          "step": "Final diagnosis: Acute melioidosis caused by *Burkholderia thailandensis*, presenting as necrotic mediastinal lymphadenopathy, pericarditis, and cardiac tamponade.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11551029": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 4,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient is a previously healthy 8-year-old boy presenting with fever, vomiting, and abdominal pain progressing to cardiogenic shock (hypotension, oliguria, confusion), rales, gallop rhythm, and echocardiographic evidence of severely reduced ejection fraction. This constellation of symptoms strongly suggests acute heart failure with cardiogenic shock.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Elevated cardiac biomarkers (troponin I, CK, CK-MB) and BNP/NT-proBNP confirm myocardial injury and heart failure. ECG abnormalities (wide QRS, ST depression, PVCs, complete RBBB) further indicate myocardial dysfunction and arrhythmia risk, consistent with acute myocarditis.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Echocardiography showing reduced ejection fraction without ventricular remodeling supports an acute process rather than chronic cardiomyopathy. Viral detection (HRV-A66) via mNGS/PCR and absence of bacterial infection (negative blood cultures) points to viral myocarditis as the underlying etiology. Rhinovirus (HRV), though typically associated with respiratory infections, has been implicated in myocarditis, particularly in children.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Chest X-ray findings (pulmonary edema, cardiomegaly, pleural effusion) and physical exam signs (rales, muffled heart sounds) correlate with acute decompensated heart failure secondary to myocardial inflammation and dysfunction.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. Initial list of potential diagnoses includes myocarditis (including viral myocarditis) due to elevated cardiac biomarkers, reduced ejection fraction, arrhythmias, and prior viral illness; bacterial myocarditis/endocarditis was considered but ruled out; septic shock with secondary cardiac involvement was excluded as no bacterial source or sepsis was evident; multisystem inflammatory syndrome in children (MIS-C) was unlikely due to the absence of COVID-19 exposure and typical features; and non-infectious causes were ruled out due to no history of relevant exposures or evidence of autoimmune disorder.",
+          "hit": true
+        },
+        {
+          "step": "2. Viral etiology was prioritized due to the patient's prodromal viral illness and myocarditis signs, and mNGS confirmed HRV-A66, an uncommon pathogen associated with myocarditis.",
+          "hit": true
+        },
+        {
+          "step": "3. Other viral pathogens (e.g., enteroviruses, adenovirus) were ruled out via diagnostic testing.",
+          "hit": true
+        },
+        {
+          "step": "4. HRV-A66 was identified through genomic analysis, with phylogenetic data and viral genome sequencing confirming its presence in respiratory samples.",
+          "hit": true
+        },
+        {
+          "step": "5. No other significant pathogens were identified.",
+          "hit": true
+        },
+        {
+          "step": "6. The patient presented with rapid onset cardiogenic shock.",
+          "hit": true
+        },
+        {
+          "step": "7. Diagnostic findings included elevated cardiac biomarkers and reduced ejection fraction.",
+          "hit": true
+        },
+        {
+          "step": "8. HRV-A66 was detected in bronchoalveolar lavage fluid via mNGS.",
+          "hit": true
+        },
+        {
+          "step": "9. Other potential infectious or non-infectious causes of myocarditis were excluded.",
+          "hit": true
+        },
+        {
+          "step": "10. Final diagnosis: Fulminant myocarditis associated with human rhinovirus A66 infection.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11447345": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 4,
+      "efficiency": 1.0,
+      "factulity": 0.75,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient’s progressive headache, macrocephaly, open anterior fontanelle, and sunset eyes strongly suggest chronic increased intracranial pressure, likely due to hydrocephalus. The noncontrast CT confirms hydrocephalus caused by a tumor obstructing the cerebral aqueduct.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The left hemiparesis and cranial nerve III, IV, VI paresis localize the lesion to the brainstem or adjacent regions. The tumor’s location in the posterior third ventricle and left lateral ventricle correlates with these deficits.",
+          "efficiency": "Reasoning",
+          "factulity": false,
+          "judgment_path": [
+            {
+              "judgment": "Wrong",
+              "keywords_to_search": "Choroid plexus carcinoma cranial nerve palsy"
+            }
+          ]
+        },
+        {
+          "step": "Imaging findings (heterogeneous enhancement, restricted diffusion with low ADC, microhemorrhages) and histopathology (necrosis, high mitotic activity, pleomorphism) are hallmarks of a high-grade neoplasm. Choroid plexus carcinoma (WHO grade III) is confirmed histologically.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Persistent ventriculomegaly and subdural hygroma post-VPS are complications of shunting but do not alter the primary diagnosis. The tumor’s aggressive behavior and histopathological features solidify the diagnosis.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. Based on imaging and clinical presentation (progressive hydrocephalus, macrocephaly, sunset eyes, left hemiparesis), the differential diagnoses included choroid plexus tumors (CPTs) due to ventricular location and imaging features, and other possible brain tumors such as pineal region tumors, astrocytoma, ependymoma, primitive neuroectodermal tumor, atypical teratoid/rhabdoid tumor, and metastatic papillary tumors.",
+          "hit": true
+        },
+        {
+          "step": "2. Imaging features (lobulated mass causing obstructive hydrocephalus without parenchymal invasion) and the ventricular location were highly suggestive of CPTs.",
+          "hit": true
+        },
+        {
+          "step": "3. Histopathological findings confirmed choroid plexus carcinoma (WHO grade III).",
+          "hit": true
+        },
+        {
+          "step": "4. Pineal region tumors and other malignancies were excluded based on imaging and histopathological findings, including the absence of invasion typical of more infiltrative neoplasms.",
+          "hit": true
+        },
+        {
+          "step": "5. Histopathological examination, restricted ADC values, and MR imaging patterns distinguished CPC from less aggressive CPT subtypes (choroid plexus papilloma or atypical papilloma) and from other tumor types.",
+          "hit": true
+        },
+        {
+          "step": "6.  The final diagnosis is obstructive hydrocephalus caused by a choroid plexus carcinoma (WHO grade III) originating in the third ventricle.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11480700": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 4,
+      "efficiency": 1.0,
+      "factulity": 0.5,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient presents with a triad of severe fetal anomalies: ectopia cordis, gastroschisis, and cystic hygroma. Ectopia cordis is pathognomonic for Pentalogy of Cantrell, which classically includes midline defects like omphalocele. However, gastroschisis (a lateral abdominal wall defect) differs from omphalocele, complicating the diagnosis.",
+          "efficiency": "Reasoning",
+          "factulity": false,
+          "judgment_path": [
+            {
+              "judgment": "Wrong",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Normal NIPT reduces likelihood of common trisomies (13, 18, 21) but does not exclude rare genetic syndromes, chromosomal deletions/duplications, or structural malformation syndromes (e.g., Pentalogy of Cantrell variants).",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Cystic hygroma is often linked to Turner syndrome (45,X) or Noonan syndrome, but NIPT’s focus on common trisomies may miss these. However, ectopia cordis is not typical in these syndromes, shifting focus to body wall defect syndromes.",
+          "efficiency": "Reasoning",
+          "factulity": false,
+          "judgment_path": [
+            {
+              "judgment": "Wrong",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Despite gastroschisis not being a classic feature, the coexistence of ectopia cordis and abdominal wall defects strongly suggests a severe developmental field defect, most consistent with **Pentalogy of Cantrell**, even with atypical gastroschisis. The cystic hygroma may represent an additional lymphatic anomaly or an overlapping syndrome.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "The presence of multiple congenital anomalies (ectopia cordis, gastroschisis, and cystic hygroma) suggests Pentalogy of Cantrell.",
+          "hit": true
+        },
+        {
+          "step": "Isolated Ectopia Cordis is excluded due to the co-occurrence of gastroschisis and cystic hygroma.",
+          "hit": true
+        },
+        {
+          "step": "Cystic Hygroma Associated with Aneuploidy is excluded as non-invasive prenatal testing showed no chromosomal abnormalities.",
+          "hit": true
+        },
+        {
+          "step": "Gastroschisis as an Isolated Defect is excluded because it is present alongside ectopia cordis and cystic hygroma.",
+          "hit": true
+        },
+        {
+          "step": "Other Syndromic Abnormalities (e.g., Turner Syndrome, Trisomy 21, Trisomy 18) are excluded due to the absence of genetic abnormalities from prenatal screening and atypical presentation.",
+          "hit": true
+        },
+        {
+          "step": "Ultrasound findings and the combination of these signs confirm a diagnosis involving multiple congenital defects.",
+          "hit": true
+        },
+        {
+          "step": "Therefore, the diagnosis is Pentalogy of Cantrell.",
+          "hit": true
+        },
+        {
+          "step": "The specific features present are ectopia cordis, gastroschisis, and cystic hygroma.",
+          "hit": true
+        },
+        {
+          "step": "This case represents Class 3 incomplete expression of Pentalogy of Cantrell.",
+          "hit": true
+        },
+        {
+          "step": "Final diagnosis: Pentalogy of Cantrell with ectopia cordis, gastroschisis, and cystic hygroma (Class 3 incomplete expression).",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11643412": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 5,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 0.8,
+      "reasoning_eval": [
+        {
+          "step": "The patient’s progressive dyspnea and dry cough, alongside reduced air entry on the left chest, suggest pleural effusion. Imaging confirms left-sided pleural effusion and pleural soft tissue lesions, indicating potential malignancy or infection.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The exudative nature of the pleural effusion (per Light’s criteria) raises suspicion for malignancy, infection, or autoimmune disease. Positive cytology and immunohistochemistry for RCC markers (Vimentin, PAX-8, CAIX, CK-7) strongly implicate metastatic renal cell carcinoma (RCC).",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The abdominal imaging identifies a left renal mass, confirmed as clear-cell RCC via biopsy. This primary tumor aligns with the pleural fluid findings, indicating hematogenous or lymphatic spread.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "PET-CT reveals metabolic activity in the left kidney, retroperitoneal lymph nodes, and left pleural deposits, confirming metastatic disease. The high-risk LENT score further supports aggressive malignancy.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Absence of hematuria or flank pain does not exclude RCC, as advanced/metastatic cases often present with systemic or non-localizing symptoms (e.g., dyspnea from pleural metastases). Mild anemia likely reflects chronic disease or paraneoplastic effects.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "Step 1 Initial differential diagnosis includes malignant pleural effusion (MPE) supported by unilateral pleural effusion, cytology, and immunohistochemistry results.",
+          "hit": true
+        },
+        {
+          "step": "Step 2 Common causes of MPE, such as lung cancer or lymphoma, were excluded by imaging and immunohistochemistry markers negative for lung cancer or mesothelial origin.",
+          "hit": true
+        },
+        {
+          "step": "Step 3 Renal cell carcinoma (RCC) was considered due to immunohistochemistry markers (PAX-8, CAIX) and a subsequent identification of a renal mass on imaging.",
+          "hit": true
+        },
+        {
+          "step": "Step 4 The absence of typical RCC symptoms (flank pain, hematuria, palpable mass) complicated identification, but imaging confirmed a renal mass with features consistent with malignancy.",
+          "hit": true
+        },
+        {
+          "step": "Step 5 Pleural metastasis without lung parenchymal involvement was identified, a rare presentation of RCC but consistent with advanced disease.",
+          "hit": true
+        },
+        {
+          "step": "Step 6 Biopsy of the renal mass confirmed RCC, clear-cell type, as the primary malignancy.",
+          "hit": true
+        },
+        {
+          "step": "Step 7 Other malignancies causing pleural metastases (e.g., breast cancer, gastrointestinal cancers) were excluded based on the absence of primary tumors on imaging and markers specific to RCC.",
+          "hit": true
+        },
+        {
+          "step": "Step 8",
+          "hit": false
+        },
+        {
+          "step": "Step 9",
+          "hit": false
+        },
+        {
+          "step": "Step 10 Final diagnosis: Stage IV renal cell carcinoma (clear cell type) presenting with isolated malignant pleural effusion and pleural metastasis without lung parenchymal involvement.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11470198": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 4,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient presents with chronic right loin pain and recent mild fever, with physical examination revealing right renal angle tenderness. The absence of urinary symptoms (e.g., dysuria, hematuria) and lack of urolithiasis history reduces suspicion for typical nephrolithiasis or acute pyelonephritis. However, the elevated ESR and positive urine culture for Enterococcus suggest an inflammatory or infectious process.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Imaging findings (CT/MRI) describe a large heterogeneous renal lesion with hemorrhagic components and septations, favoring a complex cyst. While XGPN was not initially pathognomonic on MRI, the absence of features typical for malignancy (e.g., solid enhancing masses) and the CT HU value (+20) lower than typical solid tumors further support a non-neoplastic inflammatory etiology.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Histopathology from CT-guided FNAB is critical: lipid-laden foamy macrophages with acute/chronic inflammation are hallmark features of XGPN. The absence of atypical cells or malignant features rules out renal cell carcinoma. Negative TB-PCR and tissue culture exclude tuberculosis and active bacterial growth, aligning with XGPN’s chronic, granulomatous nature often associated with prior subclinical infections.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Despite the lack of classic XGPN risk factors (e.g., obstruction, stones), the combination of chronic symptoms, inflammatory markers, imaging features, and definitive histopathology confirms the diagnosis. The positive urine culture for Enterococcus likely reflects secondary colonization rather than primary infection.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. Initial Consideration: Complex renal cyst based on imaging findings, with differential diagnoses including renal cell carcinoma, tuberculosis, and infectious etiology like XGPN.",
+          "hit": true
+        },
+        {
+          "step": "2. Exclusion of Malignancy: FNAB showed no atypical cells, making renal cell carcinoma less likely.",
+          "hit": true
+        },
+        {
+          "step": "3. Exclusion of Tuberculosis: Urine negative for acid-fast bacillus and TB-PCR test negative, ruling out renal tuberculosis.",
+          "hit": true
+        },
+        {
+          "step": "4. Infectious/Inflammatory Cause (XGPN): Clinical features of right loin pain, mildly elevated ESR, and positive urine culture supported infection/inflammation.",
+          "hit": true
+        },
+        {
+          "step": "5.  Preoperative imaging was atypical for XGPN, requiring surgical biopsy for confirmation.",
+          "hit": true
+        },
+        {
+          "step": "6. Definitive Diagnosis: Histopathology confirmed XGPN based on foamy macrophages and acute/chronic inflammatory cells consistent with the disease.",
+          "hit": true
+        },
+        {
+          "step": "7. Absence of classical signs (e.g., \"bear's paw\" pattern on imaging) highlights the diagnostic complexity of this case.",
+          "hit": true
+        },
+        {
+          "step": "Final diagnosis: Focal xanthogranulomatous pyelonephritis (XGPN) presenting as a complex renal cyst, confirmed by histopathology.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11573436": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 3,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 0.9,
+      "reasoning_eval": [
+        {
+          "step": "The patient’s right lower quadrant abdominal pain and imaging findings of fluid collections near the appendix initially suggest possible appendicitis or abscess. However, the absence of systemic signs (fever, leukocytosis) and lack of active inflammation on CT reduce the likelihood of acute infectious processes.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The presence of fluid collections with Hounsfield units (~21) consistent with mucin, combined with pathology confirming low-grade appendiceal mucinous neoplasm (LAMN) and perforation, shifts the focus toward a neoplastic etiology. Acellular mucin indicates localized disease without peritoneal dissemination (pseudomyxoma peritonei), further supported by negative lymph nodes and margins.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The absence of tumor markers (CEA) elevation and unremarkable surveillance imaging rules out metastatic disease or residual malignancy, confirming the localized nature of the LAMN. The clinical presentation aligns with LAMN-related perforation causing mucin leakage and localized symptoms rather than acute inflammation.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. Right lower quadrant pain and fluid collections on CT scan without inflammation raised suspicion of acute appendicitis, perforation with abscess, and malignancy.",
+          "hit": true
+        },
+        {
+          "step": "2. Antibiotic therapy was administered for suspected perforated appendicitis with abscess, avoiding interventional drainage or biopsy due to concerns about malignancy and disease dissemination.",
+          "hit": false
+        },
+        {
+          "step": "3. Persistent symptoms and diagnostic uncertainty led to exploratory laparotomy, where a perforated mucinous appendiceal mass and mucinous collection in the pelvis were found, further raising suspicion of malignancy.",
+          "hit": true
+        },
+        {
+          "step": "4. Pathology confirmed low-grade appendiceal mucinous neoplasm (LAMN) with perforation and acellular mucin.",
+          "hit": true
+        },
+        {
+          "step": "5. Appendicitis was excluded due to the lack of acute inflammatory changes.",
+          "hit": true
+        },
+        {
+          "step": "6. Appendiceal adenocarcinoma was ruled out based on pathology findings.",
+          "hit": true
+        },
+        {
+          "step": "7. Pseudomyxoma peritonei was ruled out as there was no evidence of systemic or peritoneal spread.",
+          "hit": true
+        },
+        {
+          "step": "8. Based on the pathology findings (negative margins, no tumor in 42 lymph nodes), a diagnosis of LAMN was finalized.",
+          "hit": true
+        },
+        {
+          "step": "9. The final diagnosis was low-grade appendiceal mucinous neoplasm (LAMN) with perforation and acellular mucin, identified intraoperatively and confirmed through pathology.",
+          "hit": true
+        },
+        {
+          "step": "10. Follow-up management included regular surveillance imaging and colonoscopy to monitor for recurrence.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11648763": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 5,
+      "efficiency": 1.0,
+      "factulity": 0.8,
+      "recall": 0.9,
+      "reasoning_eval": [
+        {
+          "step": "The patient presents with acute-onset double vision and right-sided weakness/ataxia. The neurological exam reveals bilateral horizontal gaze abnormalities (inability to adduct with abducting nystagmus), consistent with bilateral internuclear ophthalmoplegia (INO). This localizes to the medial longitudinal fasciculus (MLF) in the midbrain.",
+          "efficiency": "Reasoning",
+          "factulity": false,
+          "judgment_path": [
+            {
+              "judgment": "Wrong",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Right-sided hemiparesis, facial droop, and hyperreflexia indicate a left-sided upper motor neuron lesion affecting the corticospinal tract, localized to the left midbrain’s cerebral peduncle. Dysmetria and ataxia suggest cerebellar pathway involvement, likely from disruption of the red nucleus or superior cerebellar peduncle in the midbrain.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "MRI confirms an acute infarction in the left midbrain, aligning with the clinical deficits. Chronic vascular changes and hypoplastic A1 segment suggest underlying small vessel disease and vascular anomalies, but the acute stroke is likely embolic given the presence of atrial fibrillation.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Atrial fibrillation (despite normal echocardiography) is a key risk factor for cardioembolic stroke. The midbrain infarction in the paramedian territory (supplied by basilar artery branches) supports an embolic etiology, even though posterior circulation emboli are less common than anterior.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The constellation of bilateral INO, contralateral hemiparesis, and cerebellar signs localizes to a left paramedian midbrain infarct. This pattern aligns with a “top of the basilar” syndrome variant affecting the midbrain structures.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. Initial differential diagnoses include ischemic stroke, multiple sclerosis, brainstem tumor/infections, and metabolic causes like Wernicke's encephalopathy.",
+          "hit": true
+        },
+        {
+          "step": "2. Ischemic stroke is considered the most likely diagnosis due to the patient's symptoms of sudden onset right-sided hemiparesis, double vision, and MRI findings.",
+          "hit": true
+        },
+        {
+          "step": "3. Multiple sclerosis is less likely in this age group but shares ophthalmoplegia features.",
+          "hit": true
+        },
+        {
+          "step": "4. Brainstem tumors or infections are unlikely due to the acute onset without systemic infection markers or mass effects on imaging.",
+          "hit": true
+        },
+        {
+          "step": "5. Metabolic causes like Wernicke's encephalopathy are excluded as there is no history of severe malnutrition or thiamine deficiency.",
+          "hit": false
+        },
+        {
+          "step": "6. Imaging findings reveal acute infarction in the left midbrain involving the medial longitudinal fasciculus (MLF), which is the classic site for WEBINO.",
+          "hit": true
+        },
+        {
+          "step": "7. The patient presents with bilateral adduction deficit, abducting nystagmus, exotropia, mild vertical gaze issues, and diplopia, which are hallmark findings of WEBINO.",
+          "hit": true
+        },
+        {
+          "step": "8. Associated risk factors such as hypertension, hyperlipidemia, smoking, atrial fibrillation, and a history of familial stroke support a cerebrovascular event.",
+          "hit": true
+        },
+        {
+          "step": "9. Alternative diagnoses are excluded as there is no mass lesion or signs of active inflammation.",
+          "hit": true
+        },
+        {
+          "step": "10. Final diagnosis: Wall Eye Bilateral Internuclear Ophthalmoplegia (WEBINO), secondary to an ischemic infarction of the left midbrain involving the medial longitudinal fasciculus (MLF).",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11509757": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 5,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient is immunocompromised due to long-term ocrelizumab use, a B-cell-depleting therapy, which increases susceptibility to infections and reduces antibody-mediated immunity. This explains lymphopenia, hypogammaglobulinemia (reduced IgM), and impaired viral clearance.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Persistent respiratory symptoms (fever, cough, dyspnea) and imaging findings (crazy-paving pattern on CT) strongly suggest viral or atypical pneumonia. Initial negative nasopharyngeal SARS-CoV-2 swabs may reflect reduced upper respiratory viral shedding due to immunosuppression, a known limitation in B-cell-depleted individuals.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Bronchoalveolar lavage (BAL) confirmed SARS-CoV-2 RNA, indicating lower respiratory tract involvement. Co-detection of H. influenzae supports bacterial co-infection, likely exacerbated by impaired mucosal immunity from ocrelizumab.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Elevated CRP/ESR and neutrophilia align with bacterial infection, while leukopenia and lymphopenia reflect ocrelizumab’s immunosuppressive effects. The delayed symptom onset (7 weeks post-infusion) correlates with prolonged B-cell depletion.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Despite prior mRNA vaccinations, ocrelizumab likely blunted adaptive immune responses to SARS-CoV-2, increasing the risk of severe/prolonged COVID-19. The initial misdiagnosis highlights challenges in detecting SARS-CoV-2 in immunocompromised hosts via nasopharyngeal testing alone.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. Initial presentation of fever, cough, and respiratory symptoms suggested pneumonia, with initial tests pointing towards bacterial or viral etiology, leading to a misdiagnosis of H. Influenzae pneumonia.",
+          "hit": true
+        },
+        {
+          "step": "2. Persistent symptoms and worsening despite antibiotics prompted further investigation, and a chest CT finding of \"crazy-paving\" suggested viral pneumonia, particularly COVID-19.",
+          "hit": true
+        },
+        {
+          "step": "3. A BAL test, more sensitive than nasopharyngeal swabs, confirmed the presence of SARS-CoV-2 RNA, establishing a diagnosis of severe COVID-19 pneumonia.",
+          "hit": true
+        },
+        {
+          "step": "4. Antibiotics were ineffective in resolving symptoms, and the \"crazy-paving\" pattern on the chest CT was inconsistent with isolated bacterial infection, leading to the exclusion of bacterial pneumonia.",
+          "hit": true
+        },
+        {
+          "step": "5. The high clinical suspicion for COVID-19, especially considering the patient's prior ocrelizumab treatment, and the positive BAL results despite initially negative nasopharyngeal assays, supported the inclusion of COVID-19 pneumonia as the diagnosis.",
+          "hit": true
+        },
+        {
+          "step": "6. Other pneumonias, such as fungal or mycobacterial, were excluded due to a lack of supporting clinical or radiological findings.",
+          "hit": true
+        },
+        {
+          "step": "7. Ocrelizumab, an anti-CD20 monoclonal antibody, likely increased susceptibility to COVID-19 by impairing the humoral response, complicating both diagnosis and management.",
+          "hit": true
+        },
+        {
+          "step": "8. The final diagnosis was \"Severe COVID-19 pneumonia with superimposed H. Influenzae infection.\"",
+          "hit": true
+        },
+        {
+          "step": "9. This diagnosis was based on the confirmation of SARS-CoV-2 RNA in the BAL findings, along with evidence of bacterial involvement, in the context of immunosuppression caused by the anti-CD20 therapy.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11624525": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 5,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 0.8,
+      "reasoning_eval": [
+        {
+          "step": "The patient is a 15-year-old male presenting with chest pain and elevated myocardial enzymes (CK-MB, cTnI) and ST-segment elevation on ECG, initially suggestive of myocardial infarction. However, normal coronary arteries on CTA and MRI findings of myocardial edema/congestion argue against ischemic injury, favoring myocarditis.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Recent upper respiratory infection (URI) two weeks prior strongly supports a post-viral etiology. Myocarditis is commonly triggered by viral infections, leading to myocardial inflammation and enzyme leakage.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Concurrent thyroid function abnormalities (elevated T3/T4, suppressed TSH) indicate thyrotoxicosis. The absence of thyroid ultrasound abnormalities and normalization of thyroid function without anti-thyroid therapy suggest transient thyroiditis, likely post-viral (e.g., subacute thyroiditis).",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Elevated hs-CRP and rapid resolution of cardiac/thyroid dysfunction align with systemic inflammatory response post-infection. Myocarditis and thyroiditis may coexist in systemic viral or autoimmune processes.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Cardiac MRI findings (edema, focal enhancement) and transient left ventricular dysfunction confirm acute myocarditis. The clinical course, including rapid improvement with supportive care and normalization at follow-up, further supports this diagnosis.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. The patient presented with ST-segment elevation on ECG and elevated troponin I levels, initially suggesting acute inferior-posterior myocardial infarction.",
+          "hit": true
+        },
+        {
+          "step": "2. However, coronary CTA revealed no stenosis or coronary abnormalities, leading to the exclusion of myocardial infarction and a revised diagnosis of acute fulminant myocarditis.",
+          "hit": true
+        },
+        {
+          "step": "3. Cardiac MRI confirmed myocardial edema and injury in the left ventricle, supporting the diagnosis of acute fulminant myocarditis.",
+          "hit": true
+        },
+        {
+          "step": "4. Elevated myocardial biomarkers and the patient's recent history of viral illness further supported the diagnosis of acute fulminant myocarditis.",
+          "hit": true
+        },
+        {
+          "step": "5. The patient also exhibited thyrotoxicosis (elevated T3 and T4, suppressed TSH levels) and recent exposure to iodinated contrast media, raising the possibility of iodine-induced hyperthyroidism.",
+          "hit": true
+        },
+        {
+          "step": "6. The patient's symptoms were consistent with the Jod–Basedow phenomenon, suggesting that the contrast-mediated thyroid hormone dysregulation triggered hyperthyroidism.",
+          "hit": false
+        },
+        {
+          "step": "7. Laboratory findings confirmed hyperthyroidism without symptoms of thyroid toxicity, supporting the inclusion of iodine-induced hyperthyroidism in the diagnosis.",
+          "hit": false
+        },
+        {
+          "step": "8. The absence of goiter, normal thyroid ultrasound, and lack of clinical findings suggestive of autoimmune thyroid disorders or thyroid storm led to the exclusion of autoimmune thyroid disease or alternate thyrotoxicosis.",
+          "hit": true
+        },
+        {
+          "step": "9. While eosinophilic myocarditis, giant cell myocarditis, and other histotypes were not definitively ruled out, they were considered unlikely due to the lack of myocardial biopsy and specific corroborative findings.",
+          "hit": true
+        },
+        {
+          "step": "10. Based on the above findings, the patient was diagnosed with acute fulminant myocarditis accompanied by iodine-induced hyperthyroidism.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11470589": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 5,
+      "efficiency": 1.0,
+      "factulity": 0.4,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient has persistent lower urinary tract symptoms (LUTS) unresponsive to tamsulosin, despite a prior BPH diagnosis. This raises suspicion for an alternative or concurrent pathology contributing to obstruction, especially given the discordance between symptoms and typical BPH progression.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Immunohistochemical findings post-HoLEP are critical: the stromal neoplasm is positive for vimentin (mesenchymal marker) and STAT6 (pathognomonic for solitary fibrous tumor), while negative for epithelial (cytokeratin, PSA) and other lineage-specific markers. The mitotic rate >4/10 HPF and Ki-67 (10–15%) suggest a low-grade but proliferative stromal tumor.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The absence of metastasis on staging CT and the lack of residual solitary fibrous tumor in the final RARP pathology indicate localized disease. However, the stromal neoplasm’s characteristics align with a solitary fibrous tumor (SFT), a rare mesenchymal tumor that can arise in the prostate and mimic BPH clinically.",
+          "efficiency": "Reasoning",
+          "factulity": false,
+          "judgment_path": [
+            {
+              "judgment": "Wrong",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Concurrent prostatic adenocarcinoma (Gleason 3+4, pT2N0) is noted post-RARP but represents an incidental finding unrelated to the primary obstructive pathology, as localized adenocarcinoma typically does not cause significant LUTS.",
+          "efficiency": "Reasoning",
+          "factulity": false,
+          "judgment_path": [
+            {
+              "judgment": "Wrong",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The combination of morphological, immunohistochemical (STAT6+), and clinical data confirms the stromal neoplasm as a solitary fibrous tumor of the prostate, coexisting with BPH. This tumor likely contributed to the refractory urinary symptoms due to its mass effect and stromal proliferation.",
+          "efficiency": "Reasoning",
+          "factulity": false,
+          "judgment_path": [
+            {
+              "judgment": "Wrong",
+              "keywords_to_search": "prostatic stromal sarcoma immunohistochemistry STAT6"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. The patient presented with lower urinary obstructive symptoms, leading to a suspected diagnosis of BPH due to age, presentation, and an enlarged prostate. However, lack of symptom relief from tamsulosin and normal PSA levels prompted further investigation.",
+          "hit": true
+        },
+        {
+          "step": "2. Prostate adenocarcinoma was considered but ruled out by initial immunohistochemical staining, which was negative for PSA and associated markers.",
+          "hit": true
+        },
+        {
+          "step": "3. Histopathological analysis post-HoLEP revealed positive staining for STAT6, supporting a diagnosis of solitary fibrous tumor (SFT).",
+          "hit": true
+        },
+        {
+          "step": "4. The tumor's negativity for CD34, although rare, strengthened the diagnosis of high-grade SFT.",
+          "hit": true
+        },
+        {
+          "step": "5. Other differentials like sarcomas or neuroendocrine tumors were ruled out due to negative markers (e.g., synaptophysin, S100).",
+          "hit": true
+        },
+        {
+          "step": "6. Staging CT ruled out metastatic disease.",
+          "hit": true
+        },
+        {
+          "step": "7. Final pathology post-RARP confirmed no residual SFT.",
+          "hit": true
+        },
+        {
+          "step": "8. The final pathology post-RARP detected low-grade adenocarcinoma (Gleason 3+4) only.",
+          "hit": true
+        },
+        {
+          "step": "9.  The final diagnosis is prostatic solitary fibrous tumor (CD34-negative, intermediate risk) and concurrent low-grade prostatic adenocarcinoma (Gleason 3+4 pT2N0R0).",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11540479": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 6,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient’s progressive tetraparesis, cervical hypesthesia, and dyspnea suggest spinal cord or brainstem pathology. The rapid decline in muscle strength (4 to 1) and respiratory compromise indicate severe neurological deterioration.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Spinal MRI findings of brainstem edema extending to the thoracic spine and prominent perimedullary vascular structures point to venous congestion or vascular malformations affecting the spinal cord.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Cerebral DSA confirms a high-flow carotid-cavernous fistula (CCF) with retrograde flow into the posterior cavernous sinus and perimedullary veins. This abnormal shunting creates venous hypertension, leading to spinal venous congestion and subsequent edema.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The absence of chemosis, diplopia, or ophthalmic vein involvement aligns with the atypical posterior drainage pattern of the CCF, diverting high-flow blood into spinal perimedullary veins rather than anterior orbital pathways.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The patient’s prior craniofacial fracture likely predisposed him to CCF formation, even contralaterally, as trauma can disrupt arterial walls and cavernous sinus integrity.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Progressive myelopathy and brainstem edema are secondary to venous congestion caused by the CCF’s retrograde flow, explaining the tetraparesis, sensory deficits, and respiratory failure.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. The patient's acute neurological symptoms, history of trauma, and imaging findings of vascular abnormalities suggested vascular malformations as the primary differential diagnosis.",
+          "hit": true
+        },
+        {
+          "step": "2. Spinal dural arteriovenous fistula was initially suspected due to spinal MRI findings but was ruled out by cerebral DSA, which showed a carotid-cavernous fistula (CCF).",
+          "hit": true
+        },
+        {
+          "step": "3. The CCF was confirmed on angiography as a Barrow type A high-flow fistula, explaining the patient's symptoms of venous hypertension and retrograde flow causing myelopathy.",
+          "hit": true
+        },
+        {
+          "step": "4. Other neurological and vascular disorders, such as spinal cord tumors, infections, or degenerative disorders, were excluded based on imaging findings and clinical presentation.",
+          "hit": true
+        },
+        {
+          "step": "5. DSA findings of retrograde drainage to peripontomesencephalic and perimedullary veins aligned with the patient's progressive cervical myelopathy symptoms.",
+          "hit": true
+        },
+        {
+          "step": "6. The absence of ocular symptoms (chemosis or proptosis) is explained by the lack of significant ophthalmic vein drainage.",
+          "hit": true
+        },
+        {
+          "step": "7. The patient's delayed presentation (3 years post-trauma) and contralateral location of the CCF highlight the importance of long-term follow-up in trauma cases.",
+          "hit": true
+        },
+        {
+          "step": "8. Based on the above findings, the final diagnosis was made.",
+          "hit": true
+        },
+        {
+          "step": "9. The final diagnosis is traumatic Barrow type A high-flow carotid-cavernous fistula with retrograde venous drainage causing cervical myelopathy.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11626717": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 3,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 0.9,
+      "reasoning_eval": [
+        {
+          "step": "The patient presents with chronic lower urinary tract symptoms unresponsive to UTI treatment. Urinalysis shows hematuria, suggesting a non-infectious etiology. Imaging and cystoscopy reveal a urethral mass with bladder base involvement and bladder wall changes (trabeculation/diverticula), indicative of chronic obstruction.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The biopsy's tubulopapillary/cribriform architecture, pleomorphic cells with hobnailing and clear cytoplasm, and immunohistochemical profile (PAX8+/CK7+/CK20-/P63-/PSA-) strongly favor a Müllerian-derived clear cell adenocarcinoma. PAX8 positivity is characteristic of tumors arising from Müllerian remnants, commonly seen in female urethral clear cell adenocarcinoma.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Exclusion of urothelial carcinoma (negative P63), colorectal metastasis (negative CDX2/CK20), and prostatic origin (negative PSA) further supports a primary urethral clear cell adenocarcinoma. The absence of metastasis on imaging confirms localized disease.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "Initial Differential Diagnoses: Given the patient’s lower urinary tract symptoms and imaging findings of a urethral mass, possible conditions included urethral diverticulum carcinoma, squamous cell carcinoma, transitional cell carcinoma, primary non-urothelial adenocarcinomas, and metastatic disease.",
+          "hit": true
+        },
+        {
+          "step": "Imaging delineated a mass involving the entire urethra with bladder neck invasion.",
+          "hit": true
+        },
+        {
+          "step": "Histopathology confirmed clear cell morphology with tubulopapillary structure.",
+          "hit": true
+        },
+        {
+          "step": "Immunohistochemical positivity for CK7 and PAX8 aligned with clear cell adenocarcinoma of urethral/Müllerian origin.",
+          "hit": true
+        },
+        {
+          "step": "Urethral diverticulum carcinoma was supported by the mass's size, location, and imaging characteristics, while squamous cell carcinoma was less likely given the imaging pattern and lack of squamous differentiation on histology.",
+          "hit": false
+        },
+        {
+          "step": "Transitional cell carcinoma was ruled out due to immunohistochemical negativity for urothelial markers (GATA3).",
+          "hit": true
+        },
+        {
+          "step": "Primary non-urothelial adenocarcinomas were excluded due to negativity for CDX2 and CK20.",
+          "hit": true
+        },
+        {
+          "step": "Metastatic disease was excluded due to no distant primary lesions identified on imaging.",
+          "hit": true
+        },
+        {
+          "step": "Multidisciplinary consensus determined the diagnosis of urethral clear cell adenocarcinoma based on pathological and imaging findings.",
+          "hit": true
+        },
+        {
+          "step": "Final diagnosis: Clear cell adenocarcinoma of the urethra (T3N0M0 stage) with bladder neck invasion but no lymphadenopathy or distant metastasis.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11543139": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 5,
+      "efficiency": 1.0,
+      "factulity": 0.8,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient is a 28-year-old primigravida with fetal echogenic bowel (FEB) and progressive bowel dilation. Initial considerations include chromosomal anomalies, infections (TORCH), cystic fibrosis (CF), and gastrointestinal obstruction.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Chromosomal causes (trisomy 21, 18, 13) are ruled out by low-risk NIPT and first-trimester screening. Maternal TORCH testing is normal, eliminating congenital infections.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Cystic fibrosis (CF) is a key consideration, as FEB and bowel dilation (e.g., meconium ileus) are classic prenatal signs. However, CF carrier status or diagnostic testing (e.g., CFTR gene analysis) is not reported, leaving this possibility unresolved.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Persistent bowel dilation (21 mm at 29 weeks) strongly suggests mechanical obstruction. Small bowel atresia (e.g., jejunal/ileal) is a common structural cause, often presenting with progressive dilation due to impaired meconium passage.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Meconium ileus, typically linked to CF, could explain the findings but requires CF confirmation. In the absence of CF testing, isolated bowel atresia becomes the most likely diagnosis given the exclusion of other etiologies.",
+          "efficiency": "Reasoning",
+          "factulity": false,
+          "judgment_path": [
+            {
+              "judgment": "Wrong",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "Initial Considerations: Based on the finding of FEB, potential diagnoses included aneuploidy (e.g., trisomy 21, 18, 13), gastrointestinal malformations (bowel obstruction, atresia, perforation), cystic fibrosis, congenital infections (e.g., cytomegalovirus), and other underlying etiologies.",
+          "hit": true
+        },
+        {
+          "step": "Step 1: Ruling Out Aneuploidy and Infections: NIPT testing showed low risk for common chromosomal aneuploidies, effectively ruling out trisomy 21, 18, and 13. TORCH infection screening was negative, excluding infections such as cytomegalovirus and rubella.",
+          "hit": true
+        },
+        {
+          "step": "Step 2: Persistence of Bowel Dilation: The fetal bowel dilation was noted to worsen (21 mm at 29 weeks/6 days), exceeding the clinical cut-off value of >10 mm for suspected gastrointestinal obstruction or atresia, making a gastrointestinal abnormality the leading diagnosis.",
+          "hit": true
+        },
+        {
+          "step": "Step 3: Postnatal Confirmation: Postnatally, jejunal atresia was confirmed during surgical exploration when the newborn presented with symptoms requiring abdominal surgery.",
+          "hit": true
+        },
+        {
+          "step": "Final diagnosis: Postnatally confirmed jejunal atresia.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11414668": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 5,
+      "efficiency": 0.8,
+      "factulity": 1.0,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient is a young female with chronic left flank pain but no systemic symptoms (e.g., fever, weight loss) or urinary symptoms (e.g., hematuria, dysuria). Initial differentials include structural kidney anomalies, renal cysts, or urolithiasis.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Normal laboratory results (renal function, urinalysis) rule out active infection, renal failure, or metabolic abnormalities. The absence of hematuria reduces suspicion for nephrolithiasis or malignancy.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Imaging findings (ultrasound and CT urography) confirm the left kidney is entirely replaced by cysts without functional tissue, while the right kidney is normal. This structural anomaly suggests a congenital disorder rather than acquired cystic disease.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Histopathology post-nephrectomy definitively demonstrates multicystic dysplastic kidney (MCDK) with absent renal architecture and chronic inflammation. MCDK is a congenital condition typically diagnosed in infancy but occasionally identified later in life if asymptomatic.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The asymptomatic left ovarian cyst is likely incidental and unrelated to the primary diagnosis, as no features suggest malignancy or hormonal dysfunction.",
+          "efficiency": "Citation",
+          "factulity": null,
+          "judgment_path": []
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. Initial differential diagnoses based on left flank pain and imaging findings include Multicystic Dysplastic Kidney (MCDK) due to multiple non-communicating cysts in the left kidney with no functional renal tissue, Polycystic Kidney Disease (PKD) is considered unlikely as it typically involves bilateral kidney cysts with preserved renal tissue and function, Hydronephrosis or Obstruction of the Renal System is excluded based on the absence of significant renal tissue and lack of dilation in the collecting system, and Renal Tumor with Cystic Changes is considered but excluded due to the absence of solid renal masses or irregularities on imaging.",
+          "hit": true
+        },
+        {
+          "step": "2. Confirmatory evidence supporting MCDK includes imaging findings (CT urography and ultrasound) showing absence of functional renal tissue in the left kidney replaced by multiple cysts and histopathology post-nephrectomy confirming MCDK with characteristic cystic architecture and absence of normal renal tissue.",
+          "hit": true
+        },
+        {
+          "step": "3. Laboratory tests showed normal findings, the patient had no urinary symptoms, and the contralateral kidney was normal, ruling out other systemic or renal diseases.",
+          "hit": true
+        },
+        {
+          "step": "4. Final diagnosis: Unilateral Multicystic Dysplastic Kidney (MCDK) presenting in the left kidney of a 25-year-old adult female.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11539092": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 5,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 0.875,
+      "reasoning_eval": [
+        {
+          "step": "The patient is a 10-month-old infant presenting with seizures and encephalopathy following a febrile upper respiratory illness. Key findings include altered consciousness (GCS 7), hypertonia, clonus, and bilateral symmetrical thalamic/caudate necrosis on MRI, consistent with acute necrotizing encephalopathy (ANE).",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "ANE is a rare, immune-mediated condition triggered by viral infections, characterized by rapid-onset encephalopathy and symmetric brain lesions in specific regions (thalami, brainstem, cerebellum). The MRI findings strongly support this diagnosis.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Human parechovirus detected via CSF FilmArray likely represents the inciting viral infection. Elevated AST/ALT and thrombocytosis may reflect systemic inflammation. Streptococcus agalactiae detection is atypical for ANE but could indicate incidental colonization or co-infection.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The Measles-Rubella vaccine administered 2 weeks prior is unlikely causative, as ANE typically follows active infections (e.g., parechovirus) rather than vaccination. Normal CSF glucose and lack of bacterial growth in cultures argue against primary bacterial meningitis.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Rigidity, hypertonia, and clonus align with thalamic/caudate involvement. ANE is further supported by cystic changes in the centrum semiovale and cerebellum, which are classic for severe necrotizing injury.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. The infant presented with seizures and altered mental status following a febrile illness, along with bilateral symmetrical thalamic and caudate lesions on radiological imaging and elevated CSF protein.",
+          "hit": true
+        },
+        {
+          "step": "2. These findings strongly suggested Acute necrotizing encephalopathy (ANE), which was confirmed based on Mizuguchi's criteria.",
+          "hit": true
+        },
+        {
+          "step": "3. Autoimmune-mediated encephalitis was considered less likely due to the absence of widespread inflammatory markers and normal CSF immunological profiles.",
+          "hit": true
+        },
+        {
+          "step": "4. Bacterial or viral meningitis was ruled out because CSF cultures were negative, and the mixed pathogen exposure to Streptococcus agalactiae and parechovirus was more likely a triggering agent for ANE rather than causing direct meningitis or encephalitis.",
+          "hit": true
+        },
+        {
+          "step": "5. Metabolic encephalopathy was excluded due to normal serum organic and amino acid levels and the absence of characteristic metabolic derangements.",
+          "hit": true
+        },
+        {
+          "step": "6. Hypoxic-ischemic injury was ruled out as MRI findings were not consistent with diffuse ischemic damage or hypoxia-induced changes.",
+          "hit": true
+        },
+        {
+          "step": "7. Structural brain abnormalities were excluded due to a normal antenatal and postnatal history and normal developmental milestones before illness onset.",
+          "hit": false
+        },
+        {
+          "step": "Final diagnosis: Acute necrotizing encephalopathy (ANE) triggered by mixed infection (Streptococcus agalactiae and Human parechovirus).",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11525124": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 4,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient is an 18-month-old toddler with a painless, progressive left thigh mass. Given the age and clinical presentation, benign soft tissue tumors (e.g., lipoblastoma, hemangioma, lymphatic malformation) are more likely than malignant neoplasms, though differentials must be carefully evaluated.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Imaging findings (CT and MRI) reveal a well-defined, lobulated fatty mass with septations, displacing but not invading adjacent structures. Fatty composition narrows the differential to adipose-derived tumors. The absence of vascular encasement or invasion argues against aggressive malignancies like liposarcoma, which is exceedingly rare in this age group.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Histopathology confirms a tumor with mature adipocytes, lipoblasts, myxoid changes, and plexiform capillaries without atypia. Lipoblasts and a plexiform vascular network are hallmark features of lipoblastoma, a benign tumor of embryonic fat. The lack of atypical cells excludes liposarcoma, while mature fat and lobulated architecture differentiate it from myxoid liposarcoma or other sarcomas.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The combination of clinical history (age, painless progression), imaging characteristics (fatty, non-invasive mass), and histopathologic findings (lipoblasts, plexiform vessels, no atypia) solidifies the diagnosis. Other entities like lipoma (lacks lipoblasts/myoid stroma) or vascular malformations (distinct imaging/histology) are inconsistent with the findings.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "The differential diagnosis began with considering fat-containing tumors common in young children (<3 years).",
+          "hit": true
+        },
+        {
+          "step": "Lipoblastoma was considered likely due to the patient's age, a painless progressively growing mass, imaging studies showing a lobulated fat-containing mass, and histological findings of benign adipocytic tissue with lipoblasts.",
+          "hit": true
+        },
+        {
+          "step": "Liposarcoma was excluded due to the patient’s age (liposarcomas are rare in children under 10), absence of nuclear atypia, and characteristic histology of uniform differentiation and lobulation.",
+          "hit": true
+        },
+        {
+          "step": "Lipoma was excluded due to patient age (lipomas are unusual in very young children) and progressive growth of the mass.",
+          "hit": true
+        },
+        {
+          "step": "Teratoma/Dermoid cyst was excluded as no calcifications or cystic areas were observed in imaging.",
+          "hit": true
+        },
+        {
+          "step": "Involuting Hemangioma was excluded due to the absence of a proliferative phase followed by stabilization/involution, which defines hemangiomas.",
+          "hit": true
+        },
+        {
+          "step": "Hibernoma was excluded due to the patient’s young age (hibernomas are more common in adults).",
+          "hit": true
+        },
+        {
+          "step": "Definitive diagnosis was confirmed as lipoblastoma based on imaging and histopathology findings.",
+          "hit": true
+        },
+        {
+          "step": "Final diagnosis: Lipoblastoma of the left medial thigh.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11569933": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 5,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient is a 2-year-old with acute bilateral upper extremity weakness and pain following an unwitnessed injury. The absence of fractures, dislocations, or acute findings on imaging (X-rays, CT) rules out bony injury or spinal trauma.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Bilateral involvement and preserved finger movement when objects are already grasped suggest a peripheral joint issue rather than a central nervous system or spinal cord injury. Intact sensation excludes major nerve transection.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Pain with passive shoulder abduction and resolution after supination/flexion maneuvers with palpable clicks strongly indicate reducible joint subluxations. The mechanism likely involves traction on the arms (e.g., pulling/lifting), common in toddlers.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Radial head subluxation (\"nursemaid’s elbow\") typically presents unilaterally, but bilateral cases can occur with forceful traction on both arms. The reduction maneuver (supination and flexion) aligns with resolving this injury.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Other diagnoses (brachial plexus injury, spinal injury) are less likely due to the immediate resolution after joint manipulation, absence of sensory deficits, and normal imaging.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "Initial Differential: Included proximal humerus fractures, central cord syndrome, spinal cord injury without radiographic abnormality (SCIWORA), and radial head subluxation (RHS).",
+          "hit": true
+        },
+        {
+          "step": "Fractures were ruled out based on unremarkable plain radiographs showing no fractures or joint dislocations.",
+          "hit": true
+        },
+        {
+          "step": "Central Cord Syndrome was unlikely given the absence of lower extremity involvement, sensory changes, or cervical spinal cord compression on CT.",
+          "hit": true
+        },
+        {
+          "step": "SCIWORA was considered due to neurological deficits and lack of radiographic abnormality, but remained less likely due to the absence of lower extremity symptoms or bladder dysfunction, and symptoms resolved quickly without invasive intervention.",
+          "hit": true
+        },
+        {
+          "step": "RHS was ultimately confirmed by a clinical reduction maneuver of the elbows, where a palpable click and rapid restoration of arm function occurred.",
+          "hit": true
+        },
+        {
+          "step": "The resolution of symptoms confirmed RHS as the benign etiology over more severe conditions.",
+          "hit": true
+        },
+        {
+          "step": "Final diagnosis: Bilateral radial head subluxation (RHS) or \"nursemaid's elbow.\"",
+          "hit": true
+        },
+        {
+          "step": "The diagnosis was supported by classic symptom resolution after reduction maneuvers.",
+          "hit": true
+        },
+        {
+          "step": "The diagnosis was also supported by the lack of radiographic or neurological findings.",
+          "hit": true
+        },
+        {
+          "step": "The diagnosis was further supported by age-appropriate presentation despite an atypical bilateral manifestation.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11648268": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 4,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient is a 30-year-old primigravida presenting asymptomatically at 12 weeks gestation. Routine ultrasound identified a gestational sac near the left uterine horn with an empty endometrial cavity, raising suspicion for ectopic pregnancy.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The absence of symptoms (e.g., pain, vaginal bleeding) is atypical for ectopic pregnancy but not impossible, especially in early stages or specific types like interstitial ectopic pregnancies, which may progress further before manifesting complications.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "MRI confirmation of a live fetus in the left fallopian tube at 12 weeks, with no intrauterine pregnancy, definitively supports ectopic implantation. The location near the uterine horn and intramural portion of the tube aligns with an interstitial ectopic pregnancy, a rare and high-risk variant.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Interstitial ectopic pregnancies are prone to catastrophic rupture due to the vascularity of the uterine wall, making timely diagnosis critical. The combination of ultrasound and MRI findings eliminates other possibilities (e.g., angular pregnancy) and confirms the diagnosis.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. Ultrasound findings suggested possibilities of ectopic pregnancy, uterine abnormality, or angular pregnancy, and an empty endometrial cavity necessitated further imaging.",
+          "hit": true
+        },
+        {
+          "step": "2. Cornual pregnancy was ruled out based on MRI findings specifying the interstitial location of the gestational sac.",
+          "hit": true
+        },
+        {
+          "step": "3. Ampullary, isthmic, or tubal pregnancy was excluded as the gestational sac was confirmed in the interstitial portion of the tube.",
+          "hit": true
+        },
+        {
+          "step": "4. Angular pregnancy was differentiated using MRI, which provided detailed anatomical visualization.",
+          "hit": true
+        },
+        {
+          "step": "5. MRI confirmed interstitial ectopic pregnancy due to the presence of a gestational sac situated in the interstitial segment of the left fallopian tube, lateral to the uterine cavity.",
+          "hit": true
+        },
+        {
+          "step": "6. Uterine abnormalities were excluded given the imaging findings and the absence of relevant history.",
+          "hit": true
+        },
+        {
+          "step": "7. The patient was diagnosed asymptomatically at 12 weeks' gestation through routine antenatal imaging.",
+          "hit": true
+        },
+        {
+          "step": "Final diagnosis: Interstitial ectopic pregnancy in the left fallopian tube.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11544075": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 5,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 0.8333333333333334,
+      "reasoning_eval": [
+        {
+          "step": "The patient’s left groin swelling is described as irreducible, tender, and located **below and lateral to the pubic tubercle**. Anatomically, femoral hernias occur in this region (femoral canal), while inguinal hernias (indirect/direct) are typically **above and medial** to the pubic tubercle. This discrepancy challenges the ultrasound’s suggestion of an indirect inguinal hernia.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The history of a previously reducible groin swelling (likely an indirect inguinal hernia) complicates the picture. However, the current physical exam findings (location, irreducibility, tenderness) strongly favor a femoral hernia, which is rare in young males but not impossible.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Tachycardia, colicky pain, and vomiting raise concern for bowel incarceration/strangulation. Normal bowel movements and CBC suggest no advanced ischemia or complete obstruction, aligning with early incarceration.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The ultrasound’s description of bowel content in the hernia conflicts with the clinical localization. Clinicians must prioritize physical exam landmarks over imaging when inconsistencies arise, as misidentification of the pubic tubercle or hernia type on ultrasound can occur.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "In a 14-year-old male, indirect inguinal hernias are far more common than femoral hernias. However, the definitive anatomical location (below/lateral to the pubic tubercle) overrides demographic likelihood, leading to the diagnosis of an incarcerated femoral hernia.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. Initial considerations included strangulated femoral hernia, indirect inguinal hernia, lymphadenitis, and encysted hydrocele due to groin swelling and tenderness.",
+          "hit": true
+        },
+        {
+          "step": "2. Ultrasound findings supported indirect inguinal hernia, but physical examination showed the swelling below and lateral to the pubic tubercle, ruling it out as it is typically above the tubercle.",
+          "hit": true
+        },
+        {
+          "step": "3. Lymphadenitis and encysted hydrocele were excluded based on location, clinical presentation, and lack of systemic signs of infection or transparency.",
+          "hit": false
+        },
+        {
+          "step": "4. The clinical presentation and examination findings (location of swelling below and lateral to the pubic tubercle, lack of cough impulse, and tenderness) guided the diagnosis toward a femoral hernia, particularly given its irreducibility and tenderness suggestive of strangulation.",
+          "hit": true
+        },
+        {
+          "step": "5. Emergency exploration confirmed the clinical suspicion of a strangulated femoral hernia with necrotic adipose tissue content.",
+          "hit": true
+        },
+        {
+          "step": "6. Final diagnosis: Strangulated left femoral hernia.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11601975": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 5,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient has a history of metastatic small bowel neuroendocrine tumor (SBNET) with known mesenteric involvement, which increases the risk of vascular complications such as mesenteric ischemia. Her acute presentation of severe abdominal pain (rated 10/10), nausea, vomiting, and leukocytosis aligns with an acute intra-abdominal catastrophe.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Chronic postprandial pain and decreased oral intake suggest pre-existing compromised mesenteric blood flow, likely due to tumor-related vascular encasement or fibrosis. This history is consistent with chronic mesenteric ischemia (\"intestinal angina\").",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "CT findings of decreased bowel enhancement and wall thickening in the right lower quadrant small bowel loops indicate ischemic changes. The tumor involvement of the SMA/SMV directly implicates vascular insufficiency as the etiology of acute ischemia.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Absence of lactic acidosis does not rule out ischemia, as early-stage or partial occlusion may not yet cause systemic metabolic derangements. Leukocytosis and anemia support an acute inflammatory or ischemic process.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Alternative diagnoses (e.g., bowel obstruction, perforation) are less likely given the absence of CT findings such as pneumatosis, perforation, or dilated bowel loops. The clinical and imaging features strongly prioritize mesenteric ischemia over other acute abdominal pathologies.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "The patient's presentation of acute abdominal pain warranted evaluation of primary causes, including bowel obstruction, visceral ischemia, and perforation.",
+          "hit": true
+        },
+        {
+          "step": "Bowel obstruction was considered due to the patient's metastatic history and fibrotic nature of NET involvement in the mesentery, but was excluded as imaging demonstrated ischemic findings rather than a clear obstruction.",
+          "hit": true
+        },
+        {
+          "step": "Visceral ischemia was strongly suspected due to symptoms, imaging findings, and documented tumor encasement of the SMA and SMV, and was confirmed during surgical intervention.",
+          "hit": true
+        },
+        {
+          "step": "Perforation or peritonitis was excluded based on the absence of generalized signs such as lactic acidosis or peritoneal findings on exam.",
+          "hit": true
+        },
+        {
+          "step": "Other causes of acute abdominal pain were considered unlikely given the clinical history, presentation, and imaging findings.",
+          "hit": true
+        },
+        {
+          "step": "Exploratory laparotomy was performed to confirm ischemic small bowel secondary to mesenteric vascular compromise from metastatic NET involvement.",
+          "hit": true
+        },
+        {
+          "step": "The final diagnosis was acute-on-chronic mesenteric ischemia caused by metastatic small bowel neuroendocrine tumor with encasement of the superior mesenteric artery and vein.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11465705": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 5,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 0.7,
+      "reasoning_eval": [
+        {
+          "step": "The patient’s episodes of sudden loss of consciousness (LOC) without prodromal or postictal symptoms suggest syncope rather than seizures. The absence of structural cardiac or neurological abnormalities on imaging further supports this.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Key findings include sinus bradycardia (HR: 54 bpm), incomplete RBBB, and telemetry-documented 8-second sinus pauses with significant bradycardia (37 bpm). These indicate a primary cardiac arrhythmia as the cause of syncope.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Normal echocardiogram and absence of inducible AVNRT during EPS rule out structural heart disease and reentrant tachycardias. However, sinus pauses and bradycardia point to sinus node dysfunction.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Chronic sleep deprivation and marijuana use may exacerbate arrhythmias, but the core pathology lies in the sinus node’s inability to maintain adequate rhythm, evidenced by prolonged pauses.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Exclusion of metabolic, neurological, and orthostatic causes, combined with electrophysiological findings, confirms a diagnosis of sinus node dysfunction (sick sinus syndrome) as the etiology for recurrent syncope.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. The initial differential diagnosis included vasovagal syncope, orthostatic hypotension, reflexive or situational syncope, cardiac arrhythmias, structural cardiac abnormalities, seizure, and substance use.",
+          "hit": true
+        },
+        {
+          "step": "2. Orthostatic hypotension was excluded due to normal blood pressure and heart rate changes during posture testing.",
+          "hit": true
+        },
+        {
+          "step": "3. Cardiac arrhythmia as a primary cause was excluded by serial EKGs, Holter monitoring, absence of accessory pathways in the EPS, and lack of family history of arrhythmias or sudden death.",
+          "hit": true
+        },
+        {
+          "step": "4. Structural abnormalities or valve dysfunction were excluded via echocardiogram, which revealed a normal ejection fraction and no valvular disease.",
+          "hit": true
+        },
+        {
+          "step": "5. Myocardial infarction was ruled out by negative troponins and lack of associated chest pain or ST changes.",
+          "hit": false
+        },
+        {
+          "step": "6. Seizure was considered less likely as the EEG was abnormal but lacked epileptiform activity, and no postictal symptoms were present.",
+          "hit": true
+        },
+        {
+          "step": "7. Narcolepsy or cataplexy was excluded as LOC occurred, not just loss of muscle tone while awake.",
+          "hit": false
+        },
+        {
+          "step": "8. Vasovagal or reflexive syncope was strongly considered given vagal etiology noted during sinus pauses, episodes' timing (e.g., during micturition) suggested situational factors, and effects of marijuana and chronic sleep deprivation, which can amplify vagal tone and autonomic dysfunction.",
+          "hit": true
+        },
+        {
+          "step": "9. Marijuana use and disrupted circadian rhythm (from night shifts) were investigated and implicated in exacerbating syncope, supported by literature on cannabis-related bradyarrhythmias and vasovagal responses.",
+          "hit": true
+        },
+        {
+          "step": "10. Episodes of recurrent syncope were determined to be multifactorial, largely related to vasovagal effects influenced by chronic marijuana use, sleep deprivation, and a disrupted circadian rhythm.",
+          "hit": false
+        }
+      ]
+    },
+    "PMC11570410": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 4,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient presents with unilateral right-sided chest wall underdevelopment involving absent pectoral muscles (major, minor), serratus anterior, and breast tissue, along with hypoplastic anterior ribs. These findings suggest a congenital musculoskeletal anomaly.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Poland Syndrome is characterized by unilateral absence/hypoplasia of pectoral muscles, ipsilateral breast and nipple anomalies, and variable rib defects. While classically associated with hand anomalies (e.g., symbrachydactyly), these are absent here. However, hand involvement is not mandatory for diagnosis.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The CT findings (absent muscles, hypoplastic ribs, missing breast tissue) align with Poland Syndrome. Hyperlucent lung fields on X-ray likely reflect reduced soft tissue density due to muscle absence, not intrinsic lung pathology.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Alternative diagnoses (e.g., isolated pectoral agenesis, Sprengel deformity) lack the combination of muscle, rib, and breast anomalies. No systemic or traumatic history supports acquired causes.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "Step 1: Consider poor chest wall development and the potential diagnosis of Poland Syndrome (PS) due to hallmark features like pectoralis major agenesis and associated chest wall anomalies, excluding other congenital syndromes like Sprengel deformity.",
+          "hit": true
+        },
+        {
+          "step": "Step 2: Evaluate imaging findings showing the absence of specific chest muscles (e.g., pectoralis major and serratus anterior) and hypoplastic ribs, strongly supporting PS, while normal lung parenchyma and absence of heart displacement rule out parenchymal or cardiovascular pathologies.",
+          "hit": true
+        },
+        {
+          "step": "Step 3: Rule out limb defects and alternative causes by noting the lack of hand deformities or digital abnormalities (e.g., syndactyly, brachydactyly), excluding certain subtypes of PS and other syndromic conditions.",
+          "hit": true
+        },
+        {
+          "step": "Step 4: Confirm the final pathology as muscular, osteo-cartilaginous, and cutaneous glandular defects consistent with a diagnosis of Poland Syndrome without classical limb anomalies (Type 2b variant) based on imaging findings.",
+          "hit": true
+        },
+        {
+          "step": "Step 5: Final diagnosis: Right-sided Poland Syndrome (PS) with no accompanying classical hand or upper limb abnormalities, Type 2b variant.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11492433": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 4,
+      "efficiency": 0.75,
+      "factulity": 1.0,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient’s persistent left abdominal pain, weight loss, fatigue, and imaging findings of a large heterogeneous renal mass with local extension and lymphadenopathy strongly suggest a malignant renal neoplasm.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The histopathologic confirmation of a triphasic pattern (blastemal, stromal, epithelial) is diagnostic of nephroblastoma (Wilms tumor), a tumor classically seen in children but rarely in adults.",
+          "efficiency": "Citation",
+          "factulity": null,
+          "judgment_path": []
+        },
+        {
+          "step": "Regional lymph node involvement (N2) and local extension (pT2b) confirm advanced disease without distant metastases. The absence of perinephric fat invasion or thrombus and negative surgical margins indicate localized resectability.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The combination of clinical, imaging, and histologic findings rules out other renal malignancies (e.g., renal cell carcinoma) and confirms nephroblastoma with metastatic lymph node involvement.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. The patient presented with a large renal mass, histopathologic triphasic pattern, and lymph node involvement, which are typical features of adult nephroblastoma.",
+          "hit": true
+        },
+        {
+          "step": "2. Imaging and histopathology localized the tumor strictly within the kidney and demonstrated features not consistent with transitional cell carcinoma.",
+          "hit": true
+        },
+        {
+          "step": "3. Histopathological confirmation showed triphasic nephroblastoma pattern and specific immunohistochemical markers consistent with nephroblastoma, ruling out RCC.",
+          "hit": true
+        },
+        {
+          "step": "4. Histopathology definitively confirmed nephroblastoma rather than mesenchymal or lymphoid origin, excluding other rare renal neoplasms.",
+          "hit": true
+        },
+        {
+          "step": "5. The absence of fat invasion, negative surgical margins, and lymph node involvement further substantiated the pathological staging as pT2b N2.",
+          "hit": true
+        },
+        {
+          "step": "6.  The final diagnosis was adult nephroblastoma (Wilms' tumor).",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11535893": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 5,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 1.0,
+      "reasoning_eval": [
+        {
+          "step": "The patient presents with worsening dysuria, decreased urine output, and malaise, accompanied by elevated creatinine (4.41 mg/dL), BUN (56.6 mg/dL), and hyperkalemia, indicating acute kidney injury (AKI). The presence of urinary ascites (fluid creatinine 15.48 mg/dL, BUN 99.0 mg/dL) confirms urine leakage into the peritoneal cavity.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Imaging studies (CT/MRI) ruled out bladder disruption or endometriotic lesions, but retrograde cystography identified minor contrast leakage from the posterior bladder wall. This suggests a small, localized bladder perforation rather than gross structural damage.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The patient’s history of partial cystectomy for bladder endometriosis likely created a site of anatomic vulnerability. Post-surgical scarring or tissue weakness could predispose to delayed perforation, exacerbated by recurrent cystitis and incomplete resolution of inflammation despite antibiotic therapy.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Urinary ascites secondary to bladder perforation explains the acute kidney injury: intraperitoneal urine reabsorption overwhelms renal excretion capacity, leading to elevated serum creatinine/BUN and electrolyte derangements. The large-volume ascites (3100 mL) further reduces effective circulating volume, worsening renal perfusion.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The absence of endometriotic lesions on imaging and resolution of gynecologic pathology (post-hysterectomy/salpingo-oophorectomy) rules out recurrent endometriosis as the cause. The clinical and laboratory findings align with a subacute bladder perforation complicating prior surgical intervention.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "Initial Differential Diagnoses: 1. Bladder rupture caused by bladder wall weakness and prior cystectomy. 2. Acute renal failure due to obstructive uropathy or other systemic causes. 3. Peritonitis due to infectious causes unrelated to the bladder.",
+          "hit": true
+        },
+        {
+          "step": "Rationale for Bladder Rupture (Primary): History of prior bladder surgery (partial cystectomy) is a significant risk factor for delayed rupture. Urinary ascites and symptoms of \"pseudo-renal failure\" (elevated serum creatinine and BUN, oliguria) supported by biochemical analysis of ascitic fluid (high urinary creatinine concentration). Retrograde cystography confirmed bladder wall leakage.",
+          "hit": true
+        },
+        {
+          "step": "Exclusion of Other Diagnoses: Acute renal failure was ruled out as creatinine and BUN normalized after bladder drainage. Peritonitis was unlikely since the fluid analysis revealed urinary rather than infectious content, and symptoms improved with conservative bladder management.",
+          "hit": true
+        },
+        {
+          "step": "Final diagnosis: The final diagnosis is bladder rupture secondary to partial cystectomy performed 11 years prior, presenting with \"pseudo-renal failure\" and urinary ascites. Key factors include past surgical history, typical clinical signs and symptoms, biochemical evidence of urinary ascites, and imaging results confirming bladder wall leakage.",
+          "hit": true
+        }
+      ]
+    },
+    "PMC11439974": {
+      "status": "ok",
+      "group": "direct",
+      "step_count": 5,
+      "efficiency": 1.0,
+      "factulity": 1.0,
+      "recall": 0.5,
+      "reasoning_eval": [
+        {
+          "step": "The patient presents with a slow-growing, firm, non-tender mass below the left earlobe, a location consistent with the parotid gland. The two-year duration and absence of pain or skin changes initially suggest a benign neoplasm, such as pleomorphic adenoma, which aligns with the FNAC result.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The burning sensation on the left buccal mucosa for five months raises suspicion for possible nerve involvement or irritation, though no overt neurological deficits were noted on physical examination.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Discrepancy arises between the initial FNAC (pleomorphic adenoma) and the definitive histopathology post-surgery, which identified features of low-grade mucoepidermoid carcinoma (MEC). FNAC can misclassify sclerosing MEC due to overlapping cytomorphological features with benign tumors.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "Histopathology findings—sclerotic stroma, mucous cells, epidermoid cells, and vascularity—confirm the sclerosing variant of MEC, a rare subtype characterized by dense fibrosis and low-grade malignancy. This variant often mimics benign lesions clinically and radiologically.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        },
+        {
+          "step": "The absence of intraoral abnormalities and normal overlying skin supports a parotid gland origin. Diabetes mellitus, while a comorbidity, is unlikely to directly contribute to the tumor’s etiology.",
+          "efficiency": "Reasoning",
+          "factulity": true,
+          "judgment_path": [
+            {
+              "judgment": "Correct",
+              "keywords_to_search": "None"
+            }
+          ]
+        }
+      ],
+      "gt_reasoning_eval": [
+        {
+          "step": "1. Based on the presentation of an asymptomatic mass in the parotid region, the initial differential diagnosis included: Pleomorphic Adenoma (PA), Mucoepidermoid Carcinoma (MEC), Adenoid Cystic Carcinoma (ACC), Acinic Cell Carcinoma, Polymorphous Low-Grade Adenocarcinoma (PLGA), and Warthin’s Tumor.",
+          "hit": true
+        },
+        {
+          "step": "2. Pleomorphic Adenoma was initially suspected based on FNAC findings and typical clinical features.",
+          "hit": true
+        },
+        {
+          "step": "3. Adenoid Cystic Carcinoma was considered due to its slow growth and occasional presentation in salivary glands, but lacked the \"Swiss cheese\" histological appearance.",
+          "hit": false
+        },
+        {
+          "step": "4. Acinic Cell Carcinoma was differentiated by immunohistochemical markers and absence of characteristic acinar structures.",
+          "hit": false
+        },
+        {
+          "step": "5. Polymorphous Low-Grade Adenoma was ruled out through lack of architectural variations like tubular or cribriform patterns.",
+          "hit": false
+        },
+        {
+          "step": "6. Warthin’s Tumor was excluded based on the absence of oncocytic cells and lymphoid component.",
+          "hit": false
+        },
+        {
+          "step": "7. Post-surgical histopathological evaluation confirmed the diagnosis of a low-grade sclerosing MEC variant, characterized by hyalinized stromal areas, mucous and epidermoid cells, and features consistent with malignancy.",
+          "hit": true
+        },
+        {
+          "step": "8. Immunohistochemical studies could further differentiate between MEC and other salivary gland pathologies if necessary.",
+          "hit": false
+        },
+        {
+          "step": "9. The final diagnosis was based on histopathological findings following partial parotidectomy.",
+          "hit": true
+        },
+        {
+          "step": "10. Key supportive features for the final diagnosis of sclerosing variant of low-grade mucoepidermoid carcinoma (MEC) of the left parotid gland included dense sclerotic stroma, mucous cells, and epidermoid cells.",
+          "hit": true
+        }
+      ]
+    }
+  }
+}

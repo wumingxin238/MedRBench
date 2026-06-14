@@ -41,6 +41,17 @@ import traceback
 from datetime import datetime, timezone
 from pathlib import Path
 
+
+def _apply_early_gpu_from_argv() -> None:
+    """Must run before gemma_judge_backend imports torch."""
+    for i, arg in enumerate(sys.argv):
+        if arg == "--gpu-id" and i + 1 < len(sys.argv):
+            os.environ["CUDA_VISIBLE_DEVICES"] = sys.argv[i + 1]
+            return
+
+
+_apply_early_gpu_from_argv()
+
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parents[1]
 if str(SCRIPT_DIR) not in sys.path:
@@ -179,9 +190,19 @@ def main() -> None:
     parser.add_argument("--outputs", type=Path, default=None)
     parser.add_argument("--out-dir", type=Path, default=DEFAULT_OUT_DIR)
     parser.add_argument("--limit", type=int, default=0, help="Max cases (0 = all)")
+    parser.add_argument(
+        "--gpu-id",
+        type=str,
+        default=None,
+        help="Pin to one physical GPU (sets CUDA_VISIBLE_DEVICES before judge load)",
+    )
     parser.add_argument("--no-web-search", action="store_true", default=True)
     parser.add_argument("--web-search", action="store_true", help="Enable Bing search for factuality")
     args = parser.parse_args()
+
+    if args.gpu_id is not None:
+        os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu_id
+        print(f"Using GPU(s): CUDA_VISIBLE_DEVICES={args.gpu_id}", flush=True)
 
     if args.web_search:
         args.no_web_search = False
@@ -198,8 +219,20 @@ def main() -> None:
     outputs_path = args.outputs or SUBJECTS[args.task]
     cases = _load(cases_path)
     outputs = _load(outputs_path)
+    manifest = _load(MANIFEST)
+    case_ids = list(manifest[args.task]["case_ids"])
+    case_ids = [cid for cid in case_ids if cid in cases]
 
     groups = list(GROUPS) if args.group == "both" else [args.group]
+
+    def _refresh_meta() -> None:
+        ok_rows = [c for c in doc["cases"].values() if c.get("status") == "ok"]
+        meta["completed_ok"] = len(ok_rows)
+        meta["total_cases"] = len(case_ids)
+        if ok_rows:
+            meta["mean_efficiency"] = sum(r["efficiency"] for r in ok_rows) / len(ok_rows)
+            meta["mean_factulity"] = sum(r["factulity"] for r in ok_rows) / len(ok_rows)
+            meta["mean_recall"] = sum(r["recall"] for r in ok_rows) / len(ok_rows)
 
     for group in groups:
         out_path = _out_path(args.out_dir, args.task, judge_tag.replace("/", "_"), args.subject_model, group)
@@ -221,23 +254,23 @@ def main() -> None:
             }
         )
 
-        case_ids = list(cases.keys())
+        run_case_ids = case_ids
         if args.limit > 0:
-            case_ids = case_ids[: args.limit]
+            run_case_ids = case_ids[: args.limit]
 
         err_count = sum(1 for c in doc["cases"].values() if c.get("status") == "error")
         if err_count:
             print(f"  ({err_count} prior errors will be retried on re-run)")
 
         done = 0
-        for i, cid in enumerate(case_ids, 1):
+        for i, cid in enumerate(run_case_ids, 1):
             if doc["cases"].get(cid, {}).get("status") == "ok":
                 continue
             if cid not in outputs or args.subject_model not in outputs[cid]:
                 doc["cases"][cid] = {"status": "skipped", "error": "missing_subject_output"}
                 continue
 
-            print(f"[{group}] {i}/{len(case_ids)} {cid}", flush=True)
+            print(f"[{group}] {i}/{len(run_case_ids)} {cid}", flush=True)
             try:
                 row = evaluate_one_case(
                     cid,
@@ -258,17 +291,13 @@ def main() -> None:
                     "error": str(exc),
                     "traceback": traceback.format_exc(),
                 }
+            _refresh_meta()
             _save(out_path, doc)
 
-        ok_rows = [c for c in doc["cases"].values() if c.get("status") == "ok"]
-        if ok_rows:
-            meta["mean_efficiency"] = sum(r["efficiency"] for r in ok_rows) / len(ok_rows)
-            meta["mean_factulity"] = sum(r["factulity"] for r in ok_rows) / len(ok_rows)
-            meta["mean_recall"] = sum(r["recall"] for r in ok_rows) / len(ok_rows)
-        meta["completed_ok"] = len(ok_rows)
-        meta["total_cases"] = len(case_ids)
+        _refresh_meta()
         _save(out_path, doc)
-        print(f"Wrote {out_path} ({len(ok_rows)} ok / {len(case_ids)} cases)")
+        ok_rows = [c for c in doc["cases"].values() if c.get("status") == "ok"]
+        print(f"Wrote {out_path} ({len(ok_rows)} ok / {len(run_case_ids)} cases)")
         if len(ok_rows) == 0 and doc["cases"]:
             sample = next(c for c in doc["cases"].values() if c.get("error"))
             if sample:

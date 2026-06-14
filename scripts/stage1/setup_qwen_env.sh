@@ -35,6 +35,7 @@ pip install \
   "bitsandbytes==0.42.0" \
   tqdm \
   "huggingface_hub>=0.26,<1.0" \
+  autoawq \
   --only-binary :all:
 
 # Persist bitsandbytes CUDA libs (same as gemma_scope)
