@@ -24,7 +24,7 @@ INFERENCE_DIR = STAGE1_DIR / "inference"
 
 DEFAULT_STRONG_SRC = {
     "diagnosis": PROJECT_ROOT / "oracle_diagnosis.json",
-    "treatment": None,
+    "treatment": PROJECT_ROOT / "data" / "InferenceResults" / "treatment_planning.json",
 }
 
 DEFAULT_CASES = {

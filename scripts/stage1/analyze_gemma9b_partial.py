@@ -139,9 +139,40 @@ def main() -> None:
         triple = sum(1 for r in rows if all(r[k] >= 0.999 for k in MET))
         print(f"    triple>=0.999: {triple}/{len(rows)}")
 
+    print("\n" + "=" * 70)
+    print("9B direct vs aug (all 3 models)")
+    print("=" * 70)
+    for s in SUBJ:
+        d0 = load("gemma-9b-it", s, "direct")
+        d1 = load("gemma-9b-it", s, "inference_augmented")
+        print(f"  {s}:")
+        for k, label in zip(MET, LAB):
+            m0 = st.mean(d0[c][k] for c in d0)
+            m1 = st.mean(d1[c][k] for c in d1)
+            print(f"    {label}: {m0:.3f} -> {m1:.3f}  ({(m1-m0)*100:+.1f} pp)")
+
     if len(common9) >= 3:
         print("\n" + "=" * 70)
-        print(f"28-case Rec winners/losers")
+        print("Rec pairwise (direct): qwen vs strong models")
+        print("=" * 70)
+        diff_qd = [by9["qwen3-8b"][c]["recall"] - by9["deepseek-r1"][c]["recall"] for c in sorted(common9)]
+        diff_qo = [by9["qwen3-8b"][c]["recall"] - by9["o3-mini"][c]["recall"] for c in sorted(common9)]
+        diff_od = [by9["o3-mini"][c]["recall"] - by9["deepseek-r1"][c]["recall"] for c in sorted(common9)]
+        print(
+            f"  qwen - deepseek: mean={st.mean(diff_qd)*100:+.1f}pp  "
+            f"qwen wins (>{0}): {sum(1 for x in diff_qd if x > 0)}/100"
+        )
+        print(
+            f"  qwen - o3:       mean={st.mean(diff_qo)*100:+.1f}pp  "
+            f"qwen wins: {sum(1 for x in diff_qo if x > 0)}/100"
+        )
+        print(
+            f"  o3 - deepseek:   mean={st.mean(diff_od)*100:+.1f}pp  "
+            f"o3 wins: {sum(1 for x in diff_od if x > 0)}/100"
+        )
+
+        print("\n" + "=" * 70)
+        print(f"{len(common9)}-case Rec winners/losers")
         print("=" * 70)
         for role, fn in [("lowest", min), ("highest", max)]:
             counts = {s: 0 for s in SUBJ}

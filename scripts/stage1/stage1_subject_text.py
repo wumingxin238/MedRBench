@@ -71,7 +71,9 @@ def gt_reasoning_for_case(case: dict, task: str) -> str:
     """Ground-truth reasoning text for completeness (diagnosis vs treatment)."""
     gen = case["generate_case"]
     if task == "treatment":
-        return gen.get("treatment_plan", "") or gen.get("final_treatment", "")
+        analysis = gen.get("treatment_planning_analysis", "")
+        results = gen.get("treatment_plan_results", "")
+        return f"{analysis}\n Treatment plan results:\n{results}"
     diff = gen.get("differential_diagnosis", "")
     final = gen.get("final_diagnosis", "")
     return f"{diff}\n Final diagnosis:\n{final}"
@@ -80,5 +82,5 @@ def gt_reasoning_for_case(case: dict, task: str) -> str:
 def gt_answer_for_case(case: dict, task: str) -> str:
     gen = case["generate_case"]
     if task == "treatment":
-        return gen.get("final_treatment", "") or gen.get("treatment_plan", "")
+        return gen.get("treatment_plan_results", "") or gen.get("treatment_planning_analysis", "")
     return gen.get("final_diagnosis", "")
