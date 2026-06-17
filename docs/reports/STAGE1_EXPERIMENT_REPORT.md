@@ -2,7 +2,7 @@
 
 > **环境**：GPU-P100-2（2× P100 16GB）  
 > **数据**：`demo_diagnosis_100.json` / `demo_treatment_100.json`（各 100 例，seed=42）  
-> **更新**：2026-06-13（Diagnosis reasoning_eval 完整；Treatment 进行中）
+> **更新**：2026-06-17（Diagnosis reasoning_eval + Accuracy 完整；Treatment 进行中）
 
 ---
 
@@ -71,6 +71,7 @@ flowchart LR
 | qwen3-14b | ❌ 0/100（环境阻塞） |
 | Gemma-2B reasoning_eval | ✅ 3 模型 × 2 组 |
 | Gemma-9B reasoning_eval | ✅ 3 模型 × 2 组（600 case） |
+| Diagnosis Accuracy（GPT-4o Judge） | ✅ 3 模型 × 100 例 |
 
 ### Treatment（进行中）
 
@@ -82,7 +83,7 @@ flowchart LR
 
 ### Gemma Scope（辅助，1–5 分）
 
-见 §6.4；9B 饱和，2B 仅作参考。
+见 §6.5；9B 饱和，2B 仅作参考。
 
 ---
 
@@ -189,7 +190,89 @@ flowchart LR
 
 aug 主要信号在 **Efficiency 下降**；Rec 对 o3/deepseek 略升（+1.6~1.7 pp）。aug 后三模型 Eff 收敛至 **87~90%**。
 
-### 6.3 逐 case 分差（三模型 max−min）
+### 6.3 Diagnosis Accuracy × reasoning_eval 分层
+
+**Accuracy**：`oracle_diagnose_accuracy.py`（GPT-4o Judge，语义等价，无 web search）；结果见 `data/Stage1/acc_results/`。
+
+#### 三模型 Accuracy
+
+| Subject | 正确 | 错误 | Accuracy |
+|---------|------|------|----------|
+| o3-mini | 92 | 8 | **92.0%** |
+| deepseek-r1 | 95 | 5 | **95.0%** |
+| qwen3-8b | 86 | 14 | **86.0%** |
+
+Strong > Weak 在 **最终诊断对错** 上成立（deepseek > o3 > qwen），与 reasoning_eval 聚合排序相反。
+
+#### Gemma-9B · direct · 按对错分层
+
+**o3-mini**（92 对 / 8 错）
+
+| 分层 | n | Eff | Fact | Rec |
+|------|---|-----|------|-----|
+| 回答对 | 92 | 96.3% | 96.2% | **95.3%** |
+| 回答错 | 8 | 98.2% | 93.9% | **88.5%** |
+| 全部 | 100 | 96.4% | 96.0% | 94.8% |
+| 差值（对−错） | | −1.9 pp | +2.2 pp | **+6.8 pp** |
+
+**deepseek-r1**（95 对 / 5 错）
+
+| 分层 | n | Eff | Fact | Rec |
+|------|---|-----|------|-----|
+| 回答对 | 95 | 98.4% | 95.7% | **92.1%** |
+| 回答错 | 5 | 96.0% | 92.0% | **80.4%** |
+| 全部 | 100 | 98.3% | 95.5% | 91.5% |
+| 差值（对−错） | | +2.4 pp | +3.7 pp | **+11.6 pp** |
+
+**qwen3-8b**（86 对 / 14 错）
+
+| 分层 | n | Eff | Fact | Rec |
+|------|---|-----|------|-----|
+| 回答对 | 86 | 97.4% | 95.1% | 96.5% |
+| 回答错 | 14 | 98.6% | 96.8% | 96.3% |
+| 全部 | 100 | 97.6% | 95.4% | 96.4% |
+| 差值（对−错） | | −1.2 pp | −1.6 pp | +0.1 pp |
+
+#### Gemma-9B · inference_augmented · 按对错分层
+
+**o3-mini**（92 对 / 8 错）
+
+| 分层 | n | Eff | Fact | Rec |
+|------|---|-----|------|-----|
+| 回答对 | 92 | 89.2% | 95.3% | **97.1%** |
+| 回答错 | 8 | 88.8% | 92.6% | **87.9%** |
+| 全部 | 100 | 89.2% | 95.1% | 96.4% |
+| 差值（对−错） | | +0.4 pp | +2.7 pp | **+9.2 pp** |
+
+**deepseek-r1**（95 对 / 5 错）
+
+| 分层 | n | Eff | Fact | Rec |
+|------|---|-----|------|-----|
+| 回答对 | 95 | 87.6% | 94.5% | **93.4%** |
+| 回答错 | 5 | 83.3% | 90.0% | **88.0%** |
+| 全部 | 100 | 87.4% | 94.3% | 93.2% |
+| 差值（对−错） | | +4.3 pp | +4.5 pp | **+5.4 pp** |
+
+**qwen3-8b**（86 对 / 14 错）
+
+| 分层 | n | Eff | Fact | Rec |
+|------|---|-----|------|-----|
+| 回答对 | 86 | 90.0% | 94.2% | 96.2% |
+| 回答错 | 14 | 89.2% | **96.0%** | 94.9% |
+| 全部 | 100 | 89.9% | 94.4% | 96.1% |
+| 差值（对−错） | | +0.8 pp | **−1.8 pp** | +1.3 pp |
+
+**解读**：
+
+- **Rec 与对错关联最强的是 deepseek direct**（错例 Rec 80.4%，差 **+11.6 pp**）；o3 direct/aug 亦有 6.8~9.2 pp 信号。
+- **direct 组 Eff 几乎无分层信号**，且 o3/qwen **错例 Eff 反而略高**（−1.2~−1.9 pp）——高效推理链不等于诊断正确。
+- **qwen 两组均无法靠 reasoning 预测对错**：direct Rec 差仅 +0.1 pp；aug Fact 错例更高（−1.8 pp）。
+- **aug vs direct**：aug 引入 Final Answer 后，o3/deepseek 错例 Rec 信号略强（+9.2 / +5.4 pp vs +6.8 / +11.6 pp），但 Eff 在 aug 才有模型间收敛；**direct 更饱和（Eff ~96~98%），分层更难**。
+- **聚合 reasoning 仍拉不开 Strong/Weak**：qwen direct/aug Rec 均最高，与 Accuracy 排序相反。
+
+复现：`python scripts/stage1/analyze_gemma9b_by_accuracy.py --group both`
+
+### 6.4 逐 case 分差（三模型 max−min）
 
 | 指标 | 2B direct | 9B direct | 9B aug |
 |------|-----------|-----------|--------|
@@ -231,7 +314,7 @@ aug 主要信号在 **Efficiency 下降**；Rec 对 o3/deepseek 略升（+1.6~1.
 | Factuality | 50.2% | 74.9% |
 | Completeness | **63.3%** | 55.5% |
 
-### 6.4 Gemma Scope 辅助评估（1–5 分）
+### 6.5 Gemma Scope 辅助评估（1–5 分）
 
 | Judge | Subject | direct | sae_aug | Δ |
 |-------|---------|--------|---------|---|
@@ -250,19 +333,20 @@ aug 主要信号在 **Efficiency 下降**；Rec 对 o3/deepseek 略升（+1.6~1.
 |------|------|
 | Demo 流程（diagnosis） | ✅ |
 | aug 组设计 | ✅ 2B 提 Rec；9B 降 Eff |
-| Strong/Weak 分层 | ❌ 2B/9B 均不能；9B 上 weak 反而 Rec 更高 |
-| Accuracy | ⏳ 未做；reasoning ≠ 诊断/治疗对错 |
+| Strong/Weak 分层（reasoning） | ❌ 2B/9B 均不能；9B 上 weak 反而 Rec 更高 |
+| Strong/Weak 分层（Accuracy） | ✅ deepseek 95% > o3 92% > qwen 86% |
+| Accuracy × reasoning 交叉 | ✅ 见 §6.3；Rec 有弱信号，Eff/Fact 不可靠 |
 
 **要点**：
 
-1. reasoning_eval 评 **推理链质量**，不是最终 Answer 对错。
+1. reasoning_eval 评 **推理链质量**；**Accuracy** 评最终诊断对错——二者需分开解读。
 2. Judge 选择影响极大；case 难度常大于模型差异。
-3. deepseek 在 9B Rec 上系统性偏低，待 Accuracy 交叉解释。
-4. Stage 2 优先：**Accuracy eval**，再按对错分层看 reasoning；并行推进 **Treatment** 全流程。
+3. deepseek 9B Rec 最低但 Accuracy 最高；qwen Rec 最高但 Accuracy 最低——**reasoning 与 outcome 可背离**。
+4. Stage 2 并行：**Treatment** 全流程；可选 2B/9B direct 组做同样 Accuracy 分层。
 
 ```mermaid
 flowchart LR
-  RE[reasoning_eval 已完成] --> ACC[Stage 2: Accuracy]
+  RE[reasoning_eval] --> ACC[Accuracy eval]
   ACC --> X[按对错分层 × reasoning]
 ```
 
@@ -275,8 +359,10 @@ flowchart LR
 | `data/MedRBench/demo_*_100.json` | Demo 病例 |
 | `data/InferenceResults/treatment_planning.json` | Treatment 官方推理（496） |
 | `data/Stage1/oracle_{diagnosis,treatment}_subjects.json` | 合并 subject |
-| `data/Stage1/reasoning_eval/{diagnosis,treatment}_gemma-{2b,9b}-it_*.json` | 评估结果 |
+| `data/Stage1/reasoning_eval/{diagnosis,treatment}_gemma-{2b,9b}-it_*.json` | reasoning_eval 结果 |
+| `data/Stage1/acc_results/{model}/PMC*.json` | Diagnosis Accuracy（含 `accuracy` 字段） |
 | `scripts/stage1/` | 推理、评估、分析脚本 |
+| `scripts/stage1/analyze_gemma9b_by_accuracy.py` | §6.3 分层统计 |
 
 ---
 
