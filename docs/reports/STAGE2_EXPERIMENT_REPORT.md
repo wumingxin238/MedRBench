@@ -16,6 +16,8 @@
 - [6. 结果：Gemma-9B-it（qwen3-14b-thinking）](#sec-6)
   - [6.1 聚合均值](#sec-6-1)
   - [6.2 aug 组间效应](#sec-6-2)
+    - [6.2.1 机制：为何 Eff↓、Rec↑](#sec-6-2-1)
+    - [6.2.2 aug 能否帮助预测诊断对错](#sec-6-2-2)
   - [6.3 Accuracy × reasoning 分层](#sec-6-3)
   - [6.4 与 Stage-1 qwen3-8b 对比](#sec-6-4)
   - [6.5 错例与典型 case](#sec-6-5)
@@ -95,6 +97,15 @@ flowchart LR
 ```
 
 **指标**（无 web search）：Efficiency、Factuality、Completeness（recall）；Accuracy 为 GPT 对 `diagnosis_results` 的语义等价判断。
+
+**两组 scoring**（`scripts/stage1/stage1_subject_text.py`）：
+
+| 组别 | 评什么 |
+|------|--------|
+| **direct** | 仅 `<step N>` 推理步 |
+| **inference_augmented** | 推理步 + 末尾追加 `Final model inference: {最终诊断}` |
+
+Accuracy **与组别无关**（始终评 subject 最终答案）；aug 只改变 Gemma 对 **推理链** 的三指标。
 
 **并行策略（A800）**：
 
@@ -195,8 +206,65 @@ Hard 比 demo **低 17.7 pp**；89 个错例中 **80 个（90%）来自 hard 300
 
 与 Stage-1 一致：append Final Answer 后 **Efficiency 系统性下降**，**Completeness 略升** → aug 组设计在 Stage-2 **依然有效**。
 
+<a id="sec-6-2-1"></a>
+#### 6.2.1 机制：为何 Eff↓、Rec↑、Fact 略↓
+
+```mermaid
+flowchart LR
+  subgraph direct [direct]
+    S1[step 1..N]
+  end
+  subgraph aug [inference_augmented]
+    A1[step 1..N] --> F["Final model inference: 答案"]
+  end
+  direct --> J1[Gemma 评 Eff/Fact/Rec]
+  aug --> J2[Gemma 评 Eff/Fact/Rec]
+```
+
+| 现象 | Δ（aug−direct） | 机制解释 |
+|------|-----------------|----------|
+| **Eff ↓** | **−8.7 pp** | 多一步 `Final model inference`；Gemma 常将其标为 **Citation / Redundancy**（与前面推理重复），拉低「有效推理步」占比。201/400 case 的 Eff 单例下降 ≥ 10 pp，中位降约 12 pp |
+| **Rec ↑** | **+2.4 pp** | 最后一步 **显式写出最终诊断**，Completeness 的 hit-check 更容易算作覆盖了 GT 推理中的 **结论段** |
+| **Fact 略 ↓** | −1.4 pp | 多一步即多一次事实性判定；若最终答案与前面某步表述不一致，该步可能被扣分 |
+
+与 Stage-1 qwen3-8b 的 aug 效应对照：
+
+| 指标 | Stage-1 8B · aug−direct | Stage-2 14B · aug−direct |
+|------|-------------------------|--------------------------|
+| Eff | −7.6 pp | **−8.7 pp** |
+| Rec | −0.3 pp | **+2.4 pp** |
+
+14B-thinking 上 **aug 对 Rec 的正向效果更明显**，可能与 thinking 链更长、显式 Final 步对 GT 覆盖的补充更大有关。
+
+**重要**：aug **不改变** Diagnosis Accuracy（仍为 311/400）；只改变 Gemma 对 process 的打分。
+
+<a id="sec-6-2-2"></a>
+#### 6.2.2 aug 能否帮助「用 reasoning 猜对错」
+
+若把 Gemma 三指标当作 outcome 的 proxy，direct 与 aug **分工不同**：
+
+| 分组 | 答对 vs 答错 · Rec 差 | 答对 vs 答错 · Eff 差 | 答对 vs 答错 · Fact 差 |
+|------|----------------------|----------------------|------------------------|
+| **direct** | **+9.0 pp** | +1.1 pp（几乎无效） | **+6.3 pp** |
+| **aug** | +6.6 pp | **+4.7 pp** | **+6.1 pp** |
+
+| 组别 | 更适合做什么 |
+|------|--------------|
+| **direct** | **Rec / Fact** 更能区分诊断对错；Eff 在 ~98% **饱和**，几乎无分层信号 |
+| **aug** | **Eff** 开始有一点分层（错例 Eff 更低）；Rec 仍有用但 **弱于 direct**（+6.6 pp vs +9.0 pp） |
+
+Pearson r（acc × Rec）：direct **0.26** · aug 0.21——用 Rec 猜对错时 **direct 略优**；若关心「整条链（含结论步）是否简洁」，可看 aug 的 Eff 差 +4.7 pp。
+
+**使用建议**（与 Stage-1 §6.3 一致）：
+
+- 评 **纯推理过程** → 看 **direct**
+- 评 **推理是否把最终结论纳入评估视野** → 看 **aug**（Rec↑ 但 Eff↓）
+- 评 **最终对不对** → 只看 **Accuracy**，与 direct/aug 无关
+
 <a id="sec-6-3"></a>
 ### 6.3 Diagnosis Accuracy × reasoning_eval 分层
+
+本节在 §6.2.2 基础上给出完整分层表（400 例，GPT-4o Accuracy × Gemma-9B reasoning）。
 
 #### Gemma-9B · direct · 按对错分层（400 例）
 
@@ -221,12 +289,12 @@ Hard 比 demo **低 17.7 pp**；89 个错例中 **80 个（90%）来自 hard 300
 | direct | **0.26** |
 | inference_augmented | 0.21 |
 
-**解读**（对照 Stage-1 §6.3）：
+**解读**（对照 Stage-1 §6.3；aug 机制见 §6.2.1–§6.2.2）：
 
 - **Rec 与对错正相关**：direct 错例 Rec 82.2%，差 **+9.0 pp**——信号强于 Stage-1 qwen3-8b（direct Rec 差仅 +0.1 pp）。
-- **Factuality 有中等信号**：错例 Fact 低 ~6 pp（Stage-1 qwen 无此信号）。
-- **Efficiency 仍几乎不能预测对错**（direct +1.1 pp；Stage-1 上 qwen 错例 Eff 反而更高）。
-- **aug 组** Eff 分层更明显（+4.7 pp），与 Stage-1 o3/deepseek aug 模式一致。
+- **Factuality 有中等信号**：两组错例 Fact 均低 ~6 pp（Stage-1 qwen direct 无此信号）。
+- **direct 上 Eff 几乎不能预测对错**（+1.1 pp）；**aug 上 Eff 有弱信号**（+4.7 pp），因 Final 步拉低错例整条链的有效步占比。
+- **direct 的 Rec 分层强于 aug**（+9.0 vs +6.6 pp）；若要用 reasoning  proxy 预测 outcome，**优先 direct 的 Rec/Fact**。
 - 89 错例中仅 **6 例 direct Rec < 0.5** → 大量 **「推理覆盖度中等偏高但结论错」** 案例。
 
 复现：
@@ -313,16 +381,18 @@ flowchart TB
 | Stage-2 全流程（400 例） | ✅ 推理 + Gemma + Accuracy 全部完成 |
 | Hard 300 难度 | ✅ Acc 73.3% vs demo 91%；90% 错例来自 hard |
 | qwen3-14b-thinking vs 8B（demo） | ✅ Acc **+5 pp**；Gemma Rec **−7 pp** |
-| aug 组设计 | ✅ Eff −8.7 pp、Rec +2.4 pp，与 Stage-1 一致 |
-| reasoning 预测 outcome | ⚠️ Rec/Fact 有弱–中等信号（r≈0.26）；Eff 饱和无效 |
+| aug 组设计 | ✅ Eff −8.7 pp、Rec +2.4 pp；机制见 §6.2.1 |
+| aug 预测 outcome | ⚠️ Eff 有弱信号（+4.7 pp）；Rec 弱于 direct（§6.2.2） |
+| reasoning 预测 outcome（direct） | ⚠️ Rec/Fact 有弱–中等信号（r≈0.26）；Eff 饱和无效 |
 | Strong/Weak 在 400 上完整对比 | ⏸️ 本报告仅 qwen3-14b-thinking 全 400；o3/deepseek 全 400 acc 待跑 |
 
 **要点**：
 
 1. **Hard 子集主要影响 outcome，不 much 影响 Gemma process 分数**——解读 400 例 aggregate 时必须分子集。
 2. **14B-thinking 改善最终诊断（77.8% / demo 91%），但不改善 Gemma Completeness**——与 Stage-1「Rec 高 Acc 低」同一类背离，换更大 thinking 模型仍存在。
-3. **Accuracy × reasoning 交叉在 14B 上比 8B 更有信号**（Rec 差 +9 pp vs +0.1 pp），说明 reasoning_eval 对 outcome 仍 **弱相关、非充分**。
-4. **Judge 备注**：Accuracy 实际为 **GPT-4o**（xiaoai 无 gpt-5），与 Stage-1 一致，可与 Stage-1 直接对比。
+3. **Accuracy × reasoning 交叉在 14B 上比 8B 更有信号**（direct Rec 差 +9 pp vs +0.1 pp），但仍是 **弱相关**；**aug 不提升 Acc**，只改变 process 指标的含义（§6.2）。
+4. **direct vs aug**：direct 适合 Rec/Fact 分层；aug 适合观察「含结论步」时的 Eff 变化——二者 **不可混比 aggregate**。
+5. **Judge 备注**：Accuracy 实际为 **GPT-4o**（xiaoai 无 gpt-5），与 Stage-1 一致，可与 Stage-1 直接对比。
 
 ### Stage-1 → Stage-2 对照摘要
 
