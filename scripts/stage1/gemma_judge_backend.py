@@ -44,27 +44,56 @@ def _model_device(model: Any) -> torch.device:
     return next(model.parameters()).device
 
 
+def _visible_gpu_mem_gib() -> float:
+    if not torch.cuda.is_available():
+        return 0.0
+    free, total = torch.cuda.mem_get_info(0)
+    return total / (1024**3)
+
+
 def _load_gemma_9b_judge(model_id: str) -> Any:
     """
     P100 2x16GB judge loading.
     Prefer 4bit on one GPU (GEMMA_JUDGE_9B_MODE=4bit); fp16 splits weights with headroom for KV cache.
+    A800 / 80GB: set GEMMA_JUDGE_FULL_GPU=1 or auto-detect >= 40GiB → single-GPU fp16 (no CPU offload).
     """
-    gu = _gemma_utils()
     mode = os.environ.get(
         "GEMMA_JUDGE_9B_MODE",
         os.environ.get("GEMMA_9B_MODE", "4bit"),
     ).lower()
 
     if mode == "4bit":
+        gu = _gemma_utils()
         print("Loading Gemma 9B judge 4-bit (single GPU)...", flush=True)
         try:
             return gu._load_gemma_9b_4bit(model_id)
-        except RuntimeError as exc:
+        except (RuntimeError, ValueError) as exc:
+            n_visible = torch.cuda.device_count()
+            if n_visible <= 1:
+                raise RuntimeError(
+                    f"Gemma 9B 4-bit failed on single GPU ({exc}).\n"
+                    "Do not fp16-fallback on 16GB — fix 4bit or reset GPU0:\n"
+                    "  nvidia-smi  # kill stale python\n"
+                    "  CUDA_VISIBLE_DEVICES=0 python -c \"import torch; torch.zeros(1).cuda()\""
+                ) from exc
             print(f"4bit failed ({exc}); falling back to fp16 split...", flush=True)
             mode = "fp16"
 
+    full_gpu = os.environ.get("GEMMA_JUDGE_FULL_GPU", "").lower() in ("1", "true", "yes")
+    mem_gib = _visible_gpu_mem_gib()
+    if full_gpu or mem_gib >= 40:
+        print(
+            f"Loading Gemma 9B judge fp16 on cuda:0 (~{mem_gib:.0f}GiB visible, no CPU offload)...",
+            flush=True,
+        )
+        return AutoModelForCausalLM.from_pretrained(
+            model_id,
+            torch_dtype=torch.float16,
+            device_map="cuda:0",
+            low_cpu_mem_usage=True,
+        )
+
     n_gpu = torch.cuda.device_count()
-    # ~10GiB/GPU for weights → ~6GiB left on each P100 for generate KV cache
     max_memory = {i: "10GiB" for i in range(n_gpu)}
     max_memory["cpu"] = "48GiB"
     print(

@@ -44,6 +44,8 @@ def _model_device(model: Any) -> torch.device:
 
 def _load_gemma_9b_4bit(model_id: str) -> Any:
     """Single-GPU 4bit. Use integer device index in device_map (str cuda:0 breaks on some accelerate)."""
+    import gc
+
     from transformers import BitsAndBytesConfig
 
     bnb = BitsAndBytesConfig(
@@ -53,39 +55,46 @@ def _load_gemma_9b_4bit(model_id: str) -> Any:
         bnb_4bit_use_double_quant=True,
     )
     attempts = [
+        ("quantization_config, device_map=auto", {
+            "quantization_config": bnb,
+            "device_map": "auto",
+        }),
         ("quantization_config, device_map=0", {
+            "quantization_config": bnb,
+            "device_map": {"": 0},
+        }),
+        ("quantization_config, device_map=0, low_cpu", {
             "quantization_config": bnb,
             "device_map": {"": 0},
             "low_cpu_mem_usage": True,
         }),
-        ("quantization_config, device_map=cuda:0", {
-            "quantization_config": bnb,
-            "device_map": "cuda:0",
-            "low_cpu_mem_usage": True,
-        }),
-        ("quantization_config, device_map=auto", {
-            "quantization_config": bnb,
+        ("load_in_4bit, device_map=auto", {
+            "load_in_4bit": True,
+            "bnb_4bit_compute_dtype": torch.float16,
             "device_map": "auto",
-            "max_memory": {0: "14GiB", "cpu": "48GiB"},
-            "low_cpu_mem_usage": True,
         }),
         ("load_in_4bit, device_map=0", {
             "load_in_4bit": True,
             "bnb_4bit_compute_dtype": torch.float16,
             "device_map": {"": 0},
-            "low_cpu_mem_usage": True,
         }),
     ]
     last_exc: Optional[Exception] = None
     for label, kwargs in attempts:
         try:
             print(f"  4bit load: {label}...", flush=True)
-            return AutoModelForCausalLM.from_pretrained(model_id, **kwargs)
-        except ValueError as exc:
+            model = AutoModelForCausalLM.from_pretrained(model_id, **kwargs)
+            model.eval()
+            return model
+        except (ValueError, RuntimeError) as exc:
             last_exc = exc
-            if "4-bit" not in str(exc) and "8-bit" not in str(exc):
+            msg = str(exc)
+            if "4-bit" not in msg and "8-bit" not in msg and "bitsandbytes" not in msg.lower():
                 raise
             print(f"  4bit load failed ({label}): {exc}", flush=True)
+            gc.collect()
+            if torch.cuda.is_available():
+                torch.cuda.empty_cache()
     raise RuntimeError(f"Gemma 9B 4-bit load failed after {len(attempts)} attempts") from last_exc
 
 

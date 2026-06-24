@@ -62,10 +62,12 @@ CASES = {
 MODELS = {
     "qwen3-8b": "Qwen/Qwen3-8B",
     "qwen3-14b": "Qwen/Qwen3-14B",
+    "qwen3-14b-thinking": "Qwen/Qwen3-14B",
 }
 # Pre-quantized AWQ (~9GB VRAM); avoids bitsandbytes (problematic on P100 + bnb 0.42).
 AWQ_MODELS = {
     "qwen3-14b": "Qwen/Qwen3-14B-AWQ",
+    "qwen3-14b-thinking": "Qwen/Qwen3-14B-AWQ",
 }
 
 SYSTEM_PROMPT = "You are a professional doctor"
@@ -233,6 +235,12 @@ def _build_14b_strategies(quant_mode: str) -> dict[str, dict]:
         )
 
     # fp16 needs both GPUs mostly free (~28GB). Do not use while Gemma holds GPU0.
+    if quant_mode in ("fp16", "fp16-single"):
+        strategies["fp16-single-gpu"] = {
+            "torch_dtype": torch.float16,
+            "device_map": "cuda:0",
+        }
+
     if quant_mode in ("fp16-split",) and n_gpu >= 2:
         strategies["fp16-2gpu-balanced"] = {
             "torch_dtype": torch.float16,
@@ -295,14 +303,44 @@ def _cuda_preflight() -> None:
         ) from exc
 
 
+def _bootstrap_awq_centos7() -> None:
+    """Force AWQ GEMM naive matmul when CUDA kernels are absent.
+
+    autoawq 0.2.9 ignores ``use_triton=`` on ``from_quantized``. Pre-quantized
+    GEMM checkpoints install ``WQLinear_GEMM``, which prefers Triton when
+    ``awq_ext`` is missing. CentOS 7 / triton 2.1 lacks ``tl.interleave``; triton
+    3.x needs stdatomic.h (GCC 4.8). Disabling Triton selects dequantize+matmul.
+    """
+    try:
+        import awq.modules.linear.gemm as gemm_mod
+
+        gemm_mod.TRITON_AVAILABLE = False
+        gemm_mod.awq_ext = None
+    except Exception:
+        pass
+
+
 def _load_14b_awq(awq_id: str):
     _cuda_preflight()
-    print(f"Loading AWQ (no bitsandbytes): {awq_id}", file=sys.stderr)
-    return AutoModelForCausalLM.from_pretrained(
-        awq_id,
-        device_map="auto",
-        trust_remote_code=True,
-    )
+    _bootstrap_awq_centos7()
+    print(f"Loading AWQ (triton disabled, naive GEMM): {awq_id}", file=sys.stderr)
+    try:
+        from awq import AutoAWQForCausalLM
+
+        return AutoAWQForCausalLM.from_quantized(
+            awq_id,
+            device_map="auto",
+            trust_remote_code=True,
+            fuse_layers=False,
+        )
+    except Exception as exc:
+        print(f"AutoAWQForCausalLM failed ({exc}); trying transformers...", file=sys.stderr)
+        _bootstrap_awq_centos7()
+        return AutoModelForCausalLM.from_pretrained(
+            awq_id,
+            device_map="auto",
+            trust_remote_code=True,
+        )
 
 
 def _load_14b_bnb(model_id: str, quant_mode: str):
@@ -339,21 +377,38 @@ def _load_14b_bnb(model_id: str, quant_mode: str):
     return _try_load(model_id, winning, strategies[winning])
 
 
-def _load_14b(model_id: str, quant_mode: str, model_path: str | None):
-    awq_id = model_path or AWQ_MODELS.get("qwen3-14b", model_id)
+def _load_14b_fp16(model_id: str):
+    _cuda_preflight()
+    print(f"Loading 14B fp16 on cuda:0: {model_id}", file=sys.stderr)
+    return AutoModelForCausalLM.from_pretrained(
+        model_id,
+        device_map="cuda:0",
+        trust_remote_code=True,
+        torch_dtype=torch.float16,
+        low_cpu_mem_usage=True,
+    )
+
+
+def _load_14b(model_id: str, quant_mode: str, model_path: str | None, model_key: str = "qwen3-14b"):
+    awq_id = model_path or AWQ_MODELS.get(model_key, AWQ_MODELS.get("qwen3-14b", model_id))
+
+    if quant_mode in ("fp16", "fp16-single"):
+        return _load_14b_fp16(model_id)
 
     if quant_mode in ("auto", "awq"):
         try:
             return _load_14b_awq(awq_id)
         except Exception as exc:
-            if quant_mode == "awq":
+            _reset_cuda()
+            err = str(exc).lower()
+            missing_awq = "autoawq" in err or "auto-awq" in err or "awq" in err and "install" in err
+            if quant_mode == "awq" and not missing_awq:
                 raise RuntimeError(
                     f"AWQ load failed for {awq_id}: {exc}\n"
                     "Install: pip install autoawq\n"
-                    "Or use base model: --quant-mode 4bit (needs bitsandbytes>=0.43)"
+                    "Or use: --quant-mode auto / --quant-mode 4bit"
                 ) from exc
-            print(f"AWQ load failed ({exc}); trying bitsandbytes...", file=sys.stderr)
-            _reset_cuda()
+            print(f"AWQ unavailable ({exc}); trying bitsandbytes...", file=sys.stderr)
 
     if quant_mode in ("auto", "4bit", "8bit", "fp16-split", "fp16-asymmetric"):
         return _load_14b_bnb(model_id, quant_mode)
@@ -364,12 +419,14 @@ def _load_14b(model_id: str, quant_mode: str, model_path: str | None):
 def _load_model_and_tokenizer(
     model_id: str, model_key: str, quant_mode: str = "auto", model_path: str | None = None
 ):
-    need_quant = model_key == "qwen3-14b"
-    _check_runtime_deps(need_quant=need_quant and quant_mode not in ("awq", "auto"))
+    need_quant = model_key in ("qwen3-14b", "qwen3-14b-thinking")
+    _check_runtime_deps(
+        need_quant=need_quant and quant_mode not in ("awq", "auto", "fp16", "fp16-single")
+    )
     tok_id = MODELS[model_key]
     tokenizer = AutoTokenizer.from_pretrained(tok_id, trust_remote_code=True)
     if need_quant:
-        model = _load_14b(model_id, quant_mode, model_path)
+        model = _load_14b(model_id, quant_mode, model_path, model_key)
     else:
         load_id = model_path or model_id
         model = AutoModelForCausalLM.from_pretrained(
@@ -381,21 +438,33 @@ def _load_model_and_tokenizer(
     return model, tokenizer
 
 
-def _generate(model, tokenizer, prompt: str) -> str:
+def _generate(
+    model,
+    tokenizer,
+    prompt: str,
+    *,
+    enable_thinking: bool = False,
+    max_new_tokens: int = MAX_NEW_TOKENS,
+) -> str:
     messages = [
         {"role": "system", "content": SYSTEM_PROMPT},
         {"role": "user", "content": prompt},
     ]
     kwargs = {"tokenize": False, "add_generation_prompt": True}
-    # Qwen3: disable thinking chain for oracle-style answers (transformers >= 4.51).
+    # Qwen3: thinking chain optional (transformers >= 4.51).
     try:
         text = tokenizer.apply_chat_template(
-            messages, enable_thinking=False, **kwargs
+            messages, enable_thinking=enable_thinking, **kwargs
         )
     except TypeError:
         text = tokenizer.apply_chat_template(messages, **kwargs)
     model_inputs = tokenizer([text], return_tensors="pt").to(_model_input_device(model))
-    generated_ids = model.generate(**model_inputs, max_new_tokens=MAX_NEW_TOKENS)
+    print(
+        f"Generating up to {max_new_tokens} tokens (naive AWQ can take many minutes per case)...",
+        file=sys.stderr,
+        flush=True,
+    )
+    generated_ids = model.generate(**model_inputs, max_new_tokens=max_new_tokens)
     new_ids = [
         output_ids[len(input_ids) :]
         for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
@@ -408,6 +477,12 @@ def main() -> None:
     parser.add_argument("--task", choices=["diagnosis", "treatment"], required=True)
     parser.add_argument("--model", choices=list(MODELS.keys()), required=True)
     parser.add_argument("--cases", type=Path, default=None)
+    parser.add_argument(
+        "--manifest",
+        type=Path,
+        default=None,
+        help="Manifest with task case_ids (default demo_stage1_manifest.json)",
+    )
     parser.add_argument("--out", type=Path, default=None)
     parser.add_argument("--limit", type=int, default=None)
     parser.add_argument("--no-resume", action="store_true")
@@ -425,13 +500,42 @@ def main() -> None:
     )
     parser.add_argument(
         "--quant-mode",
-        choices=["auto", "awq", "4bit", "8bit", "fp16-split", "fp16-asymmetric"],
+        choices=["auto", "awq", "4bit", "8bit", "fp16", "fp16-single", "fp16-split", "fp16-asymmetric"],
         default="auto",
         help=(
-            "14B only. auto=AWQ first (recommended on P100), then bnb fallbacks. "
-            "awq uses Qwen/Qwen3-14B-AWQ (~9GB, no bitsandbytes). "
-            "fp16-split needs both GPUs free (stop Gemma first)."
+            "14B only. fp16=single-GPU bf16/fp16 (~28GB, A800/V100). "
+            "auto=AWQ first (P100), then bnb fallbacks. "
+            "awq uses Qwen/Qwen3-14B-AWQ (~9GB). "
+            "fp16-split needs two 16GB GPUs (stop Gemma first)."
         ),
+    )
+    parser.add_argument(
+        "--shard-index",
+        type=int,
+        default=None,
+        help="Parallel shard index (0-based); use with --num-shards",
+    )
+    parser.add_argument(
+        "--num-shards",
+        type=int,
+        default=None,
+        help="Split manifest case_ids into N contiguous shards for multi-GPU runs",
+    )
+    parser.add_argument(
+        "--enable-thinking",
+        action="store_true",
+        help="Enable Qwen3 thinking mode in chat template",
+    )
+    parser.add_argument(
+        "--no-thinking",
+        action="store_true",
+        help="Disable thinking even for qwen3-14b-thinking",
+    )
+    parser.add_argument(
+        "--max-new-tokens",
+        type=int,
+        default=MAX_NEW_TOKENS,
+        help=f"Cap generation length (default {MAX_NEW_TOKENS}). Use 64 for AWQ smoke tests.",
     )
     args = parser.parse_args()
 
@@ -439,14 +543,36 @@ def main() -> None:
         os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu_id
 
     model_key = args.model
+    if args.no_thinking:
+        enable_thinking = False
+    elif args.enable_thinking:
+        enable_thinking = True
+    else:
+        enable_thinking = model_key == "qwen3-14b-thinking"
     model_id = _resolve_model_id(model_key, args.model_path)
     cases_path = args.cases or CASES[args.task]
     out_path = args.out or INFERENCE_DIR / f"{model_key}_{args.task}.json"
+    manifest_path = args.manifest or MANIFEST
 
     prompt_template = PROMPTS[args.task].read_text(encoding="utf-8")
     cases = _load(cases_path)
-    manifest = _load(MANIFEST)
+    manifest = _load(manifest_path)
     case_ids = manifest[args.task]["case_ids"]
+    if args.shard_index is not None:
+        if args.num_shards is None or args.num_shards < 1:
+            raise SystemExit("--num-shards is required (>=1) when using --shard-index")
+        if not (0 <= args.shard_index < args.num_shards):
+            raise SystemExit(f"--shard-index must be in [0, {args.num_shards})")
+        total = len(case_ids)
+        chunk = (total + args.num_shards - 1) // args.num_shards
+        start = args.shard_index * chunk
+        end = min(start + chunk, total)
+        case_ids = case_ids[start:end]
+        print(
+            f"Shard {args.shard_index}/{args.num_shards}: cases [{start}:{end}) "
+            f"({len(case_ids)} ids)",
+            file=sys.stderr,
+        )
     if args.limit:
         case_ids = case_ids[: args.limit]
 
@@ -455,12 +581,21 @@ def main() -> None:
         results = _load(out_path)
         print(f"Resuming from {out_path} ({len(results)} cases done)")
 
-    pending = [cid for cid in case_ids if cid in cases and cid not in results]
+    pending = [
+        cid
+        for cid in case_ids
+        if cid in cases
+        and (
+            cid not in results
+            or model_key not in results[cid]
+            or results[cid][model_key].get("error")
+        )
+    ]
     if not pending:
         print("Nothing to run.")
         return
 
-    print(f"Loading {model_id} ...")
+    print(f"Loading {model_id} (thinking={enable_thinking}) ...")
     model, tokenizer = _load_model_and_tokenizer(
         model_id, model_key, args.quant_mode, args.model_path
     )
@@ -469,7 +604,13 @@ def main() -> None:
         summary = cases[cid]["generate_case"]["case_summary"]
         prompt = prompt_template.format(case=summary)
         try:
-            response = _generate(model, tokenizer, prompt)
+            response = _generate(
+                model,
+                tokenizer,
+                prompt,
+                enable_thinking=enable_thinking,
+                max_new_tokens=args.max_new_tokens,
+            )
             results[cid] = {model_key: {"input": prompt, "content": response}}
         except Exception as exc:
             print(f"\nError on {cid}: {exc}", file=sys.stderr)

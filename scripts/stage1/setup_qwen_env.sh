@@ -35,8 +35,15 @@ pip install \
   "bitsandbytes==0.42.0" \
   tqdm \
   "huggingface_hub>=0.26,<1.0" \
-  autoawq \
-  --only-binary :all:
+  || true
+
+echo "==> NVIDIA CUDA libs (bitsandbytes on P100)"
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple \
+  nvidia-cuda-runtime-cu11 nvidia-cublas-cu11 nvidia-cusparse-cu11 \
+  2>/dev/null || pip install nvidia-cuda-runtime-cu11 nvidia-cublas-cu11 nvidia-cusparse-cu11
+
+echo "==> autoawq (required for Qwen3-14B on P100 — do not use --only-binary)"
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple "autoawq>=0.2.7" || pip install "autoawq>=0.2.7"
 
 # Persist bitsandbytes CUDA libs (same as gemma_scope)
 mkdir -p "$CONDA_PREFIX/etc/conda/activate.d"

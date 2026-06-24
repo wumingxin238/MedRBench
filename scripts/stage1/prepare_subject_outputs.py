@@ -38,7 +38,7 @@ DEFAULT_OUT = {
 }
 
 STRONG_MODELS = ["o3-mini", "deepseek-r1"]
-WEAK_MODELS = ["qwen3-8b", "qwen3-14b"]
+WEAK_MODELS = ["qwen3-8b", "qwen3-14b", "qwen3-14b-thinking"]
 
 
 def _load(path: Path) -> dict:
@@ -84,6 +84,18 @@ def main() -> None:
     parser.add_argument("--cases", type=Path, default=None)
     parser.add_argument("--strong-src", type=Path, default=None)
     parser.add_argument("--out", type=Path, default=None)
+    parser.add_argument(
+        "--inference-dir",
+        type=Path,
+        default=INFERENCE_DIR,
+        help="Directory with {model}_{task}.json weak-model outputs",
+    )
+    parser.add_argument(
+        "--weak-models",
+        nargs="*",
+        default=None,
+        help="Subset of weak models to merge (default: all in WEAK_MODELS)",
+    )
     args = parser.parse_args()
 
     manifest = _load(args.manifest)
@@ -101,8 +113,10 @@ def main() -> None:
     elif strong_src:
         print(f"Warning: strong oracle not found: {strong_src}")
 
-    for model in WEAK_MODELS:
-        weak_path = INFERENCE_DIR / f"{model}_{args.task}.json"
+    weak_models = args.weak_models if args.weak_models is not None else WEAK_MODELS
+
+    for model in weak_models:
+        weak_path = args.inference_dir / f"{model}_{args.task}.json"
         n = _merge_weak(merged, weak_path, model)
         print(f"  {model}: +{n} cases from {weak_path.name}")
 
@@ -110,7 +124,7 @@ def main() -> None:
 
     # Coverage report
     cases = _load(cases_path)
-    all_models = STRONG_MODELS + WEAK_MODELS
+    all_models = STRONG_MODELS + list(weak_models)
     print(f"\nWrote {out_path} ({len(merged)} cases)")
     for model in all_models:
         have = sum(1 for cid in case_ids if cid in merged and model in merged[cid])

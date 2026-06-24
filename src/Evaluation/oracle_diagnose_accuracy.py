@@ -78,6 +78,7 @@ def main(
     use_parallel=True,
     embedded_outputs=False,
     evaluation_model=None,
+    num_workers=NUM_WORKERS,
 ):
     """Orchestrate the evaluation process for a specific model."""
     # Create output directory if it doesn't exist
@@ -119,7 +120,7 @@ def main(
 
         # Create and start worker processes
         processes = []
-        worker_count = min(NUM_WORKERS, len(cases_to_evaluate))
+        worker_count = min(num_workers, len(cases_to_evaluate))
         logger.info(f"Starting {worker_count} worker processes")
         
         for _ in range(worker_count):
@@ -143,7 +144,7 @@ if __name__ == '__main__':
     # Set up command line argument parsing
     parser = argparse.ArgumentParser(description='Evaluate model accuracy on diagnose tasks')
     parser.add_argument('--model', type=str, required=True, 
-                      choices=['qwq', 'o3-mini', 'gemini2-ft', 'deepseek-r1', 'baichuan-m1', 'qwen3-14b', 'qwen3-8b'],
+                      choices=['qwq', 'o3-mini', 'gemini2-ft', 'deepseek-r1', 'baichuan-m1', 'qwen3-14b', 'qwen3-14b-thinking', 'qwen3-8b'],
                       help='Model to evaluate')
     parser.add_argument('--sequential', action='store_true', 
                       help='Run sequentially instead of using parallel processing')
@@ -159,6 +160,8 @@ if __name__ == '__main__':
                       help='Model outputs are embedded in the same JSON as inference (e.g. oracle_diagnosis_gemini.json)')
     parser.add_argument('--eval-model', type=str, default=None,
                       help='Evaluator/judge model (overrides EVAL_MODEL env)')
+    parser.add_argument('--workers', type=int, default=NUM_WORKERS,
+                      help='Parallel worker processes (default 4)')
     
     args = parser.parse_args()
     
@@ -176,4 +179,5 @@ if __name__ == '__main__':
         not args.sequential,
         embedded_outputs=args.embedded_outputs,
         evaluation_model=args.eval_model,
+        num_workers=max(1, args.workers),
     )

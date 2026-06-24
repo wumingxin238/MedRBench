@@ -43,7 +43,9 @@ from pathlib import Path
 
 
 def _apply_early_gpu_from_argv() -> None:
-    """Must run before gemma_judge_backend imports torch."""
+    """Set CUDA_VISIBLE_DEVICES before torch import (skip if launcher already set)."""
+    if os.environ.get("CUDA_VISIBLE_DEVICES"):
+        return
     for i, arg in enumerate(sys.argv):
         if arg == "--gpu-id" and i + 1 < len(sys.argv):
             os.environ["CUDA_VISIBLE_DEVICES"] = sys.argv[i + 1]
@@ -97,6 +99,33 @@ def _save(path: Path, data: dict) -> None:
 def _out_path(out_dir: Path, task: str, judge_tag: str, subject: str, group: str) -> Path:
     subj = subject.replace("/", "_")
     return out_dir / f"{task}_{judge_tag}_{subj}_{group}.json"
+
+
+def _sharded_out_path(base: Path, shard_index: int | None) -> Path:
+    if shard_index is None:
+        return base
+    return base.parent / f"{base.stem}.shard{shard_index}{base.suffix}"
+
+
+def _shard_case_ids(case_ids: list[str], shard_index: int, num_shards: int) -> list[str]:
+    return [cid for i, cid in enumerate(case_ids) if i % num_shards == shard_index]
+
+
+def _import_legacy_cases(doc: dict, legacy_path: Path, partition_ids: list[str]) -> int:
+    """Pull completed rows from pre-shard JSON into this shard's doc."""
+    if not legacy_path.is_file():
+        return 0
+    legacy = _load(legacy_path)
+    imported = 0
+    cases = doc.setdefault("cases", {})
+    for cid in partition_ids:
+        if cid not in legacy.get("cases", {}):
+            continue
+        if cases.get(cid, {}).get("status") == "ok":
+            continue
+        cases[cid] = legacy["cases"][cid]
+        imported += 1
+    return imported
 
 
 def _setup_judge(args) -> str:
@@ -186,6 +215,7 @@ def main() -> None:
         help="gemma-local loads Gemma-it in-process; server uses EVAL_* env",
     )
     parser.add_argument("--gemma-size", choices=["2b", "9b"], default="2b")
+    parser.add_argument("--manifest", type=Path, default=None, help="Case ID manifest (default demo)")
     parser.add_argument("--cases", type=Path, default=None)
     parser.add_argument("--outputs", type=Path, default=None)
     parser.add_argument("--out-dir", type=Path, default=DEFAULT_OUT_DIR)
@@ -194,15 +224,28 @@ def main() -> None:
         "--gpu-id",
         type=str,
         default=None,
-        help="Pin to one physical GPU (sets CUDA_VISIBLE_DEVICES before judge load)",
+        help="Pin to one physical GPU (only if CUDA_VISIBLE_DEVICES not already set)",
+    )
+    parser.add_argument(
+        "--shard-index",
+        type=int,
+        default=None,
+        help="Parallel shard index (0-based); use with --num-shards",
+    )
+    parser.add_argument(
+        "--num-shards",
+        type=int,
+        default=None,
+        help="Split manifest case_ids across N Gemma workers",
     )
     parser.add_argument("--no-web-search", action="store_true", default=True)
     parser.add_argument("--web-search", action="store_true", help="Enable Bing search for factuality")
     args = parser.parse_args()
 
-    if args.gpu_id is not None:
+    if args.gpu_id is not None and not os.environ.get("CUDA_VISIBLE_DEVICES"):
         os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu_id
-        print(f"Using GPU(s): CUDA_VISIBLE_DEVICES={args.gpu_id}", flush=True)
+    if os.environ.get("CUDA_VISIBLE_DEVICES") is not None:
+        print(f"Using GPU(s): CUDA_VISIBLE_DEVICES={os.environ['CUDA_VISIBLE_DEVICES']}", flush=True)
 
     if args.web_search:
         args.no_web_search = False
@@ -219,9 +262,22 @@ def main() -> None:
     outputs_path = args.outputs or SUBJECTS[args.task]
     cases = _load(cases_path)
     outputs = _load(outputs_path)
-    manifest = _load(MANIFEST)
+    manifest_path = args.manifest or MANIFEST
+    manifest = _load(manifest_path)
     case_ids = list(manifest[args.task]["case_ids"])
     case_ids = [cid for cid in case_ids if cid in cases]
+
+    if args.shard_index is not None:
+        if args.num_shards is None or args.num_shards < 1:
+            raise SystemExit("--num-shards is required (>=1) when using --shard-index")
+        if not (0 <= args.shard_index < args.num_shards):
+            raise SystemExit(f"--shard-index must be in [0, {args.num_shards})")
+        all_ids = case_ids
+        case_ids = _shard_case_ids(all_ids, args.shard_index, args.num_shards)
+        print(
+            f"Shard {args.shard_index}/{args.num_shards}: {len(case_ids)} cases",
+            flush=True,
+        )
 
     groups = list(GROUPS) if args.group == "both" else [args.group]
 
@@ -235,10 +291,15 @@ def main() -> None:
             meta["mean_recall"] = sum(r["recall"] for r in ok_rows) / len(ok_rows)
 
     for group in groups:
-        out_path = _out_path(args.out_dir, args.task, judge_tag.replace("/", "_"), args.subject_model, group)
+        base_out = _out_path(args.out_dir, args.task, judge_tag.replace("/", "_"), args.subject_model, group)
+        out_path = _sharded_out_path(base_out, args.shard_index)
         doc = _load(out_path) if out_path.is_file() else {}
         doc.setdefault("meta", {})
         doc.setdefault("cases", {})
+        if args.shard_index is not None:
+            n_imp = _import_legacy_cases(doc, base_out, case_ids)
+            if n_imp:
+                print(f"  [{group}] imported {n_imp} ok rows from legacy {base_out.name}", flush=True)
         meta = doc["meta"]
         meta.update(
             {

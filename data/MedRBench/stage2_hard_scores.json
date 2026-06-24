@@ -1,0 +1,148 @@
+{
+  "hard_selected": [
+    {
+      "id": "PMC11427117",
+      "pool_score": 6.5
+    },
+    {
+      "id": "PMC11512724",
+      "pool_score": 6.5
+    },
+    {
+      "id": "PMC11489070",
+      "pool_score": 6.4444
+    },
+    {
+      "id": "PMC11558020",
+      "pool_score": 6.4167
+    },
+    {
+      "id": "PMC11483682",
+      "pool_score": 6.3889
+    },
+    {
+      "id": "PMC11555247",
+      "pool_score": 6.375
+    },
+    {
+      "id": "PMC11543893",
+      "pool_score": 6.3571
+    },
+    {
+      "id": "PMC11609380",
+      "pool_score": 6.3571
+    },
+    {
+      "id": "PMC11642678",
+      "pool_score": 6.3571
+    },
+    {
+      "id": "PMC11424909",
+      "pool_score": 6.35
+    },
+    {
+      "id": "PMC11509835",
+      "pool_score": 6.35
+    },
+    {
+      "id": "PMC11625634",
+      "pool_score": 6.3333
+    },
+    {
+      "id": "PMC11549668",
+      "pool_score": 6.3
+    },
+    {
+      "id": "PMC11566699",
+      "pool_score": 6.3
+    },
+    {
+      "id": "PMC11474220",
+      "pool_score": 6.25
+    },
+    {
+      "id": "PMC11558622",
+      "pool_score": 6.25
+    },
+    {
+      "id": "PMC11590343",
+      "pool_score": 6.25
+    },
+    {
+      "id": "PMC11596126",
+      "pool_score": 6.25
+    },
+    {
+      "id": "PMC11520927",
+      "pool_score": 6.2143
+    },
+    {
+      "id": "PMC11331560",
+      "pool_score": 6.1667
+    }
+  ],
+  "hard_tail": [
+    {
+      "id": "PMC11503294",
+      "pool_score": 3.15
+    },
+    {
+      "id": "PMC11632747",
+      "pool_score": 3.15
+    },
+    {
+      "id": "PMC11582521",
+      "pool_score": 3.1429
+    },
+    {
+      "id": "PMC11490736",
+      "pool_score": 3.1333
+    },
+    {
+      "id": "PMC11624030",
+      "pool_score": 3.1333
+    }
+  ],
+  "demo_scores_sample": [
+    {
+      "id": "PMC11512705",
+      "score": 6.25
+    },
+    {
+      "id": "PMC11543139",
+      "score": 4.4
+    },
+    {
+      "id": "PMC11539358",
+      "score": 4.25
+    },
+    {
+      "id": "PMC11646979",
+      "score": 4.0
+    },
+    {
+      "id": "PMC11541951",
+      "score": 4.0
+    },
+    {
+      "id": "PMC11506189",
+      "score": 2.1429
+    },
+    {
+      "id": "PMC11621671",
+      "score": 2.1429
+    },
+    {
+      "id": "PMC11424908",
+      "score": 2.125
+    },
+    {
+      "id": "PMC11470589",
+      "score": 2.1111
+    },
+    {
+      "id": "PMC11624525",
+      "score": 2.1
+    }
+  ]
+}
