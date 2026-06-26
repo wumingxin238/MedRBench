@@ -254,6 +254,61 @@ def main() -> None:
     gpt_gap = delta_pp(p14["pct400"] / 100, po3["pct400"] / 100)
     print(f"  GPT 14B vs o3 gap: {gpt_gap} pp")
 
+    # --- §2.4.1–2.4.3 Acc-stratified Direct vs Aug tables ---
+    exp_strat = {
+        ("all", "deepseek-r1"): dict(n=400, acc=84.2, de=98.5, ae=89.2, df=92.6, af=91.4, dr=90.3, ar=91.7, d_eff=-9.3, d_rec=1.4),
+        ("all", "qwen3-14b-thinking"): dict(n=400, acc=83.8, de=97.8, ae=89.1, df=93.2, af=92.8, dr=89.2, ar=91.6, d_eff=-8.7, d_rec=2.4),
+        ("all", "o3-mini"): dict(n=400, acc=78.5, de=96.3, ae=90.5, df=95.4, af=94.1, dr=93.4, ar=94.5, d_eff=-5.8, d_rec=1.1),
+        ("correct", "deepseek-r1"): dict(n=337, de=98.8, ae=90.3, df=94.0, af=92.8, dr=91.3, ar=92.7, d_eff=-8.5, d_rec=1.4),
+        ("correct", "qwen3-14b-thinking"): dict(n=335, de=98.2, ae=89.9, df=94.2, af=93.6, dr=90.9, ar=92.8, d_eff=-8.3, d_rec=1.9),
+        ("correct", "o3-mini"): dict(n=314, de=96.5, ae=91.6, df=96.1, af=95.1, dr=94.6, ar=96.4, d_eff=-4.9, d_rec=1.8),
+        ("wrong", "deepseek-r1"): dict(n=63, de=96.7, ae=83.5, df=85.2, af=84.3, dr=85.2, ar=86.6, d_eff=-13.2, d_rec=1.4),
+        ("wrong", "qwen3-14b-thinking"): dict(n=65, de=95.8, ae=85.1, df=88.4, af=88.3, dr=80.4, ar=85.4, d_eff=-10.7, d_rec=5.0),
+        ("wrong", "o3-mini"): dict(n=86, de=95.7, ae=86.7, df=92.6, af=90.6, dr=88.9, ar=87.7, d_eff=-9.0, d_rec=-1.2),
+    }
+
+    def strat_row(model: str, split: str) -> dict:
+        acc = load_acc(model, "gemma")
+        direct = load_re(model, "direct")
+        aug = load_re(model, "inference_augmented")
+        ids = sorted(set(acc) & set(direct) & set(aug))
+        if split == "correct":
+            ids = [i for i in ids if acc[i]]
+        elif split == "wrong":
+            ids = [i for i in ids if not acc[i]]
+        dr = [direct[i] for i in ids]
+        ar = [aug[i] for i in ids]
+        n = len(ids)
+        de = pp(mean([r["efficiency"] for r in dr]))
+        ae = pp(mean([r["efficiency"] for r in ar]))
+        df = pp(mean([r["factulity"] for r in dr]))
+        af = pp(mean([r["factulity"] for r in ar]))
+        drec = pp(mean([r["recall"] for r in dr]))
+        arec = pp(mean([r["recall"] for r in ar]))
+        return {
+            "n": n,
+            "acc": pp(sum(acc[i] for i in ids) / n) if n else 0,
+            "de": de, "ae": ae, "df": df, "af": af, "dr": drec, "ar": arec,
+            "d_eff": round(ae - de, 1), "d_rec": round(arec - drec, 1),
+        }
+
+    print("\n=== Acc-stratified Direct vs Aug (§2.4) ===")
+    for (split, model), exp in exp_strat.items():
+        got = strat_row(model, split)
+        issues.append(check(f"strat {split} {model} n", got["n"], exp["n"], 0))
+        if "acc" in exp:
+            issues.append(check(f"strat {split} {model} acc", got["acc"], exp["acc"]))
+        for k in ("de", "ae", "df", "af", "dr", "ar"):
+            issues.append(check(f"strat {split} {model} {k}", got[k], exp[k]))
+        issues.append(check(f"strat {split} {model} d_eff", got["d_eff"], exp["d_eff"], 0.05))
+        issues.append(check(f"strat {split} {model} d_rec", got["d_rec"], exp["d_rec"], 0.05))
+
+    for model in MODELS:
+        acc = load_acc(model, "gemma")
+        c = sum(acc.values())
+        w = len(acc) - c
+        issues.append(check(f"strat partition {model} correct+wrong", c + w, 400, 0))
+
     # Completeness reasoning
     for m in MODELS:
         for g in ("direct", "inference_augmented"):
