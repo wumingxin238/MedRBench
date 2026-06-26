@@ -25,6 +25,7 @@ INFER_DIR="${INFER_DIR:-data/Stage2/inference}"
 INFER_OUT="${INFER_OUT:-${INFER_DIR}/qwen3-14b-thinking_diagnosis.json}"
 RE_OUT="${RE_OUT:-data/Stage2/reasoning_eval}"
 ACC_OUT="${ACC_OUT:-data/Stage2/acc_results_gpt}"
+ACC_GEMMA_OUT="${ACC_GEMMA_OUT:-data/Stage2/acc_results_gemma}"
 ACC_WORKERS="${ACC_WORKERS:-8}"
 MODEL="${STAGE2_MODEL:-qwen3-14b-thinking}"
 TASK="${STAGE2_TASK:-diagnosis}"
@@ -34,6 +35,10 @@ GEMMA_GPU="${GEMMA_GPU:-3}"
 GEMMA_GPUS="${GEMMA_GPUS:-0,1,2}"
 GEMMA_JUDGE_FULL_GPU="${GEMMA_JUDGE_FULL_GPU:-1}"
 SKIP_GPUS="${SKIP_GPUS:-6}"
+# Comma-separated subjects for gemma-all / acc-all (14B usually done)
+STAGE2_GEMMA_SUBJECTS="${STAGE2_GEMMA_SUBJECTS:-o3-mini,deepseek-r1}"
+STAGE2_ACC_SUBJECTS="${STAGE2_ACC_SUBJECTS:-o3-mini,deepseek-r1}"
+STAGE2_ACC_GEMMA_SUBJECTS="${STAGE2_ACC_GEMMA_SUBJECTS:-o3-mini,deepseek-r1,qwen3-14b-thinking}"
 PY=""
 
 _init_conda() {
@@ -216,15 +221,16 @@ _gemma_env() {
 _gemma_shard() {
   local shard_idx="${1:?shard index}"
   local physical_gpu="${2:?physical GPU}"
+  local subject="${3:-${GEMMA_SUBJECT:-${MODEL}}}"
   _activate_gemma
   _gemma_env
   export CUDA_VISIBLE_DEVICES="${physical_gpu}"
   _parse_gemma_gpus
-  echo "=== [gemma shard ${shard_idx}/${GEMMA_NUM_SHARDS}] GPU${physical_gpu} full_gpu=${GEMMA_JUDGE_FULL_GPU} ==="
+  echo "=== [gemma ${subject} shard ${shard_idx}/${GEMMA_NUM_SHARDS}] GPU${physical_gpu} ==="
   nvidia-smi || true
   "${PY}" scripts/stage1/run_stage1_reasoning_eval.py \
     --task "${TASK}" \
-    --subject-model "${MODEL}" \
+    --subject-model "${subject}" \
     --judge gemma-local \
     --gemma-size 9b \
     --group both \
@@ -234,28 +240,168 @@ _gemma_shard() {
     --out-dir "${RE_OUT}" \
     --shard-index "${shard_idx}" \
     --num-shards "${GEMMA_NUM_SHARDS}"
-  echo "=== gemma shard ${shard_idx} done ==="
+  echo "=== gemma ${subject} shard ${shard_idx} done ==="
 }
 
 _merge_gemma() {
+  local subject="${1:-${GEMMA_SUBJECT:-${MODEL}}}"
   _parse_gemma_gpus
   _activate_gemma
+  echo "=== merge-gemma ${subject} ==="
   "${PY}" scripts/stage1/merge_gemma_reasoning_shards.py \
     --task "${TASK}" \
-    --model "${MODEL}" \
+    --model "${subject}" \
     --num-shards "${GEMMA_NUM_SHARDS}" \
     --out-dir "${RE_OUT}"
 }
 
 _gemma_parallel() {
+  local subject="${1:-${GEMMA_SUBJECT:-${MODEL}}}"
   _parse_gemma_gpus
   local idx gpu
   for ((idx=0; idx<GEMMA_NUM_SHARDS; idx++)); do
     gpu="${GEMMA_GPU_LIST[$idx]}"
-    _gemma_shard "${idx}" "${gpu}" &
+    _gemma_shard "${idx}" "${gpu}" "${subject}" &
   done
   wait
-  _merge_gemma
+  _merge_gemma "${subject}"
+}
+
+_gemma_re_ok() {
+  local subject="${1:?subject}"
+  local need="${2:-400}"
+  _activate_gemma
+  "${PY}" - <<PY
+import json
+from pathlib import Path
+need = ${need}
+for g in ("direct", "inference_augmented"):
+    p = Path("${RE_OUT}") / f"${TASK}_gemma-9b-it_${subject}_{g}.json"
+    if not p.is_file():
+        raise SystemExit(1)
+    d = json.loads(p.read_text(encoding="utf-8"))
+    ok = sum(1 for c in d.get("cases", {}).values() if c.get("status") == "ok")
+    if ok < need:
+        raise SystemExit(1)
+PY
+}
+
+_gemma_all() {
+  _activate_gemma
+  local need subjects=() s
+  need=$("${PY}" -c "import json; print(len(json.load(open('${STAGE2_MANIFEST}'))['${TASK}']['case_ids']))")
+  IFS=',' read -ra subjects <<< "${STAGE2_GEMMA_SUBJECTS}"
+  for s in "${subjects[@]}"; do
+    s="${s// /}"
+    [[ -z "${s}" ]] && continue
+    if _gemma_re_ok "${s}" "${need}" 2>/dev/null; then
+      echo "Gemma ${s}: already ${need}/${need}, skip"
+      continue
+    fi
+    echo ">>> Gemma parallel: ${s}"
+    _gemma_parallel "${s}"
+  done
+}
+
+_acc_one() {
+  local subject="${1:?subject model}"
+  _init_conda
+  conda activate qwen3_infer 2>/dev/null || conda activate gemma_scope
+  PY=python
+  if ! "${PY}" -c "import openai" 2>/dev/null; then
+    pip install -i https://pypi.tuna.tsinghua.edu.cn/simple "openai>=1.0.0" \
+      || pip install "openai>=1.0.0"
+  fi
+  if [[ -f scripts/server/config/eval_config.env ]]; then
+    set -a
+    # shellcheck source=/dev/null
+    source <(sed 's/\r$//' scripts/server/config/eval_config.env)
+    set +a
+  fi
+  export EVAL_DISABLE_WEB_SEARCH=1
+  : "${EVAL_MODEL:=gpt-4o}"
+  need=$("${PY}" -c "import json; print(len(json.load(open('${CASES_400}'))))")
+  n=$(find "${ACC_OUT}/${subject}" -name '*.json' 2>/dev/null | wc -l | tr -d ' ')
+  if [[ "${n}" -ge "${need}" ]]; then
+    echo "Acc ${subject}: already ${n}/${need}, skip"
+    return 0
+  fi
+  echo "=== [acc ${subject}] judge=${EVAL_MODEL} workers=${ACC_WORKERS} (${n}/${need}) ==="
+  "${PY}" scripts/stage1/run_stage2_diagnosis_accuracy.py \
+    --subject-model "${subject}" \
+    --cases "${CASES_400}" \
+    --outputs "${SUBJECTS}" \
+    --out-dir "${ACC_OUT}" \
+    --eval-model "${EVAL_MODEL}" \
+    --workers "${ACC_WORKERS}"
+}
+
+_acc_all() {
+  local subjects=() s
+  IFS=',' read -ra subjects <<< "${STAGE2_ACC_SUBJECTS}"
+  for s in "${subjects[@]}"; do
+    s="${s// /}"
+    [[ -z "${s}" ]] && continue
+    _acc_one "${s}" &
+  done
+  wait
+  echo "=== acc-all done ==="
+}
+
+_acc_gemma_one() {
+  local subject="${1:?subject model}"
+  _activate_gemma
+  _gemma_env
+  export CUDA_VISIBLE_DEVICES="${GEMMA_GPU}"
+  need=$("${PY}" -c "import json; print(len(json.load(open('${CASES_400}'))))")
+  n=$("${PY}" - <<PY
+import json
+from pathlib import Path
+d = Path("${ACC_GEMMA_OUT}") / "${subject}"
+need = ${need}
+if not d.is_dir():
+    print(0)
+    raise SystemExit(0)
+ok = 0
+for f in d.glob("*.json"):
+    try:
+        j = json.loads(f.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        continue
+    if j.get("acc_error"):
+        continue
+    if str(j.get("acc_judge", "")).startswith("gemma-local-"):
+        ok += 1
+print(ok)
+PY
+)
+  if [[ "${n}" -ge "${need}" ]]; then
+    echo "Acc-gemma ${subject}: already ${n}/${need} valid, skip"
+    return 0
+  fi
+  echo "=== [acc-gemma ${subject}] GPU${GEMMA_GPU} (${n}/${need} valid) ==="
+  "${PY}" scripts/stage1/run_stage2_diagnosis_accuracy_gemma.py \
+    --subject-model "${subject}" \
+    --cases "${CASES_400}" \
+    --outputs "${SUBJECTS}" \
+    --out-dir "${ACC_GEMMA_OUT}"
+}
+
+_acc_gemma_all() {
+  local subjects=() s
+  IFS=',' read -ra subjects <<< "${STAGE2_ACC_GEMMA_SUBJECTS}"
+  for s in "${subjects[@]}"; do
+    s="${s// /}"
+    [[ -z "${s}" ]] && continue
+    _acc_gemma_one "${s}"
+  done
+  echo "=== acc-gemma-all done ==="
+}
+
+_eval_remaining() {
+  echo "=== Stage-2 remaining: Gemma(${STAGE2_GEMMA_SUBJECTS}) + Acc(${STAGE2_ACC_SUBJECTS}) ==="
+  _acc_all
+  _gemma_all
 }
 
 _gemma() {
@@ -318,8 +464,8 @@ _acc_api() {
     set +a
   fi
   export EVAL_DISABLE_WEB_SEARCH=1
-  : "${EVAL_MODEL:=gpt-5}"
-  echo "=== [acc] judge=${EVAL_MODEL} workers=${ACC_WORKERS} ==="
+  : "${EVAL_MODEL:=gpt-4o}"
+  echo "=== [acc] judge=${EVAL_MODEL} workers=${ACC_WORKERS} model=${MODEL} ==="
   need=$("${PY}" -c "import json; print(len(json.load(open('${CASES_400}'))))")
   while true; do
     _merge_shards 2>/dev/null || true
@@ -336,6 +482,7 @@ print(sum(1 for c in o.values() if '${MODEL}' in c))
     fi
     echo "--- Accuracy pass (${n_subj}/${need} subjects) ---"
     "${PY}" scripts/stage1/run_stage2_diagnosis_accuracy.py \
+      --subject-model "${MODEL}" \
       --cases "${CASES_400}" \
       --outputs "${SUBJECTS}" \
       --out-dir "${ACC_OUT}" \
@@ -366,31 +513,43 @@ def count_ok(p):
         return f"{ok}/{len(d['cases'])}"
     return str(len(d))
 
-model = "qwen3-14b-thinking"
+models = ["qwen3-14b-thinking", "o3-mini", "deepseek-r1"]
 inf_dir = Path("data/Stage2/inference")
+model = "qwen3-14b-thinking"
 merged = inf_dir / f"{model}_diagnosis.json"
 if merged.is_file():
     print(f"  infer merged: {len(json.loads(merged.read_text()))}/400")
-for i in range(8):
-    s = inf_dir / f"{model}_diagnosis.shard{i}.json"
-    if s.is_file():
-        print(f"  shard {i}: {len(json.loads(s.read_text()))} cases")
 
 subj = Path("data/Stage2/oracle_diagnosis_subjects.json")
 if subj.is_file():
     o = json.loads(subj.read_text())
-    n = sum(1 for c in o.values() if model in c)
-    print(f"  subjects: {n}/400")
+    for m in models:
+        n = sum(1 for c in o.values() if m in c)
+        print(f"  subjects {m}: {n}/400")
 
-for label, p in [
-    ("re direct", Path("data/Stage2/reasoning_eval/diagnosis_gemma-9b-it_qwen3-14b-thinking_direct.json")),
-    ("re aug", Path("data/Stage2/reasoning_eval/diagnosis_gemma-9b-it_qwen3-14b-thinking_inference_augmented.json")),
-]:
-    print(f"  {label}: {count_ok(p)}")
-    for i in range(8):
-        sp = p.parent / f"{p.stem}.shard{i}{p.suffix}"
-        if sp.is_file():
-            print(f"    shard {i}: {count_ok(sp)}")
+re_dir = Path("data/Stage2/reasoning_eval")
+for m in models:
+    for g in ("direct", "inference_augmented"):
+        p = re_dir / f"diagnosis_gemma-9b-it_{m}_{g}.json"
+        print(f"  gemma {m} {g}: {count_ok(p)}")
+
+acc_root = Path("data/Stage2/acc_results_gpt")
+for m in models:
+    d = acc_root / m
+    if d.is_dir():
+        n = len(list(d.glob("*.json")))
+        print(f"  acc-gpt {m}: {n}/400")
+    else:
+        print(f"  acc-gpt {m}: missing")
+
+acc_g = Path("data/Stage2/acc_results_gemma")
+for m in models:
+    d = acc_g / m
+    if d.is_dir():
+        n = len(list(d.glob("*.json")))
+        print(f"  acc-gemma {m}: {n}/400")
+    else:
+        print(f"  acc-gemma {m}: missing")
 PY
 }
 
@@ -405,11 +564,17 @@ case "${1:-help}" in
   gemma) _gemma ;;
   gemma-shard)
     _parse_gemma_gpus
-    _gemma_shard "${2:?shard index}" "${3:?physical GPU}"
+    _gemma_shard "${2:?shard index}" "${3:?physical GPU}" "${4:-}"
     ;;
-  gemma-parallel) _gemma_parallel ;;
-  merge-gemma) _merge_gemma ;;
+  gemma-parallel) _gemma_parallel "${2:-}" ;;
+  gemma-all) _gemma_all ;;
+  merge-gemma) _merge_gemma "${2:-}" ;;
   acc) _acc_api ;;
+  acc-one) _acc_one "${2:?model}" ;;
+  acc-all) _acc_all ;;
+  acc-gemma-one) _acc_gemma_one "${2:?model}" ;;
+  acc-gemma-all) _acc_gemma_all ;;
+  eval-remaining) _eval_remaining ;;
   status) _status ;;
   help|*)
     cat <<EOF
@@ -420,11 +585,17 @@ Stage-2 A800 multi-GPU (default: 4 infer shards + gemma + acc)
   infer-all               All shards sequential + merge
   merge                   Merge infer shard JSON → ${INFER_OUT}
   gemma                   Single-GPU Gemma (GPU ${GEMMA_GPU}, incremental)
-  gemma-shard IDX GPU     One Gemma shard (imports legacy ok rows)
-  gemma-parallel          ${GEMMA_GPUS} parallel + merge-gemma
-  merge-gemma             Merge Gemma .shardN.json → canonical
-  acc                     API accuracy judge
-  status                  Progress
+  gemma-shard IDX GPU [MODEL]  One Gemma shard (default MODEL=qwen3-14b-thinking)
+  gemma-parallel [MODEL]    N-GPU parallel + merge-gemma
+  gemma-all                 o3-mini + deepseek-r1 (STAGE2_GEMMA_SUBJECTS)
+  merge-gemma [MODEL]       Merge Gemma .shardN.json
+  acc                       Acc for STAGE2_MODEL (default 14B)
+  acc-one MODEL             Acc one model (GPT-4o API → ${ACC_OUT})
+  acc-all                   Acc o3 + deepseek parallel (GPT-4o)
+  acc-gemma-one MODEL       Acc one model (local Gemma-9B → ${ACC_GEMMA_OUT})
+  acc-gemma-all             Acc all STAGE2_ACC_GEMMA_SUBJECTS (Gemma-9B, sequential)
+  eval-remaining            acc-all then gemma-all
+  status                    Progress (all 3 models)
 
 Env:
   INFER_GPUS=0,1,2,7   GEMMA_GPUS=0,1,2   GEMMA_JUDGE_FULL_GPU=1

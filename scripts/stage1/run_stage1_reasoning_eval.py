@@ -128,6 +128,22 @@ def _import_legacy_cases(doc: dict, legacy_path: Path, partition_ids: list[str])
     return imported
 
 
+def _import_stage1_cases(
+    doc: dict,
+    task: str,
+    judge_tag: str,
+    subject: str,
+    group: str,
+    partition_ids: list[str],
+) -> int:
+    """Reuse Stage-1 demo Gemma rows for the same subject (skip re-judge)."""
+    if os.environ.get("STAGE1_RE_IMPORT", "1") != "1":
+        return 0
+    stage1 = PROJECT_ROOT / "data" / "Stage1" / "reasoning_eval"
+    path = stage1 / f"{task}_{judge_tag}_{subject.replace('/', '_')}_{group}.json"
+    return _import_legacy_cases(doc, path, partition_ids)
+
+
 def _setup_judge(args) -> str:
     if args.judge == "gemma-local":
         if str(SCRIPT_DIR) not in sys.path:
@@ -300,6 +316,11 @@ def main() -> None:
             n_imp = _import_legacy_cases(doc, base_out, case_ids)
             if n_imp:
                 print(f"  [{group}] imported {n_imp} ok rows from legacy {base_out.name}", flush=True)
+            n_s1 = _import_stage1_cases(
+                doc, args.task, judge_tag.replace("/", "_"), args.subject_model, group, case_ids
+            )
+            if n_s1:
+                print(f"  [{group}] imported {n_s1} ok rows from Stage-1 demo", flush=True)
         meta = doc["meta"]
         meta.update(
             {
